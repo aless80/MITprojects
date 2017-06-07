@@ -84,7 +84,7 @@ This is the printed output:
 
 `25 Vincent Chan has 2 abstract(s)`
 
-`26 Anantha Chandrakasan has 2 abstract(s)`
+`26 Anantha Chandrakasan has 2 abstract(s)` 
 
 `27 Adam Chlipala has 3 abstract(s)`
 
