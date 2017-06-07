@@ -10,6 +10,22 @@ If you can access it, the description of the project is here:
 
 ---
 
+## Project description (copied from the Self-Help Documentation, section 1.)
+
+Using BeautifulSoup (https://www.crummy.com/software/BeautifulSoup/), and by analyzing the structure of the source code of arXiv, we could scrape the name list of MIT EECS faculty members. Using this information, we could list the query we send to arXiv. A possible format for the arXiv search for papers by authors is the following:
+
+arxiv.org/find/(subject)/1/au:+(lastname)_(initial)/0/1/0/all/0/1
+
+You could therefore adapt the names you scraped, and query through all the relevant arXiv search
+pages.
+
+Within the arXiv source code, look for < class span=list-identifier >, which will give the identifier for the papers listed in your query results. Similarly look for the tag for the “Abstract” within each paper and scrape the abstract for each paper you find.
+
+Note that you might want to scrape more information than you need and then do some local
+processing with the text you have instead.
+
+---
+
 ## Run the script
 Clone the master branch and run it with e.g.:
 
