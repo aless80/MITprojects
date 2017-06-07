@@ -1,7 +1,9 @@
 # MIT_projects
 Python implementation of a case study in Module 1 in MITProfessionalX's course "Data Science: Data to insights". 
+
 The case study is: "Module 1 - Making sense of unstructured data  Case Study". Case study is about doing our own analysis on MIT EECS
-faculty data using stochastic variational inference on LDA. T
+faculty data using stochastic variational inference on LDA. 
+
 If you can access it, the description of the project is here:
 
 [Self-Help Documentation](http://mitprofessionalx.mit.edu/asset-v1%3aMITProfessionalX+DSx+2017_T2+type@asset+block@Module1_CS2_LDA-analysis.pdf)
