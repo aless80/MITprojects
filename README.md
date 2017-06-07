@@ -33,7 +33,7 @@ Clone the master branch and run it with e.g.:
 
 This is the printed output: 
 
-0 Hal Abelson has 0 abstract(s) 
+`0 Hal Abelson has 0 abstract(s) 
 1 Elfar Adalsteinsson has 2 abstract(s) 
 2 Anant Agarwal has 0 abstract(s) 
 3 Akintunde Akinwande has 0 abstract(s) 
@@ -195,7 +195,7 @@ This is the printed output:
 160 Markus Zahn has 0 abstract(s)
 161 Nickolai Zeldovich has 1 abstract(s)
 162 Lizhong Zheng has 19 abstract(s)
-163 Victor Zue has 0 abstract(s)
+163 Victor Zue has 0 abstract(s)`
 
 ---
 
