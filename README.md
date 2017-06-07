@@ -33,7 +33,8 @@ Clone the master branch and run it with e.g.:
 
 This is the printed output: 
 
-`0 Hal Abelson has 0 abstract(s) 
+`
+0 Hal Abelson has 0 abstract(s) 
 
 1 Elfar Adalsteinsson has 2 abstract(s) 
 
