@@ -1,4 +1,4 @@
-# MIT_projects
+# MITprojects
 Python implementation of a case study in Module 1 in MITProfessionalX's course "Data Science: Data to insights". 
 
 The case study is: "Module 1 - Making sense of unstructured data  Case Study". Case study is about doing our own analysis on MIT EECS
