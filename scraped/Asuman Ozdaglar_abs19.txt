@@ -1,0 +1,21 @@
+
+This paper examines the value of storage in securing reliability of a system
+with uncertain supply and demand, and supply friction. The storage is
+frictionless as a supply source, but once used, it cannot be filled up
+instantaneously. The focus application is a power supply network in which the
+base supply and demand are assumed to match perfectly, while deviations from
+the base are modeled as random shocks with stochastic arrivals. Due to
+friction, the random surge shocks cannot be tracked by the main supply sources.
+Storage, when available, can be used to compensate, fully or partially, for the
+surge in demand or loss of supply. The problem of optimal utilization of
+storage with the objective of maximizing system reliability is formulated as
+minimization of the expected discounted cost of blackouts over an infinite
+horizon. It is shown that when the stage cost is linear in the size of the
+blackout, the optimal policy is myopic in the sense that all shocks are
+compensated by storage up to the available level of storage. However, when the
+stage cost is strictly convex, it may be optimal to curtail some of the demand
+and allow a small current blackout in the interest of maintaining a higher
+level of reserve to avoid a large blackout in the future. The value of storage
+capacity in improving system's reliability, as well as the effects of the
+associated optimal policies under different stage costs on the probability
+distribution of blackouts are examined.

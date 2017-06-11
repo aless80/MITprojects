@@ -1,0 +1,9 @@
+
+In this paper, we study a general online linear programming problem whose
+formulation encompasses many practical dynamic resource allocation problems,
+including internet advertising display applications, revenue management,
+various routing, packing, and auction problems. We propose a model, which under
+mild assumptions, allows us to design near-optimal learning-based online
+algorithms that do not require the a priori knowledge about the total number of
+online requests to come, a first of its kind. We then consider two variants of
+the problem that relax the initial assumptions imposed on the proposed model.

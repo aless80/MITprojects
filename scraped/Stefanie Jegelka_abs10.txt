@@ -1,0 +1,4 @@
+
+In this note we consider sampling from (non-homogeneous) strongly Rayleigh
+probability measures. As an important corollary, we obtain a fast mixing Markov
+Chain sampler for Determinantal Point Processes.

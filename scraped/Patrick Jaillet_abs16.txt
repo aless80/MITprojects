@@ -1,0 +1,17 @@
+
+The minmax regret problem for combinatorial optimization under uncertainty
+can be viewed as a zero-sum game played between an optimizing player and an
+adversary, where the optimizing player selects a solution and the adversary
+selects costs with the intention of maximizing the regret of the player. The
+existing minmax regret model considers only deterministic solutions/strategies,
+and minmax regret versions of most polynomial solvable problems are NP-hard. In
+this paper, we consider a randomized model where the optimizing player selects
+a probability distribution (corresponding to a mixed strategy) over solutions
+and the adversary selects costs with knowledge of the player's distribution,
+but not its realization. We show that under this randomized model, the minmax
+regret version of any polynomial solvable combinatorial problem becomes
+polynomial solvable. This holds true for both the interval and discrete
+scenario representations of uncertainty. Using the randomized model, we show
+new proofs of existing approximation algorithms for the deterministic model
+based on primal-dual approaches. Finally, we prove that minmax regret problems
+are NP-hard under general convex uncertainty.

@@ -1,0 +1,14 @@
+
+Voltage control plays an important role in the operation of electricity
+distribution networks, especially when there is a large penetration of
+renewable energy resources. In this paper, we focus on voltage control through
+reactive power compensation and study how different information structures
+affect the control performance. In particular, we first show that using only
+voltage measurements to determine reactive power compensation is insufficient
+to maintain voltage in the acceptable range. Then we propose two fully
+decentralized and robust algorithms by adding additional information, which can
+stabilize the voltage in the acceptable range. The one with higher complexity
+can further minimize a cost of reactive power compensation in a particular
+form. Both of the two algorithms use only local measurements and local
+variables and require no communication. In addition, the two algorithms are
+robust against heterogeneous update rates and delays.

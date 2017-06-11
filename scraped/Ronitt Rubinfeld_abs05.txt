@@ -1,0 +1,17 @@
+
+Constructing a spanning tree of a graph is one of the most basic tasks in
+graph theory. Motivated by several recent studies of local graph algorithms, we
+consider the following variant of this problem. Let G be a connected
+bounded-degree graph. Given an edge $e$ in $G$ we would like to decide whether
+$e$ belongs to a connected subgraph $G'$ consisting of $(1+\epsilon)n$ edges
+(for a prespecified constant $\epsilon >0$), where the decision for different
+edges should be consistent with the same subgraph $G'$. Can this task be
+performed by inspecting only a {\em constant} number of edges in $G$? Our main
+results are:
+(1) We show that if every $t$-vertex subgraph of $G$ has expansion $1/(\log
+t)^{1+o(1)}$ then one can (deterministically) construct a sparse spanning
+subgraph $G'$ of $G$ using few inspections. To this end we analyze a "local"
+version of a famous minimum-weight spanning tree algorithm.
+(2) We show that the above expansion requirement is sharp even when allowing
+randomization. To this end we construct a family of $3$-regular graphs of high
+girth, in which every $t$-vertex subgraph has expansion $1/(\log t)^{1-o(1)}$.

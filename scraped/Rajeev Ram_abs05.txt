@@ -1,0 +1,19 @@
+
+Recently, the authors have demonstrated large-scale integrated systems with
+several million transistors and hundreds of photonic elements. Yielding such
+large-scale integrated systems requires a design-for-manufacture rigour that is
+embodied in the 10 000 to 50 000 design rules that these designs must comply
+within advanced complementary metal-oxide semiconductor manufacturing. Here,
+the authors present a photonic design automation tool which allows automatic
+generation of layouts without design-rule violations. This tool is written in
+SKILL, the native language of the mainstream electric design automation
+software, Cadence. This allows seamless integration of photonic and electronic
+design in a single environment. The tool leverages intuitive photonic layer
+definitions, allowing the designer to focus on the physical properties rather
+than on technology-dependent details. For the first time the authors present an
+algorithm for removal of design-rule violations from photonic layouts based on
+Manhattan discretisation, Boolean and sizing operations. This algorithm is not
+limited to the implementation in SKILL, and can in principle be implemented in
+any scripting language. Connectivity is achieved with software-defined
+waveguide ports and low-level procedures that enable auto-routing of waveguide
+connections.

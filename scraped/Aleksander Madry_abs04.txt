@@ -1,0 +1,12 @@
+
+We present and study the Static-Routing-Resiliency problem, motivated by
+routing on the Internet: Given a graph $G$, a unique destination vertex $d$,
+and an integer constant $c>0$, does there exist a static and destination-based
+routing scheme such that the correct delivery of packets from any source $s$ to
+the destination $d$ is guaranteed so long as (1) no more than $c$ edges fail
+and (2) there exists a physical path from $s$ to $d$? We embark upon a
+systematic exploration of this fundamental question in a variety of models
+(deterministic routing, randomized routing, with packet-duplication, with
+packet-header-rewriting) and present both positive and negative results that
+relate the edge-connectivity of a graph, i.e., the minimum number of edges
+whose deletion partitions $G$, to its resiliency.

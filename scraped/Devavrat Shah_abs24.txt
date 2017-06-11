@@ -1,0 +1,14 @@
+
+We consider a queueing network in which there are constraints on which queues
+may be served simultaneously; such networks may be used to model input-queued
+switches and wireless networks. The scheduling policy for such a network
+specifies which queues to serve at any point in time. We consider a family of
+scheduling policies, related to the maximum-weight policy of Tassiulas and
+Ephremides [IEEE Trans. Automat. Control 37 (1992) 1936--1948], for single-hop
+and multihop networks. We specify a fluid model and show that fluid-scaled
+performance processes can be approximated by fluid model solutions. We study
+the behavior of fluid model solutions under critical load, and characterize
+invariant states as those states which solve a certain network-wide
+optimization problem. We use fluid model results to prove multiplicative state
+space collapse. A notable feature of our results is that they do not assume
+complete resource pooling.

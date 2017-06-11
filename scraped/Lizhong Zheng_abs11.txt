@@ -1,0 +1,12 @@
+
+Abstract: The bit-wise unequal error protection problem, for the case when the number
+of groups of bits $\ell$ is fixed, is considered for variable length block
+codes with feedback. An encoding scheme based on fixed length block codes with
+erasures is used to establish inner bounds to the achievable performance for
+finite expected decoding time. A new technique for bounding the performance of
+variable length block codes is used to establish outer bounds to the
+performance for a given expected decoding time. The inner and the outer bounds
+match one another asymptotically and characterize the achievable region of
+rate-exponent vectors, completely. The single message message-wise unequal
+error protection problem for variable length block codes with feedback is also
+solved as a necessary step on the way.

@@ -1,0 +1,15 @@
+
+This paper studies the fundamental limits of the minimum average length of
+lossless and lossy variable-length compression, allowing a nonzero error
+probability $\epsilon$, for lossless compression. We give non-asymptotic bounds
+on the minimum average length in terms of Erokhin's rate-distortion function
+and we use those bounds to obtain a Gaussian approximation on the speed of
+approach to the limit which is quite accurate for all but small blocklengths:
+$$(1 - \epsilon) k H(\mathsf S) - \sqrt{\frac{k V(\mathsf S)}{2 \pi} } e^{-
+\frac {(Q^{-1}(\epsilon))^2} 2 }$$ where $Q^{-1}(\cdot)$ is the functional
+inverse of the standard Gaussian complementary cdf, and $V(\mathsf S)$ is the
+source dispersion. A nonzero error probability thus not only reduces the
+asymptotically achievable rate by a factor of $1 - \epsilon$, but this
+asymptotic limit is approached from below, i.e. larger source dispersions and
+shorter blocklengths are beneficial. Variable-length lossy compression under an
+excess distortion constraint is shown to exhibit similar properties.

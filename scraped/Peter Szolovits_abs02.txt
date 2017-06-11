@@ -1,0 +1,12 @@
+
+Recent approaches based on artificial neural networks (ANNs) have shown
+promising results for named-entity recognition (NER). In order to achieve high
+performances, ANNs need to be trained on a large labeled dataset. However,
+labels might be difficult to obtain for the dataset on which the user wants to
+perform NER: label scarcity is particularly pronounced for patient note
+de-identification, which is an instance of NER. In this work, we analyze to
+what extent transfer learning may address this issue. In particular, we
+demonstrate that transferring an ANN model trained on a large labeled dataset
+to another dataset with a limited number of labels improves upon the
+state-of-the-art results on two different datasets for patient note
+de-identification.

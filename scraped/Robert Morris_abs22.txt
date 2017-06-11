@@ -1,0 +1,8 @@
+
+The Ramsey number r(K_3,Q_n) is the smallest integer N such that every
+red-blue colouring of the edges of the complete graph K_N contains either a red
+n-dimensional hypercube, or a blue triangle. Almost thirty years ago, Burr and
+Erd\H{o}s conjectured that r(K_3,Q_n) = 2^{n+1} - 1 for every n \in \N, but the
+first non-trivial upper bound was obtained only recently, by Conlon, Fox, Lee
+and Sudakov, who proved that r(K_3,Q_n) \le 7000 \cdot 2^n. Here we show that
+r(K_3,Q_n) = (1 + o(1)) 2^{n+1} as n \to \infty.

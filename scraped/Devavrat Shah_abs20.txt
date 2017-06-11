@@ -1,0 +1,12 @@
+
+We consider the problem of static assortment optimization, where the goal is
+to find the assortment of size at most $C$ that maximizes revenues. This is a
+fundamental decision problem in the area of Operations Management. It has been
+shown that this problem is provably hard for most of the important families of
+parametric of choice models, except the multinomial logit (MNL) model. In
+addition, most of the approximation schemes proposed in the literature are
+tailored to a specific parametric structure. We deviate from this and propose a
+general algorithm to find the optimal assortment assuming access to only a
+subroutine that gives revenue predictions; this means that the algorithm can be
+applied with any choice model. We prove that when the underlying choice model
+is the MNL model, our algorithm can find the optimal assortment efficiently.

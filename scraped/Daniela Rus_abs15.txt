@@ -1,0 +1,14 @@
+
+Accurate vehicular localization is important for various cooperative vehicle
+safety (CVS) applications such as collision avoidance, turning assistant, etc.
+In this paper, we propose a cooperative vehicular distance measurement
+technique based on the sharing of GPS pseudorange measurements and a weighted
+least squares method. The classic double difference pseudorange solution, which
+was originally designed for high-end survey level GPS systems, is adapted to
+low-end navigation level GPS receivers for its wide availability in ground
+vehicles. The Carrier to Noise Ratio (CNR) of raw pseudorange measurements are
+taken into account for noise mitigation. We present a Dedicated Short Range
+Communications (DSRC) based mechanism to implement the exchange of pseudorange
+information among neighboring vehicles. As demonstrated in field tests, our
+proposed technique increases the accuracy of the distance measurement
+significantly compared with the distance obtained from the GPS fixes.

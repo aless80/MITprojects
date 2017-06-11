@@ -1,0 +1,10 @@
+
+We prove that in order to communicate independent sources (this is the
+unicast problem) between various users over an unknown medium to within various
+distortion levels, it is sufficient to consider source-channel separation based
+architectures: architectures which first compress the sources to within the
+corresponding distortion levels followed by reliable communication over the
+unknown medium. We are reducing the problem of universal rate-distortion
+communication of independent sources over a network to the universal reliable
+communication problem over networks. This is a reductionist view. We are not
+solving the reliable communication problem in networks.

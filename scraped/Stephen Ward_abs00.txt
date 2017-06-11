@@ -1,0 +1,12 @@
+
+The results of experimental tests of a novel method for moving large (pyramid
+construction size) stone blocks by rolling them are presented. The method is
+implemented by tying 12 identical rods of appropriately chosen radius to the
+faces of the block forming a rough dodecagon prism. Experiments using a 1,000
+kg block show that it can be moved across level open ground with a dynamic
+coefficient of friction of less than 0.06. This value is a factor of five lower
+than that obtained for dragging the block, and the best values reported for
+dragging by others, at 0.3. the results are more dramatic than those obtained
+on smaller scale experiments on a 29.6 kg block, also reported here. For full
+scale pyramid blocks, the wooden "rods" woudl need to be posts of order 30 cm
+in diameter, similar in size to those used as masts on ships in the Nile.

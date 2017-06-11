@@ -1,0 +1,14 @@
+
+Sequential rate-distortion (SRD) theory provides a framework for studying the
+fundamental trade-off between data-rate and data-quality in real-time
+communication systems. In this paper, we consider the SRD problem for
+multi-dimensional time-varying Gauss-Markov processes under mean-square
+distortion criteria. We first revisit the sensor-estimator separation
+principle, which asserts that considered SRD problem is equivalent to a joint
+sensor and estimator design problem in which data-rate of the sensor output is
+minimized while the estimator's performance satisfies the distortion criteria.
+We then show that the optimal joint design can be performed by semidefinite
+programming. A semidefinite representation of the corresponding SRD function is
+obtained. Implications of the obtained result in the context of zero-delay
+source coding theory and applications to networked control theory are also
+discussed.

@@ -1,0 +1,9 @@
+
+This paper presents DiffSum, a simple post-election risk-limiting
+ballot-polling audit for two-candidate plurality elections. DiffSum
+sequentially draws ballots (without replacement) until the numbers $a$, $b$, of
+votes for candidates $A$, $B$ satisfies $a>b$ and $(a-b)^2 > c(a+b)$, where $A$
+is the reported winner and $c$ is a suitably chosen constant. Bounds on the
+error rate (chance of approving an incorrect election outcome) are obtained via
+simulations. The method is compared with the Bravo method of Lindeman, Stark,
+and Yates.

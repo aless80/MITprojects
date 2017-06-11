@@ -1,0 +1,5 @@
+
+We consider asynchronous point-to-point communication. Building on a recently
+developed model, we show that training based schemes, i.e., communication
+strategies that separate synchronization from information transmission, perform
+suboptimally at high rate.

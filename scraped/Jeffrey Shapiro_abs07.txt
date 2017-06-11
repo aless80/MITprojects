@@ -1,0 +1,20 @@
+
+Quantum metrology utilizes nonclassical resources, such as entanglement or
+squeezed light, to realize sensors whose performance exceeds that afforded by
+classical-state systems. Environmental loss and noise, however, easily destroy
+nonclassical resources, and thus nullify the performance advantages of most
+quantum-enhanced sensors. Quantum illumination (QI) is different. It is a
+robust entanglement-enhanced sensing scheme whose 6 dB performance advantage
+over a coherent-state sensor of the same average transmitted photon number
+survives the initial entanglement's eradication by loss and noise.
+Unfortunately, an implementation of the optimum quantum receiver that would
+reap QI's full performance advantage has remained elusive, owing to its having
+to deal with a huge number of very noisy optical modes. We show how
+sum-frequency generation (SFG) can be fruitfully applied to optimum multi-mode
+Gaussian-mixed-state discrimination. Applied to QI, our analysis and numerical
+evaluations demonstrate that our SFG receiver saturates QI's quantum Chernoff
+bound. Moreover, augmenting our SFG receiver with a feed-forward (FF) mechanism
+pushes its performance to the Helstrom bound in the limit of low signal
+brightness. The FF-SFG receiver thus opens the door to optimum quantum-enhanced
+imaging, radar detection, state and channel tomography, and communication in
+practical Gaussian-state situations.

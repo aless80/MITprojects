@@ -1,0 +1,17 @@
+
+Several aspects of the problem of asynchronous point-to-point communication
+without feedback are developed when the source is highly intermittent. In the
+system model of interest, the codeword is transmitted at a random time within a
+prescribed window whose length corresponds to the level of asynchronism between
+the transmitter and the receiver. The decoder operates sequentially and
+communication rate is defined as the ratio between the message size and the
+elapsed time between when transmission commences and when the decoder makes a
+decision.
+For such systems, general upper and lower bounds on capacity as a function of
+the level of asynchronism are established, and are shown to coincide in some
+nontrivial cases. From these bounds, several properties of this asynchronous
+capacity are derived. In addition, the performance of training-based schemes is
+investigated. It is shown that such schemes, which implement synchronization
+and information transmission on separate degrees of freedom in the encoding,
+cannot achieve the asynchronous capacity in general, and that the penalty is
+particularly significant in the high-rate regime.

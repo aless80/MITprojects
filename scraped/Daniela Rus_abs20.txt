@@ -1,0 +1,14 @@
+
+In this paper, we develop a method to automatically generate a control policy
+for a dynamical system modeled as a Markov Decision Process (MDP). The control
+specification is given as a Linear Temporal Logic (LTL) formula over a set of
+propositions defined on the states of the MDP. We synthesize a control policy
+such that the MDP satisfies the given specification almost surely, if such a
+policy exists. In addition, we designate an "optimizing proposition" to be
+repeatedly satisfied, and we formulate a novel optimization criterion in terms
+of minimizing the expected cost in between satisfactions of this proposition.
+We propose a sufficient condition for a policy to be optimal, and develop a
+dynamic programming algorithm that synthesizes a policy that is optimal under
+some conditions, and sub-optimal otherwise. This problem is motivated by
+robotic applications requiring persistent tasks, such as environmental
+monitoring or data gathering, to be performed.

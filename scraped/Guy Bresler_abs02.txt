@@ -1,0 +1,22 @@
+
+Abstract: In this paper we investigate the computational complexity of learning the
+graph structure underlying a discrete undirected graphical model from i.i.d.
+samples. We first observe that the notoriously difficult problem of learning
+parities with noise can be captured as a special case of learning graphical
+models. This leads to an unconditional computational lower bound of $\Omega
+(p^{d/2})$ for learning general graphical models on $p$ nodes of maximum degree
+$d$, for the class of so-called statistical algorithms recently introduced by
+Feldman et al (2013). The lower bound suggests that the $O(p^d)$ runtime
+required to exhaustively search over neighborhoods cannot be significantly
+improved without restricting the class of models.
+Aside from structural assumptions on the graph such as it being a tree,
+hypertree, tree-like, etc., many recent papers on structure learning assume
+that the model has the correlation decay property. Indeed, focusing on
+ferromagnetic Ising models, Bento and Montanari (2009) showed that all known
+low-complexity algorithms fail to learn simple graphs when the interaction
+strength exceeds a number related to the correlation decay threshold. Our
+second set of results gives a class of repelling (antiferromagnetic) models
+that have the opposite behavior: very strong interaction allows efficient
+learning in time $O(p^2)$. We provide an algorithm whose performance
+interpolates between $O(p^2)$ and $O(p^{d+2})$ depending on the strength of the
+repulsion.

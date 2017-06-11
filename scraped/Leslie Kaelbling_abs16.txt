@@ -1,0 +1,10 @@
+
+Solving partially observable Markov decision processes (POMDPs) is highly
+intractable in general, at least in part because the optimal policy may be
+infinitely large. In this paper, we explore the problem of finding the optimal
+policy from a restricted set of policies, represented as finite state automata
+of a given size. This problem is also intractable, but we show that the
+complexity can be greatly reduced when the POMDP and/or policy are further
+constrained. We demonstrate good empirical results with a branch-and-bound
+method for finding globally optimal deterministic policies, and a
+gradient-ascent method for finding locally optimal stochastic policies.

@@ -1,0 +1,20 @@
+
+We present a framework for studying the problem of media streaming in
+technology and cost heterogeneous environments. We first address the problem of
+efficient streaming in a technology-heterogeneous setting. We employ random
+linear network coding to simplify the packet selection strategies and alleviate
+issues such as duplicate packet reception. Then, we study the problem of media
+streaming from multiple cost-heterogeneous access networks. Our objective is to
+characterize analytically the trade-off between access cost and user
+experience. We model the Quality of user Experience (QoE) as the probability of
+interruption in playback as well as the initial waiting time. We design and
+characterize various control policies, and formulate the optimal control
+problem using a Markov Decision Process (MDP) with a probabilistic constraint.
+We present a characterization of the optimal policy using the
+Hamilton-Jacobi-Bellman (HJB) equation. For a fluid approximation model, we
+provide an exact and explicit characterization of a threshold policy and prove
+its optimality using the HJB equation.
+Our simulation results show that under properly designed control policy, the
+existence of alternative access technology as a complement for a primary access
+network can significantly improve the user experience without any bandwidth
+over-provisioning.

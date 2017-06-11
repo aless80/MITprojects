@@ -1,0 +1,17 @@
+
+In modern power systems, the operating point, at which the demand and supply
+are balanced, continuously changes in an unpredictable way due to market
+clearing, volatile loads, and intermittent renewable generations. Understanding
+power systems dynamics in the presence of variation of equilibrium point (EP)
+would be essential to the reliable operation of power systems. In this letter,
+we formulate, for the first time, the inverse stability problem of power
+systems, which concerns with characterizing the region of equilibrium points
+(EPs) that the system can reach from a given initial state. The inverse
+stability is rarely addressed in control systems theory, and thus, poorly
+understood. Exploiting the quadratic bound of the energy function, we introduce
+an estimate for the EP region of a given initial state. Also, we briefly
+describe three possible applications of this inverse stability certificate,
+which are immensely important to the integration of renewable generations: (i)
+robust stability assessment of power systems with respect to intermittent
+renewable generations, (ii) stability-constrained optimal power flow (sOPF),
+and (iii) stability-guaranteed corrective actions.

@@ -1,0 +1,22 @@
+
+One of the main challenges in the verification of software systems is the
+analysis of unbounded data structures with dynamic memory allocation, such as
+linked data structures and arrays. We describe Bohne, a new analysis for
+verifying data structures. Bohne verifies data structure operations and shows
+that 1) the operations preserve data structure invariants and 2) the operations
+satisfy their specifications expressed in terms of changes to the set of
+objects stored in the data structure. During the analysis, Bohne infers loop
+invariants in the form of disjunctions of universally quantified Boolean
+combinations of formulas. To synthesize loop invariants of this form, Bohne
+uses a combination of decision procedures for Monadic Second-Order Logic over
+trees, SMT-LIB decision procedures (currently CVC Lite), and an automated
+reasoner within the Isabelle interactive theorem prover. This architecture
+shows that synthesized loop invariants can serve as a useful communication
+mechanism between different decision procedures. Using Bohne, we have verified
+operations on data structures such as linked lists with iterators and back
+pointers, trees with and without parent pointers, two-level skip lists, array
+data structures, and sorted lists. We have deployed Bohne in the Hob and Jahob
+data structure analysis systems, enabling us to combine Bohne with analyses of
+data structure clients and apply it in the context of larger programs. This
+report describes the Bohne algorithm as well as techniques that Bohne uses to
+reduce the ammount of annotations and the running time of the analysis.

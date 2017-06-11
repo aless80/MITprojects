@@ -1,0 +1,14 @@
+
+Frequency combs based on terahertz quantum cascade lasers feature broadband
+coverage and high output powers in a compact package, making them an attractive
+option for broadband spectroscopy. Here, we demonstrate the first
+multi-heterodyne spectroscopy using two terahertz quantum cascade laser combs.
+With just 100 $\mu$s of integration time, we achieve peak signal-to-noise
+ratios exceeding 60 dB and a spectral coverage greater than 250 GHz centered at
+2.8 THz. Even with room-temperature detectors we are able to achieve peak
+signal-to-noise ratios of 50 dB, and as a proof-of-principle we use these combs
+to measure the broadband transmission spectrum of etalon samples. Finally, we
+show that with proper signal processing, it is possible to extend the
+multi-heterodyne spectroscopy to quantum cascade laser combs operating in
+pulsed mode, greatly expanding the range of quantum cascade lasers that could
+be suitable for these techniques.

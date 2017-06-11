@@ -1,0 +1,12 @@
+
+We report on a method for measuring the branching ratios of dipole
+transitions of trapped atomic ions by performing nested sequences of population
+inversions. This scheme is broadly applicable and does not use ultrafast pulsed
+or narrow linewidth lasers. It is simple to perform and insensitive to
+experimental variables such as laser and magnetic field noise as well as ion
+heating. To demonstrate its effectiveness, we make the most accurate
+measurements thus far of the branching ratios of both 5P1/2 and 5P3/2 states in
+88Sr+ with sub-1% uncertainties. We measure 17.175(27) for the branching ratio
+of 5P1/2-5S1/2, 15.845(71) for 5P3/2-5S1/2, and 0.05609(21) for 5P3/2-4D5/2,
+ten- fold and thirty-fold improvements in precision for 5P1/2 and 5P3/2
+branching ratios respectively over the best previous experimental values.

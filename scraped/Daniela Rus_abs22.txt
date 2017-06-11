@@ -1,0 +1,19 @@
+
+In this paper we present a method for automatically generating optimal robot
+trajectories satisfying high level mission specifications. The motion of the
+robot in the environment is modeled as a general transition system, enhanced
+with weighted transitions. The mission is specified by a general linear
+temporal logic formula. In addition, we require that an optimizing proposition
+must be repeatedly satisfied. The cost function that we seek to minimize is the
+maximum time between satisfying instances of the optimizing proposition. For
+every environment model, and for every formula, our method computes a robot
+trajectory which minimizes the cost function. The problem is motivated by
+applications in robotic monitoring and data gathering. In this setting, the
+optimizing proposition is satisfied at all locations where data can be
+uploaded, and the entire formula specifies a complex (and infinite horizon)
+data collection mission. Our method utilizes B\"uchi automata to produce an
+automaton (which can be thought of as a graph) whose runs satisfy the temporal
+logic specification. We then present a graph algorithm which computes a path
+corresponding to the optimal robot trajectory. We also present an
+implementation for a robot performing a data gathering mission in a road
+network.

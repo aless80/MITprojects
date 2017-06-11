@@ -1,0 +1,12 @@
+
+The chromatic threshold $\delta_\chi(H,p)$ of a graph $H$ with respect to the
+random graph $G(n,p)$ is the infimum over $d > 0$ such that the following holds
+with high probability: the family of $H$-free graphs $G \subset G(n,p)$ with
+minimum degree $\delta(G) \ge dpn$ has bounded chromatic number. The study of
+the parameter $\delta_\chi(H) := \delta_\chi(H,1)$ was initiated in 1973 by
+Erd\H{o}s and Simonovits, and was recently determined for all graphs $H$. In
+this paper we show that $\delta_\chi(H,p) = \delta_\chi(H)$ for all fixed $p
+\in (0,1)$, but that typically $\delta_\chi(H,p) \ne \delta_\chi(H)$ if $p =
+o(1)$. We also make significant progress towards determining $\delta_\chi(H,p)$
+for all graphs $H$ in the range $p = n^{-o(1)}$. In sparser random graphs the
+problem is somewhat more complicated, and is studied in a separate paper.

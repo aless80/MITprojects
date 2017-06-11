@@ -1,0 +1,18 @@
+
+This paper presents a new approach, called perturb-max, for high-dimensional
+statistical inference that is based on applying random perturbations followed
+by optimization. This framework injects randomness to maximum a-posteriori
+(MAP) predictors by randomly perturbing the potential function for the input. A
+classic result from extreme value statistics asserts that perturb-max
+operations generate unbiased samples from the Gibbs distribution using
+high-dimensional perturbations. Unfortunately, the computational cost of
+generating so many high-dimensional random variables can be prohibitive.
+However, when the perturbations are of low dimension, sampling the perturb-max
+prediction is as efficient as MAP optimization. This paper shows that the
+expected value of perturb-max inference with low dimensional perturbations can
+be used sequentially to generate unbiased samples from the Gibbs distribution.
+Furthermore the expected value of the maximal perturbations is a natural bound
+on the entropy of such perturb-max models. A measure concentration result for
+perturb-max values shows that the deviation of their sampled average from its
+expectation decays exponentially in the number of samples, allowing effective
+approximation of the expectation.

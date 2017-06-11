@@ -1,0 +1,4 @@
+
+This paper presents a new crypto scheme whose title promises it to be so
+boring that no-one will bother reading past the abstract. Because of this, the
+remainder of the paper is left blank.

@@ -1,0 +1,24 @@
+
+We present results on the star-formation rate (SFR) versus stellar mass
+($M_*$) relation (i.e., the "main sequence") among star-forming galaxies at
+1.37$\leq$$z$$\leq$2.61 using the MOSFIRE Deep Evolution Field (MOSDEF) survey.
+Based on a sample of 261 galaxies with H$\alpha$ and H$\beta$ spectroscopy, we
+have estimated robust dust-corrected instantaneous SFRs over a large range in
+$M_*$ ($\sim10^{9.5}-10^{11.5}M_\odot$). We find a correlation between
+log(SFR(H$\alpha$)) and log($M_*$) with a slope of 0.65$\pm$0.08
+(0.58$\pm$0.10) at 1.4<z<2.6 (2.1<z<2.6). We find that different assumptions
+for the dust correction, such as using the color-excess of the stellar
+continuum to correct the nebular lines, sample selection biases against red
+star-forming galaxies, and not accounting for Balmer absorption can yield
+steeper slopes of the log(SFR)-log($M_*$) relation. Our sample is immune from
+these biases as it is rest-frame optically selected, H$\alpha$ and H$\beta$ are
+corrected for Balmer absorption, and the H$\alpha$ luminosity is dust-corrected
+using the nebular color-excess computed from the Balmer decrement. The scatter
+of the log(SFR(H$\alpha$))-log($M_*$) relation, after accounting for the
+measurement uncertainties, is 0.31 dex at 2.1<z<2.6, which is 0.05 dex larger
+than the scatter in log(SFR(UV))-log($M_*$). Based on comparisons to a
+simulated SFR-$M_*$ relation with some intrinsic scatter, we argue that in the
+absence of direct measurements of galaxy-to-galaxy variations in the
+attenuation/extinction curves and the IMF, one cannot use the difference in the
+scatter of the SFR(H$\alpha$)- and SFR(UV)-$M_*$ relations to constrain the
+stochasticity of star formation in high-redshift galaxies.

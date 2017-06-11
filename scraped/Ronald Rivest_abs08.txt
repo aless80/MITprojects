@@ -1,0 +1,10 @@
+
+We show how to hang a picture by wrapping rope around n nails, making a
+polynomial number of twists, such that the picture falls whenever any k out of
+the n nails get removed, and the picture remains hanging when fewer than k
+nails get removed. This construction makes for some fun mathematical magic
+performances. More generally, we characterize the possible Boolean functions
+characterizing when the picture falls in terms of which nails get removed as
+all monotone Boolean functions. This construction requires an exponential
+number of twists in the worst case, but exponential complexity is almost always
+necessary for general functions.

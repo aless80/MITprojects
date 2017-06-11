@@ -1,0 +1,11 @@
+
+The inverse diffusion curve problem focuses on automatic creation of
+diffusion curve images that resemble user provided color fields. This problem
+is challenging since the 1D curves have a nonlinear and global impact on
+resulting color fields via a partial differential equation (PDE). We introduce
+a new approach complementary to previous methods by optimizing curve geometry.
+In particular, we propose a novel iterative algorithm based on the theory of
+shape derivatives. The resulting diffusion curves are clean and well-shaped,
+and the final image closely approximates the input. Our method provides a
+user-controlled parameter to regularize curve complexity, and generalizes to
+handle input color fields represented in a variety of formats.

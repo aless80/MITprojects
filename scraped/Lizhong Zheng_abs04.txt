@@ -1,0 +1,13 @@
+
+Abstract: In this paper, we extend the information theoretic framework that was
+developed in earlier work to multi-hop network settings. For a given network,
+we construct a novel deterministic model that quantifies the ability of the
+network in transmitting private and common messages across users. Based on this
+model, we formulate a linear optimization problem that explores the throughput
+of a multi-layer network, thereby offering the optimal strategy as to what kind
+of common messages should be generated in the network to maximize the
+throughput. With this deterministic model, we also investigate the role of
+feedback for multi-layer networks, from which we identify a variety of
+scenarios in which feedback can improve transmission efficiency. Our results
+provide fundamental guidelines as to how to coordinate cooperation between
+users to enable efficient information exchanges across them.

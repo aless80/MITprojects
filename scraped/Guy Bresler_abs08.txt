@@ -1,0 +1,12 @@
+
+Abstract: We present a framework for the design of optimal assembly algorithms for
+shotgun sequencing under the criterion of complete reconstruction. We derive a
+lower bound on the read length and the coverage depth required for
+reconstruction in terms of the repeat statistics of the genome. Building on
+earlier works, we design a de Brujin graph based assembly algorithm which can
+achieve very close to the lower bound for repeat statistics of a wide range of
+sequenced genomes, including the GAGE datasets. The results are based on a set
+of necessary and sufficient conditions on the DNA sequence and the reads for
+reconstruction. The conditions can be viewed as the shotgun sequencing analogue
+of Ukkonen-Pevzner's necessary and sufficient conditions for Sequencing by
+Hybridization.

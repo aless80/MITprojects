@@ -1,0 +1,16 @@
+
+In this paper we consider the problem of learning undirected graphical models
+from data generated according to the Glauber dynamics. The Glauber dynamics is
+a Markov chain that sequentially updates individual nodes (variables) in a
+graphical model and it is frequently used to sample from the stationary
+distribution (to which it converges given sufficient time). Additionally, the
+Glauber dynamics is a natural dynamical model in a variety of settings. This
+work deviates from the standard formulation of graphical model learning in the
+literature, where one assumes access to i.i.d. samples from the distribution.
+Much of the research on graphical model learning has been directed towards
+finding algorithms with low computational cost. As the main result of this
+work, we establish that the problem of reconstructing binary pairwise graphical
+models is computationally tractable when we observe the Glauber dynamics.
+Specifically, we show that a binary pairwise graphical model on $p$ nodes with
+maximum degree $d$ can be learned in time $f(d)p^2\log p$, for a function
+$f(d)$, using nearly the information-theoretic minimum number of samples.

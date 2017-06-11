@@ -1,0 +1,17 @@
+
+Bose-Einstein condensation is a remarkable manifestation of quantum
+statistics and macroscopic quantum coherence. Superconductivity and
+superfluidity have their origin in Bose-Einstein condensation. Ultracold
+quantum gases have provided condensates close to the original ideas of Bose and
+Einstein, while condensation of polaritons and magnons have introduced novel
+concepts of non-equilibrium condensation. Here, we demonstrate a Bose-Einstein
+condensate (BEC) of surface plasmon polaritons in lattice modes of a metal
+nanoparticle array. Interaction of the nanoscale-confined surface plasmons with
+a room-temperature bath of dye molecules enables thermalization and
+condensation in picoseconds. The ultrafast thermalization and condensation
+dynamics are revealed by an experiment that exploits itinerant thermalization
+and the open cavity character of the system. A crossover from BEC to usual
+lasing is realized by tailoring the band structure. This new condensate is a
+manifestation of macroscopic quantum coherence in unprecedented time-scales,
+with promise for future technologies due to its room-temperature and on-chip
+nature.

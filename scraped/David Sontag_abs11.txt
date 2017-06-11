@@ -1,0 +1,12 @@
+
+Early diagnosis of treatable diseases is essential for improving healthcare,
+and many diseases' onsets are predictable from annual lab tests and their
+temporal trends. We introduce a multi-resolution convolutional neural network
+for early detection of multiple diseases from irregularly measured sparse lab
+values. Our novel architecture takes as input both an imputed version of the
+data and a binary observation matrix. For imputing the temporal sparse
+observations, we develop a flexible, fast to train method for differentiable
+multivariate kernel regression. Our experiments on data from 298K individuals
+over 8 years, 18 common lab measurements, and 171 diseases show that the
+temporal signatures learned via convolution are significantly more predictive
+than baselines commonly used for early disease diagnosis.

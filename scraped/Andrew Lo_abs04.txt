@@ -1,0 +1,14 @@
+
+In this review article we explore several recent advances in the quantitative
+modeling of financial markets. We begin with the Efficient Markets Hypothesis
+and describe how this controversial idea has stimulated a number of new
+directions of research, some focusing on more elaborate mathematical models
+that are captable of rationalizing the empirical facrts, others taking a
+completely different different tack in rejecting rationality altogether. One of
+the most promising directions is to view financial markets from a biological
+perspective and, specifically, with an evolutionary framework in which markets,
+instruments, institutions, and investors interact and evolve dynamically
+according to the "law" of economic selection. Under this view, financial agents
+compete and adapt, but they do not necessarily do so in an optimal fashion.
+Evolutionary and ecological models of financial markets is truly a new frontier
+whose exploration has just begun.

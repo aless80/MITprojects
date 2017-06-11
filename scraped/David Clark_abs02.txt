@@ -1,0 +1,26 @@
+
+We present studies of C/2015 D1 (SOHO), the first sunskirting comet ever seen
+from ground stations over the past half century. The Solar and Heliospheric
+Observatory (SOHO) witnessed its peculiar light curve with a huge dip followed
+by a flareup around perihelion: the dip was likely caused by sublimation of
+olivines, directly evidenced by a coincident temporary disappearance of the
+tail. The flareup likely reflects a disintegration event, which we suggest was
+triggered by intense thermal stress established within the nucleus interior.
+Photometric data reveal an increasingly dusty coma, indicative of volatile
+depletion. A catastrophic mass loss rate of $\sim$10$^{5}$ kg s$^{-1}$ around
+perihelion was seen. Ground-based Xingming Observatory spotted the
+post-perihelion debris cloud. Our morphological simulations of post-perihelion
+images find newly released dust grains of size $a \gtrsim 10$ $\mu$m in radius,
+however, a temporal increase in $a_{\min}$ was also witnessed, possibly due to
+swift dispersions of smaller grains swept away by radiation forces without
+replenishment. Together with the fading profile of the light curve, a power law
+dust size distribution with index $\gamma = 3.2 \pm 0.1$ is derived. We
+detected no active remaining cometary nuclei over $\sim$0.1 km in radius in
+post-perihelion images acquired at Lowell Observatory. Applying radial
+non-gravitational parameter, $\mathcal{A}_{1} = \left(1.209 \pm 0.118 \right)
+\times 10^{-6}$ AU day$^{-2}$, from an isothermal water-ice sublimation model
+to the SOHO astrometry significantly reduces residuals and sinusoidal trends in
+the orbit determination. The nucleus mass $\sim$10$^{8}$--10$^{9}$ kg, and the
+radius $\sim$50--150 m (bulk density $\rho_{\mathrm{d}} = 0.4$ g cm$^{-3}$
+assumed) before the disintegration are deduced from the photometric data;
+consistent results were determined from the non-gravitational effects.

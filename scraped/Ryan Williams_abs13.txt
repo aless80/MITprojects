@@ -1,0 +1,14 @@
+
+Heuristic approaches often do so well that they seem to pretty much always
+give the right answer. How close can heuristic algorithms get to always giving
+the right answer, without inducing seismic complexity-theoretic consequences?
+This article first discusses how a series of results by Berman, Buhrman,
+Hartmanis, Homer, Longpr\'{e}, Ogiwara, Sch\"{o}ening, and Watanabe, from the
+early 1970s through the early 1990s, explicitly or implicitly limited how well
+heuristic algorithms can do on NP-hard problems. In particular, many desirable
+levels of heuristic success cannot be obtained unless severe, highly unlikely
+complexity class collapses occur. Second, we survey work initiated by Goldreich
+and Wigderson, who showed how under plausible assumptions deterministic
+heuristics for randomized computation can achieve a very high frequency of
+correctness. Finally, we consider formal ways in which theory can help explain
+the effectiveness of heuristics that solve NP-hard problems in practice.

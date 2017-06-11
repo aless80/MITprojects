@@ -1,0 +1,23 @@
+
+We propose a novel approach to improving software security called
+Cryptographic Path Hardening, which is aimed at hiding security vulnerabilities
+in software from attackers through the use of provably secure and obfuscated
+cryptographic devices to harden paths in programs.
+By "harden" we mean that certain error-checking if-conditionals in a given
+program P are replaced by equivalent" we mean that adversaries cannot use
+semi-automatic program analysis techniques to reason about the hardened program
+paths and thus cannot discover as-yet-unknown errors along those paths, except
+perhaps through black-box dictionary attacks or random testing (which we can
+never prevent).
+Other than these unpreventable attack methods, we can make program analysis
+aimed at error-finding "provably hard" for a resource-bounded attacker, in the
+same sense that cryptographic schemes are hard to break. Unlike
+security-through-obscurity, in Cryptographic Path Hardening we use
+provably-secure crypto devices to hide errors and our mathematical arguments of
+security are the same as the standard ones used in cryptography.
+One application of Cryptographic Path Hardening is that software patches or
+filters often reveal enough information to an attacker that they can be used to
+construct error-revealing inputs to exploit an unpatched version of the
+program. By "hardening" the patch we make it difficult for the attacker to
+analyze the patched program to construct error-revealing inputs, and thus
+prevent him from potentially constructing exploits.

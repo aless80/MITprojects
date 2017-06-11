@@ -1,0 +1,13 @@
+
+We demonstrate a spin-based, all-dielectric electrometer based on an ensemble
+of nitrogen-vacancy (NV$^-$) defects in diamond. An applied electric field
+causes energy level shifts symmetrically away from the NV$^-$'s degenerate
+triplet states via the Stark effect; this symmetry provides immunity to
+temperature fluctuations allowing for shot-noise-limited detection. Using an
+ensemble of NV$^-$s, we demonstrate shot-noise limited sensitivities
+approaching 1 V/cm/$\sqrt{\text{Hz}}$ under ambient conditions, at low
+frequencies ($<$10 Hz), and over a large dynamic range (20 dB). A theoretical
+model for the ensemble of NV$^-$s fits well with measurements of the
+ground-state electric susceptibility parameter, $\langle k_\perp\rangle$.
+Implications of spin-based, dielectric sensors for micron-scale electric-field
+sensing are discussed.

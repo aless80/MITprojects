@@ -1,0 +1,19 @@
+
+The Container Relocation Problem (CRP) is concerned with finding a sequence
+of moves of containers that minimizes the number of relocations needed to
+retrieve all containers, while respecting a given order of retrieval. However,
+the assumption of knowing the full retrieval order of containers is
+particularly unrealistic in real operations. This paper studies the stochastic
+CRP (SCRP), which relaxes this assumption. A new multi-stage stochastic model,
+called the batch model, is introduced, motivated, and compared with an existing
+model (the online model). The two main contributions are an optimal algorithm
+called Pruning-Best-First-Search (PBFS) and a randomized approximate algorithm
+called PBFS-Approximate with a bounded average error. Both algorithms,
+applicable in the batch and online models, are based on a new family of lower
+bounds for which we show some theoretical properties. Moreover, we introduce
+two new heuristics outperforming the best existing heuristics. Algorithms,
+bounds and heuristics are tested in an extensive computational section.
+Finally, based on strong computational evidence, we conjecture the optimality
+of the "Leveling" heuristic in a special "no information" case, where at any
+retrieval stage, any of the remaining containers is equally likely to be
+retrieved next.

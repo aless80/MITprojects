@@ -1,0 +1,9 @@
+
+Originally developed to image the shadow region of the central black hole in
+Sagittarius A* and in the nearby galaxy M87, the Event Horizon Telescope (EHT)
+provides deep, very high angular resolution data on other AGN sources too. The
+challenges of working with EHT data have spurred the development of new image
+reconstruction algorithms. This work briefly reviews the status of the EHT and
+its utility for observing AGN sources, with emphasis on novel imaging
+techniques that offer the promise of better reconstructions at 1.3 mm and other
+wavelengths.

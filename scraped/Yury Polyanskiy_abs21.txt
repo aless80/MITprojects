@@ -1,0 +1,15 @@
+
+Directed acyclic graphical models (DAGs) are often used to describe common
+structural properties in a family of probability distributions. This paper
+addresses the question of classifying DAGs up to an isomorphism. By considering
+Gaussian densities, the question reduces to verifying equality of certain
+algebraic varieties. A question of computing equations for these varieties has
+been previously raised in the literature. Here it is shown that the most
+natural method adds spurious components with singular principal minors, proving
+a conjecture of Sullivant. This characterization is used to establish an
+algebraic criterion for isomorphism, and to provide a randomized algorithm for
+checking that criterion. Results are applied to produce a list of the
+isomorphism classes of tree models on 4,5, and 6 nodes. Finally, some evidence
+is provided to show that projectivized DAG varieties contain useful information
+in the sense that their relative embedding is closely related to efficient
+inference.

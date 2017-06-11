@@ -1,0 +1,20 @@
+
+A mapping of $k$-bit strings into $n$-bit strings is called an
+$(\alpha,\beta)$-map if $k$-bit strings which are more than $\alpha k$ apart
+are mapped to $n$-bit strings that are more than $\beta n$ apart. This is a
+relaxation of the classical problem of constructing error-correcting codes,
+which corresponds to $\alpha=0$. Existence of an $(\alpha,\beta)$-map is
+equivalent to existence of a graph homomorphism $\bar H(k,\alpha k)\to \bar
+H(n,\beta n)$, where $H(n,d)$ is a Hamming graph with vertex set $\{0,1\}^n$
+and edges connecting vertices differing in $d$ or fewer entries.
+This paper proves impossibility results on achievable parameters
+$(\alpha,\beta)$ in the regime of $n,k\to\infty$ with a fixed ratio ${n\over
+k}= \rho$. This is done by developing a general criterion for existence of
+graph-homomorphism based on the semi-definite relaxation of the independence
+number of a graph (known as the Schrijver's $\theta$-function). The criterion
+is then evaluated using some known and some new results from coding theory
+concerning the $\theta$-function of Hamming graphs. As an example, it is shown
+that if $\beta>1/2$ and $n\over k$ -- integer, the ${n\over k}$-fold repetition
+map achieving $\alpha=\beta$ is asymptotically optimal.
+Finally, constraints on configurations of points and hyperplanes in
+projective spaces over $\mathbb{F}_2$ are derived.

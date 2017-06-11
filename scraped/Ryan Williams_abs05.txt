@@ -1,0 +1,25 @@
+
+In order to formally understand the power of neural computing, we first need
+to crack the frontier of threshold circuits with two and three layers, a regime
+that has been surprisingly intractable to analyze. We prove the first
+super-linear gate lower bounds and the first super-quadratic wire lower bounds
+for depth-two linear threshold circuits with arbitrary weights, and depth-three
+majority circuits computing an explicit function.
+$\bullet$ We prove that for all $\epsilon\gg \sqrt{\log(n)/n}$, the
+linear-time computable Andreev's function cannot be computed on a
+$(1/2+\epsilon)$-fraction of $n$-bit inputs by depth-two linear threshold
+circuits of $o(\epsilon^3 n^{3/2}/\log^3 n)$ gates, nor can it be computed with
+$o(\epsilon^{3} n^{5/2}/\log^{7/2} n)$ wires. This establishes an average-case
+``size hierarchy'' for threshold circuits, as Andreev's function is computable
+by uniform depth-two circuits of $o(n^3)$ linear threshold gates, and by
+uniform depth-three circuits of $O(n)$ majority gates.
+$\bullet$ We present a new function in $P$ based on small-biased sets, which
+we prove cannot be computed by a majority vote of depth-two linear threshold
+circuits with $o(n^{3/2}/\log^3 n)$ gates, nor with $o(n^{5/2}/\log^{7/2}n)$
+wires.
+$\bullet$ We give tight average-case (gate and wire) complexity results for
+computing PARITY with depth-two threshold circuits; the answer turns out to be
+the same as for depth-two majority circuits.
+The key is a new random restriction lemma for linear threshold functions. Our
+main analytical tool is the Littlewood-Offord Lemma from additive
+combinatorics.

@@ -1,0 +1,15 @@
+
+A Weyl semimetal is a new state of matter that host Weyl fermions as
+quasiparticle excitations. The Weyl fermions at zero energy correspond to
+points of bulk band degeneracy, Weyl nodes, which are separated in momentum
+space and are connected only through the crystal's boundary by an exotic Fermi
+arc surface state. We experimentally measure the spin polarization of the Fermi
+arcs in the first experimentally discovered Weyl semimetal TaAs. Our spin data,
+for the first time, reveal that the Fermi arcs' spin polarization magnitude is
+as large as 80% and possesses a spin texture that is completely in-plane.
+Moreover, we demonstrate that the chirality of the Weyl nodes in TaAs cannot be
+inferred by the spin texture of the Fermi arcs. The observed non-degenerate
+property of the Fermi arcs is important for the establishment of its exact
+topological nature, which reveal that spins on the arc form a novel type of 2D
+matter. Additionally, the nearly full spin polarization we observed (~80%) may
+be useful in spintronic applications.

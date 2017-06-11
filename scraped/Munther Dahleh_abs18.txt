@@ -1,0 +1,20 @@
+
+The paper proposes a framework for modeling and analysis of the dynamics of
+supply, demand, and clearing prices in power system with real-time retail
+pricing and information asymmetry. Real-time retail pricing is characterized by
+passing on the real-time wholesale electricity prices to the end consumers, and
+is shown to create a closed-loop feedback system between the physical layer and
+the market layer of the power system. In the absence of a carefully designed
+control law, such direct feedback between the two layers could increase
+volatility and lower the system's robustness to uncertainty in demand and
+generation. A new notion of generalized price-elasticity is introduced, and it
+is shown that price volatility can be characterized in terms of the system's
+maximal relative price elasticity, defined as the maximal ratio of the
+generalized price-elasticity of consumers to that of the producers. As this
+ratio increases, the system becomes more volatile, and eventually, unstable. As
+new demand response technologies and distributed storage increase the
+price-elasticity of demand, the architecture under examination is likely to
+lead to increased volatility and possibly instability. This highlights the need
+for assessing architecture systematically and in advance, in order to optimally
+strike the trade-offs between volatility, economic efficiency, and system
+reliability.

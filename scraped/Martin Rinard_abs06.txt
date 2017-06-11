@@ -1,0 +1,20 @@
+
+Typestate systems ensure many desirable properties of imperative programs,
+including initialization of object fields and correct use of stateful library
+interfaces. Abstract sets with cardinality constraints naturally generalize
+typestate properties: relationships between the typestates of objects can be
+expressed as subset and disjointness relations on sets, and elements of sets
+can be represented as sets of cardinality one. Motivated by these applications,
+this paper presents new algorithms and new complexity results for constraints
+on sets and their cardinalities. We study several classes of constraints and
+demonstrate a trade-off between their expressive power and their complexity.
+Our first result concerns a quantifier-free fragment of Boolean Algebra with
+Presburger Arithmetic. We give a nondeterministic polynomial-time algorithm for
+reducing the satisfiability of sets with symbolic cardinalities to constraints
+on constant cardinalities, and give a polynomial-space algorithm for the
+resulting problem.
+In a quest for more efficient fragments, we identify several subclasses of
+sets with cardinality constraints whose satisfiability is NP-hard. Finally, we
+identify a class of constraints that has polynomial-time satisfiability and
+entailment problems and can serve as a foundation for efficient program
+analysis.

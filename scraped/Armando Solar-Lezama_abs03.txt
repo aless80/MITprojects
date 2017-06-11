@@ -1,0 +1,16 @@
+
+We present Lifty, a language that uses type-driven program repair to enforce
+information flow policies. In Lifty, the programmer specifies a policy by
+annotating the source of sensitive data with a refinement type, and the system
+automatically inserts access checks necessary to enforce this policy across the
+code. This is a significant improvement over current practice, where
+programmers manually implement access checks, and any missing check can cause
+an information leak. To support this programming model, we have developed (1)
+an encoding of information flow security in terms of decidable refinement types
+that enables fully automatic verification and (2) a program repair algorithm
+that localizes unsafe accesses to sensitive data and replaces them with
+provably secure alternatives. We formalize the encoding and prove its
+noninterference guarantee. Our experience using Lifty to implement a conference
+management system shows that it decreases policy burden and is able to
+efficiently synthesize all necessary access checks, including those required to
+prevent a set of reported real-world information leaks.

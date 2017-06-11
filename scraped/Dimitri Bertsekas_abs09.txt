@@ -1,0 +1,23 @@
+
+We consider stochastic control models with Borel spaces and universally
+measurable policies. For such models the standard policy iteration is known to
+have difficult measurability issues and cannot be carried out in general. We
+present a mixed value and policy iteration method that circumvents this
+difficulty. The method allows the use of stationary policies in computing the
+optimal cost function, in a manner that resembles policy iteration. It can also
+be used to address similar difficulties of policy iteration in the context of
+upper and lower semicontinuous models. We analyze the convergence of the method
+in infinite horizon total cost problems, for the discounted case where the
+one-stage costs are bounded, and for the undiscounted case where the one-stage
+costs are nonpositive or nonnegative.
+For undiscounted total cost problems with nonnegative one-stage costs, we
+also give a new convergence theorem for value iteration, which shows that value
+iteration converges whenever it is initialized with a function that is above
+the optimal cost function and yet bounded by a multiple of the optimal cost
+function. This condition resembles Whittle's bridging condition and is partly
+motivated by it. The theorem is also partly motivated by a result of Maitra and
+Sudderth, which showed that value iteration, when initialized with the constant
+function zero, could require a transfinite number of iterations to converge. We
+use the new convergence theorem for value iteration to establish the
+convergence of our mixed value and policy iteration method for the nonnegative
+cost case.

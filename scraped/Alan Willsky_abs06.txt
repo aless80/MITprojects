@@ -1,0 +1,21 @@
+
+In this paper we establish links between, and new results for, three problems
+that are not usually considered together. The first is a matrix decomposition
+problem that arises in areas such as statistical modeling and signal
+processing: given a matrix $X$ formed as the sum of an unknown diagonal matrix
+and an unknown low rank positive semidefinite matrix, decompose $X$ into these
+constituents. The second problem we consider is to determine the facial
+structure of the set of correlation matrices, a convex set also known as the
+elliptope. This convex body, and particularly its facial structure, plays a
+role in applications from combinatorial optimization to mathematical finance.
+The third problem is a basic geometric question: given points
+$v_1,v_2,...,v_n\in \R^k$ (where $n > k$) determine whether there is a centered
+ellipsoid passing \emph{exactly} through all of the points.
+We show that in a precise sense these three problems are equivalent.
+Furthermore we establish a simple sufficient condition on a subspace $U$ that
+ensures any positive semidefinite matrix $L$ with column space $U$ can be
+recovered from $D+L$ for any diagonal matrix $D$ using a convex
+optimization-based heuristic known as minimum trace factor analysis. This
+result leads to a new understanding of the structure of rank-deficient
+correlation matrices and a simple condition on a set of points that ensures
+there is a centered ellipsoid passing through them.

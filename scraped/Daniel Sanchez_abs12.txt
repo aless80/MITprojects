@@ -1,0 +1,21 @@
+
+Weyl semimetals are novel topological conductors that host Weyl fermions as
+emergent quasiparticles. While the Weyl fermions in high-energy physics are
+strictly defined as the massless solution of the Dirac equation and uniquely
+fixed by Lorentz symmetry, there is no such constraint for a topological metal
+in general. Specifically, the Weyl quasiparticles can arise by breaking either
+the space-inversion ($\mathcal{I}$) or time-reversal ($\mathcal{T}$) symmetry.
+They can either respect Lorentz symmetry (type-I) or strongly violate it
+(type-II). To date, different types of Weyl fermions have been predicted to
+occur only in different classes of materials. In this paper, we present a
+significant materials breakthrough by identifying a large class of Weyl
+materials in the RAlX (R=Rare earth, Al, X=Ge, Si) family that can realize all
+different types of emergent Weyl fermions ($\mathcal{I}$-breaking,
+$\mathcal{T}$-breaking, type-I or type-II), depending on a suitable choice of
+the rare earth elements. Specifically, RAlX can be ferromagnetic, nonmagnetic
+or antiferromagnetic and the electronic band topology and topological nature of
+the Weyl fermions can be tuned. The unparalleled tunability and the large
+number of compounds make the RAlX family of compounds a unique Weyl semimetal
+class for exploring the wide-ranging topological phenomena associated with
+different types of emergent Weyl fermions in transport, spectroscopic and
+device-based experiments.

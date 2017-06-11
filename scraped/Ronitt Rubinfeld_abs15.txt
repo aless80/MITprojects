@@ -1,0 +1,16 @@
+
+The {\em Total Influence} ({\em Average Sensitivity) of a discrete function
+is one of its fundamental measures. We study the problem of approximating the
+total influence of a monotone Boolean function \ifnum\plusminus=1 $f:
+\{\pm1\}^n \longrightarrow \{\pm1\}$, \else $f: \bitset^n \to \bitset$, \fi
+which we denote by $I[f]$. We present a randomized algorithm that approximates
+the influence of such functions to within a multiplicative factor of $(1\pm
+\eps)$ by performing $O(\frac{\sqrt{n}\log n}{I[f]} \poly(1/\eps)) $ queries. %
+\mnote{D: say something about technique?} We also prove a lower bound of %
+$\Omega(\frac{\sqrt{n/\log n}}{I[f]})$ $\Omega(\frac{\sqrt{n}}{\log n \cdot
+I[f]})$ on the query complexity of any constant-factor approximation algorithm
+for this problem (which holds for $I[f] = \Omega(1)$), % and $I[f] =
+O(\sqrt{n}/\log n)$), hence showing that our algorithm is almost optimal in
+terms of its dependence on $n$. For general functions we give a lower bound of
+$\Omega(\frac{n}{I[f]})$, which matches the complexity of a simple sampling
+algorithm.

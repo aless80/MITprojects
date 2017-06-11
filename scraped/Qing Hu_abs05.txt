@@ -1,0 +1,11 @@
+
+We demonstrate an unexpectedly strong surface-plasmonic absorption at the
+interface of silver and high-index dielectrics based on electron and photon
+spectroscopy. The measured bandwidth and intensity of absorption deviate
+significantly from the classical theory. Our density-functional calculation
+well predicts the occurrence of this phenomenon. It reveals that due to the low
+metal-to-dielectric work function at such interfaces, conduction electrons can
+display a drastic quantum spillover, causing the interfacial electron-hole pair
+production to dominate the decay of surface plasmons. This finding can be of
+fundamental importance in understanding and designing quantum nano-plasmonic
+devices that utilize noble metals and high-index dielectrics.

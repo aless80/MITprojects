@@ -1,0 +1,14 @@
+
+This paper presents a programmable, energy-efficient and real-time object
+detection accelerator using deformable parts models (DPM), with 2x higher
+accuracy than traditional rigid body models. With 8 deformable parts detection,
+three methods are used to address the high computational complexity:
+classification pruning for 33x fewer parts classification, vector quantization
+for 15x memory size reduction, and feature basis projection for 2x reduction of
+the cost of each classification. The chip is implemented in 65nm CMOS
+technology, and can process HD (1920x1080) images at 30fps without any off-chip
+storage while consuming only 58.6mW (0.94nJ/pixel, 1168 GOPS/W). The chip has
+two classification engines to simultaneously detect two different classes of
+objects. With a tested high throughput of 60fps, the classification engines can
+be time multiplexed to detect even more than two object classes. It is energy
+scalable by changing the pruning factor or disabling the parts classification.

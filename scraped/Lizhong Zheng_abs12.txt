@@ -1,0 +1,11 @@
+
+Abstract: This paper studies network information theory problems where the external
+noise is Gaussian distributed. In particular, the Gaussian broadcast channel
+with coherent fading and the Gaussian interference channel are investigated. It
+is shown that in these problems, non-Gaussian code ensembles can achieve higher
+rates than the Gaussian ones. It is also shown that the strong Shamai-Laroia
+conjecture on the Gaussian ISI channel does not hold. In order to analyze
+non-Gaussian code ensembles over Gaussian networks, a geometrical tool using
+the Hermite polynomials is proposed. This tool provides a coordinate system to
+analyze a class of non-Gaussian input distributions that are invariant over
+Gaussian networks.

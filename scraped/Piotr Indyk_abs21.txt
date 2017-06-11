@@ -1,0 +1,13 @@
+
+It has been known since 1970's that the N-dimensional $\ell_1$-space contains
+nearly Euclidean subspaces whose dimension is $\Omega(N)$. However, proofs of
+existence of such subspaces were probabilistic, hence non-constructive, which
+made the results not-quite-suitable for subsequently discovered applications to
+high-dimensional nearest neighbor search, error-correcting codes over the
+reals, compressive sensing and other computational problems. In this paper we
+present a "low-tech" scheme which, for any $a > 0$, allows to exhibit nearly
+Euclidean $\Omega(N)$-dimensional subspaces of $\ell_1^N$ while using only
+$N^a$ random bits. Our results extend and complement (particularly) recent work
+by Guruswami-Lee-Wigderson. Characteristic features of our approach include (1)
+simplicity (we use only tensor products) and (2) yielding "almost Euclidean"
+subspaces with arbitrarily small distortions.

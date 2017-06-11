@@ -1,0 +1,10 @@
+
+Abstract: In this paper, we delineate how the contraction coefficient of the strong
+data processing inequality for KL divergence can be used to learn likelihood
+models. We then present an alternative formulation to learn likelihood models
+that forces the input KL divergence of the data processing inequality to
+vanish, and achieves a contraction coefficient equivalent to the squared
+maximal correlation. This formulation turns out to admit a linear algebraic
+solution. To analyze the performance loss in using this simple but suboptimal
+procedure, we bound these contraction coefficients in the discrete and finite
+regime, and prove their equivalence in the Gaussian regime.

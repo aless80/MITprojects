@@ -1,0 +1,12 @@
+
+This paper presents two novel regularization methods motivated in part by the
+geometric significance of biorthogonal bases in signal processing applications.
+These methods, in particular, draw upon the structural relevance of
+orthogonality and biorthogonality principles and are presented from the
+perspectives of signal processing, convex programming, continuation methods and
+nonlinear projection operators. Each method is specifically endowed with either
+a homotopy or tuning parameter to facilitate tradeoff analysis between accuracy
+and numerical stability. An example involving a basis comprised of real
+exponential signals illustrates the utility of the proposed methods on an
+ill-conditioned inverse problem and the results are compared to standard
+regularization techniques from the signal processing literature.

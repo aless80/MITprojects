@@ -1,0 +1,14 @@
+
+We propose an optical scheme, employing optical parametric down-converters
+interlaced with nonlinear sign gates (NSGs), that completely converts an
+$n$-photon Fock-state pump to $n$ signal-idler photon pairs when the
+down-converters' crystal lengths are chosen appropriately. The proof of this
+assertion relies on amplitude amplification, analogous to that employed in
+Grover search, applied to the full quantum dynamics of single-mode parametric
+down-conversion. When we require that all Grover iterations use the same
+crystal, and account for potential experimental limitations on crystal-length
+precision, our optimized conversion efficiencies reach unity for $1\le n \le
+5$, after which they decrease monotonically for $n$ values up to 50, which is
+the upper limit of our numerical dynamics evaluations. Nevertheless, our
+conversion efficiencies remain higher than those for a conventional (no NSGs)
+down-converter.

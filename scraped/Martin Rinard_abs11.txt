@@ -1,0 +1,15 @@
+
+We introduce regular graph constraints and explore their decidability
+properties. The motivation for regular graph constraints is 1) type checking of
+changing types of objects in the presence of linked data structures, 2) shape
+analysis techniques, and 3) generalization of similar constraints over trees
+and grids. We define a subclass of graphs called heaps as an abstraction of the
+data structures that a program constructs during its execution. We prove that
+determining the validity of implication for regular graph constraints over the
+class of heaps is undecidable. We show undecidability by exhibiting a
+characterization of certain "corresponder graphs" in terms of presence and
+absence of homomorphisms to a finite number of fixed graphs. The undecidability
+of implication of regular graph constraints implies that there is no algorithm
+that will verify that procedure preconditions are met or that the invariants
+are maintained when these properties are expressed in any specification
+language at least as expressive as regular graph constraints.

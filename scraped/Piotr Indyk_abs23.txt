@@ -1,0 +1,21 @@
+
+In this paper we present algorithms for a number of problems in geometric
+pattern matching where the input consist of a collections of segments in the
+plane. Our work consists of two main parts. In the first, we address problems
+and measures that relate to collections of orthogonal line segments in the
+plane. Such collections arise naturally from problems in mapping buildings and
+robot exploration.
+We propose a new measure of segment similarity called a \emph{coverage
+measure}, and present efficient algorithms for maximising this measure between
+sets of axis-parallel segments under translations. Our algorithms run in time
+$O(n^3\polylog n)$ in the general case, and run in time $O(n^2\polylog n)$ for
+the case when all segments are horizontal. In addition, we show that when
+restricted to translations that are only vertical, the Hausdorff distance
+between two sets of horizontal segments can be computed in time roughly
+$O(n^{3/2}{\sl polylog}n)$. These algorithms form significant improvements over
+the general algorithm of Chew et al. that takes time $O(n^4 \log^2 n)$. In the
+second part of this paper we address the problem of matching polygonal chains.
+We study the well known \Frd, and present the first algorithm for computing the
+\Frd under general translations. Our methods also yield algorithms for
+computing a generalization of the \Fr distance, and we also present a simple
+approximation algorithm for the \Frd that runs in time $O(n^2\polylog n)$.

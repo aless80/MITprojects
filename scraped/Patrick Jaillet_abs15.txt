@@ -1,0 +1,18 @@
+
+We propose an exact polynomial algorithm for a resource allocation problem
+with convex costs and constraints on partial sums of resource consumptions, in
+the presence of either continuous or integer variables. No assumption of strict
+convexity or differentiability is needed. The method solves a hierarchy of
+resource allocation subproblems, whose solutions are used to convert
+constraints on sums of resources into bounds for separate variables at higher
+levels. The resulting time complexity for the integer problem is $O(n \log m
+\log (B/n))$, and the complexity of obtaining an $\epsilon$-approximate
+solution for the continuous case is $O(n \log m \log (B/\epsilon))$, $n$ being
+the number of variables, $m$ the number of ascending constraints (such that $m
+< n$), $\epsilon$ a desired precision, and $B$ the total resource. This
+algorithm attains the best-known complexity when $m = n$, and improves it when
+$\log m = o(\log n)$. Extensive experimental analyses are conducted with four
+recent algorithms on various continuous problems issued from theory and
+practice. The proposed method achieves a higher performance than previous
+algorithms, addressing all problems with up to one million variables in less
+than one minute on a modern computer.

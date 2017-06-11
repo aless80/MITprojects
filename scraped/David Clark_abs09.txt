@@ -1,0 +1,17 @@
+
+Neutron resonance spectrometry (NRS) has been used to measure the temperature
+inside Mo samples during shock loading. The temperatures obtained were
+significantly higher than predicted assuming ideal hydrodynamic loading. The
+effect of plastic flow and non-ideal projectile behavior were assessed. Plastic
+flow was calculated self-consistently with the shock jump conditions: this is
+necessary for a rigorous estimate of the locus of shock states accessible.
+Plastic flow was estimated to contribute a temperature rise of 53K compared
+with hydrodynamic flow. Simulations were performed of the operation of the
+explosively-driven projectile system used to induce the shock in the Mo sample.
+The simulations predicted that the projectile was significantly curved on
+impact, and still accelerating. The resulting spatial variations in load,
+including radial components of velocity, were predicted to increase the
+apparent temperature that would be deduced from the width of the neutron
+resonance by 160K. These corrections are sufficient to reconcile the apparent
+temperatures deduced using NRS with the accepted properties of Mo, in
+particular its equation of state.

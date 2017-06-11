@@ -1,0 +1,13 @@
+
+We present the first sample-optimal sublinear time algorithms for the sparse
+Discrete Fourier Transform over a two-dimensional sqrt{n} x sqrt{n} grid. Our
+algorithms are analyzed for /average case/ signals. For signals whose spectrum
+is exactly sparse, our algorithms use O(k) samples and run in O(k log k) time,
+where k is the expected sparsity of the signal. For signals whose spectrum is
+approximately sparse, our algorithm uses O(k log n) samples and runs in O(k
+log^2 n) time; the latter algorithm works for k=Theta(sqrt{n}). The number of
+samples used by our algorithms matches the known lower bounds for the
+respective signal models.
+By a known reduction, our algorithms give similar results for the
+one-dimensional sparse Discrete Fourier Transform when n is a power of a small
+composite number (e.g., n = 6^t).

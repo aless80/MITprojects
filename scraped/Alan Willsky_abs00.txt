@@ -1,0 +1,13 @@
+
+We consider the problem of jointly estimating the attitude and spin-rate of a
+spinning spacecraft. Psiaki (J. Astronautical Sci., 57(1-2):73--92, 2009) has
+formulated a family of optimization problems that generalize the classical
+least-squares attitude estimation problem, known as Wahba's problem, to the
+case of a spinning spacecraft. If the rotation axis is fixed and known, but the
+spin-rate is unknown (such as for nutation-damped spin-stabilized spacecraft)
+we show that Psiaki's problem can be reformulated exactly as a type of
+tractable convex optimization problem called a semidefinite optimization
+problem. This reformulation allows us to globally solve the problem using
+standard numerical routines for semidefinite optimization. It also provides a
+natural semidefinite relaxation-based approach to more complicated variations
+on the problem.

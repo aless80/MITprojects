@@ -1,0 +1,18 @@
+
+This paper investigates the minimum energy required to transmit $k$
+information bits with a given reliability over a multiple-antenna Rayleigh
+block-fading channel, with and without channel state information (CSI) at the
+receiver. No feedback is assumed. It is well known that the ratio between the
+minimum energy per bit and the noise level converges to $-1.59$ dB as $k$ goes
+to infinity, regardless of whether CSI is available at the receiver or not.
+This paper shows that lack of CSI at the receiver causes a slowdown in the
+speed of convergence to $-1.59$ dB as $k\to\infty$ compared to the case of
+perfect receiver CSI. Specifically, we show that, in the no-CSI case, the gap
+to $-1.59$ dB is proportional to $((\log k) /k)^{1/3}$, whereas when perfect
+CSI is available at the receiver, this gap is proportional to $1/\sqrt{k}$. In
+both cases, the gap to $-1.59$ dB is independent of the number of transmit
+antennas and of the channel's coherence time. Numerically, we observe that,
+when the receiver is equipped with a single antenna, to achieve an energy per
+bit of $ - 1.5$ dB in the no-CSI case, one needs to transmit at least $7\times
+10^7$ information bits, whereas $6\times 10^4$ bits suffice for the case of
+perfect CSI at the receiver.

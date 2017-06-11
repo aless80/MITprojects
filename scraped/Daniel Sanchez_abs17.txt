@@ -1,0 +1,15 @@
+
+Weyl semimetals provide the realization of Weyl fermions in solid-state
+physics. Among all the physical phenomena that are enabled by Weyl semimetals,
+the chiral anomaly is the most unusual one. Here, we report signatures of the
+chiral anomaly in the magneto-transport measurements on the first Weyl
+semimetal TaAs. We show negative magnetoresistance under parallel electric and
+magnetic fields, that is, unlike most metals whose resistivity increases under
+an external magnetic field, we observe that our high mobility TaAs samples
+become more conductive as a magnetic field is applied along the direction of
+the current for certain ranges of the field strength. We present systematically
+detailed data and careful analyses, which allow us to exclude other possible
+origins of the observed negative magnetoresistance. Our transport data,
+corroborated by photoemission measurements, first-principles calculations and
+theoretical analyses, collectively demonstrate signatures of the Weyl fermion
+chiral anomaly in the magneto-transport of TaAs.

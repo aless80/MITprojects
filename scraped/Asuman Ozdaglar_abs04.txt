@@ -1,0 +1,10 @@
+
+We consider an SIS-type epidemic process that evolves on a known graph. We
+assume that a fixed curing budget can be allocated at each instant to the nodes
+of the graph, towards the objective of minimizing the expected extinction time
+of the epidemic. We provide a lower bound on the optimal expected extinction
+time as a function of the available budget, the epidemic parameters, the
+maximum degree, and the CutWidth of the graph. For graphs with large CutWidth
+(close to the largest possible), and under a budget which is sublinear in the
+number of nodes, our lower bound scales exponentially with the size of the
+graph.

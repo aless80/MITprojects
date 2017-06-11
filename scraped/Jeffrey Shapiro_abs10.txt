@@ -1,0 +1,19 @@
+
+Floodlight quantum key distribution (FL-QKD) is a radically different QKD
+paradigm that can achieve Gbit/s secret-key rates over metropolitan area
+distances without multiplexing [Phys. Rev. A 94, 012322 (2016)]. It is a
+two-way protocol that transmits many photons per bit duration and employs a
+high-gain optical amplifier, neither of which can be utilized by existing QKD
+protocols to mitigate channel loss. FL-QKD uses an optical bandwidth that is
+substantially larger than the modulation rate and performs decoding with a
+unique broadband homodyne receiver. Essential to FL-QKD is Alice's injection of
+photons from a photon-pair source--in addition to the light used for key
+generation--into the light she sends to Bob. This injection enables Alice and
+Bob to quantify Eve's intrusion and thus secure FL-QKD against collective
+attacks. Our proof-of-concept experiment included 10 dB propagation
+loss--equivalent to 50 km of low-loss fiber--and achieved a 55 Mbit/s
+secret-key rate (SKR) for a 100 Mbit/s modulation rate, as compared to the
+state-of-the-art system's 1 Mbit/s SKR for a 1 Gbit/s modulation rate [Opt.
+Express 21, 24550-24565 (2013)], representing ~500-fold and ~50-fold
+improvements in secret-key efficiency (SKE) (bits per channel use) and SKR
+(bits per second), respectively.

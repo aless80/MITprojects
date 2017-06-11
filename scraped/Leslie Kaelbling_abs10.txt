@@ -1,0 +1,19 @@
+
+We describe a probabilistic framework for synthesizing control policies for
+general multi-robot systems, given environment and sensor models and a cost
+function. Decentralized, partially observable Markov decision processes
+(Dec-POMDPs) are a general model of decision processes where a team of agents
+must cooperate to optimize some objective (specified by a shared reward or cost
+function) in the presence of uncertainty, but where communication limitations
+mean that the agents cannot share their state, so execution must proceed in a
+decentralized fashion. While Dec-POMDPs are typically intractable to solve for
+real-world problems, recent research on the use of macro-actions in Dec-POMDPs
+has significantly increased the size of problem that can be practically solved
+as a Dec-POMDP. We describe this general model, and show how, in contrast to
+most existing methods that are specialized to a particular problem class, it
+can synthesize control policies that use whatever opportunities for
+coordination are present in the problem, while balancing off uncertainty in
+outcomes, sensor information, and information about other agents. We use three
+variations on a warehouse task to show that a single planner of this type can
+generate cooperative behavior using task allocation, direct communication, and
+signaling, as appropriate.

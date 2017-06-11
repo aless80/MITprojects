@@ -1,0 +1,12 @@
+
+We consider the problem of drawing samples from posterior distributions
+formed under a Dirichlet prior and a truncated multinomial likelihood, by which
+we mean a Multinomial likelihood function where we condition on one or more
+counts being zero a priori. Sampling this posterior distribution is of interest
+in inference algorithms for hierarchical Bayesian models based on the Dirichlet
+distribution or the Dirichlet process, particularly Gibbs sampling algorithms
+for the Hierarchical Dirichlet Process Hidden Semi-Markov Model. We provide a
+data augmentation sampling algorithm that is easy to implement, fast both to
+mix and to execute, and easily scalable to many dimensions. We demonstrate the
+algorithm's advantages over a generic Metropolis-Hastings sampling algorithm in
+several numerical experiments.

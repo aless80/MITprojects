@@ -1,0 +1,10 @@
+
+Abstract: Determining the feasibility conditions for vector space interference
+alignment in the K-user MIMO interference channel with constant channel
+coefficients has attracted much recent attention yet remains unsolved. The main
+result of this paper is restricted to the symmetric square case where all
+transmitters and receivers have N antennas, and each user desires d transmit
+dimensions. We prove that alignment is possible if and only if the number of
+antennas satisfies N>= d(K+1)/2. We also show a necessary condition for
+feasibility of alignment with arbitrary system parameters. An algebraic
+geometry approach is central to the results.

@@ -1,0 +1,10 @@
+
+We report on the implementation of a certified compiler for a high-level
+hardware description language (HDL) called Fe-Si (FEatherweight SynthesIs).
+Fe-Si is a simplified version of Bluespec, an HDL based on a notion of guarded
+atomic actions. Fe-Si is defined as a dependently typed deep embedding in Coq.
+The target language of the compiler corresponds to a synthesisable subset of
+Verilog or VHDL. A key aspect of our approach is that input programs to the
+compiler can be defined and proved correct inside Coq. Then, we use extraction
+and a Verilog back-end (written in OCaml) to get a certified version of a
+hardware design.

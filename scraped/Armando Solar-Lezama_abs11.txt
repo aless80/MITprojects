@@ -1,0 +1,12 @@
+
+Software synthesis is rapidly developing into an important research area with
+vast potential for practical application. The SYNT Workshop on Synthesis aims
+to bringing together researchers interested in synthesis to present both
+ongoing and mature work on all aspects of automated synthesis and its
+applications.
+The second iteration of SYNT took place in Saint Petersburg, Russia, and was
+co-located with the 25th International Conference on Computer Aided
+Verification. The workshop included eleven presentations covering the full
+scope of the emerging synthesis community, as well as a discussion lead by Swen
+Jacobs on the organization of two new synthesis competitions focusing on
+reactive synthesis and syntax-guided functional synthesis respectively.

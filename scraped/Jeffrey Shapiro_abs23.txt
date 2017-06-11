@@ -1,0 +1,11 @@
+
+High-dimensional quantum key distribution (HD-QKD) allows two parties to
+generate multiple secure bits of information per detected photon. In this work,
+we show that decoy state protocols can be practically implemented for HD-QKD
+using only one or two decoy states. HD-QKD with two decoy states, under
+realistic experimental constraints, can generate multiple secure bits per
+coincidence at distances over 200 km and at rates similar to those achieved by
+a protocol with infinite decoy states. Furthermore, HD-QKD with only one decoy
+state is practical at short distances, where it is almost as secure as a
+protocol with two decoy states. HD-QKD with only one or two decoy states can
+therefore be implemented to optimize the rate of secure quantum communications.

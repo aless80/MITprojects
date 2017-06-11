@@ -1,0 +1,17 @@
+
+We develop simple density-matrix models to describe the role of coherence in
+resonant-tunneling (RT) transport of quantum-cascade lasers (QCLs).
+Specifically, we investigate the effects of coherent coupling between the
+lasing levels with other levels on the transport properties and gain spectra.
+In the first part of the paper, we use a three-level density-matrix model to
+obtain useful analytical expressions for current transport through the injector
+barrier in a QCL. An expression for the slope discontinuity in the
+current-voltage characteristics at the lasing threshold is derived. This value
+is shown to be a direct measure of the population inversion at threshold, and
+contradicts the previously held belief of it being indicative of ratio of the
+laser level lifetimes. In the second part of the paper, we use density matrices
+to compute the gain spectrum for a resonant-phonon terahertz QCL design. The
+large anticrossing of the doublet of lower radiative levels is reflected in a
+broad gain linewidth due to a coherent RT assisted depopulation process. At
+certain bias conditions, the gain spectrum exhibits double peaks which is
+supported by experimental observations.

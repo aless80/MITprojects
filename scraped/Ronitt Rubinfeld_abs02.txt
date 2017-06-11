@@ -1,0 +1,15 @@
+
+We study the question of testing structured properties (classes) of discrete
+distributions. Specifically, given sample access to an arbitrary distribution
+$D$ over $[n]$ and a property $\mathcal{P}$, the goal is to distinguish between
+$D\in\mathcal{P}$ and $\ell_1(D,\mathcal{P})>\varepsilon$. We develop a general
+algorithm for this question, which applies to a large range of
+"shape-constrained" properties, including monotone, log-concave, $t$-modal,
+piecewise-polynomial, and Poisson Binomial distributions. Moreover, for all
+cases considered, our algorithm has near-optimal sample complexity with regard
+to the domain size and is computationally efficient. For most of these classes,
+we provide the first non-trivial tester in the literature. In addition, we also
+describe a generic method to prove lower bounds for this problem, and use it to
+show our upper bounds are nearly tight. Finally, we extend some of our
+techniques to tolerant testing, deriving nearly-tight upper and lower bounds
+for the corresponding questions.

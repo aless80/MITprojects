@@ -1,0 +1,8 @@
+
+In this paper we prove optimality of a certain class of Analog to Digital
+Converters (ADCs), which can be viewed as generalized Delta-Sigma Modulators
+(DSMs), with respect to a performance measure that can be characterized as the
+worst-case average intensity of the signal representation error. An analytic
+expression for the ADC performance is given. Furthermore, our result proves
+separation of quantization and control for this class of ADCs subject to some
+technical conditions.

@@ -1,0 +1,19 @@
+
+Abstract: Many network information theory problems face the similar difficulty of
+single-letterization. We argue that this is due to the lack of a geometric
+structure on the space of probability distribution. In this paper, we develop
+such a structure by assuming that the distributions of interest are close to
+each other. Under this assumption, the K-L divergence is reduced to the squared
+Euclidean metric in an Euclidean space. In addition, we construct the notion of
+coordinate and inner product, which will facilitate solving communication
+problems. We will present the application of this approach to the
+point-to-point channel, general broadcast channel, and the multiple access
+channel (MAC) with the common source. It can be shown that with this approach,
+information theory problems, such as the single-letterization, can be reduced
+to some linear algebra problems. Moreover, we show that for the general
+broadcast channel, transmitting the common message to receivers can be
+formulated as the trade-off between linear systems. We also provide an example
+to visualize this trade-off in a geometric way. Finally, for the MAC with the
+common source, we observe a coherent combining gain due to the cooperation
+between transmitters, and this gain can be quantified by applying our
+technique.

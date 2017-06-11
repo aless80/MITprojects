@@ -1,0 +1,9 @@
+
+A pure spin current generated within a nonlocal spin valve can exert a spin
+transfer torque on a nanomagnet. This nonlocal torque enables new design
+schemes for magnetic memory devices that do not require the application of
+large voltages across tunnel barriers that can suffer electrical breakdown.
+Here we report a quantitative measurement of this nonlocal spin torque using
+spin-torque-driven ferromagnetic resonance. Our measurement agrees well with
+the prediction of an effective circuit model for spin transport. Based on this
+model, we suggest strategies for optimizing the strength of nonlocal torque.

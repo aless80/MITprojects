@@ -1,0 +1,22 @@
+
+Energy minimization has been an intensely studied core problem in computer
+vision. With growing image sizes (2D and 3D), it is now highly desirable to run
+energy minimization algorithms in parallel. But many existing algorithms, in
+particular, some efficient combinatorial algorithms, are difficult to
+par-allelize. By exploiting results from convex and submodular theory, we
+reformulate the quadratic energy minimization problem as a total variation
+denoising problem, which, when viewed geometrically, enables the use of
+projection and reflection based convex methods. The resulting min-cut algorithm
+(and code) is conceptually very simple, and solves a sequence of TV denoising
+problems. We perform an extensive empirical evaluation comparing
+state-of-the-art combinatorial algorithms and convex optimization techniques.
+On small problems the iterative convex methods match the combinatorial max-flow
+algorithms, while on larger problems they offer other flexibility and important
+gains: (a) their memory footprint is small; (b) their straightforward
+parallelizability fits multi-core platforms; (c) they can easily be
+warm-started; and (d) they quickly reach approximately good solutions, thereby
+enabling faster "inexact" solutions. A key consequence of our approach based on
+submodularity and convexity is that it is allows to combine any arbitrary
+combinatorial or convex methods as subroutines, which allows one to obtain
+hybrid combinatorial and convex optimization algorithms that benefit from the
+strengths of both.

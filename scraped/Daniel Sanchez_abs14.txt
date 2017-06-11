@@ -1,0 +1,6 @@
+
+We report theoretical and experimental discovery of Lorentz-violating Weyl
+fermion semimetal type-II state in the LaAlGe class of materials. Previously
+type-II Weyl state was predicted in WTe2 materials which remains unrealized in
+surface experiments. We show theoretically and experimentally that LaAlGe class
+of materials are the robust platforms for the study of type-II Weyl physics.

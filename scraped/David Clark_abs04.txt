@@ -1,0 +1,23 @@
+
+This work focuses on a specific front of the malware detection arms-race,
+namely the detection of persistent, disk-resident malware. We exploit
+normalised compression distance (NCD), an information theoretic measure,
+applied directly to binaries. Given a zoo of labelled malware and benign-ware,
+we ask whether a suspect program is more similar to our malware or to our
+benign-ware. Our approach classifies malware with 97.1% accuracy and a false
+positive rate of 3%. We achieve our results with off-the-shelf compressors and
+a standard machine learning classifier and without any specialised knowledge.
+An end-user need only collect a zoo of malware and benign-ware and then can
+immediately apply our techniques.
+We apply statistical rigour to our experiments and our selection of data. We
+demonstrate that accuracy can be optimised by combining NCD with the
+compressibility rates of the executables. We demonstrate that malware reported
+within a more narrow time frame of a few days is more homogenous than malware
+reported over a longer one of two years but that our method still classifies
+the latter with 95.2% accuracy and a 5% false positive rate. Due to the use of
+compression, the time and computation cost of our method is non-trivial. We
+show that simple approximation techniques can improve the time complexity of
+our approach by up to 63%.
+We compare our results to the results of applying the 59 anti-malware
+programs used on the VirusTotal web site to our malware. Our approach does
+better than any single one of them as well as the 59 used collectively.

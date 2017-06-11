@@ -1,0 +1,10 @@
+
+We give new bounds on the reliability function of a typewriter channel with 5
+inputs and crossover probability $1/2$. The lower bound is more of theoretical
+than practical importance; it improves very marginally the expurgated bound,
+providing a counterexample to a conjecture on its tightness by Shannon,
+Gallager and Berlekamp which does not need the construction of
+algebraic-geometric codes previously used by Katsman, Tsfasman and
+Vl\u{a}du\c{t}. The upper bound is derived by using an adaptation of the linear
+programming bound and it is essentially useful as a low-rate anchor for the
+straight line bound.

@@ -1,0 +1,20 @@
+
+Structured prediction tasks in machine learning involve the simultaneous
+prediction of multiple labels. This is typically done by maximizing a score
+function on the space of labels, which decomposes as a sum of pairwise
+elements, each depending on two specific labels. Intuitively, the more pairwise
+terms are used, the better the expected accuracy. However, there is currently
+no theoretical account of this intuition. This paper takes a significant step
+in this direction.
+We formulate the problem as classifying the vertices of a known graph
+$G=(V,E)$, where the vertices and edges of the graph are labelled and correlate
+semi-randomly with the ground truth. We show that the prospects for achieving
+low expected Hamming error depend on the structure of the graph $G$ in
+interesting ways. For example, if $G$ is a very poor expander, like a path,
+then large expected Hamming error is inevitable. Our main positive result shows
+that, for a wide class of graphs including 2D grid graphs common in machine
+vision applications, there is a polynomial-time algorithm with small and
+information-theoretically near-optimal expected error. Our results provide a
+first step toward a theoretical justification for the empirical success of the
+efficient approximate inference algorithms that are used for structured
+prediction in models where exact inference is intractable.

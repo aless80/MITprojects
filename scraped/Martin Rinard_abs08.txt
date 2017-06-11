@@ -1,0 +1,15 @@
+
+We have previously introduced role logic as a notation for describing
+properties of relational structures in shape analysis, databases and knowledge
+bases. A natural fragment of role logic corresponds to two-variable logic with
+counting and is therefore decidable. We show how to use role logic to describe
+open and closed records, as well the dual of records, inverse records. We
+observe that the spatial conjunction operation of separation logic naturally
+models record concatenation. Moreover, we show how to eliminate the spatial
+conjunction of formulas of quantifier depth one in first-order logic with
+counting. As a result, allowing spatial conjunction of formulas of quantifier
+depth one preserves the decidability of two-variable logic with counting. This
+result applies to two-variable role logic fragment as well. The resulting logic
+smoothly integrates type system and predicate calculus notation and can be
+viewed as a natural generalization of the notation for constraints arising in
+role analysis and similar shape analysis approaches.

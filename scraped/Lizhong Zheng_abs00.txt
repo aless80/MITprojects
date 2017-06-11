@@ -1,0 +1,24 @@
+
+Abstract: We study the problem of designing optical receivers to discriminate between
+multiple coherent states using coherent processing receivers---i.e., one that
+uses arbitrary coherent feedback control and quantum-noise-limited direct
+detection---which was shown by Dolinar to achieve the minimum error probability
+in discriminating any two coherent states. We first derive and re-interpret
+Dolinar's binary-hypothesis minimum-probability-of-error receiver as the one
+that optimizes the information efficiency at each time instant, based on
+recursive Bayesian updates within the receiver. Using this viewpoint, we
+propose a natural generalization of Dolinar's receiver design to discriminate
+$M$ coherent states each of which could now be a codeword, i.e., a sequence of
+$N$ coherent states each drawn from a modulation alphabet. We analyze the
+channel capacity of the pure-loss optical channel with a general
+coherent-processing receiver in the low-photon number regime and compare it
+with the capacity achievable with direct detection and the Holevo limit
+(achieving the latter would require a quantum joint-detection receiver). We
+show compelling evidence that despite the optimal performance of Dolinar's
+receiver for the binary coherent-state hypothesis test (either in error
+probability or mutual information), the asymptotic communication rate
+achievable by such a coherent-processing receiver is only as good as direct
+detection. This suggests that in the infinitely-long codeword limit, all
+potential benefits of coherent processing at the receiver can be obtained by
+designing a good code and direct detection, with no feedback within the
+receiver.

@@ -1,0 +1,13 @@
+
+We introduce a new model and mathematical formulation for planning crane
+moves in the storage yard of container terminals. Our objective is to develop a
+tool that captures customer centric elements, especially service time, and
+helps operators to manage costly relocation moves. Our model incorporates
+several practical details and provides port operators with expanded
+capabilities including planning repositioning moves in off-peak hours,
+controlling wait times of each customer as well as total service time,
+optimizing the number of relocations and wait time jointly, and optimizing
+simultaneously the container stacking and retrieval process. We also study a
+class of flexible service policies which allow for out-of-order retrieval. We
+show that under such flexible policies, we can decrease the number of
+relocations and retrieval delays without creating inequities.

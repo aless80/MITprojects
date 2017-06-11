@@ -1,0 +1,23 @@
+
+Temporarily Captured Orbiters (TCOs) are Near-Earth Objects (NEOs) which make
+a few orbits of Earth before returning to heliocentric orbits. Only one TCO has
+been observed to date, 2006 RH120, captured by Earth for one year before
+escaping. Detailed modeling predicts capture should occur from the NEO
+population predominantly through the Sun-Earth L1 and L2 points, with 1% of
+TCOs impacting Earth and approximately 0.1% of meteoroids being TCOs. Although
+thousands of meteoroid orbits have been measured, none until now have
+conclusively exhibited TCO behaviour, largely due to difficulties in measuring
+initial meteoroid speed with sufficient precision. We report on a precise
+meteor observation of January 13, 2014 by a new generation of all-sky fireball
+digital camera systems operated in the Czech Republic as part of the European
+Fireball Network, providing the lowest natural object entry speed observed in
+decades long monitoring by networks world-wide. Modeling atmospheric
+deceleration and fragmentation yields an initial mass of ~5 kg and diameter of
+15 cm, with a maximum Earth-relative velocity just over 11.0 km/s. Spectral
+observations prove its natural origin. Back-integration across observational
+uncertainties yields a 92 - 98% probability of TCO behaviour, with close lunar
+dynamical interaction. The capture duration varies across observational
+uncertainties from 48 days to 5+ years. We also report on two low-speed impacts
+recorded by US Government sensors, and we examine Prairie Network event PN39078
+from 1965 having an extremely low entry speed of 10.9 km/s. In these cases
+uncertainties in measurement and origin make TCO designation uncertain.

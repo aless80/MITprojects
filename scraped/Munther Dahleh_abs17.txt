@@ -1,0 +1,13 @@
+
+We propose a general methodology for performing statistical inference within
+a `rare-events regime' that was recently suggested by Wagner, Viswanath and
+Kulkarni. Our approach allows one to easily establish consistent estimators for
+a very large class of canonical estimation problems, in a large alphabet
+setting. These include the problems studied in the original paper, such as
+entropy and probability estimation, in addition to many other interesting ones.
+We particularly illustrate this approach by consistently estimating the size of
+the alphabet and the range of the probabilities. We start by proposing an
+abstract methodology based on constructing a probability measure with the
+desired asymptotic properties. We then demonstrate two concrete constructions
+by casting the Good-Turing estimator as a pseudo-empirical measure, and by
+using the theory of mixture model estimation.

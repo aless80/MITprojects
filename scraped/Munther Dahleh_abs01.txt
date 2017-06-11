@@ -1,0 +1,13 @@
+
+Load-serving entities which procure electricity from the wholesale
+electricity market to service end-users face significant quantity and price
+risks due to the volatile nature of electricity demand and quasi-fixed
+residential tariffs at which electricity is sold. This paper investigates
+strategies for load serving entities to hedge against such price risks.
+Specifically, we compute profit-maximizing portfolios of forward contract and
+call options as a function of the uncertain aggregate user demand. We compare
+the profit to the case of Demand Response, where users are offered monetary
+incentives to temporarily reduce their consumption during periods of supply
+shortages. Using smart meter data of residential customers in California, we
+simulate optimal portfolios and derive conditions under which Demand Response
+outperforms call options and forward contracts.

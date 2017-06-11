@@ -1,0 +1,24 @@
+
+In part I, we reviewed how Shannon's classical notion of capacity is not
+sufficient to characterize a noisy communication channel if the channel is
+intended to be used as part of a feedback loop to stabilize an unstable scalar
+linear system. While classical capacity is not enough, a sense of capacity
+(parametrized by reliability) called "anytime capacity" is both necessary and
+sufficient for channel evaluation in this context. The rate required is the log
+of the open-loop system gain and the required reliability comes from the
+desired sense of stability. Sufficiency is maintained even in cases with noisy
+observations and without any explicit feedback between the observer and the
+controller. This established the asymptotic equivalence between scalar
+stabilization problems and delay-universal communication problems with
+feedback.
+Here in part II, the vector-state generalizations are established and it is
+the magnitudes of the unstable eigenvalues that play an essential role. To deal
+with such systems, the concept of the anytime rate-region is introduced. This
+is the region of rates that the channel can support while still meeting
+potentially different anytime reliability targets for parallel message streams.
+All the scalar results generalize on an eigenvalue by eigenvalue basis. When
+there is no explicit feedback of the noisy channel outputs, the intrinsic delay
+of the unstable system tells us what the feedback delay needs to be while
+evaluating the anytime-rate-region for the channel. An example involving a
+binary erasure channel is used to illustrate how differentiated service is
+required in any separation-based control architecture.

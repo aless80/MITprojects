@@ -1,0 +1,16 @@
+
+Abstract: Spatially-dense pressure measurements are needed on curved surfaces in marine
+environments to provide marine vehicles with the detailed, real-time
+measurements of the near-field flow necessary to improve performance through
+flow control. To address this challenge, a waterproof and conformal pressure
+sensor array comprising carbon black-doped-silicone closed-cell foam (CBPDMS
+foam) was developed for use in marine applications. The response of the CBPDMS
+foam sensor arrays was characterized using periodic hydrodynamic pressure
+stimuli from vertical plunging, from which a piecewise polynomial calibration
+was developed to describe the sensor response. Inspired by the distributed
+pressure and velocity sensing capabilities of the fish lateral line, the CBPDMS
+foam sensor arrays have significant advantages over existing commercial sensors
+for distributed flow reconstruction and control. Experimental results have
+shown the sensor arrays to have sensitivity on the order of 5 Pascal, dynamic
+range of 50-500 Pascal; are contained in a waterproof and completely flexible
+package, and have material cost less than $10 per sensor.

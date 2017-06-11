@@ -1,0 +1,28 @@
+
+For every fixed constant $\alpha > 0$, we design an algorithm for computing
+the $k$-sparse Walsh-Hadamard transform of an $N$-dimensional vector $x \in
+\mathbb{R}^N$ in time $k^{1+\alpha} (\log N)^{O(1)}$. Specifically, the
+algorithm is given query access to $x$ and computes a $k$-sparse $\tilde{x} \in
+\mathbb{R}^N$ satisfying $\|\tilde{x} - \hat{x}\|_1 \leq c \|\hat{x} -
+H_k(\hat{x})\|_1$, for an absolute constant $c > 0$, where $\hat{x}$ is the
+transform of $x$ and $H_k(\hat{x})$ is its best $k$-sparse approximation. Our
+algorithm is fully deterministic and only uses non-adaptive queries to $x$
+(i.e., all queries are determined and performed in parallel when the algorithm
+starts).
+An important technical tool that we use is a construction of nearly optimal
+and linear lossless condensers which is a careful instantiation of the GUV
+condenser (Guruswami, Umans, Vadhan, JACM 2009). Moreover, we design a
+deterministic and non-adaptive $\ell_1/\ell_1$ compressed sensing scheme based
+on general lossless condensers that is equipped with a fast reconstruction
+algorithm running in time $k^{1+\alpha} (\log N)^{O(1)}$ (for the GUV-based
+condenser) and is of independent interest. Our scheme significantly simplifies
+and improves an earlier expander-based construction due to Berinde, Gilbert,
+Indyk, Karloff, Strauss (Allerton 2008).
+Our methods use linear lossless condensers in a black box fashion; therefore,
+any future improvement on explicit constructions of such condensers would
+immediately translate to improved parameters in our framework (potentially
+leading to $k (\log N)^{O(1)}$ reconstruction time with a reduced exponent in
+the poly-logarithmic factor, and eliminating the extra parameter $\alpha$).
+Finally, by allowing the algorithm to use randomness, while still using
+non-adaptive queries, the running time of the algorithm can be improved to
+$\tilde{O}(k \log^3 N)$.

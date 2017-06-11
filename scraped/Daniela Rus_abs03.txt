@@ -1,0 +1,26 @@
+
+Our lives have been immensely improved by decades of automation research --
+we are more comfortable, more productive and safer than ever before. Just
+imagine a world where familiar automation technologies have failed. In that
+world, thermostats don't work -- you have to monitor your home heating system
+manually. Cruise control for your car doesn't exist. Every elevator has to have
+a human operator to hit the right floor, most manufactured products are
+assembled by hand, and you have to wash your own dishes. Who would willingly
+adopt that world -- the world of last century -- today? Physical systems --
+elevators, cars, home appliances, manufacturing equipment -- were more
+troublesome, ore time consuming, less safe, and far less convenient. Now,
+suppose we put ourselves in the place someone 20 years in the future, a future
+of autonomous systems. A future where transportation is largely autonomous,
+more efficient, and far safer; a future where dangerous occupations like mining
+or disaster response are performed by autonomous systems supervised remotely by
+humans; a future where manufacturing and healthcare are twice as productive per
+person-hour by having smart monitoring and readily re-tasked autonomous
+physical agents; a future where the elderly and infirm have 24 hour in-home
+autonomous support for the basic activities, both physical and social, of daily
+life. In a future world where these capabilities are commonplace, why would
+someone come back to today's world where someone has to put their life at risk
+to do a menial job, we lose time to mindless activities that have no intrinsic
+value, or be consumed with worry that a loved one is at risk in their own home?
+In what follows, and in a series of associated essays, we expand on these
+ideas, and frame both the opportunities and challenges posed by autonomous
+physical systems.

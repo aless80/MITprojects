@@ -1,0 +1,18 @@
+
+Quantum entanglement is a fundamental resource for secure information
+processing and communications, where hyperentanglement or high-dimensional
+entanglement has been separately proposed towards high data capacity and error
+resilience. The continuous-variable nature of the energy-time entanglement
+makes it an ideal candidate for efficient high-dimensional coding with minimal
+limitations. Here we demonstrate the first simultaneous high-dimensional
+hyperentanglement using a biphoton frequency comb to harness the full potential
+in both energy and time domain. The long-postulated Hong-Ou-Mandel quantum
+revival is exhibited, with up to 19 time-bins, 96.5% visibilities. We further
+witness the high-dimensional energy-time entanglement through Franson revivals,
+which is observed periodically at integer time-bins, with 97.8% visibility.
+This qudit state is observed to simultaneously violate the generalized Bell
+inequality by up to 10.95 deviations while observing recurrent
+Clauser-Horne-Shimony-Holt S-parameters up to 2.76. Our biphoton frequency comb
+provides a platform in photon-efficient quantum communications towards the
+ultimate channel capacity through energy-time-polarization high-dimensional
+encoding.

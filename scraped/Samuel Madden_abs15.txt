@@ -1,0 +1,23 @@
+
+Replicating data across multiple data centers not only allows moving the data
+closer to the user and, thus, reduces latency for applications, but also
+increases the availability in the event of a data center failure. Therefore, it
+is not surprising that companies like Google, Yahoo, and Netflix already
+replicate user data across geographically different regions.
+However, replication across data centers is expensive. Inter-data center
+network delays are in the hundreds of milliseconds and vary significantly.
+Synchronous wide-area replication is therefore considered to be unfeasible with
+strong consistency and current solutions either settle for asynchronous
+replication which implies the risk of losing data in the event of failures,
+restrict consistency to small partitions, or give up consistency entirely. With
+MDCC (Multi-Data Center Consistency), we describe the first optimistic commit
+protocol, that does not require a master or partitioning, and is strongly
+consistent at a cost similar to eventually consistent protocols. MDCC can
+commit transactions in a single round-trip across data centers in the normal
+operational case. We further propose a new programming model which empowers the
+application developer to handle longer and unpredictable latencies caused by
+inter-data center communication. Our evaluation using the TPC-W benchmark with
+MDCC deployed across 5 geographically diverse data centers shows that MDCC is
+able to achieve throughput and latency similar to eventually consistent quorum
+protocols and that MDCC is able to sustain a data center outage without a
+significant impact on response times while guaranteeing strong consistency.

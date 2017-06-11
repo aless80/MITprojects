@@ -1,0 +1,19 @@
+
+In this paper we consider a broad class of infinite horizon discrete-time
+optimal control models that involve a nonnegative cost function and an affine
+mapping in their dynamic programming equation. They include as special cases
+classical models such as stochastic undiscounted nonnegative cost problems,
+stochastic multiplicative cost problems, and risk-sensitive problems with
+exponential cost. We focus on the case where the state space is finite and the
+control space has some compactness properties. We assume that the affine
+mapping has a semicontractive character, whereby for some policies it is a
+contraction, while for others it is not. In one line of analysis, we impose
+assumptions that guarantee that the latter policies cannot be optimal. Under
+these assumptions, we prove strong results that resemble those for discounted
+Markovian decision problems, such as the uniqueness of solution of Bellman's
+equation, and the validity of forms of value and policy iteration. In the
+absence of these assumptions, the results are weaker and unusual in character:
+the optimal cost function need not be a solution of Bellman's equation, and an
+optimal policy may not be found by value or policy iteration. Instead the
+optimal cost function over just the contractive policies solves Bellman's
+equation, and can be computed by a variety of algorithms.

@@ -1,0 +1,9 @@
+
+Relational databases have limited support for data collaboration, where teams
+collaboratively curate and analyze large datasets. Inspired by software version
+control systems like git, we propose (a) a dataset version control system,
+giving users the ability to create, branch, merge, difference and search large,
+divergent collections of datasets, and (b) a platform, DataHub, that gives
+users the ability to perform collaborative data analysis building on this
+version control system. We outline the challenges in providing dataset version
+control at scale.

@@ -1,0 +1,12 @@
+
+We consider the recovery of a nonnegative vector x from measurements y = Ax,
+where A is an m-by-n matrix whos entries are in {0, 1}. We establish that when
+A corresponds to the adjacency matrix of a bipartite graph with sufficient
+expansion, a simple message-passing algorithm produces an estimate \hat{x} of x
+satisfying ||x-\hat{x}||_1 \leq O(n/k) ||x-x(k)||_1, where x(k) is the best
+k-sparse approximation of x. The algorithm performs O(n (log(n/k))^2 log(k))
+computation in total, and the number of measurements required is m = O(k
+log(n/k)). In the special case when x is k-sparse, the algorithm recovers x
+exactly in time O(n log(n/k) log(k)). Ultimately, this work is a further step
+in the direction of more formally developing the broader role of
+message-passing algorithms in solving compressed sensing problems.

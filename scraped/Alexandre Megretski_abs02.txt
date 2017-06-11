@@ -1,0 +1,15 @@
+
+We consider baseband equivalent representation of transmission circuits, in
+the form of a nonlinear dynamical system $\mathbf S$ in discrete time (DT)
+defined by a series interconnection of a phase-amplitude modulator, a nonlinear
+dynamical system $\mathbf F$ in continuous time (CT), and an ideal demodulator.
+We show that when $\mathbf F$ is a CT Volterra series model, the resulting
+$\mathbf S$ is a series interconnection of a DT Volterra series model of same
+degree and memory depth, and an LTI system with special properties. The result
+suggests a new, non-obvious, analytically motivated structure of digital
+pre-compensation of analog nonlinear distortions such as those caused by power
+amplifiers in digital communication systems. The baseband model and the
+corresponding digital compensation structure readily extend to OFDM modulation.
+MATLAB simulation is used to verify proposed baseband equivalent model and
+demonstrate effectiveness of the new compensation scheme, as compared to the
+standard Volterra series approach.

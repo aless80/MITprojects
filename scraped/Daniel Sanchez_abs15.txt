@@ -1,0 +1,18 @@
+
+Topological semimetals (TSMs) including Weyl semimetals and nodal-line
+semimetals are expected to open the next frontier of condensed matter and
+materials science. Although the first inversion breaking Weyl semimetal was
+recently discovered in TaAs, its magnetic counterparts, i.e., the time-reversal
+breaking Weyl and nodal line semimetals, remain elusive. They are predicted to
+exhibit exotic properties distinct from the inversion breaking TSMs including
+TaAs. In this paper, we identify the magnetic topological semimetal state in
+the ferromagnetic half-metal compounds Co$_2$TiX (X=Si, Ge, or Sn) with Curie
+temperatures higher than 350 K. Our first-principles band structure
+calculations show that, in the absence of spin-orbit coupling, Co$_2$TiX
+features three topological nodal lines. The inclusion of spin-orbit coupling
+gives rise to Weyl nodes, whose momentum space locations can be controlled as a
+function of the magnetization direction. Our results not only open the door for
+the experimental realization of topological semimetal states in magnetic
+materials at room temperatures, but also suggest potential applications such as
+unusual anomalous Hall effects in engineered monolayers of the Co$_2$TiX
+compounds at high temperatures.

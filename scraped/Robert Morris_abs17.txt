@@ -1,0 +1,8 @@
+
+The Ramsey number r(K_s,Q_n) is the smallest positive integer N such that
+every red-blue colouring of the edges of the complete graph K_N on N vertices
+contains either a red n-dimensional hypercube, or a blue clique on s vertices.
+Answering a question of Burr and Erd\H{o}s from 1983, and improving on recent
+results of Conlon, Fox, Lee and Sudakov, and of the current authors, we show
+that r(K_s,Q_n) = (s-1) (2^n - 1) + 1 for every s \in \N and every sufficiently
+large n \in \N.

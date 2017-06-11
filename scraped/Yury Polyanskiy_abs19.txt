@@ -1,0 +1,23 @@
+
+One of the basic tenets in information theory, the data processing inequality
+states that output divergence does not exceed the input divergence for any
+channel. For channels without input constraints, various estimates on the
+amount of such contraction are known, Dobrushin's coefficient for the total
+variation being perhaps the most well-known. This work investigates channels
+with average input cost constraint. It is found that while the contraction
+coefficient typically equals one (no contraction), the information nevertheless
+dissipates. A certain non-linear function, the \emph{Dobrushin curve} of the
+channel, is proposed to quantify the amount of dissipation. Tools for
+evaluating the Dobrushin curve of additive-noise channels are developed based
+on coupling arguments. Some basic applications in stochastic control,
+uniqueness of Gibbs measures and fundamental limits of noisy circuits are
+discussed.
+As an application, it shown that in the chain of $n$ power-constrained relays
+and Gaussian channels the end-to-end mutual information and maximal squared
+correlation decay as $\Theta(\frac{\log\log n}{\log n})$, which is in stark
+contrast with the exponential decay in chains of discrete channels. Similarly,
+the behavior of noisy circuits (composed of gates with bounded fan-in) and
+broadcasting of information on trees (of bounded degree) does not experience
+threshold behavior in the signal-to-noise ratio (SNR). Namely, unlike the case
+of discrete channels, the probability of bit error stays bounded away from
+$1\over 2$ regardless of the SNR.

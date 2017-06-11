@@ -1,0 +1,21 @@
+
+The long coherence times and strong Coulomb interactions afforded by trapped
+ion qubits have enabled realizations of the necessary primitives for quantum
+information processing (QIP), and indeed the highest-fidelity quantum
+operations in any qubit to date. But while light delivery to each individual
+ion in a system is essential for general quantum manipulations and readout,
+experiments so far have employed optical systems cumbersome to scale to even a
+few tens of qubits. Here we demonstrate lithographically defined nanophotonic
+waveguide devices for light routing and ion addressing fully integrated within
+a surface-electrode ion trap chip. Ion qubits are addressed at multiple
+locations via focusing grating couplers emitting through openings in the trap
+electrodes to ions trapped 50 $\mu$m above the chip; using this light we
+perform quantum coherent operations on the optical qubit transition in
+individual $^{88}$Sr$^+$ ions. The grating focuses the beam to a
+diffraction-limited spot near the ion position with a 2 $\mu$m 1/$e^2$-radius
+along the trap axis, and we measure crosstalk errors between $10^{-2}$ and
+$4\times10^{-4}$ at distances 7.5-15 $\mu$m from the beam center. Owing to the
+scalability of the planar fabrication employed, together with the tight
+focusing and stable alignment afforded by optics integration within the trap
+chip, this approach presents a path to creating the optical systems required
+for large-scale trapped-ion QIP.

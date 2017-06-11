@@ -1,0 +1,26 @@
+
+[Abridged] We present a robust measurement of the rest-frame UV luminosity
+function (LF) and its evolution during the peak epoch of cosmic star formation
+at 1<z<3. We use our deep near ultraviolet imaging from WFC3/UVIS on the Hubble
+Space Telescope (HST) and existing ACS/WFC and WFC3/IR imaging of three lensing
+galaxy clusters, Abell 2744 and MACSJ0717 from the Hubble Frontier Field survey
+and Abell 1689. We use photometric redshifts to identify 780 ultra-faint
+galaxies with $M_{UV}$<-12.5 AB mag at 1<z<3. From these samples, we identified
+5 new, faint, multiply imaged systems in A1689. We compute the rest-frame UV LF
+and find the best-fit faint-end slopes of $\alpha=-1.56\pm0.04$,
+$\alpha=-1.72\pm0.04$ and $\alpha=-1.94\pm0.06$ at 1.0<z<1.6, 1.6<z<2.2 and
+2.2<z<3.0, respectively. Our results demonstrate that the UV LF becomes steeper
+from z\sim1.3 to z\sim2.6 with no sign of a turnover down to $M_{UV}=-14$ AB
+mag. We further derive the UV LFs using the Lyman break "dropout" selection and
+confirm the robustness of our conclusions against different selection
+methodologies. Because the sample sizes are so large, and extend to such faint
+luminosities, the statistical uncertainties are quite small, and systematic
+uncertainties (due to the assumed size distribution, for example), likely
+dominate. If we restrict our analysis to galaxies and volumes above > 50%
+completeness in order to minimize these systematics, we still find that the
+faint-end slope is steep and getting steeper with redshift, though with
+slightly shallower (less negative) values ($\alpha=-1.55\pm0.06$,
+$-1.69\pm0.07$ and $-1.79\pm0.08$ for $z\sim1.3$, 1.9 and 2.6, respectively).
+Finally, we conclude that the faint star-forming galaxies with UV magnitudes of
+$-18.5<M_{UV}<-12.5$ covered in this study, produce the majority (55%-60%) of
+the unobscured UV luminosity density at 1<z<3.

@@ -1,0 +1,19 @@
+
+In this paper, we examine in an abstract framework, how a tradeoff between
+efficiency and robustness arises in different dynamic oligopolistic market
+architectures. We consider a market in which there is a monopolistic resource
+provider and agents that enter and exit the market following a random process.
+Self-interested and fully rational agents dynamically update their resource
+consumption decisions over a finite time horizon, under the constraint that the
+total resource consumption requirements are met before each individual's
+deadline. We then compare the statistics of the stationary aggregate demand
+processes induced by the non-cooperative and cooperative load scheduling
+schemes. We show that although the non-cooperative load scheduling scheme leads
+to an efficiency loss - widely known as the "price of anarchy" - the stationary
+distribution of the corresponding aggregate demand process has a smaller tail.
+This tail, which corresponds to rare and undesirable demand spikes, is
+important in many applications of interest. On the other hand, when the agents
+can cooperate with each other in optimizing their total cost, a higher market
+efficiency is achieved at the cost of a higher probability of demand spikes. We
+thus posit that the origins of endogenous risk in such systems may lie in the
+market architecture, which is an inherent characteristic of the system.

@@ -1,0 +1,9 @@
+
+Contemporary deep neural networks exhibit impressive results on practical
+problems. These networks generalize well although their inherent capacity may
+extend significantly beyond the number of training examples. We analyze this
+behavior in the context of deep, infinite neural networks. We show that deep
+infinite layers are naturally aligned with Gaussian processes and kernel
+methods, and devise stochastic kernels that encode the information of these
+networks. We show that stability results apply despite the size, offering an
+explanation for their empirical success.

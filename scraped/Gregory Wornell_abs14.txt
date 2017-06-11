@@ -1,0 +1,12 @@
+
+Lattice coding and decoding have been shown to achieve the capacity of the
+additive white Gaussian noise (AWGN) channel. This was accomplished using a
+minimum mean-square error scaling and randomization to transform the AWGN
+channel into a modulo-lattice additive noise channel of the same capacity. It
+has been further shown that when operating at rates below capacity but above
+the critical rate of the channel, there exists a rate-dependent scaling such
+that the associated modulo-lattice channel attains the error exponent of the
+AWGN channel. A geometric explanation for this result is developed. In
+particular, it is shown how the geometry of typical error events for the
+modulo-lattice channel coincides with that of a spherical code for the AWGN
+channel.

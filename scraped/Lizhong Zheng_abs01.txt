@@ -1,0 +1,17 @@
+
+Abstract: In this paper, we propose an open-loop unequal error protection querying
+policy based on superposition coding for the noisy 20 questions problem. In
+this problem, a player wishes to successively refine an estimate of the value
+of a continuous random variable by posing binary queries and receiving noisy
+responses. When the queries are designed non-adaptively as a single block and
+the noisy responses are modeled as the output of a binary symmetric channel the
+20 questions problem can be mapped to an equivalent problem of channel coding
+with unequal error protection (UEP). A new non-adaptive querying strategy based
+on UEP superposition coding is introduced whose estimation error decreases with
+an exponential rate of convergence that is significantly better than that of
+the UEP repetition code introduced by Variani et al. (2015). With the proposed
+querying strategy, the rate of exponential decrease in the number of queries
+matches the rate of a closed-loop adaptive scheme where queries are
+sequentially designed with the benefit of feedback. Furthermore, the achievable
+error exponent is significantly better than that of a random block code
+employing equal error protection.

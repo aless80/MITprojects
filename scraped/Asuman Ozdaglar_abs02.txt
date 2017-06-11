@@ -1,0 +1,23 @@
+
+To systematically study the implications of additional information about
+routes provided to certain users (e.g., via GPS-based route guidance systems),
+we introduce a new class of congestion games in which users have differing
+information sets about the available edges and can only use routes consisting
+of edges in their information set. After defining the notion of Information
+Constrained Wardrop Equilibrium (ICWE) for this class of congestion games and
+studying its basic properties, we turn to our main focus: whether additional
+information can be harmful (in the sense of generating greater equilibrium
+costs/delays). We formulate this question in the form of Informational Braess'
+Paradox (IBP), which extends the classic Braess' Paradox in traffic equilibria,
+and asks whether users receiving additional information can become worse off.
+We provide a comprehensive answer to this question showing that in any network
+in the series of linearly independent (SLI) class, which is a strict subset of
+series-parallel network, IBP cannot occur, and in any network that is not in
+the SLI class, there exists a configuration of edge-specific cost functions for
+which IBP will occur. In the process, we establish several properties of the
+SLI class of networks, which are comprised of linearly independent networks
+joined together. These properties include the characterization of the
+complement of the SLI class in terms of embedding a specific set of subgraphs,
+and also show that whether a graph is SLI can be determined in linear time. We
+further prove that the worst-case inefficiency performance of ICWE is no worse
+than the standard Wardrop Equilibrium with one type of users.

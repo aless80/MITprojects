@@ -1,0 +1,8 @@
+
+We report on vertically-illuminated photodiodes fabricated in the
+GlobalFoundries 45nm 12SOI node and on a packaging concept for
+optically-interconnected chips. The photodiodes are responsive at 1180 nm, a
+wavelength currently used in chip-to-chip communications. They have further a
+wide field-of-view which enables chip-to-board positional feedback in
+chip-board assemblies. Monolithic integration enables on-chip processing of the
+positional data.

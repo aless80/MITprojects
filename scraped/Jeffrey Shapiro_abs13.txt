@@ -1,0 +1,13 @@
+
+The secret key rate attained by a free-space QKD system in the {\em
+near-field} propagation regime (relevant for $1$-$10$ km range using $\approx
+7$ cm radii transmit and receive apertures and $1.55~\mu$m transmission center
+wavelenght) can benefit from the use of multiple spatial modes. A suite of
+theoretical research in recent years have suggested the use of
+orbital-angular-momentum (OAM) bearing spatial modes of light to obtain this
+improvement in rate. We show that most of the aforesaid rate improvement in the
+near field afforded by spatial-mode multiplexing can be realized by a
+simple-to-build overlapping Gaussian beam array (OGBA) and a pixelated detector
+array. With the current state-of-the-art in OAM-mode-sorting efficiencies, the
+key-rate performance of our OGBA architecture could come very close to, if not
+exceed, that of a system employing OAM modes, but at a fraction of the cost.

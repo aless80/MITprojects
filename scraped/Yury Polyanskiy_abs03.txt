@@ -1,0 +1,19 @@
+
+This paper addresses the problem of adding redundancy to a collection of
+physical objects so that the overall system is more robust to failures.
+Physical redundancy can (generally) be achieved by employing copy/substitute
+procedures. This is fundamentally different from information redundancy, where
+a single parity check simultaneously protects a large number of data bits
+against a single erasure. We propose a bipartite graph model of designing
+defect-tolerant systems where defective objects are repaired by reconnecting
+them to strategically placed redundant objects. The fundamental limits of this
+model are characterized under various asymptotic settings and both asymptotic
+and finite-size optimal systems are constructed.
+Mathematically, we say that a $k$ by $m$ bipartite graph corrects $t$ defects
+over an alphabet of size $q$ if for every $q$-coloring of $k$ left vertices
+there exists a $q$-coloring of $m$ right vertices such that every left vertex
+is connected to at least $t$ same-colored right vertices. We study the
+trade-off between redundancy $m / k$ and the total number of edges in the graph
+divided by $k$. The question is trivial when $q\ge k$: the optimal solution is
+a simple $t$-fold replication. However, when $q<k$ non-trivial savings are
+possible by leveraging the inherent repetition of colors.

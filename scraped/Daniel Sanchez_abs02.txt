@@ -1,0 +1,16 @@
+
+Abstract: The recent discovery of a Weyl semimetal in TaAs offers the first Weyl
+fermion observed in nature and dramatically broadens the classification of
+topological phases. However, in TaAs it has proven challenging to study the
+rich transport phenomena arising from emergent Weyl fermions. The series
+Mo$_x$W$_{1-x}$Te$_2$ are inversion-breaking, layered, tunable semimetals
+already under study as a promising platform for new electronics and recently
+proposed to host Type II, or strongly Lorentz-violating, Weyl fermions. Here we
+report the discovery of a Weyl semimetal in Mo$_x$W$_{1-x}$Te$_2$ at $x =
+25\%$. We use pump-probe angle-resolved photoemission spectroscopy (pump-probe
+ARPES) to directly observe a topological Fermi arc above the Fermi level,
+demonstrating a Weyl semimetal. The excellent agreement with calculation
+suggests that Mo$_x$W$_{1-x}$Te$_2$ is the first Type II Weyl semimetal. We
+also find that certain Weyl points are at the Fermi level, making
+Mo$_x$W$_{1-x}$Te$_2$ a promising platform for transport and optics experiments
+on Weyl semimetals.

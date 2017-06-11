@@ -1,0 +1,23 @@
+
+We study a model for cascade effects over finite networks based on a
+deterministic binary linear threshold model. Our starting point is a networked
+coordination game where each agent's payoff is the sum of the payoffs coming
+from pairwise interactions with each of the neighbors. We first establish that
+the best response dynamics in this networked game is equivalent to the linear
+threshold dynamics with heterogeneous thresholds over the agents. While the
+previous literature has studied such linear threshold models under the
+assumption that each agent may change actions at most once, a study of best
+response dynamics in such networked games necessitates an analysis that allows
+for multiple switches in actions. In this paper, we develop such an analysis
+and construct a combinatorial framework to understand the behavior of the
+model. To this end, we establish that the agents behavior cycles among
+different actions in the limit and provide three sets of results.
+We first characterize the limiting behavioral properties of the dynamics. We
+determine the length of the limit cycles and reveal bounds on the time steps
+required to reach such cycles for different network structures. We then study
+the complexity of decision/counting problems that arise within the context.
+Specifically, we consider the tractability of counting the number of limit
+cycles and fixed-points, and deciding the reachability of action profiles. We
+finally propose a measure of network resilience that captures the nature of the
+involved dynamics. We prove bounds and investigate the resilience of different
+network structures under this measure.
