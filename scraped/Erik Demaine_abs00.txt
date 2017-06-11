@@ -1,7 +1,0 @@
-
-This paper addresses the problem of finding minimum forcing sets in origami.
-The origami material folds flat along straight lines called creases that can be
-labeled as mountains or valleys. A forcing set is a subset of creases that
-force all the other creases to fold according to their labels. The result is a
-flat folding of the origami material. In this paper we develop a linear time
-algorithm that finds minimum forcing sets in one dimensional origami.

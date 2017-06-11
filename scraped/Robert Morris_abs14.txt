@@ -1,7 +1,0 @@
-
-We study sum-free sets in sparse random subsets of even order abelian groups.
-In particular, we determine the sharp threshold for the following property: the
-largest such set is contained in some maximum-size sum-free subset of the
-group. This theorem extends recent work of Balogh, Morris and Samotij, who
-resolved the case G = Z_{2n}, and who obtained a weaker threshold (up to a
-constant factor) in general.

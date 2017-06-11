@@ -1,9 +1,0 @@
-
-We show how to compute Casimir forces at nonzero temperatures with
-time-domain electromagnetic simulations, for example using a finite-difference
-time-domain (FDTD) method. Compared to our previous zero-temperature
-time-domain method, only a small modification is required, but we explain that
-some care is required to properly capture the zero-frequency contribution. We
-validate the method against analytical and numerical frequency-domain
-calculations, and show a surprising high-temperature disappearance of a
-non-monotonic behavior previously demonstrated in a piston-like geometry.

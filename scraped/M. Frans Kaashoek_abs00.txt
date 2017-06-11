@@ -1,9 +1,0 @@
-
-The Riccati inequality and equality are studied for infinite dimensional
-linear discrete time stationary systems with respect to the scattering supply
-rate. The results obtained are an addition to and based on our earlier work on
-the Kalman-Yakubovich-Popov inequality in [6]. The main theorems are closely
-related to the results of Yu. M. Arlinski\u{\i} in [3]. The main difference is
-that we do not assume the original system to be a passive scattering system,
-and we allow the solutions of the Riccati inequality and equality to satisfy
-weaker conditions.

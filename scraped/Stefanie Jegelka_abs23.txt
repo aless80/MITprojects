@@ -1,9 +1,0 @@
-
-We study an extension of the classical graph cut problem, wherein we replace
-the modular (sum of edge weights) cost function by a submodular set function
-defined over graph edges. Special cases of this problem have appeared in
-different applications in signal processing, machine learning, and computer
-vision. In this paper, we connect these applications via the generic
-formulation of "cooperative graph cuts", for which we study complexity,
-algorithms, and connections to polymatroidal network flows. Finally, we compare
-the proposed algorithms empirically.

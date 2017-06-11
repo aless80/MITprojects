@@ -1,8 +1,0 @@
-
-We prove that Morrison and Nieh's categorification of the su(3) quantum knot
-invariant is functorial with respect to tangle cobordisms. This is in contrast
-to the categorified su(2) theory, which was not functorial as originally
-defined. We use methods of Bar-Natan to construct explicit chain maps for each
-variation of the third Reidemeister move. Then, to show functoriality, we
-modify arguments used by Clark, Morrison, and Walker to show that induced chain
-maps are invariant under Carter and Saito's movie moves.

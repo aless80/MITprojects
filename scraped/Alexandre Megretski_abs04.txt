@@ -1,6 +1,0 @@
-
-We construct structured H-Infinity optimal model matching problems with
-rational coefficients, in which the optimal solution is not rational, in the
-sense that the cost does not achieve its maximal lower bound on the set of
-rational matching models, but the same maximal lower bound can be reached by
-using a continuous non-rational matching model.

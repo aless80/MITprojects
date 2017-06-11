@@ -1,7 +1,0 @@
-
-This pamphlet describes end-to-end election verifiability (E2E-V) for a
-nontechnical audience: election officials, public policymakers, and anyone else
-interested in secure, transparent, evidence-based electronic elections.
-This work is part of the Overseas Vote Foundation's End-to-End Verifiable
-Internet Voting: Specification and Feasibility Assessment Study (E2E VIV
-Project), funded by the Democracy Fund.

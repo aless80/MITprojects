@@ -1,3 +1,0 @@
-
-This paper surveys and discusses recent work adapting partial differential
-equation (PDE) models to discrete structures.

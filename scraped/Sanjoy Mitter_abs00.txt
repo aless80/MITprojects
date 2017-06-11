@@ -1,4 +1,0 @@
-
-Theorems from Part 1 of this paper are generalized to {\psi}-mixing sources
-in this paper. Application to Markoff chains and order m Markoff chains is
-presented. The main result is the generalization of Theorem 1 in Part 1.

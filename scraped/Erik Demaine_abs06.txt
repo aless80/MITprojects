@@ -1,8 +1,0 @@
-
-We show that every orthogonal polyhedron of genus at most 2 can be unfolded
-without overlap while using only a linear number of orthogonal cuts (parallel
-to the polyhedron edges). This is the first result on unfolding general
-orthogonal polyhedra beyond genus-0. Our unfolding algorithm relies on the
-existence of at most 2 special leaves in what we call the "unfolding tree"
-(which ties back to the genus), so unfolding polyhedra of genus 3 and beyond
-requires new techniques.

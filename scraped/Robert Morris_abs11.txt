@@ -1,8 +1,0 @@
-
-In 1987, Kolaitis, Pr\"omel and Rothschild proved that, for every fixed $r
-\in \mathbb{N}$, almost every $n$-vertex $K_{r+1}$-free graph is $r$-partite.
-In this paper we extend this result to all functions $r = r(n)$ with $r
-\leqslant (\log n)^{1/4}$. The proof combines a new (close to sharp)
-supersaturation version of the Erd\H{o}s-Simonovits stability theorem, the
-hypergraph container method, and a counting technique developed by Balogh,
-Bollob\'as and Simonovits.

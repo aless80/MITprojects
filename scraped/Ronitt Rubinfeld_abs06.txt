@@ -1,8 +1,0 @@
-
-We present simple, self-contained proofs of correctness for algorithms for
-linearity testing and program checking of linear functions on finite subsets of
-integers represented as n-bit numbers. In addition we explore a generalization
-of self-testing to homomorphisms on a multidimensional vector space. We show
-that our self-testing algorithm for the univariate case can be directly
-generalized to vector space domains. The number of queries made by our
-algorithms is independent of domain size.

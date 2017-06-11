@@ -1,8 +1,0 @@
-
-In this paper, we propose a novel method to estimate and characterize spatial
-variations on dies or wafers. This new technique exploits recent developments
-in matrix completion, enabling estimation of spatial variation across wafers or
-dies with a small number of randomly picked sampling points while still
-achieving fairly high accuracy. This new approach can be easily generalized,
-including for estimation of mixed spatial and structure or device type
-information.

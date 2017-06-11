@@ -1,9 +1,0 @@
-
-We show that direct current in a tantalum microstrip can induce steady-state
-magnetic oscillations in an adjacent nanomagnet through spin torque from the
-spin Hall effect (SHE). The oscillations are detected electrically via a
-magnetic tunnel junction (MTJ) contacting the nanomagnet. The oscillation
-frequency can be controlled using the MTJ bias to tune the magnetic anisotropy.
-In this 3-terminal device the SHE torque and the MTJ bias therefore provide
-independent controls of the oscillation amplitude and frequency, enabling new
-approaches for developing tunable spin torque nano-oscillators.

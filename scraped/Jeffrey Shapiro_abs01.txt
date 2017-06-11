@@ -1,4 +1,0 @@
-
-We use the noisy entanglement-assisted classical capacity formula
-[arXiv:1609.08592] to create a coherent-attack security framework for Gaussian
-two-way quantum key distribution protocols in the asymptotic region.

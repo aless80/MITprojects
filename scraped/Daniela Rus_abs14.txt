@@ -1,9 +1,0 @@
-
-A case study of the Singapore road network provides empirical evidence that
-road pricing can significantly affect commuter trip timing behaviors. In this
-paper, we propose a model of trip timing decisions that reasonably matches the
-observed commuters' behaviors. Our model explicitly captures the difference in
-individuals' sensitivity to price, travel time and early or late arrival at
-destination. New pricing schemes are suggested to better spread peak travel and
-reduce traffic congestion. Simulation results based on the proposed model are
-provided in comparison with the real data for the Singapore case study.

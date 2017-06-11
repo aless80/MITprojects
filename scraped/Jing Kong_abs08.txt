@@ -1,9 +1,0 @@
-
-A single-term density functional model for nondynamic and strong correlation
-is presented, based on single-determinant Kohn-Sham density functional theory.
-It is derived from modeling the adiabatic connection and contains only two
-nonlinear empirical parameters. Preliminary tests show that the model recovers
-majority of nondynamic correlation during a molecular dissociation and at the
-same time performs reasonably for atomization energies. It demonstrates the
-feasibility of developing DFT functionals for nondynamic and strong correlation
-within the single-determinant KS scheme.

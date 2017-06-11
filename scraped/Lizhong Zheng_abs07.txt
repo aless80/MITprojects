@@ -1,8 +1,0 @@
-
-Abstract: The relationship between the transmitted signal and the noiseless received
-signals in correlatively changing fading channels is modeled as a nonlinear
-mapping over manifolds of different dimensions. Dimension counting argument
-claims that the dimensionality of the neighborhood in which this mapping is
-bijective with probability one is achievable as the degrees of freedom of the
-system.We call the degrees of freedom achieved by the nonlinear decoding
-methods the nonlinear degrees of freedom.

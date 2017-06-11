@@ -1,8 +1,0 @@
-
-We investigate quasisymmetric functions coming from combinatorial Hopf
-monoids. We show that these invariants arise naturally in Ehrhart theory, and
-that some of their specializations are Hilbert functions for relative
-simplicial complexes. This class of complexes, called forbidden composition
-complexes, also forms a Hopf monoid, thus demonstrating a link between Hopf
-algebras, Ehrhart theory, and commutative algebra. We also study various
-specializations of quasisymmetric functions.

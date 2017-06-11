@@ -1,8 +1,0 @@
-
-A scalable superconducting architecture for adiabatic quantum computers is
-proposed. The architecture is based on time-independent, nearest-neighbor
-interqubit couplings: it can handle any problem in the class NP even in the
-presence of measurement errors, noise, and decoherence. The implementation of
-this architecture with superconducting persistent-current qubits and the
-natural robustness of such an implementation to manufacturing imprecision and
-decoherence are discussed.

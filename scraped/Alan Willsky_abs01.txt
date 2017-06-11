@@ -1,9 +1,0 @@
-
-We study the convex hull of $SO(n)$, thought of as the set of $n\times n$
-orthogonal matrices with unit determinant, from the point of view of
-semidefinite programming. We show that the convex hull of $SO(n)$ is doubly
-spectrahedral, i.e. both it and its polar have a description as the
-intersection of a cone of positive semidefinite matrices with an affine
-subspace. Our spectrahedral representations are explicit, and are of minimum
-size, in the sense that there are no smaller spectrahedral representations of
-these convex bodies.

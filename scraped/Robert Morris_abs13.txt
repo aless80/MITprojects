@@ -1,5 +1,0 @@
-
-We show that, for $pn \to \infty$, the largest set in a $p$-random sub-family
-of the power set of $\{1, \ldots, n\}$ containing no $k$-chain has size $( k -
-1 + o(1) ) p \binom{n}{n/2}$ with high probability. This confirms a conjecture
-of Osthus, and has been proved independently by Balogh, Mycroft and Treglown.

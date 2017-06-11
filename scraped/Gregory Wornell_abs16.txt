@@ -1,9 +1,0 @@
-
-We prove an upper bound on the private capacity of the single-mode noiseless
-bosonic wiretap channel. Combined with a previous lower bound, we obtain the
-low photon-number asymptotic expression for the private capacity. We then show
-that the multiple-mode noiseless bosonic wiretap channel is equivalent to
-parallel single-mode channels, hence the single-mode bounds can be applied.
-Finally, we consider multiple-spatial-mode propagation through atmospheric
-turbulence, and derive a private-capacity lower bound that only requires second
-moments of the channel matrix.

@@ -1,9 +1,0 @@
-
-Combinatorial Hopf algebras arise in a variety of applications. Recently,
-Aguiar and Mahajan showed how many well-studied Hopf algebras are closely
-related to Hopf monoids in species.
-In this paper, we study Hopf monoids in graphical species, giving a
-`graph-theoretic' analogue to the work of Aguiar and Mahajan. In particular,
-several examples of Hopf monoids in graphical species are detailed, most of
-which are related to graph coloring, or hyperplane arrangements associated to
-graphs.

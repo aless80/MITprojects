@@ -1,9 +1,0 @@
-
-Gravitational-wave interferometers are expected to monitor the last three
-minutes of inspiral and final coalescence of neutron star and black hole
-binaries at distances approaching cosmological, where the event rate may be
-many per year. Because the binary's accumulated orbital phase can be measured
-to a fractional accuracy $\ll 10^{-3}$ and relativistic effects are large, the
-waveforms will be far more complex, carry more information, and be far harder
-to model theoretically than has been expected. Theorists must begin now to lay
-a foundation for extracting the waves' information.

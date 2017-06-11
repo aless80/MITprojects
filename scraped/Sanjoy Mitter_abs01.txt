@@ -1,9 +1,0 @@
-
-In this paper, the problem of communication over an essentially unknown
-channel, which is known to be able to communicate a source to a destination to
-within a certain distortion level, is con- sidered from a behavioral,
-interconnection view-point. Rates of re- liable communication are derived and
-source-channel separation for communication with fidelity criteria is proved.
-The results are then generalized to the multi-user setting under certain
-assump- tions. Other applications of this problem problem which follow from
-this perspective are discussed.

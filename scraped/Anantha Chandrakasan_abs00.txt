@@ -1,6 +1,0 @@
-
-Ultra-wideband (UWB) communication is an emerging wireless technology that
-promises high data rates over short distances and precise locationing. The
-large available bandwidth and the constraint of a maximum power spectral
-density drives a unique set of system challenges. This paper addresses these
-challenges using two UWB transceivers and a discrete prototype platform.

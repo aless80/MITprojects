@@ -1,8 +1,0 @@
-
-We present an optical setup that can be used to characterize the thicknesses
-of thin NbN films to screen samples for fabrication and to better model the
-performance of the resulting superconducting nanowire single photon detectors.
-The infrared transmissometer reported here is easy to use, gives results within
-minutes and is non-destructive. Thus, the thickness measurement can be easily
-integrated into the workflow of deposition and characterization. Comparison to
-a similar visible-wavelength transmissometer is provided.

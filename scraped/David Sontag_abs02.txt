@@ -1,7 +1,0 @@
-
-This work presents a novel objective function for the unsupervised training
-of neural network sentence encoders. It exploits signals from paragraph-level
-discourse coherence to train these models to understand text. Our objective is
-purely discriminative, allowing us to train models many times faster than was
-possible under prior methods, and it yields models which perform well in
-extrinsic evaluations.

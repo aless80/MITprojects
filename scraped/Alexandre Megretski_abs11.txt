@@ -1,3 +1,0 @@
-
-Several variations of the classical Kalman-Yakubovich-Popov Lemma, as well
-the associated minimax theorem are presented.

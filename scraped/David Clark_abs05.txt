@@ -1,6 +1,0 @@
-
-We give a new solution to the famous Gion shrine geometry problem from
-eighteenth-century Japan. Like the classical Japanese solution, ours is given
-in the form of a degree ten equation. However, our polynomial has the advantage
-of being much easier to write down. We also provide some additional analysis,
-including a discussion of existence and uniqueness.

@@ -1,9 +1,0 @@
-
-We consider Newton methods for common types of single commodity and
-multi-commodity network flow problems. Despite the potentially very large
-dimension of the problem, they can be implemented using the conjugate gradient
-method and low-dimensional network operations, as shown nearly thirty years
-ago. We revisit these methods, compare them to more recent proposals, and
-describe how they can be implemented in a distributed computing system. We also
-discuss generalizations, including the treatment of arc gains, linear side
-constraints, and related special structures.

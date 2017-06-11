@@ -1,8 +1,0 @@
-
-We study multivariate normal models that are described by linear constraints
-on the inverse of the covariance matrix. Maximum likelihood estimation for such
-models leads to the problem of maximizing the determinant function over a
-spectrahedron, and to the problem of characterizing the image of the positive
-definite cone under an arbitrary linear projection. These problems at the
-interface of statistics and optimization are here examined from the perspective
-of convex algebraic geometry.

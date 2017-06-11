@@ -1,5 +1,0 @@
-
-Floodlight quantum key distribution (FL-QKD) uses binary phase-shift keying
-(BPSK) of multiple optical modes to achieve Gbps secret-key rates (SKRs) at
-metropolitan-area distances. We show that FL-QKD's SKR can be doubled by using
-32-ary PSK.

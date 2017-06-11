@@ -1,7 +1,0 @@
-
-Detecting the edges of objects within images is critical for quality image
-processing. We present an edge-detecting technique that uses morphological
-amoebas that adjust their shape based on variation in image contours. We
-evaluate the method both quantitatively and qualitatively for edge detection of
-images, and compare it to classic morphological methods. Our amoeba-based
-edge-detection system performed better than the classic edge detectors.

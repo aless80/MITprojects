@@ -1,9 +1,0 @@
-
-We prove that the probability of crossing a large square in quenched Voronoi
-percolation converges to 1/2 at criticality, confirming a conjecture of
-Benjamini, Kalai and Schramm from 1999. The main new tools are a quenched
-version of the box-crossing property for Voronoi percolation at criticality,
-and an Efron-Stein type bound on the variance of the probability of the
-crossing event in terms of the sum of the squares of the influences. As a
-corollary of the proof, we moreover obtain that the quenched crossing event at
-criticality is almost surely noise sensitive.

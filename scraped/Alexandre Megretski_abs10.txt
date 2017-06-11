@@ -1,8 +1,0 @@
-
-A new framework for nonlinear system identification is presented in terms of
-optimal fitting of stable nonlinear state space equations to input/output/state
-data, with a performance objective defined as a measure of robustness of the
-simulation error with respect to equation errors. Basic definitions and
-analytical results are presented. The utility of the method is illustrated on a
-simple simulation example as well as experimental recordings from a live
-neuron.

@@ -1,7 +1,0 @@
-
-A photodiode with 0.55$\pm$0.1 A/W responsivity at a wavelength of 1176.9 nm
-has been fabricated in a 45 nm microelectronics silicon-on-insulator foundry
-process. The resonant waveguide photodetector exploits carrier generation in
-silicon-germanium (SiGe) within a microring which is compatible with
-high-performance electronics. A 3 dB bandwidth of 5 GHz at -4 V bias is
-obtained with a dark current of less than 20 pA.

@@ -1,8 +1,0 @@
-
-Interstitials (carbon and nitrogen) are crucial alloying elements for
-optimizing the mechanical performance of the twinning-induced plasticity (TWIP)
-steels in terms of the stacking fault energy (SFE). First-principles
-calculations have been performed to study the effect of interstitial-induced
-lattice expansion on the SFE. Comparing the predictions with the SFEs measured
-for alloys containing C and N, our results suggest that the dominant effect of
-these interstitials on the SFE is due to the lattice expansion effect.

@@ -1,8 +1,0 @@
-
-We demonstrate the fabrication of photonic crystal nanobeam cavities with
-rectangular cross section into bulk diamond. In simulation, these cavities have
-an unloaded quality factor (Q) of over 1 million. Measured cavity resonances
-show fundamental modes with spectrometer-limited quality factors larger than
-14,000 within 1nm of the NV center's zero phonon line at 637nm. We find high
-cavity yield across the full diamond chip with deterministic resonance trends
-across the fabricated parameter sweeps.

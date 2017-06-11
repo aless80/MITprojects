@@ -1,9 +1,0 @@
-
-We demonstrate that the spin Hall effect in a thin film with strong
-spin-orbit scattering can excite magnetic precession in an adjacent
-ferromagnetic film. The flow of alternating current through a Pt/NiFe bilayer
-generates an oscillating transverse spin current in the Pt, and the resultant
-transfer of spin angular momentum to the NiFe induces ferromagnetic resonance
-(FMR) dynamics. The Oersted field from the current also generates an FMR signal
-but with a different symmetry. The ratio of these two signals allows a
-quantitative determination of the spin current and the spin Hall angle.

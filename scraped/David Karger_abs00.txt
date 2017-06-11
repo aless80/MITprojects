@@ -1,8 +1,0 @@
-
-This paper formulates a novel problem on graphs: find the minimal subset of
-edges in a fully connected graph, such that the resulting graph contains all
-spanning trees for a set of specifed sub-graphs. This formulation is motivated
-by an un-supervised grammar induction problem from computational linguistics.
-We present a reduction to some known problems and algorithms from graph theory,
-provide computational complexity results, and describe an approximation
-algorithm.

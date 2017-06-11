@@ -1,9 +1,0 @@
-
-We introduce the notion of exchangeable equilibria of a symmetric bimatrix
-game, defined as those correlated equilibria in which players' strategy choices
-are conditionally independently and identically distributed given some hidden
-variable. We give several game-theoretic interpretations and a version of the
-"revelation principle". Geometrically, the set of exchangeable equilibria is
-convex and lies between the symmetric Nash equilibria and the symmetric
-correlated equilibria. Exchangeable equilibria can achieve higher expected
-utility than symmetric Nash equilibria.

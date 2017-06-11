@@ -1,8 +1,0 @@
-
-We combine the work of Garg and Konemann, and Fleischer with ideas from
-dynamic graph algorithms to obtain faster (1-eps)-approximation schemes for
-various versions of the multicommodity flow problem. In particular, if eps is
-moderately small and the size of every number used in the input instance is
-polynomially bounded, the running times of our algorithms match - up to
-poly-logarithmic factors and some provably optimal terms - the Omega(mn)
-flow-decomposition barrier for single-commodity flow.

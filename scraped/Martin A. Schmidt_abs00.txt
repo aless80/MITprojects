@@ -1,6 +1,0 @@
-
-We firstly translate the algebraic presentation of singular curves in [Se,
-Chapter IV] into the analytic setting. Secondly, we present the concept of
-Baker-Akhiezer functions [Kr] on such curves.Generalised divisors [Ha] and
-their interplay with partial desingularisations are the fundament of their
-construction.

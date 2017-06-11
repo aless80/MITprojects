@@ -1,6 +1,0 @@
-
-We explain why the Australian Electoral Commission should perform an audit of
-the paper Senate ballots against the published preference data files. We
-suggest four different post-election audit methods appropriate for Australian
-Senate elections. We have developed prototype code for all of them and tested
-it on preference data from the 2016 election.

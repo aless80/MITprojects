@@ -1,9 +1,0 @@
-
-Malware creators have been getting their way for too long now. String-based
-similarity measures can leverage ground truth in a scalable way and can operate
-at a level of abstraction that is difficult to combat from the code level. We
-introduce ITect, a scalable approach to malware similarity detection based on
-information theory. ITect targets file entropy patterns in different ways to
-achieve 100% precision with 90% accuracy but it could target 100% recall
-instead. It outperforms VirusTotal for precision and accuracy on combined
-Kaggle and VirusShare malware.

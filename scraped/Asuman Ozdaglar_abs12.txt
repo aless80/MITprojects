@@ -1,8 +1,0 @@
-
-This paper proposes a new measure of node centrality in social networks, the
-Harmonic Influence Centrality, which emerges naturally in the study of social
-influence over networks. Using an intuitive analogy between social and
-electrical networks, we introduce a distributed message passing algorithm to
-compute the Harmonic Influence Centrality of each node. Although its design is
-based on theoretical results which assume the network to have no cycle, the
-algorithm can also be successfully applied on general graphs.

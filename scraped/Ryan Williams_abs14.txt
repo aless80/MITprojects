@@ -1,5 +1,0 @@
-
-I will discuss the recent proof that the complexity class NEXP
-(nondeterministic exponential time) lacks nonuniform ACC circuits of polynomial
-size. The proof will be described from the perspective of someone trying to
-discover it.

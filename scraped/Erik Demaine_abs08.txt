@@ -1,6 +1,0 @@
-
-This paper proves that arrangement of music is NP-hard when subject to
-various constraints: avoiding musical dissonance, limiting how many notes can
-be played simultaneously, and limiting transition speed between chords. These
-results imply the computational complexity of related musical problems,
-including musical choreography and rhythm games.

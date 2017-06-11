@@ -1,8 +1,0 @@
-
-An operational perspective is used to understand the relationship between
-source and channel coding. This is based on a direct reduction of one problem
-to another that uses random coding (and hence common randomness) but unlike all
-prior work, does not involve any functional computations, in particular, no
-mutual-information computations. This result is then used to prove a universal
-source-channel separation theorem in the rate-distortion context where
-universality is in the sense of a compound ``general channel.''

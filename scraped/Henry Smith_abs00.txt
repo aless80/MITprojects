@@ -1,9 +1,0 @@
-
-Details of the design, fabrication, ground and flight calibration of the High
-Energy Transmission Grating, HETG, on the Chandra X-ray Observatory are
-presented after five years of flight experience. Specifics include the theory
-of phased transmission gratings as applied to the HETG, the Rowland design of
-the spectrometer, details of the grating fabrication techniques, and the
-results of ground testing and calibration of the HETG. For nearly six years the
-HETG has operated essentially as designed, although it has presented some
-subtle flight calibration effects.

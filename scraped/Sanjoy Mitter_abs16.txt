@@ -1,7 +1,0 @@
-
-Shannon proved that if we can transmit bits reliably at rates larger than the
-rate distortion function $R(D)$, then we can transmit this source to within a
-distortion $D$. We answer the converse question ``If we can transmit a source
-to within a distortion $D$, can we transmit bits reliably at rates less than
-the rate distortion function?'' in the affirmative. This can be viewed as a
-direct converse of the rate distortion theorem.

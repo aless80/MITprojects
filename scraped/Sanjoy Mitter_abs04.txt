@@ -1,7 +1,0 @@
-
-A randomized covering-packing duality between source and channel coding will
-be discussed by considering the source coding problem of coding a source with a
-certain distortion level and by considering a channel which communicates the
-source within a certain distortion level. An operational view of source-channel
-separation for communication with a fidelity criterion will be discussed in
-brief.

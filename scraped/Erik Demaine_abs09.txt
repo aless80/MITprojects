@@ -1,9 +1,0 @@
-
-We study the computational complexity of the Buttons \& Scissors game and
-obtain sharp thresholds with respect to several parameters. Specifically we
-show that the game is NP-complete for $C = 2$ colors but polytime solvable for
-$C = 1$. Similarly the game is NP-complete if every color is used by at most $F
-= 4$ buttons but polytime solvable for $F \leq 3$. We also consider
-restrictions on the board size, cut directions, and cut sizes. Finally, we
-introduce several natural two-player versions of the game and show that they
-are PSPACE-complete.

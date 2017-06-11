@@ -1,9 +1,0 @@
-
-We consider players that have very limited knowledge about their own
-valuations. Specifically, the only information that a Knightian player $i$ has
-about the profile of true valuations, $\theta^*$, consists of a set of
-distributions, from one of which $\theta_i^*$ has been drawn.
-We prove a ``robustness'' theorem for Knightian players in single-parameter
-domains: every mechanism that is weakly dominant-strategy truthful for
-classical players continues to be well-behaved for Knightian players that
-choose undominated strategies.
