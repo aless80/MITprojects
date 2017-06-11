@@ -32,13 +32,13 @@ processing with the text you have instead.
 ## Run the script
 Clone the master branch and run it with e.g.:
 
-`python `
-
-`import gather`
-`abs_dict=gather.main()`
-`import scrape`
-`scrape.main(abs_dict)`
-`scrape.tokenize()`
+```python
+import gather
+abs_dict=gather.main()
+import scrape
+scrape.main(abs_dict)
+scrape.tokenize()
+```
 
 
 ## TODO
