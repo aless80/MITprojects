@@ -40,10 +40,6 @@ scrape.main(abs_dict)
 scrape.tokenize()
 ```
 
-
-## TODO
-Apply LDA
-
 This is an example of the printed output for gather.main(), which stores the faculty members and the links of their abstracts in arXiv in a python dictionary. I stored this dictionary in abs_dict.json in json format.
 
 ```python
@@ -82,6 +78,5 @@ After that call `scrape.main(abs_dict)`, which creates an `abstracts` directory 
 
 ---
 
-## Work in progress!
-
-The script does the scraping and stores the abstract links for each faculty member in the MIT EECS faculty in the abs_dict dictionary.
+## Work in progress! TODO
+Apply LDA
