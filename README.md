@@ -44,7 +44,7 @@ scrape.tokenize()
 ## TODO
 Apply LDA
 
-This is an example of the printed output for gather.main(), which stores the faculty memebrs and the links to their abstracts in a python dictionary: 
+This is an example of the printed output for gather.main(), which stores the faculty members and the links of their abstracts in arXiv in a python dictionary. I stored this dictionary in abs_dict.json in json format.
 
 ```python
 import gather
@@ -67,7 +67,7 @@ abs_dict=gather.main()
 ...
 
 
-31 Munther Dahleh has 25 abstract(s)
+30 Fernando Corbató cannot form a search string. Do accents work in search engine?
 
 ...
 
@@ -77,9 +77,8 @@ abs_dict=gather.main()
 
 ```
 
-After that call `scrape.main(abs_dict)`, which creates an `abstracts` directory with each scraped abstracts (included in this repo). 
+After that call `scrape.main(abs_dict)`, which creates an `abstracts` directory with each scraped abstracts. Finally, `scrape.tokenize()` reads the locally stored abstracts and creates the `tokens` folder containing the tokens and their count. The `abstracts` and `tokens` folder are inclouded in this repo. 
 
-Finally, `scrape.tokenize()` reads the locally stored abstracts and creates the `tokens` folder containing the tokens and their count. 
 
 ---
 
