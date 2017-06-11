@@ -1,132 +1,129 @@
-
-show	1
-judiciously	1
-computation	3
-replicating	1
-centers	1
-completion	1
-We	1
-designers	1
-distributed	2
-,	14
-to	7
-helps	1
-usage	4
-slowest	1
-achieve	1
-them	1
-propose	2
-overall	1
-introduce	1
-replication	3
-increases	1
-scheduler	1
-performance	1
-execution	2
-execute	1
-resource	4
-conditions	1
-reduces	2
-investigate	1
-each	1
-where	1
-For	1
-tension	1
-sends	1
-design	1
-obtains	1
-simultaneously	1
-machines	3
-for	4
-between	2
-issue	1
-be	1
-we	2
-run	1
-job	1
-trade-off	2
-address	1
-by	1
-on	2
-search	1
-of	3
-usually	1
-parallel	2
-or	1
-first	1
-Given	1
-tasks	2
-large-scale	2
-into	1
-one	1
-use	1
-from	1
-there	2
-system	1
-.	8
-scenarios	1
-analyze	1
-type	1
-theoretical	1
-gives	1
-``	1
-finishes	1
-that	3
-near-optimal	1
-policy	1
-known	1
-insights	1
-case	1
-this	3
-challenge	1
-work	1
-while	1
-can	1
-policies	1
-many	1
-Our	1
-distribution	1
-guide	1
-decompose	1
-result	1
-and	8
-computing	2
-is	5
-it	1
-general	1
-''	1
-To	1
-as	1
-exist	1
-in	4
-scheduling	2
-constrained	1
-different	1
-efficient	1
-embarrassingly	1
-when	1
-same	1
-machine	3
-which	2
-optimal	2
-independent	1
-used	1
-multiple	1
-why	1
-time	8
-systems	1
-inherently	1
-variable	1
-data	1
-response	4
-a	5
-task	4
-framework	1
-sometimes	1
-While	1
-analysis	1
-One	1
-algorithms	1
-In	1
-the	10
-typical	1
+show,1
+trade,2
+computation,3
+replicating,1
+centers,1
+completion,1
+We,1
+designers,1
+distributed,2
+to,7
+helps,1
+usage,4
+slowest,1
+achieve,1
+them,1
+propose,2
+overall,1
+introduce,1
+replication,3
+increases,1
+scheduler,1
+performance,1
+execution,2
+execute,1
+resource,4
+conditions,1
+reduces,2
+large,2
+investigate,1
+each,1
+where,1
+For,1
+tension,1
+sends,1
+design,1
+obtains,1
+simultaneously,1
+machines,3
+scale,2
+for,4
+near,1
+between,2
+issue,1
+be,1
+we,2
+run,1
+job,1
+address,1
+by,1
+on,2
+search,1
+of,3
+usually,1
+or,1
+first,1
+Given,1
+tasks,2
+into,1
+one,1
+use,1
+from,1
+there,2
+system,1
+parallel,2
+scenarios,1
+analyze,1
+type,1
+theoretical,1
+gives,1
+finishes,1
+that,3
+policy,1
+known,1
+insights,1
+case,1
+this,3
+challenge,1
+work,1
+while,1
+can,1
+policies,1
+many,1
+Our,1
+distribution,1
+guide,1
+decompose,1
+result,1
+and,8
+computing,2
+is,5
+it,1
+general,1
+To,1
+as,1
+exist,1
+in,4
+scheduling,2
+constrained,1
+judiciously,1
+different,1
+efficient,1
+embarrassingly,1
+when,1
+same,1
+machine,3
+which,2
+optimal,3
+independent,1
+used,1
+multiple,1
+why,1
+time,8
+systems,1
+inherently,1
+variable,1
+data,1
+response,4
+a,5
+task,4
+off,2
+framework,1
+sometimes,1
+While,1
+analysis,1
+One,1
+algorithms,1
+In,1
+the,10
+typical,1

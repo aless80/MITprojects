@@ -1,32 +1,28 @@
-
-strongly	1
-consider	1
-probability	1
-Processes	1
-obtain	1
-sampling	1
-Markov	1
-from	1
-for	1
-)	1
-(	1
-,	1
-fast	1
-.	2
-note	1
-sampler	1
-we	2
-measures	1
-corollary	1
-important	1
-mixing	1
-non-homogeneous	1
-an	1
-a	1
-Chain	1
-Rayleigh	1
-this	1
-Point	1
-Determinantal	1
-As	1
-In	1
+homogeneous,1
+strongly,1
+consider,1
+probability,1
+Processes,1
+non,1
+sampling,1
+from,1
+for,1
+fast,1
+note,1
+sampler,1
+we,2
+measures,1
+obtain,1
+corollary,1
+important,1
+mixing,1
+Markov,1
+an,1
+a,1
+Chain,1
+Rayleigh,1
+this,1
+Point,1
+Determinantal,1
+As,1
+In,1

@@ -1,99 +1,96 @@
-
-all	1
-proposed	1
-produces	1
-over	3
-random	3
-results	1
-distortion	1
-statistical	1
-Under	1
-sampled	1
-We	1
-show	2
-,	8
-to	1
-under	1
-has	1
-parallelizable	1
-possible	2
-number	1
-framework	1
-using	1
-loss	5
-success	1
-Collins04b	1
-upper	1
-methods	1
-some	2
-prediction	2
-maximum	3
-Taskar03	1
-Gibbs	1
-our	1
-principled	1
-techniques	1
-conditions	1
-method	1
-we	1
-McAllester07	1
-This	1
-processing	1
-language	1
-technical	1
-of	8
-study	1
-commonly	2
-Altun03	1
-{	4
-experimental	1
-family	2
-bound	1
-learning	1
-use	1
-from	1
-structured	6
-.	7
-perturbations	1
-tighter	1
-way	1
-proposal	1
-theoretical	1
-more	1
-that	2
-outputs	4
-decoder	1
-than	1
-this	2
-work	1
-up	1
-Zhang14	2
-Zhang15	2
-distribution	1
-are	1
-and	2
-linear-time	1
-is	2
-general	1
-in	2
-functions	2
-Besides	1
-parameter	1
-accuracy	1
-explaining	1
-used	1
-trivially	1
-models	1
-\cite	4
-uses	1
-Margin-based	1
-PAC-Bayes	1
-recent	1
-a	3
-independently	1
-natural	1
-Thus	1
-Gaussian	1
-In	1
-the	8
-}	4
+all,1
+proposed,1
+produces,1
+over,3
+random,3
+results,1
+distortion,1
+PAC,1
+statistical,1
+Under,1
+sampled,1
+We,1
+based,1
+show,2
+to,1
+under,1
+has,1
+parallelizable,1
+possible,2
+number,1
+framework,1
+using,1
+loss,5
+success,1
+upper,1
+methods,1
+some,2
+prediction,2
+maximum,3
+are,1
+Gibbs,1
+our,1
+principled,1
+techniques,1
+Bayes,1
+conditions,1
+method,1
+we,1
+linear,1
+This,1
+processing,1
+McAllester,1
+Margin,1
+language,1
+technical,1
+of,8
+study,1
+commonly,2
+Altun,1
+experimental,1
+family,2
+bound,1
+learning,1
+use,1
+from,1
+Zhang,4
+structured,6
+Collinsb,1
+perturbations,1
+way,1
+proposal,1
+cite,4
+more,1
+that,2
+outputs,4
+decoder,1
+than,1
+this,2
+work,1
+up,1
+theoretical,1
+distribution,1
+and,2
+is,2
+general,1
+in,2
+functions,2
+Taskar,1
+Besides,1
+parameter,1
+accuracy,1
+explaining,1
+used,1
+trivially,1
+models,1
+In,1
+uses,1
+tighter,1
+recent,1
+a,3
+independently,1
+natural,1
+Thus,1
+Gaussian,1
+time,1
+the,8

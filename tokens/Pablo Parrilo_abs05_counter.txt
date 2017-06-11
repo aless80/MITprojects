@@ -1,113 +1,108 @@
-
-particularly	1
-Grassmannians	1
-obtain	1
-R^n	1
-issues	1
-We	2
-$	16
-(	3
-,	8
-to	3
-only	1
-program	2
-generators	1
-easy	1
-input	1
-defining	1
-advantage	1
-propose	1
-choice	1
-decide	1
-using	1
-areas	1
-represents	1
-p	1
-multiplicity	1
-where	1
-set	2
-methods	1
-reduce	1
-depends	1
-are	3
-by	1
-for	3
-sum	1
-V\cap	1
-new	1
-squares	1
-approach	1
-be	1
-we	2
-This	1
-arbitrary	1
-tensors	1
-dependencies	1
-complicated	1
-from	1
-equations	1
-relying	1
-on	3
-geometry	3
-of	10
-study	1
-methodology	1
-or	1
-rank	1
-nonnegativity	1
-polynomial	1
-ring	1
-tools	1
-size	1
-given	1
-straight-line	1
-takes	1
-addition	1
-.	8
-way	1
-rather	1
-corresponding	1
-samples	2
-that	1
-some	1
-but	1
-V	4
-with	1
-than	1
-semidefinite	1
-this	1
-avoiding	1
-n	1
-appealing	1
-optimization	1
-SO	1
-can	2
-Our	1
-k	1
-connect	1
-and	2
-Nonetheless	1
-is	1
-sample	1
-as	3
-in	1
-variety	1
-generic	1
-relaxations	1
-also	1
-SOS	2
-complex	2
-which	2
-description	1
-numerical	2
-algebraic	4
-such	2
-a	5
-SDP	1
-varieties	2
-It	1
-)	3
-In	2
-coordinate	1
-representation	1
-the	12
+particularly,1
+Grassmannians,1
+obtain,1
+issues,1
+We,2
+SOS,2
+to,3
+only,1
+program,2
+generators,1
+easy,1
+input,1
+defining,1
+advantage,1
+propose,1
+choice,1
+decide,1
+using,1
+areas,1
+represents,1
+p,1
+multiplicity,1
+where,1
+set,2
+methods,1
+reduce,1
+depends,1
+are,3
+by,1
+for,3
+sum,1
+new,1
+squares,1
+approach,1
+be,1
+we,2
+This,1
+arbitrary,1
+dependencies,1
+complicated,1
+equations,1
+relying,1
+on,3
+geometry,3
+of,10
+study,1
+or,1
+rank,1
+nonnegativity,1
+polynomial,1
+ring,1
+tools,1
+size,1
+given,1
+from,1
+takes,1
+addition,1
+tensors,1
+way,1
+corresponding,1
+samples,2
+that,1
+some,1
+but,1
+R,1
+V,5
+line,1
+with,1
+than,1
+semidefinite,1
+this,1
+avoiding,1
+straight,1
+cap,1
+n,2
+appealing,1
+optimization,1
+SO,1
+can,2
+Our,1
+k,1
+connect,1
+and,2
+Nonetheless,1
+is,1
+sample,1
+as,3
+in,1
+variety,1
+generic,1
+relaxations,1
+also,1
+methodology,1
+complex,2
+which,2
+description,1
+numerical,2
+algebraic,4
+such,2
+a,5
+SDP,1
+varieties,2
+It,1
+rather,1
+In,2
+coordinate,1
+representation,1
+the,12

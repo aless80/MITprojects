@@ -1,77 +1,75 @@
-
-and	2
-exhibit	1
-...	1
-is	1
-n=1	1
-harmonic	1
-generalization	1
-an	2
-states	1
-characterize	1
-superconducting	1
-through	1
-per	1
-in	4
-quantum	1
-accumulated	1
-alternative	1
-avoided	2
-as	1
-ground	1
-whose	1
-We	1
-transitions	3
-20	1
-driving	1
-space	1
-sweeps	1
-means	1
-interference	1
-,	6
-artificial	1
-.	5
-to	1
-varies	1
-regime	1
-manipulate	1
-which	1
-between	1
-microwave	1
-induced	1
-excited	1
-interferometry	2
-Strongly	1
-provides	1
-excitation	1
-Mach-Zehnder	1
-photon	1
-results	1
-it	1
-coherent	1
-optical	1
-strongly-driven	1
-two	1
-atom	1
-phase	2
-The	2
-with	2
-the	6
-a	2
-Landau-Zener	1
-for	1
-beamsplitters	1
-of	1
-Mach-Zehnder-type	1
-tunable	1
-times	1
-flux	1
-As	1
-fringes	1
-period	1
-amplitude	1
-act	1
-crossing	2
-demonstrate	1
-qubit	5
-performed	1
+and,2
+exhibit,1
+strongly,1
+is,1
+harmonic,1
+generalization,1
+an,2
+states,1
+characterize,1
+superconducting,1
+through,1
+per,1
+in,4
+quantum,1
+accumulated,1
+alternative,1
+avoided,2
+as,1
+ground,1
+whose,1
+We,1
+transitions,3
+driving,1
+space,1
+Zehnder,2
+interference,1
+two,1
+artificial,1
+Landau,1
+to,1
+varies,1
+n,1
+manipulate,1
+which,1
+between,1
+microwave,1
+induced,1
+type,1
+excited,1
+Mach,2
+Strongly,1
+provides,1
+excitation,1
+means,1
+photon,1
+results,1
+it,1
+driven,1
+coherent,1
+optical,1
+atom,1
+phase,2
+The,2
+Zener,1
+with,2
+the,6
+a,2
+regime,1
+for,1
+beamsplitters,1
+of,1
+sweeps,1
+tunable,1
+times,1
+flux,1
+As,1
+fringes,1
+period,1
+amplitude,1
+act,1
+crossing,2
+demonstrate,1
+qubit,5
+interferometry,2
+performed,1

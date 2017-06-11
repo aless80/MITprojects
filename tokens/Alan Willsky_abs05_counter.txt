@@ -1,85 +1,84 @@
-
-and	3
-the	5
-interest	1
-inference	1
-consider	1
-truncated	1
-being	1
-is	2
-easy	1
-Semi-Markov	1
-Metropolis-Hastings	1
-one	1
-zero	1
-experiments	1
-implement	1
-Gibbs	1
-in	2
-particularly	1
-counts	1
-Sampling	1
-distributions	1
-Hidden	1
-mix	1
-We	3
-generic	1
-from	1
-both	1
-for	2
-to	4
-Multinomial	1
-data	1
-,	4
-fast	1
-.	4
-models	1
-priori	1
-advantages	1
-samples	1
-under	1
-Bayesian	1
-many	1
-over	1
-more	1
-function	1
-we	2
-Dirichlet	4
-'s	1
-which	1
-that	1
-multinomial	1
-formed	1
-distribution	2
-scalable	1
-easily	1
-process	1
-posterior	2
-hierarchical	1
-augmentation	1
-provide	1
-based	1
-Model	1
-sampling	3
-likelihood	2
-by	1
-condition	1
-dimensions	1
-a	6
-on	2
-execute	1
-several	1
-Hierarchical	1
-algorithm	3
-this	1
-of	2
-or	2
-prior	1
-algorithms	2
-Process	1
-demonstrate	1
-problem	1
-where	1
-drawing	1
-numerical	1
-mean	1
+and,3
+the,5
+Hastings,1
+interest,1
+inference,1
+consider,1
+truncated,1
+being,1
+is,2
+easy,1
+one,1
+zero,1
+experiments,1
+implement,1
+Gibbs,1
+in,2
+particularly,1
+counts,1
+Sampling,1
+distributions,1
+Hidden,1
+mix,1
+We,3
+generic,1
+from,1
+both,1
+for,2
+to,4
+Multinomial,1
+data,1
+fast,1
+models,1
+Metropolis,1
+priori,1
+advantages,1
+samples,1
+under,1
+Bayesian,1
+many,1
+over,1
+more,1
+function,1
+we,2
+Dirichlet,4
+which,1
+Semi,1
+that,1
+multinomial,1
+formed,1
+distribution,2
+scalable,1
+easily,1
+process,1
+posterior,2
+hierarchical,1
+augmentation,1
+provide,1
+based,1
+Markov,1
+sampling,3
+likelihood,2
+by,1
+condition,1
+dimensions,1
+a,6
+on,2
+execute,1
+several,1
+Hierarchical,1
+algorithm,3
+this,1
+of,2
+Model,1
+or,2
+prior,1
+s,1
+algorithms,2
+Process,1
+demonstrate,1
+problem,1
+where,1
+drawing,1
+numerical,1
+mean,1

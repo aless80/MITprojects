@@ -1,105 +1,108 @@
-
-both	1
-follow	1
-We	2
-based	1
-also	1
-solving	2
-Vertex	1
-,	7
-better	1
-to	4
-theorem	2
-Path	1
-has	1
-them	1
-propose	1
-amenable	1
-possibly	1
-Implementing	1
-formal	1
-Majority-of-Majority-SAT	1
-name	1
-large	1
-this	1
-often	1
-techniques	1
-series	1
-hard	1
-proof-by-contradiction	1
-are	1
-proofs	3
-extract	1
-small-scale	1
-for	4
-restricted	1
-research	1
-current	1
-Hamilton	1
-new	1
-demonstrated	1
-limitations	1
-be	3
-we	2
-linear	1
-This	1
-Cover	1
-alternation-trading	1
-Among	1
-search	1
-of	4
-prove	2
-programming	1
-Mod6-SAT	1
-makes	1
-Tautologies	1
-computational	1
-fertile	1
-into	1
-powerful	1
-instances	1
-determine	1
-polynomial	1
-strategy	1
-open	1
-area	1
-.	8
-few	1
-call	1
-that	3
-proving	1
-automated	1
-these	3
-bounds	4
-can	3
-problem	2
-result	1
-and	2
-certain	1
-is	1
-turned	1
-prover	1
-Satisfiability	1
-studying	1
-how	1
-methodology	1
-several	1
-A	1
-used	1
-models	1
-problems	3
-important	1
-such	1
-The	1
-on	3
-recent	1
-a	6
-lower	4
-natural	1
-human-readable	1
-framework	1
-analysis	1
-An	1
-concrete	2
-time	2
-the	2
+alternation,1
+both,1
+Majority,2
+human,1
+follow,1
+We,2
+based,1
+also,1
+solving,2
+Vertex,1
+better,1
+to,4
+theorem,2
+Path,1
+has,1
+Mod,1
+them,1
+propose,1
+amenable,1
+possibly,1
+Implementing,1
+formal,1
+name,1
+large,1
+this,1
+small,1
+often,1
+series,1
+hard,1
+trading,1
+are,1
+proofs,3
+extract,1
+techniques,1
+scale,1
+for,4
+restricted,1
+research,1
+current,1
+Hamilton,1
+new,1
+demonstrated,1
+limitations,1
+be,3
+we,2
+linear,1
+This,1
+Cover,1
+by,1
+Among,1
+search,1
+of,5
+prove,2
+programming,1
+contradiction,1
+makes,1
+Tautologies,1
+computational,1
+fertile,1
+into,1
+powerful,1
+instances,1
+determine,1
+polynomial,1
+open,1
+area,1
+readable,1
+strategy,1
+few,1
+call,1
+that,3
+proving,1
+automated,1
+these,3
+bounds,4
+can,3
+problem,2
+SAT,2
+proof,1
+and,2
+certain,1
+is,1
+turned,1
+prover,1
+result,1
+Satisfiability,1
+studying,1
+how,1
+methodology,1
+several,1
+A,1
+used,1
+models,1
+problems,3
+important,1
+such,1
+The,1
+on,3
+recent,1
+a,6
+lower,4
+natural,1
+framework,1
+analysis,1
+An,1
+concrete,2
+time,2
+the,2

@@ -1,157 +1,126 @@
-
-consider	1
-produces	2
-when	1
-m\sqrt	2
-obtain	2
-unweighted	3
-\leq	8
-paper	3
-\eps	1
-2/3+\eps	1
-We	1
-m^	5
-$	52
-graph	1
-show	2
-,	16
-better	3
-to	4
-SIAM	1
-undirected	4
-\lfloor	2
-SAT	1
-then	3
-D	16
-runs	1
-3/2	1
-negative	1
-report	1
-\tilde	2
-and	4
-presented	1
-specific	1
-this	3
-J.	1
-where	1
-2h+3	1
-For	2
-approximating	1
-hard	1
-some	2
-approximation	5
-computes	1
-z\neq	1
-result	1
-4D/5\rfloor	1
-for	6
-solved	1
-giving	1
-+	1
-case	1
-be	2
-we	7
-This	1
-2h+z	1
-O	4
-hypothesis	1
-Chekuri	1
-z\in	1
-O^	1
-[	2
-2/3	3
-by	1
-on	2
-Comput	1
-of	6
-study	1
-Impagliazzo	1
-reports	1
-(	10
-{	21
-or	2
-diameter	3
--edge	1
-Zane	1
-*	1
-variables	1
-insist	1
-\hat	8
-Paturi	1
-false	1
-estimate	4
-\delta	1
-strong	2
-Motivated	1
-D=3h+z	1
-0	4
--node	1
-there	2
-2-\delta	1
-.	10
-which	1
-expected	1
->	2
-that	12
-exactly	1
-it	2
-h\geq	1
-somewhat	1
-particular	1
-cases	1
-an	10
-Aingworth	1
-than	1
-present	2
-^	1
-directed	2
-exponential	1
-1999	1
-n	5
-hardest	1
-values	1
-can	1
-problem	2
-Motwani	1
-seminal	1
-constant	3
-JCSS'01	1
-is	8
-thus	1
-n^2	1
-evidence	1
-n^	2
-in	5
-if	3
-\Ot	2
-graphs	4
-)	10
-\min	1
-same	1
-Indyk	1
-2-\eps	2
-solve	1
-formulas	1
-may	1
-In	4
-possible	2
-CNF	1
-running	2
-whether	1
-significant	1
-such	4
-]	2
-0,1,2	1
-a	4
-\rfloor	1
-algorithm	4
-whenever	1
-4/3	2
-2-1/	1
-m	1
-provide	1
-so	1
-fundamental	1
-time	8
-the	7
-}	21
+consider,1
+produces,2
+delta,2
+obtain,2
+unweighted,3
+paper,3
+sqrt,2
+tilde,2
+JCSS,1
+We,1
+graph,1
+show,2
+better,3
+to,4
+SIAM,1
+undirected,4
+hat,8
+SAT,1
+then,3
+geq,1
+D,18
+possible,2
+whether,1
+report,1
+Ot,2
+runs,1
+presented,1
+h,4
+specific,1
+solved,1
+where,1
+lfloor,2
+For,2
+hard,1
+some,2
+approximation,5
+computes,1
+result,1
+and,4
+for,6
+giving,1
+case,1
+neq,1
+be,2
+we,7
+This,1
+O,5
+leq,8
+hypothesis,1
+Chekuri,1
+Paturi,1
+estimate,4
+strong,2
+by,1
+on,2
+Comput,1
+of,6
+study,1
+Impagliazzo,1
+reports,1
+or,2
+diameter,3
+Zane,1
+variables,1
+insist,1
+false,1
+approximating,1
+Motivated,1
+there,2
+negative,1
+which,1
+expected,1
+that,12
+J,1
+somewhat,1
+particular,1
+cases,1
+an,10
+Aingworth,1
+than,1
+present,2
+directed,2
+exponential,1
+this,3
+n,8
+hardest,1
+values,1
+can,1
+problem,2
+z,4
+Motwani,1
+seminal,1
+constant,3
+is,8
+thus,1
+it,2
+rfloor,2
+evidence,1
+in,6
+if,3
+min,1
+provide,1
+when,1
+same,1
+Indyk,1
+solve,1
+node,1
+formulas,1
+exactly,1
+may,1
+In,4
+CNF,1
+running,2
+significant,1
+such,4
+a,4
+algorithm,4
+whenever,1
+m,8
+eps,4
+graphs,4
+edge,1
+so,1
+fundamental,1
+time,8
+the,7

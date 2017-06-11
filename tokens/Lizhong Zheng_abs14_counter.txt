@@ -1,124 +1,117 @@
-
-decoder	2
-results	2
-paper	1
-properties	1
-solutions	1
-knowledge	1
-how	1
-(	2
-,	17
-to	5
-under	1
-employed	1
-local	2
-By	1
-achieve	1
-then	1
-very	1
-Maximum	1
-compound	2
-manageable	1
-Over	1
-discrete	1
-found	1
-reduced	1
-lifted	1
-DMC	3
-For	1
-are	2
-shown	2
-capacity	2
-for	2
-space	1
-concessions	1
-However	1
-decoding	1
-above	1
-geometric	1
-be	3
-provide	1
-linear	4
-This	1
-likelihood	1
-permitted	1
-disproof	1
-noisy	1
-of	3
-studied	1
-allows	1
-complexities	1
-suitable	1
-locally	1
-channels	2
-addressed	1
-considering	1
-use	1
-additive	1
-there	1
-been	1
-.	10
-inner	1
-achieving	1
-minor	1
-insightful	1
-``	2
-that	2
-afford	1
-but	1
-particular	2
-known	1
-with	1
-globally	1
-this	1
-limit	1
-can	4
-problem	5
-example	1
-and	2
-counterexamples	1
-memoryless	1
-is	8
-decoders	5
-it	2
-proven	2
-an	2
-''	2
-exist	1
-have	1
-in	5
-Several	1
-if	1
-encoders	1
-no	1
-)	2
-also	2
-setting	1
-which	3
-finding	1
-several	1
-channel	1
-nice	1
-product	1
-literature	1
-'s	1
-metrics	1
-develops	1
-Hence	1
-such	3
-The	1
-a	2
-constructed	1
-maximizing	1
-algorithm	1
-required	1
-well	1
-analysis	1
-original	1
-perform	1
-without	1
-solve	1
-In	1
-claims	1
-the	7
-order	1
+decoder,2
+results,2
+paper,1
+solutions,1
+knowledge,1
+how,1
+to,5
+under,1
+employed,1
+local,2
+By,1
+achieve,1
+then,1
+very,1
+Maximum,1
+compound,2
+manageable,1
+Over,1
+discrete,1
+found,1
+reduced,1
+lifted,1
+DMC,3
+For,1
+are,2
+shown,2
+capacity,2
+for,2
+space,1
+complexities,1
+However,1
+decoding,1
+above,1
+geometric,1
+be,3
+provide,1
+linear,4
+This,1
+likelihood,1
+permitted,1
+disproof,1
+noisy,1
+of,3
+studied,1
+allows,1
+s,1
+suitable,1
+locally,1
+channels,2
+addressed,1
+considering,1
+use,1
+additive,1
+there,1
+been,1
+properties,1
+inner,1
+achieving,1
+minor,1
+insightful,1
+that,2
+afford,1
+but,1
+particular,2
+known,1
+with,1
+this,1
+limit,1
+can,4
+problem,5
+example,1
+and,2
+counterexamples,1
+memoryless,1
+is,8
+decoders,5
+it,2
+proven,2
+an,2
+globally,1
+exist,1
+have,1
+in,5
+Several,1
+if,1
+encoders,1
+no,1
+perform,1
+also,2
+setting,1
+which,3
+finding,1
+several,1
+channel,1
+nice,1
+product,1
+literature,1
+metrics,1
+develops,1
+Hence,1
+such,3
+The,1
+a,2
+constructed,1
+maximizing,1
+algorithm,1
+required,1
+well,1
+analysis,1
+original,1
+concessions,1
+without,1
+solve,1
+In,1
+claims,1
+the,7
+order,1

@@ -1,115 +1,111 @@
-
-consider	1
-show	1
-random	1
-paper	1
-threshold	3
-uniform	1
-find	1
-previous	2
-non-zero	1
-We	1
-interesting	1
-,	11
-to	4
-absence	1
-samples	2
-policy	2
-has	1
-then	1
-next	1
-not	1
-during	1
-signal	1
-solved	1
-Further	1
-reduces	1
-mean	1
-square	1
-observed	1
-consists	1
-frequency	3
-are	1
-age-of-information	2
-subject	1
-even	1
-delivered	2
-for	1
-research	1
-optimization	1
-new	1
-;	1
-we	2
-after	1
-recently	1
-causally	1
-This	1
-Motivated	1
-estimate	1
-by	2
-wait	1
-on	1
-constraint	3
-of	8
-study	1
-times	1
-queue	1
-amount	1
-estimator	2
-consequence	1
-estimation	2
-age-optimal	1
-via	1
-reconstructs	1
-sampling	13
-smaller	1
-strategy	3
-The	1
-from	1
-forwarded	1
-prove	1
-been	1
-.	8
-much	2
-taken	1
-that	6
-real-time	1
-with	2
-than	1
-those	1
-this	1
-zero-wait	2
-Wiener	3
-determined	1
-error	2
-Our	1
-problem	3
-and	4
-classic	1
-process	3
-is	9
-received	1
-it	1
-an	1
-sample	4
-in	2
-if	1
-rather	1
-delay	2
-how	1
-varies	1
-take	1
-which	1
-optimal	7
-channel	2
-independent	1
-time	1
-minimizes	1
-recent	1
-a	10
-remote	1
-An	1
-In	1
-comparisons	1
-the	19
-once	1
+consider,1
+show,1
+random,1
+paper,1
+threshold,3
+uniform,1
+find,1
+previous,2
+We,1
+interesting,1
+to,4
+absence,1
+samples,2
+policy,2
+has,1
+real,1
+then,1
+non,1
+not,1
+during,1
+signal,1
+solved,1
+Further,1
+reduces,1
+mean,1
+square,1
+observed,1
+consists,1
+zero,3
+frequency,3
+are,1
+subject,1
+even,1
+delivered,2
+for,1
+research,1
+optimization,1
+new,1
+we,2
+after,1
+recently,1
+causally,1
+This,1
+Motivated,1
+estimate,1
+by,2
+wait,3
+on,1
+constraint,3
+of,10
+study,1
+times,1
+queue,1
+amount,1
+estimator,2
+consequence,1
+estimation,2
+via,1
+reconstructs,1
+sampling,13
+smaller,1
+next,1
+The,1
+from,1
+forwarded,1
+prove,1
+been,1
+strategy,3
+much,2
+taken,1
+that,6
+with,2
+than,1
+those,1
+this,1
+Wiener,3
+determined,1
+error,2
+Our,1
+problem,3
+and,4
+classic,1
+process,3
+is,9
+received,1
+it,1
+an,1
+sample,4
+in,2
+if,1
+information,2
+rather,1
+delay,2
+how,1
+varies,1
+take,1
+which,1
+optimal,8
+channel,2
+independent,1
+In,1
+minimizes,1
+recent,1
+a,10
+remote,1
+age,3
+An,1
+time,2
+comparisons,1
+the,19
+once,1

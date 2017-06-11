@@ -1,100 +1,93 @@
-
-selection	2
-chain	1
-show	1
-results	1
-existing	1
-superior	1
-We	3
-(	2
-,	4
-to	2
-only	1
-samples	1
-under	1
-guarantees	1
-scaling	1
-DPP-based	1
-using	1
-discrete	1
-popular	1
-kernel	2
-methods	1
-generation	1
-empirical	2
-approximation	1
-our	1
-errors	1
-for	3
-selected	2
-;	1
-conditions	1
-method	1
-we	2
-linear	1
-approaches	1
-on	2
-om	2
-Point	1
-of	5
-study	1
-prior	1
-via	1
-probability	1
-sampling	1
-long	1
-quality	1
-The	1
-size	1
-rely	1
-ridge	1
-prove	1
-support	1
-due	1
-been	1
-.	6
-certain	1
-analyze	1
-theoretical	2
-Nystr\	2
-Processes	1
-that	4
-with	1
-present	1
-has	1
-critically	1
-tractable	1
-bounds	1
-Determinantal	1
-DPPsampling	1
-demonstrate	1
-and	2
-DPP	1
-reservations	1
-''	2
-diverse	1
-in	1
-regression	1
-guarantee	1
-compared	1
-)	2
-landmarks	2
-performance	2
-several	1
-cubic	1
-models	1
-Contrary	1
-Markov	1
-data	1
-the	5
-up	1
-implications	1
-analysis	1
-complexity	1
-allow	1
-time	1
-landmark	2
-subsequently	1
-DPPs	2
-requires	1
-Its	1
+selection,2
+chain,1
+show,1
+results,1
+existing,1
+superior,1
+We,3
+based,1
+to,2
+only,1
+samples,1
+under,1
+guarantees,1
+scaling,1
+using,1
+discrete,1
+popular,1
+kernel,2
+methods,1
+generation,1
+empirical,2
+approximation,1
+our,1
+errors,1
+for,3
+selected,2
+conditions,1
+method,1
+we,2
+linear,1
+Nystr,2
+approaches,1
+on,2
+om,2
+Point,1
+of,5
+study,1
+prior,1
+via,1
+probability,1
+sampling,1
+long,1
+quality,1
+Markov,1
+size,1
+rely,1
+ridge,1
+prove,1
+support,1
+due,1
+been,1
+certain,1
+analyze,1
+theoretical,2
+Processes,1
+that,4
+with,1
+present,1
+has,1
+critically,1
+tractable,1
+bounds,1
+Determinantal,1
+DPPsampling,1
+demonstrate,1
+and,2
+DPP,2
+reservations,1
+diverse,1
+in,1
+regression,1
+guarantee,1
+compared,1
+landmarks,2
+performance,2
+several,1
+cubic,1
+models,1
+Contrary,1
+The,1
+data,1
+the,5
+up,1
+implications,1
+analysis,1
+complexity,1
+allow,1
+time,1
+landmark,2
+subsequently,1
+DPPs,2
+requires,1
+Its,1

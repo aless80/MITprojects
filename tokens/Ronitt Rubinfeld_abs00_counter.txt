@@ -1,164 +1,146 @@
-
-distances	2
-all	1
-consider	2
-show	1
-\sqrt	1
-efficient	1
-/\epsilon	1
-We	1
-$	40
-graph	5
-distributed	1
-,	14
-edge	2
-to	6
-only	1
-inspecting	3
-sparsity	1
-input	1
-local	2
--minor	1
-queried	1
-H	2
-finding	1
-probability	2
-motivates	1
-whether	1
-not	1
-1+\epsilon	1
-easily	1
-d	4
-success	1
-h	5
-yield	1
-specific	1
-solved	1
-queries	1
-an	4
-where	2
-neighborhood	1
-significantly	1
-For	1
-Since	1
-achieves	1
-are	2
-1/n	1
-\Omega	1
-G	4
-for	4
-That	1
-restricted	1
-h\log	1
-version	1
-\log	1
-between	2
-new	1
-size	2
-be	3
-we	2
-theory	1
-degree	1
-This	1
-each	1
-free	1
-O	1
-by	2
-on	1
-essentially	1
-improved	1
-Constructing	1
-d/\epsilon	1
-of	16
-study	1
-larger	2
-according	1
-(	12
-{	3
-whole	1
-tasks	1
-family	3
-\tilde	1
-number	1
-poly	3
-one	2
-determine	1
-pairs	2
-.	13
-inspects	1
-given	2
-there	1
-quickly	1
-basic	1
-:	1
-\epsilon	1
-minor	2
-wants	1
-families	1
-excluded	2
-subgraph	3
-that	5
-relaxed	2
-factor	2
-1/\epsilon	3
-about	1
-but	1
-known	2
-natural	1
-general	1
-with	2
-than	2
-^	1
-this	6
-challenge	1
-work	1
-tree	4
-maximum	1
-n	3
-can	3
-error	1
-problem	3
-performed	1
-and	3
-constant	1
-computing	1
-is	15
-it	2
-\Theta	1
-vertices	3
-at	2
-in	9
-spanning	7
-One	1
-any	1
-different	1
-graphs	3
-)	12
-same	1
-also	1
-setting	2
-adapted	1
-which	1
-answer	1
-parameter	1
-In	1
-most	3
-viewing	1
-edges	5
-such	1
-The	3
-Furthermore	1
-a	8
-task	1
-e	2
-'	2
-algorithm	4
-}	3
-It	1
-without	2
-rather	1
-maintain	1
-algorithms	1
-consistency	1
-the	19
-requires	1
+distances,2
+all,1
+consider,2
+show,1
+efficient,1
+same,1
+tilde,1
+We,1
+probability,2
+graph,5
+distributed,1
+edge,2
+to,6
+only,1
+inspecting,3
+factor,2
+input,1
+local,2
+H,2
+finding,1
+motivates,1
+whether,1
+not,1
+queried,1
+easily,1
+d,5
+success,1
+parameter,1
+yield,1
+specific,1
+sparsity,1
+queries,1
+where,2
+neighborhood,1
+significantly,1
+For,1
+Since,1
+achieves,1
+are,2
+Theta,1
+G,4
+for,4
+That,1
+restricted,1
+version,1
+between,2
+new,1
+size,2
+be,3
+we,2
+theory,1
+degree,1
+This,1
+each,1
+free,1
+O,1
+by,2
+on,1
+essentially,1
+improved,1
+Constructing,1
+of,16
+study,1
+larger,2
+according,1
+whole,1
+tasks,1
+family,3
+number,1
+poly,3
+one,2
+determine,1
+pairs,2
+inspects,1
+given,2
+log,2
+there,1
+quickly,1
+basic,1
+Furthermore,1
+minor,3
+wants,1
+families,1
+excluded,2
+subgraph,3
+that,5
+epsilon,7
+relaxed,2
+about,1
+but,1
+known,2
+e,2
+an,4
+with,2
+than,2
+this,6
+challenge,1
+work,1
+tree,4
+maximum,1
+n,4
+can,3
+error,1
+problem,3
+h,6
+performed,1
+and,3
+constant,1
+computing,1
+is,15
+it,2
+general,1
+at,2
+in,9
+spanning,7
+One,1
+any,1
+different,1
+rather,1
+sqrt,1
+also,1
+setting,2
+which,1
+answer,1
+Omega,1
+solved,1
+In,1
+most,3
+viewing,1
+edges,5
+such,1
+The,3
+a,8
+task,1
+natural,1
+algorithm,4
+adapted,1
+vertices,3
+It,1
+without,2
+graphs,3
+maintain,1
+algorithms,1
+consistency,1
+the,19
+requires,1

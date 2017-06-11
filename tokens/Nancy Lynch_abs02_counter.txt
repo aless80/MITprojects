@@ -1,167 +1,156 @@
-
-operations	4
-limited	1
-emerging	1
-when	1
-message-passing	1
-all	1
-not	1
-atomic	1
-layers	2
-access	2
-We	2
-$	12
-readers	1
-implementation	2
-(	2
-distributed	1
-,	18
-edge	2
-to	3
-only	2
-offers	1
-systems	1
-under	1
-atomicity	2
-<	2
-erasure	1
-crash	1
-read	3
-overall	1
-introduce	1
-choice	1
-performance	1
-fault-tolerant	1
-during	1
-execution	1
-like	1
-architecture	1
-popular	1
-Further	1
-works	1
-where	1
-small	1
-liveness	1
-Storage	1
-cost	3
-accesses	1
-temporary	1
-Reed-Solomon	1
-back-end	6
-for	5
-multi-object	1
-LDS	3
-dominated	1
-provides	1
-between	1
-;	2
-supports	1
-be	1
-we	1
-respectively	1
-given	1
-modular	1
-objects	1
-from	1
-by	3
-interaction	1
-concurrent	1
-of	14
-termed	1
-costs	1
-turn	1
-suitable	1
-helps	1
-features	1
-point	1
-communication	1
-environments	1
-servers	3
-instances	1
-use	1
-Motivated	1
-prove	1
-interact	1
-system	2
-.	9
-low	1
-f_2	1
-Data	1
-f_1	1
-optimizing	1
-way	1
-offering	1
-that	2
-but	1
-N	2
-edge-layer	3
-known	1
-with	3
-protocols	1
-also	2
-compute	1
-permits	1
-clients	1
-tolerate	1
-as	1
-value	1
-choices	1
-near	1
-can	1
-Our	1
-and	12
-layer	4
-associated	1
-erasure-codes	1
-computing	2
-is	4
-\Theta	1
-an	1
-erasure-coded	1
-asynchronous	1
-at	1
-in	6
-interacts	1
-any	1
-latency	1
-needs	1
-codes	4
-recreated	1
-mostly	1
-)	2
-regenerating	2
-storage	7
-n_2/3	1
-write	2
-geographically	1
-writers	1
-n_1/2	1
-instead	1
-several	1
-independent	1
-multiple	1
-optimizes	1
-n_1	1
-n_2	1
-applications	1
-running	1
-Layered	1
-uses	1
-two	2
-The	3
-data	1
-class	1
-a	6
-undergo	1
-erasure-code	1
-algorithm	2
-edge-computing	1
-two-layer	2
-persistent	2
-fraction	1
-client	1
-In	1
-failures	1
-the	15
-paradigm	1
-having	1
+operations,4
+limited,1
+emerging,1
+code,1
+when,1
+all,1
+atomic,1
+layers,2
+access,2
+We,2
+execution,1
+termed,1
+implementation,2
+distributed,1
+edge,6
+to,3
+only,2
+offers,1
+systems,1
+under,1
+dominated,1
+atomicity,2
+erasure,4
+crash,1
+read,3
+overall,1
+introduce,1
+choice,1
+Solomon,1
+performance,1
+not,1
+during,1
+servers,3
+like,1
+permits,1
+architecture,1
+popular,1
+Further,1
+works,1
+where,1
+small,1
+liveness,1
+Storage,1
+back,6
+cost,3
+accesses,1
+temporary,1
+choices,1
+for,5
+LDS,3
+Reed,1
+provides,1
+between,1
+supports,1
+be,1
+we,1
+respectively,1
+given,1
+costs,1
+modular,1
+objects,1
+from,1
+by,3
+interaction,1
+concurrent,1
+of,14
+readers,1
+tolerant,1
+turn,1
+passing,1
+suitable,1
+features,1
+point,1
+communication,1
+environments,1
+system,2
+instances,1
+message,1
+use,1
+Motivated,1
+prove,1
+interact,1
+two,4
+low,1
+way,1
+Data,1
+helps,1
+optimizing,1
+fraction,1
+offering,1
+that,2
+but,1
+N,2
+known,1
+with,3
+protocols,1
+also,2
+multi,1
+compute,1
+f,2
+clients,1
+tolerate,1
+value,1
+n,4
+near,1
+can,1
+fault,1
+Our,1
+and,12
+layer,9
+associated,1
+computing,3
+is,4
+an,1
+as,1
+asynchronous,1
+at,1
+in,6
+interacts,1
+any,1
+latency,1
+needs,1
+codes,5
+end,6
+mostly,1
+regenerating,2
+storage,7
+write,2
+geographically,1
+writers,1
+coded,1
+Theta,1
+instead,1
+several,1
+independent,1
+multiple,1
+optimizes,1
+object,1
+applications,1
+running,1
+Layered,1
+uses,1
+recreated,1
+The,3
+data,1
+class,1
+a,6
+undergo,1
+algorithm,2
+persistent,2
+client,1
+In,1
+failures,1
+the,15
+paradigm,1
+having,1

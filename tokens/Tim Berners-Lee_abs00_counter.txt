@@ -1,129 +1,124 @@
-
-Web	9
-consider	1
-being	1
-tricked	1
-existing	1
-paper	1
-including	1
-questions	1
-inferences	1
-knowledge	1
-(	1
-,	10
-environment	1
-to	9
-N3Logic	3
-extends	1
-choose	1
-inconsistencies	1
-has	1
-resources	1
-string	1
-rules	2
-quantified	1
-not	1
-syntax	1
-Semantic	2
-courses	1
-minimal	1
-through	1
-implication	1
-where	1
-Adding	1
-be	5
-richly	1
-towards	1
-are	1
-interacting	1
-for	5
-expressed	1
-enough	1
-provides	1
-math	1
-unifying	1
-inevitably	1
-we	1
-accessing	1
-This	1
-objects	1
-by	1
-on	1
-anything	1
-of	7
-allows	1
-Through	1
-logic	5
-action	1
-asked	1
-variables	1
-powerful	2
-nested	1
-appropriate	1
-agents	1
-logically	1
-openness	1
-illustrate	1
-use	2
-logics	1
-Framework	1
-structured	1
-due	1
-.	9
-anyone	1
-cryptographic	1
-arise	1
-that	5
-but	1
-assert	1
-language	1
-RDF	3
-particular	1
-with	3
-must	1
-main	1
-extension	1
-this	1
-can	4
-interconnected	1
-examples	1
-and	7
-characteristics	1
-is	3
-describe	2
-it	1
-an	1
-as	1
-properties	1
-in	2
-functions	1
-paradox	1
-Description	1
-)	1
-make	1
-when	1
-same	1
-complex	1
-answer	1
-several	1
-used	2
-Resource	1
-models	1
-why	1
-problems	1
-drives	1
-predicates	1
-such	2
-The	3
-data	4
-model	1
-goal	1
-a	5
-implies	1
-lead	1
-It	1
-graphs	1
-so	1
-In	1
-representation	1
-the	12
+Web,9
+consider,1
+being,1
+tricked,1
+existing,1
+paper,1
+including,1
+questions,1
+inferences,1
+knowledge,1
+environment,1
+to,9
+extends,1
+choose,1
+inconsistencies,1
+has,1
+resources,1
+string,1
+rules,2
+quantified,1
+not,1
+syntax,1
+Semantic,2
+courses,1
+minimal,1
+through,1
+implication,1
+where,1
+Adding,1
+be,5
+NLogic,3
+richly,1
+towards,1
+are,1
+interacting,1
+for,5
+expressed,1
+enough,1
+provides,1
+math,1
+unifying,1
+inevitably,1
+we,1
+accessing,1
+This,1
+objects,1
+by,1
+on,1
+anything,1
+of,7
+allows,1
+Through,1
+logic,5
+action,1
+asked,1
+variables,1
+powerful,2
+nested,1
+appropriate,1
+agents,1
+logically,1
+openness,1
+illustrate,1
+use,2
+logics,1
+Framework,1
+structured,1
+due,1
+properties,1
+anyone,1
+cryptographic,1
+arise,1
+that,5
+but,1
+assert,1
+language,1
+RDF,3
+particular,1
+with,3
+must,1
+main,1
+extension,1
+this,1
+can,4
+interconnected,1
+examples,1
+and,7
+characteristics,1
+is,3
+describe,2
+it,1
+an,1
+as,1
+in,2
+functions,1
+paradox,1
+Description,1
+make,1
+when,1
+same,1
+complex,1
+answer,1
+several,1
+used,2
+Resource,1
+models,1
+why,1
+problems,1
+drives,1
+predicates,1
+such,2
+The,3
+data,4
+model,1
+goal,1
+a,5
+implies,1
+lead,1
+It,1
+graphs,1
+so,1
+In,1
+representation,1
+the,12

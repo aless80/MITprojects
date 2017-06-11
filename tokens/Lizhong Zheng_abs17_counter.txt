@@ -1,93 +1,87 @@
-
-consider	1
-show	2
-near-capacity	1
-its	2
-We	7
-ratio	1
-(	2
-,	4
-to	2
-only	1
-input	1
-propose	1
-transmitter	1
-Rayleigh	1
-SNR	2
-Moreover	1
-where	1
-smaller	1
-decays	1
-are	1
-wideband	4
-dominates	1
-capacity	2
-power	1
-for	2
-per	1
-state	1
-critical	1
-conditions	1
-degree	1
-of	6
-on	4
-constraint	1
-receive	3
-freedom	1
-study	1
-dependence	2
-length	4
-non-coherent	2
-exponentially	1
-receiver	1
-block	1
-probability	3
-number	4
-establish	1
-unknown	1
-there	1
-.	8
-much	1
-rates	1
-analyze	1
-achieving	1
-``	1
-both	1
-coherence	4
-coherent	1
-signaling	1
-antennas	4
-with	2
-than	1
-scheme	1
-compute	2
-this	3
-inversely	1
-near	1
-error	3
-and	10
-is	3
-an	1
-''	1
-as	2
-have	1
-in	4
-fading	1
-MIMO	2
-regime	4
-)	2
-that	3
-multiple-output	1
-signal-to-noise	1
-also	2
-transmit	2
-performance	1
-channel	6
-product	1
-outage	1
-multiple-input	1
-cut-off	1
-a	3
-average	1
-well	1
-the	13
+consider,1
+show,2
+its,2
+We,7
+cut,1
+ratio,1
+to,3
+only,1
+input,2
+non,2
+propose,1
+transmitter,1
+Rayleigh,1
+signal,1
+SNR,2
+Moreover,1
+where,1
+smaller,1
+decays,1
+are,1
+wideband,4
+dominates,1
+capacity,3
+power,1
+for,2
+per,1
+state,1
+critical,1
+conditions,1
+noise,1
+degree,1
+of,6
+output,1
+on,4
+constraint,1
+receive,3
+freedom,1
+study,1
+dependence,2
+length,4
+exponentially,1
+receiver,1
+block,1
+probability,3
+number,4
+establish,1
+unknown,1
+there,1
+much,1
+rates,1
+analyze,1
+achieving,1
+both,1
+coherence,4
+coherent,3
+signaling,1
+antennas,4
+with,2
+than,1
+scheme,1
+compute,2
+this,3
+inversely,1
+near,2
+error,3
+and,10
+is,3
+an,1
+as,2
+have,1
+in,4
+fading,1
+MIMO,2
+regime,4
+that,3
+also,2
+transmit,2
+performance,1
+channel,6
+product,1
+multiple,2
+outage,1
+a,3
+off,1
+average,1
+well,1
+the,13

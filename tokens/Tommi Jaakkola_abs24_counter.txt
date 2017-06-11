@@ -1,126 +1,121 @@
-
-global	3
-desirable	1
-obtain	1
-minimizing	1
-including	1
-reparameterization	1
-We	1
-based	1
-,	17
-to	5
-undirected	1
-defining	1
-al.	2
-treewidth	1
-thereby	1
-very	1
-introduce	1
-they	1
-combinations	2
-variants	1
-unique	1
-advanced	1
-applicable	1
-large	1
-arbitrary	1
-BP	1
-fixed	2
-stationary	1
-upper	2
-domain	1
-be	2
-energy	1
-connections	1
-used	1
-are	2
-convex	2
-et	2
-extended	1
-special	1
-belief	1
-by	2
-decision	1
-new	1
-;	2
-conditions	1
-model	3
-we	1
-theory	1
-free	1
-here	1
-Kikuchi	1
-properties	1
-on	4
-of	10
-propagation	1
-or	1
-inference	1
-family	1
-Yedidia	1
-bound	1
-Minka	1
-Wainwright	1
-cnvex	1
-Bethe	1
-described	1
-log	3
-hypertrees	1
-approximate	1
-.	7
-marginals	1
-:	1
-structures	1
-gives	1
-function	3
-graphical	1
-that	1
-but	1
-with	2
-those	1
-case	1
-variational	1
-exponential	1
-contexts	1
-approximations	2
-bounds	1
-tree-structured	1
-can	2
-following	1
-making	1
-more	1
-similar	2
-distinguished	1
-and	4
-e.g.	2
-defined	1
-is	2
-argument	1
-an	2
-ii	1
-as	1
-minimum	3
-have	1
-in	2
-distributions	2
-variety	1
-tree-based	1
-fitting	1
-2001	3
-higher	1
-elements	1
-problems	1
-Bounds	1
-important	1
-i.	1
-The	2
-class	1
-a	4
-deviations	1
-partition	3
-analysis	2
-As	1
-points	2
-In	1
-the	12
-original	1
+global,3
+desirable,1
+obtain,1
+minimizing,1
+including,1
+reparameterization,1
+We,1
+based,2
+the,12
+to,5
+undirected,1
+defining,1
+treewidth,1
+thereby,1
+very,1
+introduce,1
+they,1
+combinations,2
+variants,1
+unique,1
+advanced,1
+applicable,1
+large,1
+arbitrary,1
+BP,1
+fixed,2
+stationary,1
+upper,2
+domain,1
+energy,1
+connections,1
+used,1
+are,2
+convex,2
+et,2
+extended,1
+special,1
+theory,1
+decision,1
+new,1
+conditions,1
+be,2
+we,1
+belief,1
+free,1
+here,1
+Kikuchi,1
+properties,1
+on,4
+g,2
+of,10
+propagation,1
+or,1
+inference,1
+family,1
+Yedidia,1
+bound,1
+Minka,1
+Wainwright,1
+cnvex,1
+Bethe,1
+described,1
+log,3
+hypertrees,1
+structured,1
+approximate,1
+by,2
+marginals,1
+variational,1
+structures,1
+gives,1
+function,3
+graphical,1
+that,1
+but,1
+argument,1
+with,2
+those,1
+case,1
+exponential,1
+contexts,1
+approximations,2
+tree,2
+bounds,1
+can,2
+following,1
+making,1
+more,1
+similar,2
+distinguished,1
+and,4
+defined,1
+is,2
+al,2
+an,2
+ii,1
+as,1
+minimum,3
+have,1
+in,2
+distributions,2
+variety,1
+fitting,1
+higher,1
+elements,1
+problems,1
+Bounds,1
+important,1
+The,2
+class,1
+a,4
+deviations,1
+e,2
+i,1
+partition,3
+analysis,2
+As,1
+points,2
+In,1
+model,3
+original,1

@@ -1,98 +1,95 @@
-
-show	1
-developed	1
-results	1
-questions	1
-lasso	1
-We	2
-also	1
-graph	2
-solving	2
-,	3
-to	2
-systems	1
-guarantees	2
-then	1
-motivated	1
-framework	1
-While	1
-using	1
-routines	1
-this	2
-theory	1
-vision	1
-be	1
-some	1
-approximation	1
-computer	1
-are	2
-close	1
-techniques	1
-for	4
-demonstrates	1
-difficulties	1
-between	1
-squares	1
-approach	1
-shows	1
-core	1
-we	1
-algorithmic	1
-linear	1
-minimization	1
-equivalent	1
-processing	1
-by	1
-on	2
-most	1
-of	5
-study	1
-suggests	1
-connection	2
-runtime	2
-experimental	1
-formulated	1
-inference	1
-image	1
-obtaining	1
-Finally	1
-learning	1
-rely	1
-least	1
-.	7
-quadratic	1
-theoretical	1
-that	2
-present	1
-wide	1
-applying	1
-these	3
-originally	1
-work	1
-optimization	1
-can	1
-Our	2
-problem	1
-and	4
-give	1
-in	4
-it	1
-an	1
-as	1
-have	1
-formulation	1
-turn	1
-occur	1
-variety	1
-efficient	1
-machine	1
-grouped	1
-which	1
-our	1
-problems	7
-applications	1
-class	1
-a	4
-algorithm	1
-algorithms	3
-the	2
+show,1
+developed,1
+results,1
+questions,1
+lasso,1
+We,2
+also,1
+graph,2
+solving,2
+to,2
+systems,1
+guarantees,2
+then,1
+motivated,1
+framework,1
+While,1
+using,1
+routines,1
+this,2
+theory,1
+vision,1
+be,1
+some,1
+approximation,1
+computer,1
+are,2
+close,1
+techniques,1
+for,4
+demonstrates,1
+difficulties,1
+between,1
+squares,1
+approach,1
+shows,1
+core,1
+we,1
+algorithmic,1
+linear,1
+minimization,1
+equivalent,1
+processing,1
+by,1
+on,2
+most,1
+of,5
+study,1
+suggests,1
+connection,2
+runtime,2
+experimental,1
+formulated,1
+inference,1
+image,1
+obtaining,1
+Finally,1
+learning,1
+rely,1
+least,1
+quadratic,1
+theoretical,1
+that,2
+present,1
+wide,1
+applying,1
+these,3
+originally,1
+work,1
+optimization,1
+can,1
+Our,2
+problem,1
+and,4
+give,1
+in,4
+it,1
+an,1
+as,1
+have,1
+formulation,1
+turn,1
+occur,1
+variety,1
+efficient,1
+machine,1
+grouped,1
+which,1
+our,1
+problems,7
+applications,1
+class,1
+a,4
+algorithm,1
+algorithms,3
+the,2

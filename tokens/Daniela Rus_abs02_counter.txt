@@ -1,102 +1,94 @@
-
-all	2
-8\times	1
-paper	1
-go	1
-assembled	1
-$	4
-,	8
-capabilities	1
-source	1
-systems	1
-under	2
-then	1
-unique	1
-easily	1
-accompanying	1
-fully	1
-micro	1
-planning	1
-architecture	1
-each	1
-available	1
-set	1
-portable	1
-culture	1
-micro-scale	1
-design	1
-are	1
-operation	1
-3D	1
-for	1
-research	1
-supports	1
-demonstrated	1
-common	1
-measuring	1
-be	2
-we	1
-weighing	1
-reproduced	1
-hours	1
-path	1
-100	1
-by	1
-of	3
-APIs	1
-affordable	1
-motion	1
-5\times	1
-maker	1
-software	1
-into	1
-robotics	1
-multi-robot	1
-open	1
-readily	1
-little	1
-from	1
-multi-vehicle	1
-platform	4
-two	1
-.	5
-maintenance	1
-6	1
-:	1
-complete	1
-that	1
-with	1
-this	1
-enabled	1
-printing	1
-can	2
-making	1
-and	11
-is	1
-describe	1
-an	1
-hardware	1
-single-	1
-in	1
-education	1
-six	1
-centimeters	1
-several	1
-'s	1
-cubic	1
-In	1
-designed	1
-The	1
-thoughts	1
-a	2
-tracking	1
-grams	1
-mobile	1
-vehicles	1
-robot	1
-As	1
-algorithms	1
-components	1
-microMVP	5
-the	5
-requires	1
+all,2
+paper,1
+go,1
+assembled,1
+capabilities,1
+platform,4
+systems,1
+under,2
+then,1
+D,1
+unique,1
+common,1
+easily,1
+accompanying,1
+fully,1
+micro,2
+planning,1
+source,1
+each,1
+available,1
+set,1
+portable,1
+culture,1
+design,1
+are,1
+operation,1
+scale,1
+for,1
+research,1
+supports,1
+demonstrated,1
+architecture,1
+measuring,1
+be,2
+we,1
+weighing,1
+reproduced,1
+hours,1
+path,1
+by,1
+of,3
+affordable,1
+times,2
+motion,1
+s,1
+maker,1
+software,1
+into,1
+robotics,1
+open,1
+readily,1
+little,1
+from,1
+APIs,1
+two,1
+maintenance,1
+vehicle,1
+complete,1
+that,1
+with,1
+multi,2
+this,1
+enabled,1
+printing,1
+can,2
+making,1
+and,11
+is,1
+describe,1
+an,1
+hardware,1
+single,1
+in,1
+education,1
+six,1
+centimeters,1
+several,1
+cubic,1
+In,1
+designed,1
+The,1
+thoughts,1
+a,2
+tracking,1
+grams,1
+mobile,1
+vehicles,1
+robot,2
+As,1
+algorithms,1
+components,1
+microMVP,5
+the,5
+requires,1

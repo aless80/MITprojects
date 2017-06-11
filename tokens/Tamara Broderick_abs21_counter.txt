@@ -1,102 +1,99 @@
-
-being	1
-insight	1
-nonparametric	3
-existing	1
-bring	1
-paper	1
-We	2
-,	6
-to	1
-only	1
-treatment	1
-clusters	1
-analogous	2
-has	2
-thereby	1
-integer	1
-now	1
-formal	1
-processes	2
-level	1
-this	1
-arbitrary	1
-where	1
-set	1
-achieved	1
-some	1
-connections	1
-literature	1
-are	1
-for	4
-review	1
-combinatorial	1
-Underlying	1
-nonparametrics	1
-between	1
-new	1
-completeness	1
-we	1
-each	1
-notably	1
-collection	1
-groups	2
-modeling	3
-on	1
-Chinese	1
-restaurant	1
-of	10
-nonnegative	1
-or	3
-features	1
-point	1
-previously	1
-into	1
-one	2
-Indian	1
-clustering	3
-been	2
-.	6
-topics	1
-that	2
-These	1
-stochastic	2
-with	2
-partitioning	1
-include	1
-these	2
-interrelated	1
-problem	4
-called	3
-and	4
-modeled	1
-associated	1
-process	5
-is	1
-modern	1
-an	1
-as	3
-associating	1
-numbers	1
-develop	1
-provide	2
-feature	3
-same	1
-Bayesian	4
-development	1
-Dirichlet	1
-blocks	1
-models	1
-buffet	1
-most	1
-beta	1
-representations	4
-data	2
-focal	1
-a	2
-partition	1
-well	1
-One	1
-points	2
-In	1
-the	13
+being,1
+insight,1
+nonparametric,3
+existing,1
+bring,1
+paper,1
+We,2
+to,1
+only,1
+treatment,1
+clusters,1
+analogous,2
+has,2
+thereby,1
+integer,1
+now,1
+formal,1
+processes,2
+level,1
+this,1
+arbitrary,1
+where,1
+set,1
+achieved,1
+some,1
+connections,1
+literature,1
+are,1
+for,4
+review,1
+combinatorial,1
+Underlying,1
+nonparametrics,1
+between,1
+new,1
+completeness,1
+we,1
+each,1
+notably,1
+collection,1
+groups,2
+modeling,3
+on,1
+Chinese,1
+restaurant,1
+of,10
+nonnegative,1
+or,3
+features,1
+point,1
+previously,1
+into,1
+one,2
+Indian,1
+clustering,3
+been,2
+topics,1
+that,2
+These,1
+stochastic,2
+with,2
+partitioning,1
+include,1
+these,2
+interrelated,1
+problem,4
+called,3
+and,4
+modeled,1
+associated,1
+process,5
+is,1
+modern,1
+an,1
+as,3
+associating,1
+numbers,1
+develop,1
+provide,2
+feature,3
+same,1
+Bayesian,4
+development,1
+Dirichlet,1
+blocks,1
+models,1
+buffet,1
+most,1
+beta,1
+representations,4
+data,2
+focal,1
+a,2
+partition,1
+well,1
+One,1
+points,2
+In,1
+the,13

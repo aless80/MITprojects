@@ -1,114 +1,108 @@
-
-less	1
-focus	1
-Compared	1
-visualization	1
-We	3
-based	1
-,	10
-to	9
-choose	1
-fovea	1
-designs	1
-confined	1
-using	1
-bubbles	1
-areas	1
-reveal	1
-like	1
-presented	1
-settings	1
-small	1
-found	1
-works	1
-where	1
-eye-tracking	1
-consciously	1
-people	2
-series	1
-successfully	1
-related	1
-blurred	1
-used	2
-static	1
-are	1
-measure	1
-images	3
-eye-trackers	1
-click	2
-best	1
-describing	1
-for	1
-content	1
-provides	1
-fixations	2
-approach	1
-measuring	1
-be	2
-importance	2
-by	1
-noisy	1
-on	3
-of	5
-or	1
-tasks	1
-image	4
-rank	1
-replace	1
-Participants	1
-eye	3
-area	1
-approximate	1
-.	6
-collected	1
-:	1
-more	1
-``	1
-controlled	1
-that	2
-methodologies	1
-with	3
-present	1
-graphic	1
-reliable	1
-as	1
-evaluated	1
-can	2
-design	1
-similar	1
-and	7
-moving-window	1
-defined	1
-is	1
-an	1
-''	1
-examine	1
-at	1
-webpages	1
-in	1
-mouse	1
-information	3
-different	1
-compared	1
-variety	1
--	1
-BubbleView	6
-regions	1
-also	1
-methodology	1
-which	1
-clicks	2
-circular	1
-elements	1
-lab	1
-designed	1
-such	1
-data	1
-types	1
-a	5
-natural	1
-original	1
-visualizations	1
-the	5
-resolution	1
-having	1
+less,1
+focus,1
+Compared,1
+visualization,1
+We,3
+based,1
+to,9
+window,1
+choose,1
+fovea,1
+designs,1
+confined,1
+using,1
+bubbles,1
+areas,1
+reveal,1
+like,1
+presented,1
+settings,1
+small,1
+found,1
+works,1
+where,1
+consciously,1
+people,2
+series,1
+successfully,1
+related,1
+blurred,1
+used,2
+static,1
+are,1
+measure,1
+images,3
+click,2
+best,1
+describing,1
+for,1
+content,1
+provides,1
+fixations,2
+approach,1
+measuring,1
+be,2
+importance,2
+by,1
+noisy,1
+on,3
+of,5
+or,1
+tasks,1
+image,4
+rank,1
+replace,1
+Participants,1
+eye,5
+area,1
+approximate,1
+collected,1
+more,1
+controlled,1
+that,2
+methodologies,1
+with,3
+present,1
+graphic,1
+trackers,1
+reliable,1
+as,1
+evaluated,1
+can,2
+design,1
+similar,1
+and,7
+defined,1
+is,1
+an,1
+examine,1
+at,1
+webpages,1
+in,1
+mouse,1
+information,3
+different,1
+compared,1
+variety,1
+BubbleView,6
+regions,1
+also,1
+methodology,1
+which,1
+clicks,2
+circular,1
+elements,1
+lab,1
+moving,1
+designed,1
+such,1
+data,1
+types,1
+a,5
+tracking,1
+natural,1
+original,1
+visualizations,1
+the,5
+resolution,1
+having,1

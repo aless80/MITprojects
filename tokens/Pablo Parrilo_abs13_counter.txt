@@ -1,78 +1,74 @@
-
-and	3
-strongly	1
-constant	1
-methods	1
-show	3
-over	2
-in	1
-number	1
-convergent	1
-globally	1
-convergence	3
-rate	2
-incremental	4
-analysis	1
-learning	1
-convex	1
-our	1
-networks	1
-functions	1
-Motivated	1
-for	4
-gradient	2
-sum	1
-means	1
-distributed	1
-,	5
-.	5
-machine	1
-to	1
-without	1
-growth	2
-condition	2
-minimizing	1
-under	2
-new	1
-analyze	1
-method	4
-achieve	1
-Gauss-Newton	1
-be	1
-we	3
-extended	1
-linear	3
-that	3
-rules	1
-problems	1
-We	2
-obtain	1
-stepsize	3
-not	1
-example	1
-particular	1
-variable	3
-develop	1
-an	1
-data	1
-by	1
-is	2
-a	6
-both	1
-:	1
-algorithm	1
-of	3
-study	1
-Newton	2
-rule	2
-By	1
-large	2
-optimization	1
-can	2
-sets	1
-further	1
-Our	1
-the	3
-other	1
-called	1
-result	1
+and,3
+strongly,1
+constant,1
+methods,1
+show,3
+over,2
+in,1
+number,1
+convergent,1
+globally,1
+convergence,3
+rate,2
+incremental,4
+analysis,1
+learning,1
+convex,1
+our,1
+networks,1
+functions,1
+Motivated,1
+for,4
+gradient,2
+sum,1
+means,1
+distributed,1
+Gauss,1
+machine,1
+to,1
+without,1
+growth,2
+condition,2
+minimizing,1
+under,2
+new,1
+analyze,1
+method,4
+achieve,1
+be,1
+we,3
+extended,1
+linear,3
+that,3
+rules,1
+problems,1
+We,2
+obtain,1
+stepsize,3
+not,1
+example,1
+particular,1
+variable,3
+develop,1
+an,1
+data,1
+by,1
+is,2
+a,6
+both,1
+algorithm,1
+of,3
+study,1
+Newton,3
+rule,2
+By,1
+large,2
+optimization,1
+can,2
+sets,1
+further,1
+Our,1
+the,3
+other,1
+called,1
+result,1

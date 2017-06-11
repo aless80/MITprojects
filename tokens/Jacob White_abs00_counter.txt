@@ -1,63 +1,60 @@
-
-and	2
-pointed	1
-set	1
-ordered	1
-inclusion	1
-is	1
-an	2
-Finally	1
-intervals	1
-are	1
-in	2
-polynomial	1
-associated	1
-Hopf	2
-category	1
-terminal	1
-We	3
-coloring	3
-from	1
-to	1
-poset	1
-show	2
-,	8
-.	4
-symmetric	1
-lattice	1
-ideal	1
-Boolean	1
-which	1
-induced	1
-transformation	1
-gives	1
-function	6
-we	1
-'s	1
-form	1
-that	3
-I	1
-object	1
-problems	3
-introduce	1
-chromatic	4
-P	1
-Ehrhart	1
-combinatorial	2
-with	1
-by	1
-quasisymmetric	5
-a	5
-generalizing	1
-of	5
-study	2
-Hilbert	1
-called	1
-paired	1
-subposets	1
-graph	1
-species	1
-Stanley	1
-the	6
-order	1
-monoids	2
+and,2
+pointed,1
+set,1
+ordered,1
+inclusion,1
+is,1
+an,2
+Finally,1
+intervals,1
+are,1
+in,2
+polynomial,1
+associated,1
+Hopf,2
+category,1
+terminal,1
+We,3
+coloring,3
+from,1
+to,1
+poset,1
+show,2
+species,1
+symmetric,1
+lattice,1
+ideal,1
+Boolean,1
+which,1
+induced,1
+transformation,1
+gives,1
+function,6
+we,1
+form,1
+that,3
+I,1
+object,1
+problems,3
+introduce,1
+chromatic,4
+P,1
+Ehrhart,1
+combinatorial,2
+with,1
+by,1
+quasisymmetric,5
+a,5
+generalizing,1
+of,5
+study,2
+Hilbert,1
+called,1
+paired,1
+s,1
+subposets,1
+graph,1
+Stanley,1
+the,6
+order,1
+monoids,2

@@ -1,135 +1,131 @@
-
-limited	1
-consider	1
-show	2
-true	1
-developed	1
-Equivalence	1
-paper	1
-through	1
-graph	1
-statistical	1
-skeleton	1
-observational	1
-We	3
-inverse	1
-based	1
-$	2
--penalized	1
-(	2
-,	9
-to	4
-only	1
-Max-Min	1
-under	2
-Using	1
-guarantees	3
-propose	1
-finding	2
-sparsest	3
-boils	1
-this	4
-yields	1
-small	1
-cycles	1
-where	1
-work	1
-methods	1
-For	1
-consistent	1
-constraint-based	3
-our	1
-network	1
-for	4
-However	1
-PC	1
-decomposition	1
-new	1
-conditions	2
-method	2
-be	2
-we	3
-This	1
-equivalent	1
-restrictive	1
-likelihood	1
-on	4
-of	4
-connection	1
-permutation	2
-acyclic	1
-or	1
-unclear	1
-faithfulness	3
-variables	2
-number	1
-score-based	4
-down	1
-Greedy	1
-learning	1
-causal	1
-rely	1
-from	1
-prove	2
-ordering	1
-strictly	1
-there	1
-been	3
-.	10
-assumption	3
-Search	1
-that	5
-favorably	1
-covariance	2
-known	1
-with	2
-than	2
-directed	1
-has	2
-whether	1
-SP	3
-maximum	1
-can	1
-demonstrate	1
-problem	1
-and	5
-weaker	2
-Cholesky	1
-well	1
-is	5
-simulations	1
-it	1
-proven	1
-as	2
-have	1
-in	3
-DAG	2
-)	2
-SGS	1
-hybrid	3
-\ell_0	1
-also	1
-setting	2
-compares	1
-which	1
-Bayesian	1
-A	1
-In	2
-purpose	1
-data	1
-model	1
-matrix	2
-a	1
-estimation	1
-especially	1
-algorithm	5
-DAGs	1
-Gaussian	1
-graphs	1
-Hill-Climbing	1
-algorithms	3
-consistency	3
-oracle	1
-the	19
-typically	1
-fact	1
+limited,1
+consider,1
+show,2
+true,1
+developed,1
+Equivalence,1
+paper,1
+through,1
+Hill,1
+statistical,1
+skeleton,1
+observational,1
+We,3
+inverse,1
+based,8
+ell,1
+graph,1
+to,4
+only,1
+under,2
+Climbing,1
+guarantees,3
+propose,1
+finding,2
+sparsest,3
+boils,1
+this,4
+yields,1
+small,1
+cycles,1
+where,1
+penalized,1
+work,1
+methods,1
+For,1
+consistent,1
+DAGs,1
+our,1
+network,1
+for,4
+However,1
+PC,1
+score,4
+decomposition,1
+new,1
+conditions,2
+method,2
+be,2
+we,3
+This,1
+equivalent,1
+restrictive,1
+likelihood,1
+on,4
+constraint,3
+of,4
+connection,1
+permutation,2
+acyclic,1
+or,1
+unclear,1
+faithfulness,3
+variables,2
+number,1
+down,1
+Greedy,1
+learning,1
+causal,1
+rely,1
+from,1
+prove,2
+ordering,1
+strictly,1
+there,1
+been,3
+assumption,3
+Search,1
+that,5
+favorably,1
+covariance,2
+Using,1
+known,1
+with,2
+than,2
+directed,1
+has,2
+whether,1
+SP,3
+maximum,1
+can,1
+demonstrate,1
+problem,1
+and,5
+weaker,2
+Cholesky,1
+Min,1
+is,5
+simulations,1
+it,1
+proven,1
+as,2
+have,1
+in,3
+DAG,2
+Max,1
+SGS,1
+hybrid,3
+also,1
+setting,2
+compares,1
+which,1
+Bayesian,1
+A,1
+consistency,3
+purpose,1
+data,1
+model,1
+matrix,2
+a,1
+estimation,1
+especially,1
+algorithm,5
+well,1
+Gaussian,1
+graphs,1
+algorithms,3
+In,2
+oracle,1
+the,19
+typically,1
+fact,1

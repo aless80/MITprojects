@@ -1,94 +1,92 @@
-
-code	1
-developed	1
-\sqrt	1
-paper	1
-threshold	1
-Gaussian	1
-perfect	1
-$	8
-(	2
-,	6
-to	3
-maximal	3
-inversion	1
-concatenating	1
-transmitter	1
--1	1
-characterized	1
-For	1
-achieved	1
-rate	3
-are	2
-short-term	1
-shown	1
-for	4
-state	1
-large-	1
-above	1
-available	1
-noise	1
-power	3
-This	1
-second-order	3
-expansion	1
-term	3
-additive	1
-by	2
-both	4
-constraint	2
-of	2
-inverts	1
-receiver	1
-long-term	1
-{	2
-\ln	1
-probability	1
-coding	3
-channels	2
-achievable	1
-proportional	1
-given	1
-i.e.	1
-codewords	1
-truncated	1
-.	5
-white	1
-AWGN	3
-is	5
-that	2
-Easy-to-evaluate	1
-dispersion-optimal	1
-controller	1
-gain	1
-cases	1
-with	2
-case	2
-this	1
-approximations	1
-namely	1
-n	3
-blocklength	1
-error	1
-and	4
-certain	1
-\epsilon	1
-an	1
-at	2
-n^	1
-in	2
-fading	4
-information	1
-quasi-static	3
-)	2
-when	1
-subject	2
-averaged-over-all-codeword	1
-channel	7
-investigates	1
-The	1
-a	6
-whenever	1
-It	1
-the	13
-}	2
+all,1
+code,1
+developed,1
+over,1
+paper,1
+threshold,1
+perfect,1
+ln,1
+to,4
+quasi,3
+maximal,3
+evaluate,1
+inversion,1
+concatenating,1
+transmitter,1
+large,1
+characterized,1
+For,1
+achieved,1
+rate,3
+static,3
+are,2
+Easy,1
+subject,2
+shown,1
+for,4
+state,1
+above,1
+available,1
+noise,1
+power,3
+This,1
+expansion,1
+term,5
+by,2
+both,4
+constraint,2
+of,2
+inverts,1
+receiver,1
+probability,1
+coding,3
+channels,2
+achievable,1
+proportional,1
+given,1
+additive,1
+i,1
+second,3
+codewords,1
+truncated,1
+long,1
+dispersion,1
+white,1
+AWGN,3
+that,2
+epsilon,1
+controller,1
+gain,1
+cases,1
+an,1
+with,2
+case,2
+this,1
+approximations,1
+averaged,1
+namely,1
+n,4
+blocklength,1
+error,1
+and,4
+certain,1
+is,5
+It,1
+at,2
+in,2
+fading,4
+information,1
+when,1
+sqrt,1
+optimal,1
+channel,7
+investigates,1
+codeword,1
+The,1
+a,6
+short,1
+e,1
+whenever,1
+Gaussian,1
+the,13
+order,3

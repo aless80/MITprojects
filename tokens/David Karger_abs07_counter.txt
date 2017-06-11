@@ -1,159 +1,136 @@
-
-all	2
-consider	1
-show	1
-transmitting	1
-random	2
-dynamic	1
-obtain	1
-leads	1
-combinations	1
-computation	1
-token-forwarding	2
-speed	1
-networks	1
-We	3
-implying	1
-(	5
-deterministic	1
-distributed	2
-,	15
-to	6
-broadcasts	1
-derandomize	1
-factor	1
-nodes	2
-achieve	1
-them	1
-speedup	2
-break	1
-every	3
-T	2
-Oshman	1
-using	1
-d	2
-sizes	1
-=	2
-token	4
-each	2
-where	1
-round	2
-upper	1
-For	1
-some	1
-related	1
-et	2
-matching	1
-even	1
-rounds	3
-network	5
-for	3
-n^2	3
-+	1
-d-bit	1
-new	2
-size	1
-approach	1
-be	1
-we	2
-linear	2
-This	1
-O	3
-T^2	1
-not	1
-Kuhn	3
-Our	1
-[	1
-adversary	1
-change	1
-topology	1
-obtained	1
-both	1
-Lastly	1
-of	7
-larger	1
-messages	1
-{	1
-first	1
-coding	3
-bound	2
-Their	1
-message	2
-forwarding	2
-adaptively	1
-STOC	1
-use	3
-log	3
-prove	1
-*	1
-chooses	1
-.	12
-quadratic	1
-Lynch	1
-way	1
-basic	1
-:	1
->	1
-only	1
-knows	1
-that	5
-improve	1
-it	1
-broadcast	1
-dissemination	1
-particular	1
-general	1
-with	2
-b	3
-algorithm	1
-this	1
-bounds	3
-n	6
-while	1
-can	2
-applies	1
-making	1
-more	1
-and	4
-linear-time	1
-challenging	1
-give	1
-is	1
-al	2
-additional	1
-an	3
-b-bit	1
-in	6
-information	1
-)	5
-d/b^2	1
-breaking	1
-also	2
-take	1
-They	1
-performance	1
-Omega	2
-'10	1
-node	1
-n^2/log	1
-'s	1
-our	1
-class	1
-In	1
-but	1
-contrasts	1
-]	1
-the	6
-a	5
-tokens	2
-lower	5
-natural	3
-n.	1
-computations	1
-starting	1
-roughly	1
-broadcasting	1
-algorithms	7
-time	1
-model	2
-}	1
+all,2
+consider,1
+show,1
+transmitting,1
+random,2
+dynamic,1
+obtain,1
+leads,1
+combinations,1
+computation,1
+speed,1
+networks,1
+We,3
+implying,1
+deterministic,1
+distributed,2
+to,6
+broadcasts,1
+derandomize,1
+factor,1
+nodes,2
+achieve,1
+them,1
+speedup,2
+break,1
+every,3
+T,3
+Oshman,1
+using,1
+bit,2
+d,4
+sizes,1
+token,6
+each,2
+where,1
+round,2
+the,6
+For,1
+some,1
+related,1
+et,2
+matching,1
+even,1
+network,5
+for,3
+rounds,3
+new,2
+size,1
+approach,1
+be,1
+we,2
+linear,3
+This,1
+O,3
+Kuhn,3
+Our,1
+adversary,1
+change,1
+topology,1
+obtained,1
+both,1
+of,7
+larger,1
+messages,1
+s,1
+first,1
+upper,1
+coding,3
+bound,2
+Their,1
+message,2
+forwarding,4
+adaptively,1
+STOC,1
+use,3
+log,4
+prove,1
+chooses,1
+quadratic,1
+Lynch,1
+way,1
+basic,1
+improve,1
+more,1
+only,1
+knows,1
+that,5
+but,1
+it,1
+broadcast,1
+dissemination,1
+particular,1
+general,1
+with,2
+b,5
+this,1
+bounds,3
+n,11
+while,1
+can,2
+applies,1
+making,1
+Lastly,1
+and,4
+challenging,1
+give,1
+is,1
+al,2
+additional,1
+an,3
+in,6
+information,1
+not,1
+breaking,1
+also,2
+take,1
+They,1
+performance,1
+Omega,2
+node,1
+our,1
+In,1
+contrasts,1
+class,1
+a,5
+tokens,2
+lower,5
+natural,3
+algorithm,1
+computations,1
+roughly,1
+broadcasting,1
+algorithms,7
+time,2
+model,2
+starting,1

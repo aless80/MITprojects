@@ -1,78 +1,73 @@
-
-istributed	1
-primitive	2
-inference	1
-be	1
-large-scale	1
-over	1
-in	1
-synchronous	1
-according	1
-approximation	1
-streaming	2
-as	1
-through	1
-usefulness	1
-computation	1
-pass	1
-our	2
-estimated	1
-data	1
-We	3
-latent	1
-for	1
-treaming	1
-)	5
-(	5
-user-specified	1
-single	1
-,	6
-.	4
-to	3
-fitting	1
-setting	1
-collections	1
-Bayes	1
-Bayesian	1
-stochastic	1
-variational	2
-apply	1
-A	1
-model	1
-VB	1
-Dirichlet	1
-D	1
-SVI	3
-may	1
-after	1
-SDA-Bayes	1
-comparing	1
-allocation	1
-framework	3
-S	1
-not	1
-advantages	1
-updates	1
-known	1
--a	1
-The	1
-with	1
-by	2
-present	1
-a	5
-document	1
-algorithm	1
---	2
-of	4
-posterior	2
-where	2
-amount	1
-does	1
-case	1
-batch	1
-demonstrate	2
-the	7
--and	1
-makes	1
-two	2
-applied	1
+and,1
+istributed,1
+primitive,2
+inference,1
+be,1
+over,1
+pass,1
+synchronous,1
+according,1
+approximation,1
+streaming,2
+as,1
+through,1
+usefulness,1
+computation,1
+specified,1
+our,2
+estimated,1
+We,3
+scale,1
+latent,1
+for,1
+treaming,1
+not,1
+data,1
+single,1
+two,2
+applied,1
+to,3
+fitting,1
+setting,1
+collections,1
+Bayes,2
+Bayesian,1
+stochastic,1
+variational,2
+apply,1
+does,1
+A,1
+model,1
+VB,1
+Dirichlet,1
+D,1
+SVI,3
+may,1
+after,1
+comparing,1
+allocation,1
+framework,3
+posterior,2
+advantages,1
+updates,1
+known,1
+The,1
+with,1
+by,2
+present,1
+a,6
+document,1
+in,1
+algorithm,1
+of,4
+S,1
+large,1
+where,2
+amount,1
+SDA,1
+case,1
+batch,1
+demonstrate,2
+the,7
+makes,1
+user,1

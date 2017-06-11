@@ -1,166 +1,149 @@
-
-THR\circ	1
-gates	1
-all	1
-consider	1
-show	3
-over	2
-including	1
-Inner	1
-threshold	1
-rigidity	6
-layers	1
-whose	1
-We	7
-$	24
-field	1
-(	6
-,	11
-to	4
-only	1
-Rigid	1
-Not	1
-a.k.a	1
-has	1
-modestly	1
-lacking	1
-2^	3
-possible	1
-entries	2
-not	1
-highly	1
-matrices	7
-mod	1
-drop	1
-yield	1
-Valiant	1
-each	1
-sub-quadratic-size	1
-upper	2
-smaller	1
-For	1
-modified	1
-connections	1
-imply	1
-are	1
-best	1
-matrix	5
-for	5
-That	1
-Very	1
-extensively	1
-2^n	2
-\log	2
-conjectured	1
-new	1
-row	1
-approach	1
-be	2
-we	1
-after	1
-linear	1
-Sylvester	1
-arbitrary	1
-modify	1
-extent	1
-represented	1
-consequences	1
-strong	1
-by	1
-on	2
-of	7
-studied	1
-AC^0	1
-circuit	3
-{	7
-or	1
-via	1
-Matrix	1
-family	1
-communication	2
-Transform	1
-rank	4
-low-rank	1
-least	1
-\times	2
-would	2
-0	1
-transform	1
-been	1
-.	11
-Circuit	1
-2	1
-H_n	2
-:	1
-was	1
-\epsilon	2
->	1
-function	1
-that	2
-1/\epsilon	1
-Hadamard	1
-R	1
-rigid	3
-known	1
-with	3
-than	1
-^	2
-also	2
-target	1
-circuits	1
-bounds	6
-n	6
-below	1
-can	1
-demonstrate	1
-more	1
-Rigidity	1
-and	5
-\mathbb	1
-give	2
-THR	1
-is	3
-it	1
-probabilistically	1
-1-\delta	1
-at	1
-in	1
-1-\Omega	1
-\epsilon^2/\log	1
-any	1
-Product	1
-)	6
-make	1
-how	1
-maintain	1
-which	4
-infamously	1
-several	1
-Walsh-Hadamard	2
-arithmetic	1
-difficult	1
-Lower	1
-'s	1
-L.	1
-measures	1
-Bounds	1
-0/1	1
-two	1
-The	1
-probabilistic	2
-class	1
-a	5
-prove	2
-lower	4
-surprising	1
-explicit	2
-\delta/2	1
-n^2/2^	1
-complexity	2
-Boolean	2
-sign-rank	2
-Threshold	1
-the	7
-}	7
-notion	1
-non-trivial	1
+gates,1
+all,1
+consider,1
+show,3
+over,2
+including,1
+Inner,1
+modified,1
+threshold,1
+trivial,1
+rigidity,6
+layers,1
+whose,1
+We,7
+field,1
+to,4
+only,1
+Rigid,1
+Not,1
+has,1
+modestly,1
+non,1
+lacking,1
+H,2
+possible,1
+entries,2
+not,1
+matrices,7
+mod,1
+drop,1
+yield,1
+Valiant,1
+each,1
+upper,2
+smaller,1
+For,1
+AC,1
+sign,2
+connections,1
+imply,1
+are,1
+best,1
+matrix,5
+for,5
+That,1
+Very,1
+extensively,1
+circ,1
+conjectured,1
+new,1
+row,1
+approach,1
+be,2
+we,1
+after,1
+linear,1
+Sylvester,1
+arbitrary,1
+modify,1
+extent,1
+represented,1
+consequences,1
+strong,1
+by,1
+on,2
+of,7
+k,1
+studied,1
+THR,2
+times,2
+s,1
+circuit,3
+or,1
+mathbb,1
+via,1
+Matrix,1
+family,1
+communication,2
+Transform,1
+rank,7
+highly,1
+least,1
+size,1
+log,3
+would,2
+prove,2
+transform,1
+been,1
+Circuit,1
+quadratic,1
+low,1
+Hadamard,3
+was,1
+more,1
+function,1
+that,2
+epsilon,4
+R,1
+rigid,3
+delta,2
+known,1
+with,3
+than,1
+also,2
+target,1
+circuits,1
+bounds,6
+n,11
+below,1
+Walsh,2
+can,1
+demonstrate,1
+Rigidity,1
+and,5
+give,2
+is,3
+it,1
+probabilistically,1
+at,1
+in,1
+any,1
+Product,1
+make,1
+how,1
+maintain,1
+which,4
+infamously,1
+several,1
+Omega,1
+arithmetic,1
+difficult,1
+Lower,1
+measures,1
+Bounds,1
+L,1
+two,1
+The,1
+probabilistic,2
+class,1
+sub,1
+a,7
+lower,4
+surprising,1
+explicit,2
+complexity,2
+Boolean,2
+Threshold,1
+the,7
+notion,1

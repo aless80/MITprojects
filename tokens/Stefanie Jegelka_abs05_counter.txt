@@ -1,95 +1,90 @@
-
-show	1
-BO	1
-tasks	1
-entropy	2
-plagued	1
-computation	1
-We	3
-$	2
-(	3
-,	10
-to	2
-compelling	1
-samples	1
-Both	1
-good	2
-propose	1
-\arg\max	1
-bound	1
-burden	1
-instead	1
-Max-value	1
-popular	1
-methods	1
-maximum	1
-are	2
-techniques	1
-for	2
-new	1
-maintains	1
-Optimization	1
-by	1
-ES	1
-gained	1
-both	1
-about	2
-of	6
-improves	1
-Entropy	3
-hence	1
-or	1
-computational	1
-information-theoretic	1
-number	1
-PES	1
-maximize	1
-establish	1
-expensive	1
-regret	1
-rely	1
-estimating	1
-unknown	1
-relations	1
-.	8
-much	1
-more	2
-function	1
-Search	3
-that	2
-successful	1
-Empirical	1
-observe	1
-particular	1
-lightening	1
-tremendously	1
-empirical	1
-value	1
-while	1
-MES	5
-demonstrate	1
-and	5
-motivation	1
-e.g.	1
-computing	1
-is	1
-information	2
-variety	1
-)	3
-empirically	1
-other	1
-criterion	1
-Bayesian	1
-performance	2
-used	1
-uses	1
-robust	1
-evaluations	1
-on	2
-a	4
-Predictive	1
-ES/PES	1
-Yet	1
-efficient	1
-In	1
-the	9
+show,1
+BO,1
+tasks,1
+entropy,2
+plagued,1
+computation,1
+We,3
+to,2
+compelling,1
+samples,1
+Both,1
+good,2
+propose,1
+bound,1
+burden,1
+instead,1
+popular,1
+methods,1
+maximum,1
+are,2
+arg,1
+theoretic,1
+techniques,1
+for,2
+new,1
+maintains,1
+Optimization,1
+by,1
+ES,2
+gained,1
+both,1
+about,2
+g,1
+of,6
+improves,1
+Entropy,3
+hence,1
+or,1
+computational,1
+number,1
+PES,2
+maximize,1
+establish,1
+expensive,1
+regret,1
+rely,1
+estimating,1
+unknown,1
+relations,1
+much,1
+more,2
+function,1
+Search,3
+that,2
+successful,1
+Empirical,1
+observe,1
+particular,1
+lightening,1
+tremendously,1
+empirical,1
+value,2
+while,1
+MES,5
+demonstrate,1
+and,5
+motivation,1
+computing,1
+is,1
+information,3
+variety,1
+efficient,1
+Max,1
+empirically,1
+other,1
+criterion,1
+Bayesian,1
+performance,2
+used,1
+max,1
+uses,1
+robust,1
+evaluations,1
+on,2
+a,4
+Predictive,1
+e,1
+Yet,1
+In,1
+the,9

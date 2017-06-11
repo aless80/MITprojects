@@ -1,33 +1,31 @@
-
-promises	1
-abstract	1
-it	1
-past	1
-paper	2
-blank	1
-no-one	1
-whose	1
-title	1
-,	1
-.	2
-presents	1
-to	1
-new	1
-reading	1
-is	1
-be	1
-that	1
-This	1
-Because	1
-remainder	1
-a	1
-scheme	1
-this	1
-boring	1
-bother	1
-crypto	1
-will	1
-so	1
-of	2
-the	3
-left	1
+promises,1
+abstract,1
+it,1
+one,1
+past,1
+paper,2
+blank,1
+whose,1
+title,1
+presents,1
+to,1
+new,1
+reading,1
+is,1
+be,1
+that,1
+This,1
+Because,1
+remainder,1
+a,1
+scheme,1
+this,1
+boring,1
+bother,1
+no,1
+crypto,1
+will,1
+so,1
+of,2
+the,3
+left,1

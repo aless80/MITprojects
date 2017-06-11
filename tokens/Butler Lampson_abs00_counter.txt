@@ -1,95 +1,91 @@
-
-learning	1
-show	1
-text	2
-over	1
-attempts	1
-inference	1
-facilitates	1
-We	2
-compose	1
-,	8
-to	4
-program	1
-input	2
-ranking	1
-one	1
-Example	1
-sorting	1
-infer	1
-output	2
-domain	1
-force	1
-often	1
-scheme	1
-searching	1
-examples	2
-our	1
-principled	1
-even	1
-learns	1
-for	4
-be	1
-processing	2
-Programming	1
-base	1
-clues	3
-by	2
-on	2
-search	2
-of	7
-suggests	1
-range	1
-resulting	1
-mildly	1
-tasks	2
-useful	1
-features	1
-simple	1
-rank	1
-brute	1
-another	1
-from	2
-system	3
-textual	1
-.	6
-interest	1
-themselves	1
-:	1
-describe	1
-that	4
-naive	1
-present	1
-prototype	1
-this	3
-involved	1
-example	1
-are	1
-and	4
-certain	1
-is	2
-permutations	1
-as	1
-reliability	1
-arise	1
-if	1
-functions	2
-efficient	1
-generally	1
-note	1
-how	1
-parts	1
-which	2
-infeasible	1
-composition	1
-may	1
-Performing	1
-allowing	1
-such	1
-a	8
-faster	1
-programs	2
-Experiments	1
-In	2
-the	4
-strings	1
+learning,1
+show,1
+text,2
+over,1
+attempts,1
+inference,1
+facilitates,1
+We,2
+compose,1
+to,4
+program,1
+input,2
+ranking,1
+one,1
+Example,1
+sorting,1
+infer,1
+output,2
+domain,1
+force,1
+often,1
+searching,1
+examples,2
+our,1
+principled,1
+even,1
+learns,1
+for,4
+be,1
+processing,2
+Programming,1
+base,1
+clues,3
+by,2
+on,2
+search,2
+involved,1
+suggests,1
+range,1
+resulting,1
+mildly,1
+tasks,2
+useful,1
+features,1
+simple,1
+rank,1
+system,3
+another,1
+from,2
+brute,1
+textual,1
+interest,1
+themselves,1
+prototype,1
+describe,1
+that,4
+naive,1
+present,1
+scheme,1
+this,3
+of,7
+example,1
+are,1
+and,4
+certain,1
+is,2
+permutations,1
+as,1
+reliability,1
+arise,1
+if,1
+functions,2
+efficient,1
+generally,1
+note,1
+how,1
+parts,1
+which,2
+infeasible,1
+composition,1
+may,1
+Performing,1
+allowing,1
+such,1
+a,8
+faster,1
+programs,2
+Experiments,1
+In,2
+the,4
+strings,1

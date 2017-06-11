@@ -1,76 +1,72 @@
-
-and	1
-incorporate	1
-often	1
-classification	3
-sentence	3
-in	3
-ANNs	1
-we	1
-However	1
-achieves	1
-medical	1
-as	1
-been	1
-have	1
-sentences	4
-networks	1
-different	1
-shown	1
-strength	1
-based	1
-appear	1
-for	2
-)	1
-(	1
-structured	1
-,	5
-artificial	1
-.	4
-to	2
-classifying	1
-of	2
-which	1
-effectiveness	1
-classify	2
-architecture	1
-do	1
-such	1
-conditional	1
-sequential	1
-that	1
-models	2
-isolation	1
-In	1
-results	1
-combines	1
-jointly	1
-prediction	1
-state-of-the-art	1
-approaches	1
-two	1
-not	1
-from	1
-individually	1
-an	1
-with	2
-model	1
-present	1
-on	2
-datasets	1
-neural	1
-this	1
-fields	1
-random	1
-work	1
-Existing	1
-traditional	1
-benefit	1
-greatly	1
-context	1
-subsequent	1
-Our	1
-the	3
-abstracts	1
-ANN	2
-typical	1
+and,1
+incorporate,1
+art,1
+often,1
+classification,3
+sentence,3
+in,3
+ANNs,1
+we,1
+an,1
+achieves,1
+medical,1
+as,1
+been,1
+have,1
+sentences,4
+networks,1
+different,1
+shown,1
+strength,1
+based,1
+appear,1
+for,2
+subsequent,1
+structured,1
+However,1
+artificial,1
+isolation,1
+to,2
+classifying,1
+sequential,1
+which,1
+effectiveness,1
+classify,2
+architecture,1
+do,1
+such,1
+conditional,1
+that,1
+models,2
+of,3
+results,1
+combines,1
+jointly,1
+prediction,1
+approaches,1
+state,1
+two,1
+not,1
+from,1
+individually,1
+with,2
+model,1
+present,1
+on,2
+datasets,1
+neural,1
+this,1
+fields,1
+random,1
+work,1
+Existing,1
+traditional,1
+benefit,1
+greatly,1
+context,1
+In,1
+Our,1
+the,4
+abstracts,1
+ANN,2
+typical,1

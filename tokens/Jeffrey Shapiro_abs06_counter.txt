@@ -1,105 +1,102 @@
-
-gates	1
-exploits	1
-Compared	1
-protocol	1
-networks	1
-We	1
-based	1
-field	1
-(	1
-photons	2
-encoding	2
-,	10
-Here	1
-to	5
-detected	1
-marks	1
-has	1
-achieve	1
-tests	1
-increased	1
-High-dimensional	1
-loss	1
-binary-encoded	1
-transmission	1
-performing	1
-schemes	3
-towards	1
-quantum	4
-large-alphabet	4
-demonstrates	1
-per	1
-keys	1
-new	1
-we	1
-noise	1
-nature	1
-This	1
-processing	1
-efficiency	1
-step	1
-key	1
-boosting	1
-Recently	1
-optimize	1
-improve	1
-on	1
-perform	1
-provably	1
-implementing	1
-eavesdropper	1
-of	5
-practical	1
-temporal	1
-first	2
-and	5
-tasks	1
-secure	4
-presence	1
-communication	2
-resilience	1
-basis	1
-two	1
-.	8
-much	1
-rates	3
-way	1
-encode	2
-more	1
-turned	1
-photon	1
-encoded	1
-effort	1
-deployed	1
-Bell	1
-record	1
-can	1
-Quantum	1
-demonstrate	1
-distribution	1
-high-dimensional	3
-share	1
-an	2
-states	3
-as	2
-in	4
-demonstration	1
-information	2
-)	1
-QKD	6
-polarization	1
-also	2
-other	1
-which	1
-used	1
-may	1
-important	1
-secret-key	2
-allowing	1
-such	2
-The	1
-a	2
-light	1
-provide	1
-the	4
+gates,1
+exploits,1
+Compared,1
+protocol,1
+networks,1
+We,1
+based,1
+field,1
+photons,2
+encoding,2
+Here,1
+to,5
+detected,1
+marks,1
+has,1
+achieve,1
+tests,1
+increased,1
+loss,1
+transmission,1
+performing,1
+large,4
+schemes,3
+towards,1
+quantum,4
+demonstrates,1
+per,1
+keys,1
+new,1
+we,1
+noise,1
+nature,1
+This,1
+processing,1
+implementing,1
+step,1
+key,3
+boosting,1
+Recently,1
+optimize,1
+improve,1
+on,1
+provably,1
+efficiency,1
+eavesdropper,1
+of,5
+practical,1
+temporal,1
+first,2
+tasks,1
+secure,4
+presence,1
+communication,2
+dimensional,4
+resilience,1
+basis,1
+two,1
+secret,2
+much,1
+rates,3
+way,1
+encode,2
+more,1
+turned,1
+photon,1
+encoded,2
+effort,1
+deployed,1
+high,3
+Bell,1
+record,1
+can,1
+Quantum,1
+demonstrate,1
+distribution,1
+and,5
+share,1
+an,2
+states,3
+as,2
+in,4
+demonstration,1
+binary,1
+provide,1
+alphabet,4
+QKD,6
+polarization,1
+also,2
+other,1
+which,1
+used,1
+information,2
+may,1
+important,1
+allowing,1
+such,2
+The,1
+a,2
+light,1
+High,1
+perform,1
+the,4

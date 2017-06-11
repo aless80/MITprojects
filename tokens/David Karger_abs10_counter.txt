@@ -1,98 +1,95 @@
-
-consider	2
-over	2
-dynamic	4
-centralized	1
-existing	1
-computation	1
-networks	4
-We	2
-group	3
-(	2
-solving	1
-,	10
-to	3
-nodes	1
-solvable	1
-By	1
-very	1
-polynomial-time	1
-using	1
-fully	1
-yield	1
-establishing	2
-solved	1
-arbitrary	1
-where	3
-schemes	1
-constructing	1
-For	2
-reduce	2
-outgoing	1
-packet	4
-connections	3
-static	3
-are	1
-duration	1
-special	1
-even	1
-network	1
-for	4
-approach	1
-contrast	1
-be	1
-we	3
-theory	1
-i.e	1
-both	2
-of	9
-programming	2
-leaving	1
-connection	1
-multicast	9
-changes	1
-decentralized	3
-except	1
-apply	1
-causal	1
-remains	1
-.	7
-achieving	1
-received	1
-These	1
-wireless	1
-cases	1
-with	2
-present	1
-minimum-cost	3
-optimization	1
-wireline	1
-problem	6
-and	6
-constant	1
-coupled	1
-packets	2
-is	1
-it	2
-unicast	1
-as	2
-in	2
-routed	1
-contents	2
-functions	1
-codes	1
-)	2
-suggest	1
-when	1
-how	1
-coded	1
-difficult	1
-may	1
-membership	2
-a	4
-broadcast	1
-well	1
-algorithms	2
-time	1
-the	12
-joining	1
+consider,2
+over,2
+dynamic,4
+centralized,1
+existing,1
+computation,1
+networks,4
+We,2
+group,3
+solving,1
+except,1
+to,3
+nodes,1
+solvable,1
+By,1
+very,1
+using,1
+fully,1
+yield,1
+establishing,2
+solved,1
+arbitrary,1
+where,3
+schemes,1
+constructing,1
+For,2
+reduce,2
+outgoing,1
+packet,4
+connections,3
+cost,3
+static,3
+are,1
+duration,1
+special,1
+even,1
+network,1
+for,4
+approach,1
+contrast,1
+be,1
+we,3
+theory,1
+both,2
+of,9
+programming,2
+leaving,1
+connection,1
+multicast,9
+changes,1
+decentralized,3
+polynomial,1
+apply,1
+causal,1
+remains,1
+achieving,1
+received,1
+These,1
+wireless,1
+cases,1
+with,2
+present,1
+optimization,1
+wireline,1
+problem,6
+and,6
+constant,1
+coupled,1
+packets,2
+is,1
+it,2
+unicast,1
+as,2
+minimum,3
+in,2
+routed,1
+contents,2
+functions,1
+codes,1
+suggest,1
+when,1
+how,1
+coded,1
+difficult,1
+may,1
+membership,2
+a,4
+broadcast,1
+e,1
+i,1
+well,1
+algorithms,2
+time,2
+the,12
+joining,1

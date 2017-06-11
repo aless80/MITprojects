@@ -1,79 +1,79 @@
-
-and	2
-al.	1
-GWAS	4
-our	1
-methods	1
-proposed	1
-show	1
-convex	1
-focus	1
-private	2
-an	2
-cross-validation	1
-used	1
-identify	1
-Here	1
-privacy-preserving	1
-in	2
-et	1
-.	4
-regression	3
-given	1
-develop	1
-publication	1
-for	3
-how	1
-)	1
-(	1
-solving	1
-,	4
-been	1
-by	2
-penalty	2
-to	4
-attack	1
-way	1
-evaluate	1
-performance	1
-genome-wide	1
-has	1
-'s	1
-differentially	2
-Homer	1
-be	1
-we	2
-releasing	1
-elastic-net	2
-widely	1
-with	3
-selecting	1
-attention	1
-problems	1
-functions	1
-regularization	2
-particular	1
-Following	1
-genes	1
-analyses	1
-data	3
-considerable	1
-association	1
-a	3
-on	2
-We	1
-parameters	1
-developing	1
-of	2
-disease-causing	1
-analysis	1
-method	3
-applied	1
-can	1
-logistic	2
-In	1
-end-to-end	1
-the	3
-studies	1
-procedure	1
-penalized	2
+and,2
+differentially,2
+GWAS,4
+methods,1
+proposed,1
+show,1
+preserving,1
+al,1
+private,2
+an,2
+used,1
+identify,1
+Here,1
+genes,1
+in,2
+et,1
+regression,3
+given,1
+develop,1
+publication,1
+for,3
+privacy,1
+with,3
+solving,1
+convex,1
+cross,1
+been,1
+by,2
+penalty,2
+to,5
+attack,1
+causing,1
+genome,1
+way,1
+evaluate,1
+performance,1
+net,2
+has,1
+method,3
+regularization,2
+Homer,1
+be,1
+we,2
+releasing,1
+widely,1
+wide,1
+our,1
+selecting,1
+attention,1
+problems,1
+functions,1
+focus,1
+how,1
+particular,1
+Following,1
+end,2
+analyses,1
+data,3
+considerable,1
+association,1
+a,3
+on,2
+We,1
+parameters,1
+developing,1
+of,2
+disease,1
+analysis,1
+applied,1
+s,1
+elastic,2
+can,1
+logistic,2
+In,1
+the,3
+validation,1
+studies,1
+procedure,1
+penalized,2

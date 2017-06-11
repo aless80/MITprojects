@@ -1,139 +1,137 @@
-
-all	2
-proposed	3
-reductions	1
-over	1
-inactive	3
-identify	1
-Under	1
-consists	1
-its	1
-We	2
-disturbance	4
-monotonicity	1
-parameters	2
-,	9
-to	7
-only	1
-setting	1
-state-dependent	1
-under	5
-policy	2
-nodes	1
-has	1
-local	1
-which	2
-downstream	1
-propose	2
-activation	2
-evolution	1
-possibly	1
-not	1
-condition	1
-processes	1
-upper	2
-reduces	1
-cascading	2
-magnitude	2
-either	1
-each	1
-become	2
-where	1
-node	1
-successively	1
-Network	1
-For	1
-connections	1
-are	2
-infimum	1
-our	1
-dynamics	5
-capacity	2
-network	10
-for	2
-pattern	1
-sum	1
-overload	1
-access	2
-state	4
-routing	4
-between	2
-conditions	1
-across	1
-we	1
-standard	1
-making	1
-by	1
-on	6
-about	1
-of	13
-hence	1
-or	1
-origin	1
-presence	1
-bound	2
-due	1
-appropriate	1
-oblivious	1
-resilience	2
-necessarily	1
-their	1
-adversarial	1
-fast	1
-.	9
-defined	2
-irreversibly	1
-relies	1
-that	3
-becomes	1
-sufficient	1
-immediate	1
-failure	1
-link	2
-than	1
-dynamical	1
-case	1
-compute	1
-limiting	1
-determined	1
-policies	2
-Our	1
-margin	2
-and	8
-links	6
-process	2
-is	5
-an	3
-as	4
-itself	1
-at	2
-have	1
-in	2
-information	1
-different	1
-cumulative	1
-when	1
-single-commodity	1
-tight	1
-other	1
-adjacent	1
-status	1
-models	1
-time	1
-update	1
-flows	2
-action	1
-but	1
-The	2
-model	3
-a	4
-implies	1
-coupling	1
-algorithm	1
-flow	2
-analysis	1
-cascade	1
-In	1
-qualitatively	1
-failures	1
-the	25
+all,2
+proposed,3
+reductions,1
+over,1
+inactive,3
+identify,1
+Under,1
+consists,1
+its,1
+We,2
+disturbance,4
+monotonicity,1
+parameters,2
+to,7
+only,1
+setting,1
+under,5
+policy,2
+nodes,1
+has,1
+local,1
+which,2
+downstream,1
+dependent,1
+propose,2
+activation,2
+evolution,1
+possibly,1
+not,1
+condition,1
+processes,1
+upper,2
+reduces,1
+cascading,2
+magnitude,2
+either,1
+each,1
+become,2
+where,1
+node,1
+successively,1
+Network,1
+For,1
+connections,1
+are,2
+infimum,1
+our,1
+dynamics,5
+capacity,2
+network,10
+for,2
+pattern,1
+sum,1
+overload,1
+access,2
+state,5
+routing,4
+between,2
+conditions,1
+across,1
+we,1
+standard,1
+making,1
+by,1
+on,6
+about,1
+of,13
+hence,1
+or,1
+origin,1
+presence,1
+bound,2
+due,1
+appropriate,1
+oblivious,1
+resilience,2
+necessarily,1
+their,1
+adversarial,1
+fast,1
+defined,2
+irreversibly,1
+relies,1
+that,3
+becomes,1
+sufficient,1
+immediate,1
+failure,1
+link,2
+than,1
+dynamical,1
+case,1
+compute,1
+algorithm,1
+as,4
+limiting,1
+determined,1
+policies,2
+Our,1
+margin,2
+and,8
+links,6
+process,2
+is,5
+an,3
+single,1
+itself,1
+at,2
+have,1
+in,2
+information,1
+different,1
+cumulative,1
+when,1
+tight,1
+other,1
+adjacent,1
+status,1
+models,1
+time,1
+update,1
+flows,2
+action,1
+but,1
+The,2
+model,3
+a,4
+implies,1
+coupling,1
+commodity,1
+flow,2
+analysis,1
+cascade,1
+In,1
+qualitatively,1
+failures,1
+the,25

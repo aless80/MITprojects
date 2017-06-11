@@ -1,158 +1,151 @@
-
-limited	1
-externally	1
-show	2
-bandgap	1
-bandwidth	1
-experiments	1
-pulses	1
-testbed	1
-remarkably	1
-CdSe	1
-compact	1
-whose	1
-We	1
-rapid	1
-high-field	1
-how	1
-energies	2
-(	4
-,	7
-to	5
-only	1
-present	2
-Additionally	1
-under	1
-eV-scale	1
-explained	1
-material	2
-band	1
-meV-scale	1
-picosecond	1
-sensitivity	1
-confined	1
-affect	1
-processes	1
-eV	1
-THz	4
-fields	3
-this	1
-visible/near-IR	1
-where	1
-profile	1
-be	3
-colossal	1
-scheme	1
-energy	2
-band-gap	1
-detection	1
-electrostatic	1
-changes	1
-duration	1
-quasi-DC	1
-even	1
-colloidal	1
-picoseconds	1
-for	1
-electromagnetic	1
-Earlier	1
-semiconductor	1
-consistently	1
-timeframe	1
-Unique	1
-contrast	1
-can	3
-core	1
-we	3
-25	1
-by	3
-extreme	1
-of	14
-study	1
-Surprisingly	1
-THz-frequency	1
-range	1
-studies	1
-or	1
-within	2
-Stark	1
-platform	1
-electronic	1
-properties	4
-from	1
-temperature	1
-geometries	1
-source	1
-achieved	1
-charge	2
-been	1
-.	8
-few	1
-films	1
-:	2
-structures	1
-configurational	1
-more	1
-dots	1
-shell	1
-corresponding	1
-that	3
-photon	2
-observe	1
-external	1
-optical	1
-with	5
-than	1
-versatile	1
-applied	1
-novel	1
-room	1
-these	2
-work	2
-absence	1
-nanostructured	1
-Our	2
-route	1
-expect	1
-and	2
-associated	1
-is	3
-0.5	1
-an	1
-high	4
-quantum	3
-at	1
-have	2
-in	4
-conversion	1
-%	1
-)	4
-field	2
-without	1
-adapted	1
-which	2
-shifts	1
-unperturbed	1
-breakdown	1
-electric	3
-excitation	1
-modulation	4
-demonstrates	1
-mechanical	1
-effect	1
-QDs	1
-CdS	1
-changing	1
-response	1
-structure	1
-a	5
-luminescence	2
-sets	1
-restricted	1
-drive	1
-solids	1
-confinement	1
-QD	6
-In	1
-the	13
-arising	1
+limited,1
+externally,1
+show,2
+bandgap,1
+bandwidth,1
+experiments,1
+pulses,1
+testbed,1
+remarkably,1
+CdSe,1
+compact,1
+whose,1
+We,1
+rapid,1
+how,1
+energies,2
+to,5
+only,1
+versatile,1
+Additionally,1
+under,1
+explained,1
+material,2
+absence,1
+band,2
+picosecond,1
+sensitivity,1
+confined,1
+affect,1
+processes,1
+eV,2
+THz,5
+fields,3
+this,1
+where,1
+profile,1
+be,3
+colossal,1
+energy,2
+detection,1
+electrostatic,1
+expect,1
+duration,1
+even,1
+scale,2
+colloidal,1
+picoseconds,1
+for,1
+electromagnetic,1
+Earlier,1
+semiconductor,1
+consistently,1
+timeframe,1
+Unique,1
+contrast,1
+can,3
+core,1
+we,3
+IR,1
+by,3
+extreme,1
+of,14
+study,1
+Surprisingly,1
+range,1
+meV,1
+studies,1
+or,1
+within,2
+Stark,1
+visible,1
+platform,1
+electronic,1
+charge,2
+from,1
+temperature,1
+geometries,1
+source,1
+achieved,1
+quasi,1
+been,1
+properties,4
+few,1
+films,1
+scheme,1
+structures,1
+configurational,1
+more,1
+dots,1
+shell,1
+corresponding,1
+that,3
+photon,2
+gap,1
+observe,1
+external,1
+optical,1
+with,5
+than,1
+present,2
+applied,1
+novel,1
+room,1
+these,2
+work,2
+near,1
+frequency,1
+nanostructured,1
+Our,2
+mechanical,1
+route,1
+and,2
+associated,1
+is,3
+DC,1
+an,1
+high,5
+quantum,3
+at,1
+have,2
+in,4
+conversion,1
+field,3
+without,1
+adapted,1
+which,2
+shifts,1
+unperturbed,1
+breakdown,1
+electric,3
+excitation,1
+modulation,4
+demonstrates,1
+In,1
+effect,1
+QDs,1
+CdS,1
+changing,1
+response,1
+structure,1
+a,5
+luminescence,2
+sets,1
+changes,1
+drive,1
+solids,1
+confinement,1
+QD,6
+restricted,1
+the,13
+arising,1

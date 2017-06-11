@@ -1,137 +1,137 @@
-
-distances	1
-developed	1
-accurate	1
-indoor	3
-alternatives	1
-existing	1
-SONAR	1
-attempts	1
-paper	1
-without~third~party~support	1
-We	1
-system	1
-,	12
-signals	1
-failed	1
-RF	1
-systems	2
-nodes	1
-has	1
-do	1
-practice	1
-While	1
-not	2
-using	2
-GPS	1
-transmitter	1
-signal	2
-large	1
-these	2
-each	1
-locate	1
-measuring	1
-set	1
-methods	1
-achieves	1
-measure	2
-hamper	1
-More	1
-even	1
-fingerprinting	1
-fundamentally	1
-for	2
-localization	3
-However	1
-research	1
-access	1
-between	1
-limitations	2
-we	1
-infrastructure	1
-receivers	1
-commercial	2
-deliver	1
-approaches	2
-i.e.	1
-Time-of-flight	1
-by	1
-on	2
-many	1
-positioning	2
-present	1
-receiver	1
-implement	1
-or	1
-this	1
-major	1
-own	1
-community	1
-two	1
-i.e	1
-points	1
-environment	1
-use	1
-from	2
-to	8
-create	1
-support	2
-due	1
-.	10
-their	2
-way	1
-sub-nanosecond	1
-location	1
-that	4
-acceptable	1
-wireless	1
-particular	1
-antennas	1
-technologies	1
-with	1
-those	1
-none	1
-intuitive	1
-arrays	1
-require	2
-devices	2
-RADAR	1
-while	1
-three	1
-of	5
-cards	1
-demonstrate	1
-enables	1
-and	3
-is	2
-as	1
-Other	1
-at	1
-have	3
-in	3
-need	1
-any	1
-antenna	1
-perhaps	1
-travel	1
-maps	1
-other	2
-accuracy	2
-used	1
-fundamental	1
-In	2
-most	1
-pair	2
-such	1
-Wi-Fi	5
-incurred	1
-a	5
-time-of-flight	3
-device-to-device	1
-It	1
-without	1
-algorithms	2
-RF-based	1
-time	2
-the	8
-consumer	1
+distances,1
+developed,1
+accurate,1
+indoor,3
+alternatives,1
+existing,1
+SONAR,1
+attempts,1
+paper,1
+We,1
+based,1
+system,1
+Wi,5
+signals,1
+failed,1
+RF,2
+systems,2
+nodes,1
+has,1
+do,1
+practice,1
+While,1
+not,2
+using,2
+GPS,1
+transmitter,1
+signal,2
+large,1
+these,2
+each,1
+locate,1
+measuring,1
+set,1
+methods,1
+we,1
+achieves,1
+measure,2
+hamper,1
+More,1
+even,1
+fingerprinting,1
+fundamentally,1
+for,2
+localization,3
+However,1
+research,1
+access,1
+between,1
+limitations,2
+particular,1
+infrastructure,1
+receivers,1
+commercial,2
+deliver,1
+approaches,2
+by,1
+on,2
+many,1
+positioning,2
+present,1
+receiver,1
+implement,1
+or,1
+this,1
+major,1
+own,1
+community,1
+two,1
+device,2
+points,1
+environment,1
+use,1
+from,2
+to,9
+create,1
+support,3
+due,1
+their,2
+way,1
+Fi,5
+location,1
+flight,4
+that,4
+acceptable,1
+wireless,1
+Time,1
+antennas,1
+technologies,1
+with,1
+those,1
+none,1
+intuitive,1
+arrays,1
+require,2
+devices,2
+RADAR,1
+while,1
+three,1
+of,9
+cards,1
+demonstrate,1
+enables,1
+and,3
+is,2
+as,1
+Other,1
+at,1
+have,3
+in,3
+need,1
+any,1
+antenna,1
+perhaps,1
+travel,1
+nanosecond,1
+maps,1
+other,2
+party,1
+accuracy,2
+used,1
+In,2
+most,1
+pair,2
+such,1
+incurred,1
+sub,1
+a,5
+e,2
+third,1
+i,2
+It,1
+without,2
+algorithms,2
+fundamental,1
+time,5
+the,8
+consumer,1

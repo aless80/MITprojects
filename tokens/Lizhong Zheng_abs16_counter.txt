@@ -1,113 +1,106 @@
-
-aided	1
-concept	1
-consider	1
-show	2
-over	1
-bandwidth	1
-paper	1
-through	1
-consists	1
-speed	1
-networks	1
-Allerton	1
-We	3
-knowledge	1
-(	2
-,	11
-to	3
-sent	1
-al.	1
-do	1
-They	1
-propose	1
-not	1
-transmitter	1
-positions	1
-signal	1
-FAWNAs	1
-large	1
-architecture	3
-each	1
-where	1
-Ray	1
-classical	1
-are	1
-et	1
-capacity	4
-network	1
-for	1
-CEO	1
-conditions	1
-leveraging	1
-we	1
-fiber	5
-interfaces	4
-single-input	1
-approaches	1
-operating	1
-interface	1
-[	1
-by	1
-received	1
-extendable	1
-of	10
-allows	1
-exponentially	1
-introduced	1
-and	7
-transmitters	1
-FAWNA	2
-number	2
-code	1
-given	1
-from	1
-Though	1
-]	1
-there	1
-.	8
-rates	1
-low	1
-scheme	3
-high-speed	1
-that	3
-wireless	4
-wireless-optical	3
-with	2
-quantized	1
-this	1
-require	1
-problem	2
-similar	1
-Conference	1
-is	5
-it	1
-an	3
-at	1
-have	1
-in	1
-multiple-output	1
-different	1
-)	2
-offer	1
-also	2
-book	1
-which	2
-optimal	2
-channel	3
-node	1
-our	4
-2005	1
-connectivity	1
-connected	1
-variable	1
-changing	1
-The	2
-SIMO	2
-adaptability	1
-a	5
-mobile	1
-complexity	1
-optical	2
-In	1
-the	8
+aided,1
+concept,1
+consider,1
+show,2
+over,1
+bandwidth,1
+paper,1
+through,1
+consists,1
+speed,2
+networks,1
+Allerton,1
+We,3
+knowledge,1
+to,3
+input,1
+sent,1
+do,1
+They,1
+propose,1
+not,1
+transmitter,1
+positions,1
+signal,1
+FAWNAs,1
+large,1
+architecture,3
+each,1
+output,1
+where,1
+Ray,1
+classical,1
+are,1
+et,1
+capacity,4
+network,1
+for,1
+CEO,1
+conditions,1
+leveraging,1
+we,1
+fiber,5
+interfaces,4
+approaches,1
+operating,1
+interface,1
+by,1
+received,1
+extendable,1
+of,10
+allows,1
+exponentially,1
+introduced,1
+and,7
+transmitters,1
+FAWNA,2
+number,2
+code,1
+given,1
+from,1
+Though,1
+there,1
+rates,1
+low,1
+scheme,3
+that,3
+it,1
+wireless,7
+optical,5
+with,2
+quantized,1
+this,1
+require,1
+problem,2
+similar,1
+Conference,1
+is,5
+al,1
+an,3
+high,1
+single,1
+at,1
+have,1
+in,1
+different,1
+offer,1
+also,2
+book,1
+which,2
+optimal,2
+channel,3
+node,1
+multiple,1
+our,4
+connectivity,1
+connected,1
+variable,1
+changing,1
+The,2
+SIMO,2
+adaptability,1
+a,5
+mobile,1
+complexity,1
+In,1
+the,8

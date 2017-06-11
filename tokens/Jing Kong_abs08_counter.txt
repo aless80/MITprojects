@@ -1,59 +1,58 @@
-
-and	4
-single-term	1
-developing	1
-show	1
-is	2
-within	1
-functional	2
-atomization	1
-two	1
-feasibility	1
-at	1
-during	1
-modeling	1
-recovers	1
-functionals	1
-nondynamic	3
-nonlinear	1
-based	1
-dissociation	1
-for	3
-density	2
-single-determinant	2
-demonstrates	1
-contains	1
-,	1
-same	1
-.	4
-majority	1
-only	1
-tests	1
-performs	1
-Preliminary	1
-molecular	1
-A	1
-empirical	1
-theory	1
-that	1
-DFT	1
-Kohn-Sham	1
-derived	1
-from	1
-strong	2
-the	5
-a	1
-on	1
-scheme	1
-parameters	1
-presented	1
-of	2
-reasonably	1
-adiabatic	1
-It	2
-KS	1
-energies	1
-connection	1
-time	1
-correlation	3
-model	2
+and,4
+developing,1
+show,1
+is,2
+within,1
+functional,2
+atomization,1
+empirical,1
+feasibility,1
+single,3
+at,1
+during,1
+modeling,1
+Sham,1
+functionals,1
+nondynamic,3
+nonlinear,1
+based,1
+dissociation,1
+for,3
+density,2
+energies,1
+demonstrates,1
+contains,1
+two,1
+same,1
+recovers,1
+majority,1
+only,1
+tests,1
+performs,1
+Preliminary,1
+molecular,1
+A,1
+determinant,2
+theory,1
+that,1
+DFT,1
+time,1
+derived,1
+from,1
+strong,2
+the,5
+a,1
+on,1
+term,1
+scheme,1
+parameters,1
+presented,1
+of,2
+reasonably,1
+adiabatic,1
+Kohn,1
+It,2
+KS,1
+connection,1
+correlation,3
+model,2

@@ -1,105 +1,96 @@
-
-insight	1
-experiments	1
-through	1
-predicts	1
-spheroidal	1
-We	1
-$	4
-also	1
-solving	1
-,	6
-to	4
-relevance	1
-designs	1
-fluctuating	1
-eigenfunction	1
-dependent	1
-choice	1
-scaling	1
-several	1
-d	1
-patch	3
-d^	1
--4	1
-trap	2
-found	2
-electrodes	2
-trend	1
-relative	1
-electrode	1
-surfaces	1
-scale	1
-for	1
-currently	1
-current	1
-between	1
-supports	1
-be	1
-noise	1
-terms	1
-expansion	1
-Green	1
-extent	1
-by	3
-obtained	1
-on	2
-conducting	1
-most	1
-geometry	2
-of	8
-taking	1
-studied	1
-anomalous	2
-heating	2
-{	1
-origin	1
-into	2
-highly	1
-appropriate	1
-size	2
-from	3
-geometries	1
-.	5
-Scaling	1
-rates	1
-ranging	1
-function	1
-ion-electrode	1
-both	1
-but	1
-gain	1
-with	2
-Laplace	1
-distance	3
-account	1
-this	1
-equation	1
-Our	1
-and	3
-planar	1
-is	3
-influence	1
-surface	2
-an	1
-as	2
-in	2
-generic	1
-generally	1
-field	1
-spatial	1
-finite	1
-geometry-driven	1
-dependence	1
-'s	2
-electric	1
-models	1
-ion	3
-potentials	1
-The	2
-the	11
-deviations	1
-traps	1
-well	1
-model	2
-}	1
+insight,1
+experiments,1
+through,1
+predicts,1
+spheroidal,1
+We,1
+also,1
+solving,1
+to,4
+relevance,1
+designs,1
+fluctuating,1
+eigenfunction,1
+dependent,1
+choice,1
+scaling,1
+several,1
+d,2
+patch,3
+trap,2
+found,2
+electrodes,2
+trend,1
+relative,1
+electrode,2
+surfaces,1
+scale,1
+for,1
+currently,1
+current,1
+between,1
+supports,1
+be,1
+noise,1
+terms,1
+expansion,1
+Green,1
+extent,1
+by,3
+obtained,1
+both,1
+conducting,1
+most,1
+geometry,3
+of,8
+taking,1
+studied,1
+anomalous,2
+dependence,1
+s,2
+origin,1
+into,2
+highly,1
+appropriate,1
+size,2
+from,3
+geometries,1
+Scaling,1
+rates,1
+ranging,1
+function,1
+on,2
+but,1
+gain,1
+with,2
+Laplace,1
+distance,3
+account,1
+this,1
+equation,1
+Our,1
+and,3
+planar,1
+is,3
+influence,1
+surface,2
+an,1
+as,2
+in,2
+generic,1
+generally,1
+field,1
+spatial,1
+finite,1
+electric,1
+models,1
+driven,1
+ion,4
+potentials,1
+The,2
+the,11
+deviations,1
+traps,1
+well,1
+heating,2
+model,2

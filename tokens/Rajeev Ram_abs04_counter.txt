@@ -1,153 +1,135 @@
-
-operations	2
-emitting	1
-distances	1
-indeed	1
-crosstalk	1
-integration	1
-experiments	1
-through	1
-{	3
-alignment	1
-$	16
-(	1
-,	5
-Here	1
--radius	1
-to	8
-systems	2
-grating	2
-employed	2
-openings	1
-QIP	2
-surface-electrode	1
-4\times10^	1
-far	1
-lithographically	1
-readout	1
-beam	2
-using	1
-stable	1
-e^2	1
-necessary	1
-fully	1
-50	1
--4	1
-Owing	1
-trap	4
-each	1
-optics	1
-essential	1
-afforded	2
-electrodes	1
-diffraction-limited	1
-88	1
-individual	2
-are	1
-measure	1
-quantum	4
-fabrication	1
-even	1
-scale	1
-for	4
-near	1
-manipulations	1
-Ion	1
-10^	1
-routing	1
-above	1
-between	1
-tens	1
-;	1
-waveguide	1
-integrated	1
-7.5-15	1
-we	3
-realizations	1
-creating	1
-interactions	1
-qubits	3
-processing	1
-scalability	1
-nanophotonic	1
-approach	1
-along	1
-strong	1
-by	2
-on	1
-of	3
-transition	1
-times	1
-highest-fidelity	1
-qubit	2
-via	1
-large-scale	1
-within	2
-planar	1
-addressed	1
-long	1
-path	1
-presents	1
-from	1
-system	1
-But	1
-.	6
-few	1
-2	1
-chip	3
-trapped	2
-Sr	1
-coherence	1
-delivery	1
-coherent	1
-optical	3
-couplers	1
-focusing	2
-with	2
-^	1
-this	2
-enabled	1
-devices	1
-while	1
-demonstrate	1
--2	1
-1/	1
-and	7
-ions	2
-addressing	1
-defined	1
-is	1
-locations	1
-general	1
-at	2
-have	2
-in	4
-primitives	1
-cumbersome	1
-any	1
-axis	1
-information	1
-)	1
-tight	1
-^+	1
-trapped-ion	1
-multiple	1
-Coulomb	1
-spot	1
-ion	5
-errors	1
-date	1
-The	2
-\mu	3
-a	6
-center	1
-light	3
-required	1
-m	3
-focuses	1
-together	1
-perform	1
-so	1
-position	1
-the	14
-}	3
+operations,2
+limited,1
+distances,1
+indeed,1
+crosstalk,1
+integration,1
+experiments,1
+through,1
+fidelity,1
+alignment,1
+Here,1
+presents,1
+to,8
+systems,2
+grating,2
+couplers,1
+openings,1
+QIP,2
+far,1
+lithographically,1
+readout,1
+beam,2
+using,1
+stable,1
+necessary,1
+fully,1
+large,1
+Owing,1
+trap,4
+each,1
+optics,1
+essential,1
+afforded,2
+electrodes,1
+individual,2
+radius,1
+are,1
+measure,1
+quantum,4
+electrode,1
+even,1
+scale,2
+for,4
+near,1
+manipulations,1
+Ion,1
+routing,1
+above,1
+between,1
+tens,1
+waveguide,1
+integrated,1
+we,3
+realizations,1
+creating,1
+interactions,1
+qubits,3
+processing,1
+scalability,1
+nanophotonic,1
+path,1
+along,1
+strong,1
+by,2
+on,1
+of,3
+transition,1
+times,2
+qubit,2
+via,1
+within,2
+planar,1
+addressed,1
+long,1
+from,1
+system,1
+But,1
+few,1
+approach,1
+chip,3
+trapped,3
+Sr,1
+coherence,1
+delivery,1
+coherent,1
+optical,3
+employed,2
+focusing,2
+highest,1
+with,2
+this,2
+enabled,1
+devices,1
+mu,3
+while,1
+demonstrate,1
+at,2
+and,7
+ions,2
+addressing,1
+defined,1
+diffraction,1
+is,1
+locations,1
+surface,1
+general,1
+emitting,1
+have,2
+in,4
+primitives,1
+cumbersome,1
+any,1
+axis,1
+information,1
+perform,1
+tight,1
+multiple,1
+Coulomb,1
+spot,1
+ion,6
+errors,1
+date,1
+The,2
+fabrication,1
+a,6
+e,1
+center,1
+light,3
+required,1
+m,3
+focuses,1
+together,1
+so,1
+position,1
+the,14

@@ -1,124 +1,115 @@
-
-show	1
-push-in	1
-16-nm	1
-paper	1
-redesign	1
-decisions	2
-We	3
-parameters	1
-(	1
-,	7
-presents	1
-to	3
-add	1
-program	2
-4	1
-requiring	1
-has	1
-<	1
-them	1
-10	1
-While	1
-scheduler	5
-not	1
-using	2
-level	1
---	2
-Switches	1
-these	1
-each	1
-small	1
-Further	1
-set	1
-programmed	1
-packet	1
-design	4
-are	2
-64-port	1
-what	1
-for	4
-new	1
-be	2
-we	2
-algorithmic	1
-schedule	2
-This	1
-maintains	1
-modify	1
--potentially	1
-completely	1
-on	2
-first-out	1
-of	2
-allows	1
-enqueued	1
-queue	2
-logic	1
-or	1
-detailed	1
-tweak	1
-into	1
-leverage	1
-area	1
-unknown	1
-two	1
-been	1
-.	9
-priority	1
-overhead	1
--to	1
-programmable	4
-:	2
-today	2
-that	4
-shared-memory	1
-sophisticated	1
-lets	2
-library	1
-with	2
-present	1
-wide	1
-made	1
-builds	1
-this	2
-as	1
-us	2
-Gbit/s	1
-can	3
-many	2
-Our	2
-at	1
-and	2
-standard-cell	1
-chip	1
-5-level	1
-PIFO	1
-hardware	2
-single	1
-PIFOs	1
-in	2
-scheduling	8
-%	1
-variety	1
-provide	1
-make	1
-when	2
-build	1
-which	1
-hierarchical	1
-abstraction	1
-after	1
-designed	1
-such	2
-a	14
-observation	2
-algorithm	1
-packets	2
-)	1
-switch	3
-without	1
-algorithms	9
-time	1
-the	4
-order	2
+show,1
+paper,1
+redesign,1
+decisions,2
+We,3
+parameters,1
+presents,1
+to,4
+add,1
+program,2
+requiring,1
+has,1
+them,1
+While,1
+scheduler,5
+shared,1
+not,1
+using,2
+level,2
+Switches,1
+this,2
+each,1
+small,1
+Further,1
+set,1
+programmed,1
+packet,1
+design,4
+are,2
+port,1
+out,1
+what,1
+for,4
+cell,1
+new,1
+be,2
+we,2
+algorithmic,1
+schedule,2
+This,1
+maintains,1
+modify,1
+standard,1
+completely,1
+on,2
+of,2
+allows,1
+enqueued,1
+queue,2
+Gbit,1
+logic,1
+or,1
+first,1
+detailed,1
+tweak,1
+into,1
+leverage,1
+area,1
+unknown,1
+two,1
+been,1
+priority,1
+overhead,1
+memory,1
+programmable,4
+today,2
+that,4
+sophisticated,1
+lets,2
+library,1
+with,2
+present,1
+wide,1
+made,1
+builds,1
+these,1
+as,1
+us,2
+can,3
+many,2
+Our,2
+at,1
+and,2
+chip,1
+PIFO,1
+hardware,2
+single,1
+PIFOs,1
+in,3
+scheduling,8
+nm,1
+variety,1
+provide,1
+make,1
+when,2
+s,1
+potentially,1
+build,1
+which,1
+hierarchical,1
+abstraction,1
+after,1
+designed,1
+such,2
+a,14
+observation,2
+algorithm,1
+packets,2
+switch,3
+without,1
+algorithms,9
+time,1
+push,1
+the,4
+order,2

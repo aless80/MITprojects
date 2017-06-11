@@ -1,103 +1,102 @@
-
-protocol	1
-feedback	2
-proposed	1
-show	1
-over	1
-both	1
-focus	1
-thermal	1
-entropy	1
-expressions	1
-implementation	2
-subjected	1
-,	5
-analytic	1
-systems	1
-include	1
-equilibrium	1
-erasure	1
-using	1
-performing	1
-source	1
-found	1
-classical	1
-thermodynamics	1
-energy	1
-close	1
-by	1
-'	1
-measurements	1
-demons	1
-state	1
-version	1
-contrast	1
-we	2
-terms	1
-linear	1
-power	1
-This	2
-non-equilibrium	1
-let	1
-estimate	1
-high-gain	1
-received	1
-many	1
-study	1
-prove	1
-allows	1
-amount	1
-studies	1
-extractable	1
-simple	1
-determine	1
-apply	1
-necessarily	1
-from	3
-to	5
-system	3
-.	5
-quadratic	1
-memory	1
-theoretical	1
-that	2
-continuous	2
-external	1
-must	1
-this	1
-inside	1
-work	3
-maximum	2
-us	1
-of	8
-fluctuations	1
-and	4
-is	3
-demon	4
-argument	1
-an	1
-in	3
-any	1
-information	2
-arguments	1
-Hamiltonian	1
-for	1
-extracted	2
-electrical	1
-Kalman-Bucy	1
-which	2
-finite	1
-A	1
-extended	1
-time	1
-flows	1
-The	1
-on	2
-recent	1
-a	5
-Landauer's	1
-maximizing	1
-concrete	1
-In	1
-the	9
-operate	1
+protocol,1
+feedback,2
+proposed,1
+show,1
+over,1
+both,1
+focus,1
+thermal,1
+entropy,1
+expressions,1
+implementation,2
+subjected,1
+analytic,1
+systems,1
+include,1
+equilibrium,2
+erasure,1
+Bucy,1
+using,1
+performing,1
+source,1
+found,1
+classical,1
+energy,1
+close,1
+for,1
+measurements,1
+demons,1
+state,1
+version,1
+contrast,1
+we,2
+terms,1
+linear,1
+power,1
+This,2
+let,1
+estimate,1
+by,1
+Landauer,1
+received,1
+many,1
+study,1
+prove,1
+allows,1
+amount,1
+studies,1
+extractable,1
+simple,1
+non,1
+determine,1
+apply,1
+necessarily,1
+from,3
+to,5
+system,3
+quadratic,1
+memory,1
+theoretical,1
+that,2
+continuous,2
+gain,1
+must,1
+this,1
+inside,1
+work,3
+maximum,2
+us,1
+of,8
+fluctuations,1
+and,4
+is,3
+demon,4
+argument,1
+an,1
+high,1
+in,3
+any,1
+information,2
+Kalman,1
+arguments,1
+Hamiltonian,1
+s,1
+extracted,2
+electrical,1
+thermodynamics,1
+which,2
+finite,1
+A,1
+extended,1
+time,1
+flows,1
+The,1
+on,2
+recent,1
+a,5
+maximizing,1
+concrete,1
+In,1
+the,9
+operate,1
+external,1

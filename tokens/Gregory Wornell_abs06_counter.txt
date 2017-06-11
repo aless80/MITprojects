@@ -1,92 +1,85 @@
-
-over	1
-symbols	1
-paper	1
-entropy	1
-expressions	1
-whose	1
-(	2
-,	2
-to	2
-under	1
-input	3
-mixture	1
-scaling	1
-not	1
-like	1
-sufficiently	1
-transmitted	2
-small	1
-output	3
-DMC	2
-For	1
-observes	1
-Specifically	1
-relative	1
-are	1
-subject	1
-provided	1
-shown	1
-detect	1
-for	2
-discrete	1
-between	1
-induced	2
-be	2
-noise	1
-This	1
-adversary	1
-by	2
-constraint	1
-of	4
-amount	1
-or	1
-probability	1
-scales	1
-communication	2
-square	1
-considers	1
-additive	1
-.	5
-low	1
-white	1
-AWGN	2
-Exact	1
-``	1
-that	4
-outputs	1
-problem	1
-true	1
-must	1
-this	1
-maximum	1
-can	2
-distribution	1
-root	1
-and	1
-constant	1
-memoryless	1
-is	6
-it	1
-an	2
-''	1
-distributions	2
-information	1
-no	1
-)	2
-when	2
-same	1
-also	1
-other	1
-criterion	1
-channel	5
-symbol	1
-who	1
-derived	1
-codeword	1
-The	1
-a	4
-off	1
-blocklength	1
-Gaussian	1
-the	15
+and,1
+mixture,1
+DMC,2
+constant,1
+probability,1
+observes,1
+memoryless,1
+communication,2
+over,1
+it,1
+Specifically,1
+an,2
+relative,1
+paper,1
+entropy,1
+are,1
+sufficiently,1
+expressions,1
+distributions,2
+considers,1
+subject,1
+provided,1
+shown,1
+detect,1
+additive,1
+For,1
+for,2
+no,1
+true,1
+square,1
+scales,1
+when,2
+maximum,1
+same,1
+by,2
+The,1
+to,2
+other,1
+criterion,1
+low,1
+under,1
+between,1
+input,3
+white,1
+AWGN,2
+Exact,1
+is,6
+channel,5
+be,2
+noise,1
+that,4
+This,1
+outputs,1
+symbol,1
+who,1
+derived,1
+distribution,1
+like,1
+scaling,1
+codeword,1
+not,1
+blocklength,1
+information,1
+adversary,1
+the,15
+must,1
+a,4
+symbols,1
+induced,2
+off,1
+whose,1
+constraint,1
+this,1
+of,4
+also,1
+Gaussian,1
+discrete,1
+amount,1
+transmitted,2
+can,2
+small,1
+output,3
+problem,1
+root,1
+or,1

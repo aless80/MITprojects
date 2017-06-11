@@ -1,124 +1,119 @@
-
-selection	2
-manifold	3
-show	1
-spaces	1
-its	1
-sampled	2
-We	1
-dimensionality	1
-based	1
-graph	1
-,	4
-improvement	1
-to	4
-efficient	1
-those	1
-main	1
-local	2
-overcome	1
-distance	1
-propose	1
-sampling	2
-entire	1
-large	1
-experiments	1
-common	1
-each	1
-assigning	1
-Further	1
-prohibit	1
-set	1
-successively	1
-Since	1
-challenges	1
-are	1
-estimated	1
-linear	1
-by	1
-matrix	1
-for	2
-non-Euclidean	2
-selected	2
-current	1
-reconstruction	1
-method	1
-we	2
-after	1
-sparsely	2
-problem	1
-on	3
-om	1
-geometry	1
-of	3
-improves	1
-resulting	1
-embedding	1
-(	2
-computational	1
-sparsification	1
-point	2
-dataset	1
-learning	2
-neighborhood	1
-.	8
-from	3
-geometries	1
-approximate	1
-strategy	1
-reduction	1
-manifolds	1
-low	1
-:	1
-Nystr\	1
-that	1
-covariance	1
-an	1
-with	1
-present	1
-must	2
-ii	1
-this	1
-error	1
-Our	1
-embed	1
-result	1
-and	1
-is	1
-arise	1
-determinantal	2
-''	1
-as	1
-have	1
-in	3
-recover	1
-distributions	1
-constructed	1
-compared	1
-)	2
-landmarks	4
-same	1
-application	1
-performance	1
-techniques	1
-A	1
-time	1
-state-of-the-art	1
-running	1
-two	1
-significant	1
-The	2
-a	3
-i	1
-approximation	1
-well	1
-Bhattacharyya	1
-High	1
-perform	1
-complexity	1
-costs	1
-algorithms	1
-sets	1
-landmark	2
-the	12
-original	1
+selection,2
+manifold,3
+show,1
+spaces,1
+its,1
+sampled,2
+We,1
+dimensionality,1
+based,1
+graph,1
+improvement,1
+to,4
+those,1
+main,1
+local,2
+overcome,1
+non,2
+distance,1
+propose,1
+sampling,2
+entire,1
+large,1
+experiments,1
+common,1
+each,1
+assigning,1
+Further,1
+prohibit,1
+set,1
+successively,1
+Since,1
+challenges,1
+are,1
+estimated,1
+linear,1
+by,1
+matrix,1
+for,2
+selected,2
+current,1
+state,1
+reconstruction,1
+method,1
+we,2
+after,1
+sparsely,2
+Nystr,1
+problem,1
+on,3
+om,1
+geometry,1
+of,4
+improves,1
+resulting,1
+embedding,1
+computational,1
+sparsification,1
+point,2
+dataset,1
+learning,2
+neighborhood,1
+art,1
+from,3
+geometries,1
+approximate,1
+strategy,1
+reduction,1
+manifolds,1
+low,1
+that,1
+covariance,1
+Euclidean,2
+determinantal,2
+with,1
+present,1
+must,2
+approximation,1
+this,1
+error,1
+Our,1
+embed,1
+result,1
+and,1
+is,1
+arise,1
+an,1
+ii,1
+as,1
+have,1
+in,3
+recover,1
+distributions,1
+constructed,1
+compared,1
+perform,1
+landmarks,4
+same,1
+application,1
+performance,1
+techniques,1
+A,1
+sets,1
+running,1
+two,1
+significant,1
+The,2
+a,3
+i,1
+well,1
+Bhattacharyya,1
+High,1
+efficient,1
+complexity,1
+costs,1
+algorithms,1
+time,1
+landmark,2
+the,13
+original,1

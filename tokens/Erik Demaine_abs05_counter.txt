@@ -1,129 +1,117 @@
-
-all	1
-executed	1
-show	1
-8/3-approximation	1
-results	2
-layers	2
-We	2
-$	6
-how	1
-(	2
-,	8
-to	4
-only	2
-achieve	1
-Both	1
-cube	1
-material	3
-possible	2
-2D	2
-grid	2
-not	1
---	1
-turns	2
-twice	1
-topologically	1
-square	1
-milling	2
-approximation	2
-fold	2
-substantially	1
-our	1
-3D	1
-surfaces	1
-what	1
-for	4
-N^2	1
-collisions	1
-new	2
-geometric	1
-squares	1
-be	1
-we	2
-simultaneously	1
-equivalent	1
-O	1
-from	1
-by	1
-on	2
-folding	4
-of	8
-hinge	1
-tour	1
-polyhedron	1
-polycube	1
-consume	1
-point	1
-into	2
-number	1
-one	1
-foldings	1
-strip	4
-unit	1
-\times	1
-polycubes	1
-sheet	2
-area	3
-objectives	1
-two	3
-.	6
-way	1
-programmable	1
-:	1
-universal	1
-more	1
-enable	1
-offer	1
-These	1
-N	3
-rigid	1
-\Theta	1
-an	1
-with	2
-than	1
-present	1
-past	1
-made	1
-target	2
-To	1
-these	2
-up	1
-matter	1
-anywhere	1
-can	2
-example	1
-and	4
-give	1
-is	4
-surface	5
-general	1
-sphere	1
-at	2
-have	1
-in	3
-any	2
-motion	1
-needs	1
-develop	1
-patterns	1
-)	2
-that	2
-when	1
-length	2
-also	1
-build	2
-which	3
-so	1
-2-approximation	1
-may	1
-most	1
-connected	1
-The	1
-stack	1
-a	8
-efficient	2
-without	1
-algorithms	2
-the	7
-stacks	1
+all,1
+executed,1
+show,1
+results,2
+layers,2
+We,2
+how,1
+to,4
+only,2
+achieve,1
+Both,1
+cube,1
+D,3
+material,3
+possible,2
+grid,2
+not,1
+turns,2
+twice,1
+topologically,1
+square,1
+milling,2
+approximation,4
+fold,2
+substantially,1
+Theta,1
+surfaces,1
+what,1
+for,4
+collisions,1
+new,2
+geometric,1
+squares,1
+be,1
+we,2
+simultaneously,1
+equivalent,1
+O,1
+from,1
+by,1
+on,2
+folding,4
+of,8
+times,1
+hinge,1
+tour,1
+polyhedron,1
+polycube,1
+consume,1
+point,1
+into,2
+number,1
+one,1
+foldings,1
+strip,4
+unit,1
+polycubes,1
+sheet,2
+area,3
+objectives,1
+two,3
+way,1
+programmable,1
+universal,1
+more,1
+enable,1
+offer,1
+These,1
+N,4
+rigid,1
+an,1
+with,2
+than,1
+present,1
+past,1
+made,1
+target,2
+To,1
+these,2
+up,1
+matter,1
+anywhere,1
+can,2
+example,1
+and,4
+give,1
+is,4
+in,3
+surface,5
+general,1
+sphere,1
+at,2
+have,1
+our,1
+any,2
+motion,1
+needs,1
+develop,1
+efficient,2
+that,2
+when,1
+length,2
+also,1
+build,2
+which,3
+so,1
+may,1
+most,1
+connected,1
+The,1
+stack,1
+a,8
+patterns,1
+without,1
+algorithms,2
+the,7
+stacks,1

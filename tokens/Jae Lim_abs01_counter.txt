@@ -1,54 +1,50 @@
-
-and	2
-compare	1
-adjust	1
-edge-detecting	1
-classic	2
-is	1
-within	1
-it	1
-edge	2
-an	1
-detection	1
-shape	1
-amoeba-based	1
-performed	1
-in	1
-images	2
-qualitatively	1
-quality	1
-methods	1
-We	2
-based	1
-both	1
-for	2
-to	1
-technique	1
-,	1
-.	4
-better	1
-their	1
-critical	1
-contours	1
-Detecting	1
-image	2
-morphological	2
-that	2
-evaluate	1
-processing	1
-variation	1
-edge-detection	1
-objects	1
-uses	1
-than	1
-present	1
-on	1
-of	2
-amoebas	1
-detectors	1
-quantitatively	1
-method	1
-edges	1
-Our	1
-the	3
-system	1
+and,2
+compare,1
+adjust,1
+methods,1
+classic,2
+is,1
+within,1
+it,1
+an,1
+detection,2
+shape,1
+performed,1
+in,1
+images,2
+qualitatively,1
+quality,1
+We,2
+based,2
+both,1
+for,2
+to,1
+technique,1
+system,1
+edges,1
+better,1
+their,1
+critical,1
+contours,1
+Detecting,1
+image,2
+morphological,2
+that,2
+evaluate,1
+processing,1
+variation,1
+objects,1
+uses,1
+detecting,1
+than,1
+present,1
+on,1
+of,2
+amoebas,1
+detectors,1
+quantitatively,1
+method,1
+edge,4
+Our,1
+the,3
+amoeba,1

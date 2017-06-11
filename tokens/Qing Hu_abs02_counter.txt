@@ -1,114 +1,110 @@
-
-paper	1
-its	1
-previous	1
-decay	1
-(	1
-,	4
-lattice	1
-2DMA	3
-systems	1
-molecules	2
-metal-mediated	1
-enrich	1
-material	1
-increases	1
-picosecond	1
-half	1
-dye	1
-dipole-dipole	1
-nanometric	1
-reveal	1
-substrate	1
-fascinating	1
-energy	2
-rate	1
-measurement	1
-quantum	1
-close	1
-dominates	1
-colloidal	1
-interacting	2
-for	2
-dipole	1
-research	1
-may	1
-dipoles	1
-between	1
-new	1
-can	1
-we	1
-understanding	1
-sheet	1
-strong	1
-by	1
-on	1
-about	1
-interaction	2
-Two-dimensional	1
-of	2
-distinctively	1
-times	1
-single-dipole	1
-or	2
-optoelectronic	1
-first	1
-and	5
-excitonic	1
-timescale	1
-one	1
-aggregate	1
-fluorescent	3
-lattice-dipole	1
-from	3
-ten	1
-to	1
-transfer	1
-fast	1
-.	5
-expected	1
-molecular	2
-dots	1
-direction	1
-that	2
-coherent	1
-than	1
-distance	2
-developing	1
-this	1
-inside	1
-devices	1
-placed	1
-thin	1
-Our	2
-designate	1
-strongly	1
-ordered	1
-calculation	1
-is	3
-an	1
-single	1
-at	3
-in	2
-lifetime	2
-different	1
-)	1
-verify	1
-self-assembled	1
-when	1
-metallic	1
-noninteracting	1
-nanoscale	1
-finding	1
-shortens	1
-picture	1
-our	1
-In	1
-streak-camera	1
-most	1
-dissipation	1
-a	6
-It	1
-efficient	1
-time	1
-the	9
+paper,1
+assembled,1
+previous,1
+decay,1
+lattice,2
+systems,1
+molecules,2
+designate,1
+enrich,1
+material,1
+increases,1
+picosecond,1
+half,1
+dye,1
+nanometric,1
+reveal,1
+and,5
+substrate,1
+DMA,3
+fascinating,1
+energy,2
+rate,1
+measurement,1
+quantum,1
+close,1
+dominates,1
+colloidal,1
+interacting,2
+for,2
+dipole,5
+research,1
+may,1
+mediated,1
+dipoles,1
+between,1
+new,1
+can,1
+we,1
+understanding,1
+sheet,1
+strong,1
+by,1
+on,1
+about,1
+interaction,2
+of,2
+distinctively,1
+times,1
+or,2
+optoelectronic,1
+first,1
+streak,1
+excitonic,1
+timescale,1
+Two,1
+one,1
+dimensional,1
+aggregate,1
+fluorescent,3
+from,3
+ten,1
+to,1
+transfer,1
+fast,1
+camera,1
+expected,1
+molecular,2
+dots,1
+direction,1
+that,2
+coherent,1
+than,1
+distance,2
+developing,1
+this,1
+inside,1
+devices,1
+placed,1
+thin,1
+Our,2
+strongly,1
+ordered,1
+calculation,1
+is,3
+an,1
+single,2
+at,3
+in,2
+lifetime,2
+different,1
+efficient,1
+verify,1
+self,1
+when,1
+metallic,1
+noninteracting,1
+nanoscale,1
+finding,1
+shortens,1
+picture,1
+our,1
+In,1
+most,1
+dissipation,1
+a,6
+metal,1
+It,1
+time,1
+the,9
+its,1

@@ -1,90 +1,87 @@
-
-load	1
-selection	3
-consider	1
-proposed	1
-show	1
-results	1
-implying	1
-We	2
-outer	1
-(	1
-cache	3
-,	6
-to	1
-communication	1
-nodes	1
-On	1
-loss	1
-scaling	2
-balancing	1
-n2^n-dimensional	1
-common	1
-entire	1
-cached	1
-separately	1
-solved	1
-bad	1
-architecture	1
-square	1
-For	1
-our	1
-matching	1
-large	1
-capacity	3
-network	3
-content	1
-provides	1
-shows	1
-be	3
-jointly	1
-delivering	1
-by	1
-on	2
-of	8
-region	3
-arbitrarily	1
-characterization	1
-information-theoretic	1
-coding	1
-bound	3
-order-optimality	1
-described	1
-area	1
-.	5
-inner	2
-scheme	1
-achieving	1
-that	3
-wireless	2
-high	1
-this	2
-n	1
-can	2
-problem	1
-and	3
-is	1
-in	3
-an	2
-randomly	1
-performed	1
-sense	1
-need	1
-regime	1
-)	1
-located	1
-other	1
-performance	1
-channel	1
-problems	1
-hand	1
-nearest-neighbor	1
-The	2
-exponent	1
-a	3
-path-loss	2
-n.	1
-provide	1
-without	1
-caching	3
-the	10
+arbitrarily,1
+selection,3
+consider,1
+proposed,1
+show,1
+results,1
+implying,1
+We,2
+outer,1
+cache,3
+to,1
+nodes,1
+On,1
+loss,3
+scaling,2
+balancing,1
+common,1
+entire,1
+cached,1
+separately,1
+solved,1
+bad,1
+architecture,1
+square,1
+For,1
+our,1
+theoretic,1
+matching,1
+large,1
+capacity,3
+network,3
+content,1
+provides,1
+shows,1
+be,3
+jointly,1
+delivering,1
+path,2
+by,1
+on,2
+of,8
+region,3
+neighbor,1
+load,1
+characterization,1
+communication,1
+coding,1
+bound,3
+dimensional,1
+described,1
+area,1
+inner,2
+scheme,1
+achieving,1
+that,3
+wireless,2
+optimality,1
+high,1
+this,2
+n,4
+can,2
+problem,1
+and,3
+nearest,1
+is,1
+in,3
+an,2
+randomly,1
+performed,1
+sense,1
+need,1
+regime,1
+information,1
+provide,1
+located,1
+other,1
+performance,1
+channel,1
+problems,1
+hand,1
+The,2
+exponent,1
+a,3
+without,1
+caching,3
+the,10
+order,1

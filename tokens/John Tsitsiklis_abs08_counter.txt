@@ -1,115 +1,112 @@
-
-proposed	2
-show	1
-dynamic	2
-results	1
-thermal	1
-incentive	1
-We	3
-electricity	1
-(	1
-,	8
-should	1
-to	8
-explicitly	2
-under	1
-has	1
-achieve	1
-asymptotically	1
-propose	1
-ancillary	2
-increases	1
-penetration	1
-not	1
-convexity	1
-suppliers	1
-variability	3
-generation	1
-reduce	1
-achieves	1
-cost	4
-result	1
-infinity	1
-investment	1
-consumers	3
-exacerbate	1
-instantaneous	1
-volatile	1
-adapt	1
-issue	1
-be	1
-we	1
-power	1
-address	1
-modeling	1
-by	1
-on	2
-of	4
-equal	1
-creates	1
-Through	1
-social	2
-time-varying	1
-suitable	1
-load	1
-marginal	2
-offset	1
-number	1
-game-theoretic	1
-conventional	2
-consumption	1
-demonstrate	1
-system	1
-.	7
-their	2
-therefore	1
-expected	1
-is	1
-peaking	1
-generating	1
-that	5
-priced	1
-properly	1
-optimality	2
-demand	5
-encourages	1
-with	2
-plants	1
-this	1
-near	1
-future	1
-shift	1
-fluctuations	2
-pricing	3
-and	2
-associated	1
-Furthermore	1
-formulation	1
-deep	1
-an	1
-as	2
-assumptions	1
-in	3
-need	1
-compared	1
-)	1
-Numerical	1
-mechanism	3
-potential	1
-units	2
-suppliers'	1
-electric	1
-may	2
-price	1
-long-term	1
-peak	1
-significant	1
-renewable	1
-a	4
-argue	1
-for	2
-stronger	1
-so	1
-In	1
-the	10
-consumer	1
+proposed,2
+show,1
+demand,5
+dynamic,2
+results,1
+thermal,1
+incentive,1
+We,3
+electricity,1
+should,1
+to,8
+explicitly,2
+under,1
+has,1
+achieve,1
+asymptotically,1
+propose,1
+ancillary,2
+game,1
+penetration,1
+not,1
+convexity,1
+term,1
+suppliers,2
+variability,3
+generation,1
+reduce,1
+achieves,1
+cost,4
+result,1
+theoretic,1
+investment,1
+consumers,3
+exacerbate,1
+instantaneous,1
+volatile,1
+adapt,1
+issue,1
+be,1
+we,1
+power,1
+address,1
+modeling,1
+by,1
+on,2
+of,4
+equal,1
+creates,1
+Through,1
+social,2
+suitable,1
+load,1
+marginal,2
+offset,1
+number,1
+conventional,2
+consumption,1
+demonstrate,1
+system,1
+long,1
+their,2
+therefore,1
+expected,1
+is,1
+peaking,1
+generating,1
+that,5
+priced,1
+properly,1
+optimality,2
+varying,1
+encourages,1
+with,2
+plants,1
+this,1
+near,1
+future,1
+shift,1
+fluctuations,2
+pricing,3
+and,2
+associated,1
+Furthermore,1
+formulation,1
+deep,1
+an,1
+as,2
+assumptions,1
+in,3
+need,1
+compared,1
+Numerical,1
+mechanism,3
+potential,1
+units,2
+infinity,1
+electric,1
+may,2
+price,1
+In,1
+peak,1
+significant,1
+renewable,1
+a,4
+argue,1
+for,2
+stronger,1
+increases,1
+so,1
+time,1
+the,10
+consumer,1

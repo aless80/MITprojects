@@ -1,104 +1,98 @@
-
-Bologna	1
-Finetti	3
-paper	1
-mentioned	1
-Editore	1
-one	1
-style	1
-except	1
-to	3
-179-190	1
-treatment	1
-under	1
-covered	1
-resolved	1
-them	1
-di	1
-de	3
-possible	1
-Tomo	1
-highly	1
-regarding	1
-aleatorio	1
-these	1
-mistakes	1
-found	1
-titlea	1
-are	2
-1928	1
-close	1
-encouraged	1
-for	2
-version	2
-reader	1
-Zanichelli	1
-This	1
-here	1
-distinguish	1
-article	1
-Footnotes	1
-by	3
-of	4
-against	1
-published	2
-footnotes	2
-other	1
-detailed	1
-letters	1
-appeared	1
-,	7
-S.p.A	1
-pp	1
-from	1
-comparing	1
-.	6
-Most	1
-3-10	1
-was	1
-topics	1
-more	1
-``	1
-form	1
-apparent	1
-corrected	1
-consult	1
-translation	3
-with	1
-made	1
-this	3
-originally	1
-work	1
-Congresso	1
-dei	1
-labeled	1
-un	1
-del	1
-were	2
-Nicola	1
-fenomeno	1
-and	2
-is	2
-''	1
-as	3
-Bruno	1
-in	3
-same	1
-interested	1
-which	2
-document	1
-Matematici	1
-'s	2
-VI	1
-after	1
-Internazionale	1
-The	2
-Atti	1
-a	3
-shortly	1
-longer	1
-Caratteristica	1
-Settembre	1
-Funzione	1
-the	5
-original	3
+Bologna,1
+Finetti,3
+paper,1
+mentioned,1
+Editore,1
+style,1
+except,1
+to,3
+other,1
+treatment,1
+under,1
+covered,1
+resolved,1
+them,1
+di,1
+de,3
+possible,1
+Tomo,1
+highly,1
+regarding,1
+aleatorio,1
+p,1
+mistakes,1
+found,1
+titlea,1
+are,2
+close,1
+encouraged,1
+for,2
+version,2
+reader,1
+Zanichelli,1
+This,1
+here,1
+S,1
+distinguish,1
+article,1
+Footnotes,1
+by,3
+of,4
+against,1
+s,2
+published,2
+footnotes,2
+detailed,1
+letters,1
+appeared,1
+one,1
+pp,1
+from,1
+Most,1
+comparing,1
+was,1
+topics,1
+more,1
+form,1
+apparent,1
+corrected,1
+consult,1
+translation,3
+with,1
+made,1
+this,3
+originally,1
+work,1
+Congresso,1
+dei,1
+labeled,1
+un,1
+del,1
+were,2
+Nicola,1
+fenomeno,1
+and,2
+is,2
+as,3
+Bruno,1
+in,3
+these,1
+same,1
+interested,1
+which,2
+document,1
+Matematici,1
+A,1
+VI,1
+after,1
+Internazionale,1
+The,2
+Atti,1
+a,3
+shortly,1
+longer,1
+Caratteristica,1
+Settembre,1
+Funzione,1
+the,5
+original,3

@@ -1,149 +1,125 @@
-
-M_	1
-show	1
-being	1
-soon	1
-discovered	1
-distant	1
-consists	1
-200	1
-galaxy	1
-previous	1
-component	1
-fronts	1
-$	26
-merger	3
-(	2
-sky	1
-,	9
-passage	1
-to	3
-detected	1
-14	1
-clusters	1
-cool	1
-lag	1
-Hubble	1
-Observatory	1
-3	1
-assuming	1
-reconstructions	1
-using	3
-halo	2
-gravitating	1
-presented	1
-parameter	1
-shock	1
-shapes	1
-2146	1
-yields	1
--2	1
-where	2
-Bootstrapped	1
-Previous	1
-\odot	2
-From	1
-be	1
-consistent	2
-ACS-WFC	1
-Abell	8
-close	1
-BCG-A	1
-large	1
-for	2
-projected	1
-consistently	1
-behind	1
-reconstruction	2
-respectively	1
-;	1
-+0.3	1
-core	2
-noise	1
-weak	3
-each	1
-galaxies	1
-2146-A	4
-2146-B	3
-although	1
-appears	1
-X-ray	4
-on	5
-of	10
-+1	1
-simulations	1
-0.232	1
-c=3.5	1
-{	11
-\textit	2
-first	1
-origin	1
-major	1
-BCG	3
-primary	2
-two	3
-lensing	3
-total	1
-\times	2
-given	1
-caught	1
-system	2
-.	9
-_	4
-was	1
-more	1
-centred	4
-that	1
-apparent	1
-Chandra	1
-highest	1
-with	6
-^	4
-10	2
-15	1
-Telescope	1
-showed	1
-gravitational	1
-work	2
-BCGs	1
-best-fit	1
-Cluster	1
-were	1
-z	1
-Galaxy	1
-and	3
-associated	1
-1.1	1
-Space	1
-is	8
-in	5
-it	1
-discrepancy	1
-an	1
-cluster	1
-distorted	1
-seen	1
-concentration	1
-)	2
-also	1
-Brightest	1
-=	2
-A	1
-map	1
-extended	1
-undergoing	1
-after	1
-M	2
--0.4	1
-plane	1
-peak	4
-assessed	1
-The	4
-model	1
-a	3
-resolution	1
-analysis	3
-mass	9
-components	1
-the	25
-}	11
+show,1
+being,1
+soon,1
+discovered,1
+distant,1
+using,3
+consists,1
+galaxy,1
+previous,1
+component,1
+fronts,1
+fit,1
+merger,3
+sky,1
+passage,1
+to,3
+detected,1
+clusters,1
+cool,1
+Hubble,1
+Observatory,1
+assuming,1
+reconstructions,1
+X,4
+halo,2
+gravitating,1
+presented,1
+shock,1
+shapes,1
+yields,1
+each,1
+where,2
+Bootstrapped,1
+Previous,1
+From,1
+be,1
+WFC,1
+consistent,2
+Abell,8
+close,1
+best,1
+large,1
+odot,2
+for,2
+projected,1
+consistently,1
+behind,1
+reconstruction,2
+respectively,1
+core,2
+noise,1
+weak,3
+galaxies,1
+although,1
+textit,2
+appears,1
+lag,1
+on,5
+c,1
+of,10
+times,2
+simulations,1
+first,1
+origin,1
+major,1
+BCG,4
+primary,2
+two,3
+ACS,1
+lensing,3
+total,1
+given,1
+caught,1
+system,2
+was,1
+more,1
+centred,4
+B,3
+that,1
+apparent,1
+Chandra,1
+highest,1
+with,6
+Telescope,1
+showed,1
+gravitational,1
+work,2
+BCGs,1
+Cluster,1
+were,1
+z,1
+Galaxy,1
+and,3
+associated,1
+Space,1
+is,8
+in,5
+it,1
+discrepancy,1
+an,1
+cluster,1
+distorted,1
+seen,1
+concentration,1
+ray,4
+also,1
+Brightest,1
+parameter,1
+A,6
+map,1
+extended,1
+undergoing,1
+after,1
+M,3
+plane,1
+peak,4
+assessed,1
+The,4
+model,1
+a,3
+analysis,3
+mass,9
+components,1
+the,25
+resolution,1

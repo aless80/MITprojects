@@ -1,135 +1,124 @@
-
-limited	1
-selection	1
-two-dimensional	1
-Bloch-Siegert	6
-over	1
-infrared	1
-~10	1
-Floquet	1
-avenue	1
-(	7
-observe	1
-,	9
-Here	1
-to	6
-only	2
-offers	1
-molecules	2
-under	1
-has	1
-<	1
-dominant	1
-far	1
-effects	1
-one	1
-\omega	6
-large	1
-monolayer	1
-common	1
-small	1
-Moreover	1
-entirely	1
-optics	1
-because	1
-energy	2
-driving	1
-frequency	1
-are	1
-enhanced	1
-quantum	1
-light-matter	2
-o+	1
-lead	1
-away	1
-since	1
-artificial	1
-materials	1
-Coherent	1
-between	1
-new	1
-eV	1
-0-	1
-be	1
-we	3
-obey	1
-detuned	1
-disentangle	1
-of	4
-inseparable	1
-atoms	3
-explore	1
-found	1
-strong	1
-by	1
-interaction	2
-shift	11
-exceptionally	1
-o	1
-meV	1
-repulsion	1
-resonance	2
-{	7
-control	1
-When	1
-Stark	4
-two	1
-valleys	1
-valley-exclusive	1
-manipulate	1
-properties	1
-from	4
-additional	1
-there	1
-system	1
-been	1
-.	8
-Such	1
-valley	2
-Although	1
-but	1
-optical	5
-controlling	1
-virtue	1
-with	1
-photon-dressed	1
-this	1
-By	1
-can	4
-were	1
-contribution	1
-1/	2
-and	5
-allows	1
-is	4
-it	1
-an	2
-states	1
-at	3
-in	6
-occur	1
-different	1
-)	7
-for	1
-1	1
-shifts	1
-other	1
-confine	1
-used	1
-opposite	1
-effect	1
-levels	1
-The	1
-\mu	1
-a	4
-so-called	1
-observation	1
-rules	1
-light	2
-valleytronic	1
-solids	3
-WS2	1
-so	1
-the	16
-}	7
-helicity	1
+limited,1
+selection,1
+exclusive,1
+over,1
+infrared,1
+WS,1
+Floquet,1
+avenue,1
+Here,1
+to,6
+only,2
+offers,1
+molecules,2
+under,1
+has,1
+By,1
+dominant,1
+far,1
+effects,1
+one,1
+large,1
+monolayer,1
+common,1
+small,1
+Moreover,1
+entirely,1
+optics,1
+because,1
+energy,2
+frequency,1
+are,1
+enhanced,1
+quantum,1
+driving,1
+away,1
+since,1
+Siegert,6
+artificial,1
+materials,1
+Coherent,1
+between,1
+new,1
+eV,1
+be,1
+we,3
+obey,1
+detuned,1
+disentangle,1
+of,4
+inseparable,1
+atoms,3
+explore,1
+found,1
+strong,1
+by,1
+interaction,2
+shift,11
+exceptionally,1
+o,2
+meV,1
+repulsion,1
+resonance,2
+contribution,1
+control,1
+When,1
+Stark,4
+two,2
+dimensional,1
+valleys,1
+manipulate,1
+properties,1
+from,4
+additional,1
+there,1
+system,1
+been,1
+Bloch,6
+Such,1
+valley,3
+Although,1
+photon,1
+but,1
+optical,5
+controlling,1
+virtue,1
+with,1
+observation,1
+this,1
+mu,1
+matter,2
+can,4
+were,1
+called,1
+and,5
+allows,1
+is,4
+it,1
+an,2
+states,1
+at,3
+in,6
+occur,1
+different,1
+dressed,1
+for,1
+shifts,1
+other,1
+confine,1
+used,1
+opposite,1
+effect,1
+levels,1
+The,1
+omega,6
+a,4
+lead,1
+rules,1
+light,4
+valleytronic,1
+solids,3
+observe,1
+so,2
+the,16
+helicity,1

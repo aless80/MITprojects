@@ -1,114 +1,109 @@
-
-show	1
-reductions	1
-accuracies	1
-existing	1
-paper	2
-through	1
-We	2
-also	1
-produces	1
-distributed	1
-,	5
-presents	1
-to	9
-only	1
-program	2
-then	1
-manipulated	2
-unique	1
-specific	1
-collect	1
-generalize	1
-where	2
-significantly	1
-prediction	1
-are	1
-our	2
-order-of-magnitude	1
-best	1
-techniques	2
-optimize	1
-preferences	1
-'	2
-expressed	1
-provides	1
-new	4
-approach	2
-be	2
-This	1
-combines	1
-standard	2
-approaches	1
-key	1
-inductive	1
-by	2
-on	1
-training	1
-of	6
-improves	1
-social	2
-contribution	1
-argue	1
-first	1
-filtering	1
-likes	1
-learning	3
-select	1
-given	1
-from	1
-friends	1
-system	1
-.	5
-their	1
-interest	2
-synthesis	1
-``	2
-that	6
-with	2
-target	1
-this	1
-up	1
-devices	2
-can	2
-learn	1
-problem	2
-more	1
-and	4
-activities	1
-is	3
-dislikes	1
-it	1
-an	1
-''	2
-as	1
-in	3
-technology	1
-viewed	1
-compared	1
-requirements	1
-goal	1
-media	2
-when	1
-machine	2
-application	1
-setting	2
-events	3
-higher	1
-'s	1
-users	2
-collection	2
-generated	1
-produce	1
-user	2
-The	2
-data	2
-model	1
-a	5
-for	1
-algorithm	2
-programs	1
-mobile	1
-clear	1
-time	1
-the	10
+show,1
+reductions,1
+accuracies,1
+existing,1
+paper,2
+through,1
+We,2
+also,1
+produces,1
+distributed,1
+presents,1
+to,9
+only,1
+program,2
+then,1
+manipulated,2
+unique,1
+specific,1
+collect,1
+magnitude,1
+generalize,1
+where,2
+significantly,1
+prediction,1
+are,1
+our,2
+best,1
+techniques,2
+preferences,1
+for,1
+expressed,1
+provides,1
+new,4
+approach,2
+be,2
+This,1
+combines,1
+standard,2
+approaches,1
+key,1
+inductive,1
+by,2
+on,1
+training,1
+of,7
+s,1
+improves,1
+social,2
+contribution,1
+argue,1
+first,1
+filtering,1
+likes,1
+learning,3
+select,1
+given,1
+from,1
+friends,1
+system,1
+optimize,1
+their,1
+interest,2
+synthesis,1
+that,6
+with,2
+target,1
+this,1
+up,1
+devices,2
+can,2
+learn,1
+problem,2
+more,1
+and,4
+activities,1
+is,3
+dislikes,1
+it,1
+an,1
+as,1
+in,3
+technology,1
+viewed,1
+compared,1
+requirements,1
+goal,1
+media,2
+when,1
+machine,2
+application,1
+setting,2
+events,3
+higher,1
+users,2
+collection,2
+generated,1
+produce,1
+user,2
+The,2
+data,2
+model,1
+a,5
+algorithm,2
+programs,1
+mobile,1
+clear,1
+time,1
+the,10
+order,1

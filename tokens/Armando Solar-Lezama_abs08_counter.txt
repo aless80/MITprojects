@@ -1,117 +1,115 @@
-
-operations	1
-proposed	1
-paper	1
-end-users	1
-We	2
-but	1
-with	1
-,	5
-to	7
-program	2
-has	1
-reuse	1
-possible	1
-reusable	1
-solution	1
-small	1
-calculus	1
-set	1
-force	1
-often	1
-concise	1
-discover	1
-library	1
-encodings	1
-further	1
-polymorphic	1
-predefined	1
-synthesis	2
-for	3
-space	2
-template	1
-approach	4
-creating	1
-This	1
-retains	1
-Church	1
-little	1
-scalability	3
-desugaring	1
-notably	1
-by	1
-constrains	1
-on	3
-pairs	1
-benefits	1
-language	1
-most	1
-of	9
-improves	1
-context	1
-makes	1
-allowing	1
-supply	1
-powerful	1
-highly	1
-boolean	1
-conventional	1
-from	2
-transformations	1
-system	1
-.	7
-synthesizer	2
-describes	1
-:	1
-define	1
-a	10
-that	3
-constructs	1
-data-types	1
-effort	2
-present	1
-wide	1
-novel	1
-extension	1
-this	1
-work	1
-evaluated	1
-Recent	1
-while	1
-optimization	1
-benchmarks	1
-promising	1
-Our	1
-problem	1
-enables	1
-usability	1
-and	3
-impedes	1
-it	1
-manner	1
-in	2
-Unfortunately	1
-functions	1
-recursive	1
-variety	1
-same	1
-also	1
-nontrivial	1
-potential	1
-which	3
-performance	1
-templates	4
-problems	1
-includes	1
-algebraic	1
-user	2
-improving	1
-The	1
-relies	1
-programs	1
-syntactic	2
-time	1
-at	1
-the	13
-lambda	1
-requires	1
+operations,1
+proposed,1
+paper,1
+We,2
+with,1
+to,7
+program,2
+has,1
+reuse,1
+possible,1
+reusable,1
+solution,1
+small,1
+calculus,1
+set,1
+force,1
+often,1
+concise,1
+discover,1
+library,1
+encodings,1
+further,1
+polymorphic,1
+predefined,1
+for,3
+space,2
+template,1
+approach,4
+creating,1
+This,1
+retains,1
+Church,1
+little,1
+scalability,3
+desugaring,1
+notably,1
+by,1
+constrains,1
+on,3
+pairs,1
+enables,1
+benefits,1
+language,1
+most,1
+of,9
+improves,1
+context,1
+makes,1
+allowing,1
+supply,1
+powerful,1
+highly,1
+boolean,1
+conventional,1
+from,2
+transformations,1
+system,1
+synthesizer,2
+describes,1
+define,1
+a,10
+that,3
+constructs,1
+but,1
+effort,2
+present,1
+wide,1
+novel,1
+extension,1
+this,1
+work,1
+evaluated,1
+Recent,1
+while,1
+optimization,1
+benchmarks,1
+promising,1
+Our,1
+problem,1
+synthesis,2
+usability,1
+and,3
+impedes,1
+it,1
+manner,1
+in,2
+Unfortunately,1
+functions,1
+end,1
+recursive,1
+variety,1
+same,1
+also,1
+nontrivial,1
+potential,1
+which,3
+performance,1
+templates,4
+users,1
+problems,1
+includes,1
+algebraic,1
+user,2
+improving,1
+The,1
+data,1
+types,1
+relies,1
+programs,1
+syntactic,2
+time,1
+at,1
+the,13
+lambda,1
+requires,1

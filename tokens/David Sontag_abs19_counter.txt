@@ -1,95 +1,93 @@
-
-show	1
-leads	1
-ground	1
-compact	1
-We	3
-,	3
-to	4
-trees	1
-novel	1
-using	1
-solved	1
-tightening	1
-lends	1
-upper	2
-lifted	5
-second	1
-exchangeable	1
-convex	1
-our	1
-inequalities	1
-for	7
-symmetric	2
-provides	1
-method	2
-be	2
-belief	1
-standard	1
-approaches	1
-relaxation	1
-optimize	1
-TRW	3
-on	2
-polytope	1
-of	1
-propagation	1
-constraints	1
-first	2
-Compared	1
-inference	2
-marginal	2
-bound	2
-highly	2
-from	1
-probabilities	1
-two	1
-.	6
-much	1
-analyze	1
-more	1
-function	1
-graphical	3
-that	1
-cycle	1
-than	1
-those	1
-variational	2
-these	1
-work	1
-appearance	1
-maximum	1
-optimization	1
-can	2
-problem	1
-and	2
-computing	1
-is	2
-in	1
-an	1
-cluster	1
-as	1
-itself	1
-formulation	3
-spanning	1
-first-order	1
-provide	1
-tree-reweighted	1
-which	2
-objective	1
-used	1
-models	3
-earlier	1
-improving	1
-such	1
-The	2
-probabilistic	1
-the	8
-efficiently	2
-a	4
-partition	1
-graphs	1
-edge	1
-consistency	1
-model	1
-arising	1
+show,1
+leads,1
+ground,1
+compact,1
+We,3
+to,4
+trees,1
+novel,1
+reweighted,1
+using,1
+solved,1
+tightening,1
+lends,1
+upper,2
+lifted,5
+tree,1
+second,1
+exchangeable,1
+convex,1
+our,1
+inequalities,1
+for,7
+symmetric,2
+provides,1
+method,2
+be,2
+belief,1
+standard,1
+approaches,1
+relaxation,1
+optimize,1
+TRW,3
+on,2
+polytope,1
+of,1
+propagation,1
+constraints,1
+first,3
+Compared,1
+inference,2
+marginal,2
+bound,2
+highly,2
+from,1
+probabilities,1
+two,1
+much,1
+analyze,1
+more,1
+function,1
+graphical,3
+that,1
+cycle,1
+than,1
+those,1
+variational,2
+these,1
+work,1
+appearance,1
+maximum,1
+optimization,1
+can,2
+problem,1
+and,2
+computing,1
+is,2
+in,1
+an,1
+cluster,1
+as,1
+itself,1
+formulation,3
+spanning,1
+provide,1
+which,2
+objective,1
+used,1
+models,3
+earlier,1
+improving,1
+such,1
+The,2
+probabilistic,1
+the,8
+efficiently,2
+a,4
+partition,1
+graphs,1
+edge,1
+consistency,1
+model,1
+arising,1
+order,1

@@ -1,93 +1,94 @@
-
-emerging	1
-consider	1
-magnetic	1
-alignment	1
-two-dimensional	1
-We	2
-plasmons	2
-platform	1
-Dirac	2
-emergence	1
-inherent	1
-topologically	1
-cones	2
-populated	1
-energy	3
-direct	1
-one-way	1
-result	1
-transitions	1
-magneto-optical	1
-phases	1
-for	1
-ways	1
-between	1
-simultaneously	1
-perpendicular	1
-interface	1
-strong	1
-by	1
-bandstructure	1
-interaction	1
-organic	2
-of	8
-suggests	1
-resulting	1
-whole	1
-exotic	1
-excitonic	1
-interfacing	1
-simple	1
-due	1
-open	1
-from	2
-to	3
-system	2
-.	6
-proposal	1
-molecular	1
-theoretical	1
-that	2
-These	1
-becomes	1
-subjecting	1
-gap	1
-with	3
-plexcitons	3
-novel	1
-this	1
-up	1
-matter	1
-protected	1
-exploration	1
-Our	1
-are	2
-and	3
-layer	3
-predict	1
-well	1
-polaritonic	1
-surface	1
-an	1
-as	2
-at	2
-in	5
-film	1
-excitons	2
-convenient	1
-travel	1
-metallic	1
-field	1
-nanoscale	1
-which	1
-flow	1
-Plexcitons	1
-plexcitonic	1
-may	1
-The	1
-a	4
-modes	2
-coupling	1
-metal	1
-the	12
+emerging,1
+consider,1
+magnetic,1
+alignment,1
+We,2
+plasmons,2
+platform,1
+Dirac,2
+emergence,1
+inherent,1
+topologically,1
+cones,2
+populated,1
+energy,3
+direct,1
+result,1
+transitions,1
+phases,1
+for,1
+ways,1
+between,1
+simultaneously,1
+perpendicular,1
+interface,1
+strong,1
+by,1
+bandstructure,1
+interaction,1
+organic,2
+of,8
+suggests,1
+resulting,1
+due,1
+whole,1
+exotic,1
+excitonic,1
+interfacing,1
+simple,1
+one,1
+dimensional,1
+open,1
+from,2
+to,3
+system,2
+way,1
+proposal,1
+molecular,1
+magneto,1
+that,2
+These,1
+becomes,1
+subjecting,1
+gap,1
+optical,1
+with,3
+plexcitons,3
+novel,1
+this,1
+up,1
+theoretical,1
+matter,1
+protected,1
+exploration,1
+Our,1
+are,2
+and,3
+layer,3
+predict,1
+well,1
+polaritonic,1
+surface,1
+an,1
+as,2
+at,2
+in,5
+film,1
+excitons,2
+convenient,1
+travel,1
+metallic,1
+field,1
+nanoscale,1
+which,1
+flow,1
+Plexcitons,1
+plexcitonic,1
+may,1
+two,1
+The,1
+a,4
+modes,2
+coupling,1
+metal,1
+the,12

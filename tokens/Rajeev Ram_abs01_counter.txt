@@ -1,51 +1,48 @@
-
-and	1
-concept	1
-feedback	1
-processing	1
-chip-to-chip	1
-fabricated	1
-integration	1
-packaging	1
-12SOI	1
-chip-board	1
-are	1
-have	1
-in	3
-responsive	1
-wavelength	1
-We	1
-nm	1
-for	1
-data	1
-currently	1
-,	1
-Monolithic	1
-.	4
-positional	2
-They	1
-photodiodes	2
-node	1
-used	1
-which	1
-wide	1
-GlobalFoundries	1
-optically-interconnected	1
-45nm	1
-report	1
-The	1
-chips	1
-on-chip	1
-a	3
-on	2
-field-of-view	1
-assemblies	1
-1180	1
-chip-to-board	1
-communications	1
-vertically-illuminated	1
-of	1
-further	1
-the	2
-enables	2
-at	1
+and,1
+optically,1
+concept,1
+feedback,1
+processing,1
+chip,5
+fabricated,1
+packaging,1
+are,1
+have,1
+in,3
+responsive,1
+wavelength,1
+We,1
+nm,2
+for,1
+field,1
+SOI,1
+data,1
+currently,1
+integration,1
+Monolithic,1
+positional,2
+to,2
+board,2
+They,1
+which,1
+photodiodes,2
+node,1
+used,1
+illuminated,1
+vertically,1
+GlobalFoundries,1
+wide,1
+report,1
+The,1
+chips,1
+a,3
+on,3
+enables,2
+of,2
+assemblies,1
+communications,1
+further,1
+the,2
+view,1
+interconnected,1
+at,1

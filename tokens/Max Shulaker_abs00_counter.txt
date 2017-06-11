@@ -1,124 +1,119 @@
-
-less	1
-over	1
-existing	2
-paper	1
-CNFETs	1
-speed	2
-impact	2
-1	1
-We	1
-derive	1
-CNFET	5
-parameters	2
-(	3
-,	12
-Joint	1
-candidates	1
-systems	1
-nodes	1
-overcome	1
-Unfortunately	1
-susceptibility	1
-anticipated	1
-framework	2
-trial-and-error-based	1
-severely	1
-runs	1
-circuit-level	1
-systematically	1
-cell	1
-yield	2
-large	1
-identifies	1
-transistors	1
-constraints	1
-nanotube	1
-energy	2
-guidelines	1
-reduce	1
-layouts	1
-cost	1
-design	3
-are	4
-our	1
-subject	1
-for	3
-space	1
-However	1
-increase	1
-100x	1
-we	1
-noise	3
-simultaneously	1
-processing	4
-standard	1
-approaches	2
-demonstrate	1
-carbon	1
-on	3
-benefits	1
-of	4
-circuit	6
-options	2
-.	6
-expensive	1
-rely	1
-to	5
-field-effect	1
-quickly	1
-their	1
-2	1
-Carbon	1
-:	1
-meeting	1
-building	1
-mostly	1
-that	3
-accurately	1
-degrade	1
-nanotubes	1
-with	2
-than	2
-present	1
-sizing	1
-this	2
-challenge	1
-variations	3
-while	1
-optimization	2
-exploration	2
-promising	1
-evaluates	1
-margin	2
-and	12
-ad	1
-e.g.	1
-outstanding	1
-at	1
-technology	1
-computationally	1
-hoc	1
-)	5
-delay	1
-5	1
-digital	1
-techniques	1
-highly-scaled	1
-CNT	6
-explores	1
-inherently	1
-most	1
-optimized	1
-important	1
-such	1
-a	1
-faster	1
-minimize	1
-energy-efficient	1
-required	1
-together	1
-CNTs	1
-In	1
-the	4
-%	1
+less,1
+over,1
+existing,2
+paper,1
+CNFETs,1
+speed,2
+impact,2
+cell,1
+We,1
+derive,1
+based,1
+CNFET,5
+parameters,2
+Joint,1
+candidates,1
+systems,1
+nodes,1
+overcome,1
+Unfortunately,1
+severely,1
+anticipated,1
+framework,2
+susceptibility,1
+runs,1
+promising,1
+level,1
+systematically,1
+yield,2
+large,1
+x,1
+identifies,1
+transistors,1
+constraints,1
+nanotube,1
+energy,3
+guidelines,1
+reduce,1
+layouts,1
+cost,1
+design,3
+are,4
+our,1
+subject,1
+for,3
+space,1
+However,1
+increase,1
+we,1
+noise,3
+simultaneously,1
+processing,4
+standard,1
+approaches,2
+demonstrate,1
+carbon,1
+on,3
+benefits,1
+g,1
+of,4
+trial,1
+circuit,7
+options,2
+highly,1
+scaled,1
+expensive,1
+rely,1
+to,5
+quickly,1
+their,1
+Carbon,1
+meeting,1
+building,1
+mostly,1
+that,3
+accurately,1
+degrade,1
+nanotubes,1
+with,2
+than,2
+present,1
+sizing,1
+this,2
+challenge,1
+variations,3
+while,1
+optimization,2
+exploration,2
+error,1
+evaluates,1
+margin,2
+and,13
+ad,1
+outstanding,1
+at,1
+technology,1
+computationally,1
+hoc,1
+efficient,1
+delay,1
+field,1
+digital,1
+techniques,1
+CNT,6
+explores,1
+effect,1
+inherently,1
+most,1
+optimized,1
+important,1
+such,1
+a,1
+e,1
+faster,1
+minimize,1
+required,1
+together,1
+CNTs,1
+In,1
+the,4

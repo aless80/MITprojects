@@ -1,121 +1,117 @@
-
-insulators	1
-strongly-correlated	3
-magnetic	1
-lack	1
-front	1
-find	1
-$	2
-show	1
-,	6
-topological	1
-to	1
-other	1
-Despite	1
-nodes	1
-has	1
-unprecedented	1
-hybridization	1
-Dirac	6
-monopnictides	1
-band	2
-electron	1
-report	1
-2	1
-this	1
-each	1
-inversions	1
-four-fold	2
-where	1
-semimetal	1
-degeneracy	2
-findings	2
-condensed	1
-observed	1
-are	1
-our	1
-transitions	1
-odd	1
-points	1
-high-symmetry	1
-overlap	1
-cerium	1
-across	1
-we	2
-conventional	1
-protection	1
-become	1
-by	1
-_	1
-time-reversal	1
-of	6
-suggests	1
-{	2
-or	1
-experimental	1
-uniquely	1
-number	1
-highly	1
-analogous	1
-Here	1
-Discovering	1
-crystalline	1
-open	1
-unusual	1
-from	2
-platform	1
-distinct	1
-two	1
-.	6
-their	1
-describes	1
-fermions	3
-calculations	1
-anisotropic	1
-topology	1
-is	2
-Comparison	1
-that	2
-interpenetrate	1
-bulk	1
-Z	1
-with	3
-peculiar	1
-those	1
-novel	2
-these	1
-up	1
-theoretical	1
-matter	1
-Our	1
-and	4
-symmetries	1
-\mathbb	1
-exploring	1
-graphene	1
-arise	1
-surface	1
-an	3
-states	1
-properties	1
-at	1
-in	3
-fermion	2
-for	1
-sciences	1
-setting	1
-which	3
--topological	1
-In	1
-long-sought-for	1
-important	1
-phase	2
-robust	1
-a	4
-observation	1
-physics	1
-materials	1
-negligible	1
-sets	1
-the	4
-}	2
+mathbb,1
+insulators,1
+show,1
+magnetic,1
+lack,1
+four,2
+front,1
+find,1
+topological,2
+to,1
+other,1
+Despite,1
+nodes,1
+has,1
+unprecedented,1
+hybridization,1
+Dirac,6
+monopnictides,1
+band,2
+electron,1
+reversal,1
+report,1
+is,2
+In,1
+this,1
+each,1
+inversions,1
+become,1
+where,1
+semimetal,1
+degeneracy,2
+findings,2
+condensed,1
+observed,1
+fold,2
+are,1
+our,1
+transitions,1
+odd,1
+points,1
+for,2
+overlap,1
+cerium,1
+across,1
+we,2
+conventional,1
+protection,1
+by,1
+topology,1
+of,6
+suggests,1
+or,1
+experimental,1
+uniquely,1
+strongly,3
+symmetry,1
+number,1
+highly,1
+analogous,1
+Here,1
+Discovering,1
+crystalline,1
+open,1
+unusual,1
+from,2
+platform,1
+distinct,1
+two,1
+long,1
+properties,1
+their,1
+describes,1
+fermions,3
+calculations,1
+anisotropic,1
+theoretical,1
+Comparison,1
+that,2
+interpenetrate,1
+bulk,1
+Z,1
+with,3
+peculiar,1
+those,1
+high,1
+novel,2
+these,1
+up,1
+matter,1
+Our,1
+and,4
+symmetries,1
+exploring,1
+graphene,1
+arise,1
+surface,1
+an,3
+states,1
+at,1
+in,3
+sought,1
+fermion,2
+sciences,1
+setting,1
+which,3
+time,1
+important,1
+phase,2
+robust,1
+a,4
+correlated,3
+observation,1
+materials,1
+negligible,1
+sets,1
+the,4
+physics,1

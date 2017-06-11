@@ -1,80 +1,77 @@
-
-and	2
-accessible	1
-challenging	1
-predict	1
-text	1
-Named-entity	1
-ANNs	3
-graphical	1
-Artificial	1
-existing	1
-annotate	1
-texts	1
-paper	1
-at	1
-have	1
-in	3
-BRAT	1
-NER	2
-networks	1
-recognition	2
-non-expert	1
-easy-to-use	1
-shown	1
-based	1
-Users	1
-for	1
-to	4
-)	3
-(	3
-However	1
-been	1
-.	6
-makes	1
-entities	3
-systems	1
-interest	1
-which	1
-new	1
-:	1
-named-entity	1
-then	1
-we	1
-used	1
-recently	1
-users	1
-web-based	1
-smooth	1
-tool	1
-In	1
-categories	1
-use	1
-anyone	1
-locations	1
-train	1
-user	1
-interface	1
-using	1
-an	2
-,	4
-present	1
-a	2
-on	1
-'	1
-identifying	1
-this	2
-of	1
-ANN	1
-neural	1
-flow	1
-aims	1
-annotations	1
-turn	1
-remain	1
-can	1
-outperform	1
-the	1
-annotation-training-prediction	1
-NeuroNER	2
-are	1
+and,2
+accessible,1
+named,1
+challenging,1
+predict,1
+text,1
+easy,1
+ANNs,3
+we,1
+Artificial,1
+entity,2
+annotate,1
+texts,1
+paper,1
+at,1
+have,1
+in,3
+NER,2
+networks,1
+recognition,2
+training,1
+web,1
+shown,1
+based,2
+Users,1
+for,1
+entities,3
+smooth,1
+However,1
+been,1
+makes,1
+to,5
+systems,1
+interest,1
+which,1
+new,1
+flow,1
+BRAT,1
+then,1
+non,1
+used,1
+recently,1
+users,1
+tool,1
+In,1
+categories,1
+use,2
+anyone,1
+locations,1
+prediction,1
+train,1
+user,1
+interface,1
+using,1
+existing,1
+annotation,1
+present,1
+a,2
+on,1
+Named,1
+expert,1
+identifying,1
+this,2
+of,1
+ANN,1
+neural,1
+graphical,1
+aims,1
+annotations,1
+turn,1
+remain,1
+can,1
+outperform,1
+an,2
+the,1
+NeuroNER,2
+are,1

@@ -1,59 +1,56 @@
-
-and	4
-compare	1
-arise	1
-integral	1
-graphical	1
-general	1
-are	2
-have	1
-in	1
-inverses	1
-representations	1
-toric	1
-theory	1
-We	2
-statistics	1
-from	3
-for	1
-maps	1
-gradient	1
-positivity	1
-,	1
-.	7
-symmetric	1
-their	2
-multidegrees	1
-models	1
-degrees	1
-real	1
-map	1
-them	1
-families	1
-linear	1
-Exponential	1
-These	2
-familiar	1
-class	1
-This	1
-polynomials	2
-includes	1
-algebraic	1
-moment	1
-satisfying	1
-develop	1
-strong	1
-matrices	1
-properties	1
-convexity	1
-a	1
-Among	1
-varieties	5
-exponential	2
-of	4
-hyperbolic	2
-Gaussian	1
-ML	1
-the	2
-derived	1
-constraints	1
+and,4
+compare,1
+arise,1
+integral,1
+graphical,1
+general,1
+are,2
+have,1
+in,1
+inverses,1
+representations,1
+toric,1
+theory,1
+We,2
+statistics,1
+from,3
+for,1
+maps,1
+gradient,1
+positivity,1
+class,1
+symmetric,1
+their,2
+multidegrees,1
+models,1
+degrees,1
+real,1
+map,1
+them,1
+families,1
+linear,1
+Exponential,1
+These,2
+familiar,1
+This,1
+polynomials,2
+includes,1
+algebraic,1
+moment,1
+satisfying,1
+develop,1
+strong,1
+matrices,1
+properties,1
+convexity,1
+a,1
+Among,1
+varieties,5
+exponential,2
+of,4
+hyperbolic,2
+Gaussian,1
+ML,1
+the,2
+derived,1
+constraints,1

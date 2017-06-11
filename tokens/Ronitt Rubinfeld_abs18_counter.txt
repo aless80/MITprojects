@@ -1,86 +1,82 @@
-
-and	2
-schemes	3
-set	1
-significantly	1
-encoding	1
-relate	1
-is	1
-particular	1
-results	1
-related	1
-detail	1
-Lempel-Ziv	2
-it	1
-run-length	1
-in	3
-sublinear	2
-respect	4
-beyond	1
-several	1
-size	1
-goes	1
-whose	1
-We	3
-lemmas	1
-raise	1
-for	3
-also	1
-)	2
-(	2
-support	1
-give	1
-question	2
-,	4
-.	6
-to	7
-contained	1
-investigation	1
-present	1
-interest	1
-show	2
-yields	1
-structural	1
-scheme	1
-LZ	3
-distinct	1
-be	1
-we	3
-string	2
-that	4
-our	1
-initial	1
-questions	1
-In	2
-addition	1
-number	1
-short	1
-two	1
-Our	1
-not	1
-combinatorial	1
-approximating	4
-with	4
-distribution	1
-lossless	1
-compression	2
-a	4
-both	2
-lower	1
-:	1
-improved	1
-this	1
-of	6
-study	2
-prove	1
-bounds	1
-RLE	1
-substrings	1
-algorithms	2
-can	1
-time	1
-popular	1
-compressibility	4
-the	7
-fixed	1
-out	1
+and,2
+Ziv,2
+schemes,3
+significantly,1
+encoding,1
+relate,1
+is,1
+Lempel,2
+results,1
+related,1
+two,1
+set,1
+questions,1
+in,3
+sublinear,2
+respect,4
+beyond,1
+goes,1
+whose,1
+We,3
+lemmas,1
+raise,1
+for,3
+also,1
+distinct,1
+support,1
+give,1
+question,2
+detail,1
+to,7
+contained,1
+investigation,1
+present,1
+interest,1
+show,2
+yields,1
+structural,1
+scheme,1
+LZ,3
+particular,1
+be,1
+we,3
+run,1
+string,2
+that,4
+our,1
+initial,1
+it,1
+In,2
+addition,1
+number,1
+short,1
+size,1
+Our,1
+not,1
+combinatorial,1
+approximating,4
+with,4
+distribution,1
+lossless,1
+compression,2
+a,4
+both,2
+lower,1
+several,1
+improved,1
+this,1
+of,6
+study,2
+prove,1
+bounds,1
+RLE,1
+length,1
+algorithms,2
+can,1
+time,1
+popular,1
+compressibility,4
+the,7
+fixed,1
+out,1
+substrings,1

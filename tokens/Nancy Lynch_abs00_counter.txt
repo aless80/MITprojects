@@ -1,179 +1,173 @@
-
-gates	2
-Using	1
-similarity	3
-\sqrt	1
-focus	2
-computational	1
-computation	3
-threshold	1
-implement	1
-networks	3
-spike	1
-compact	1
-access	1
-We	2
-$	10
-also	1
-(	2
-show	1
-distributed	1
-,	17
-Here	1
-to	4
-\left	1
-stochastic	2
-has	1
-real	1
-random	1
-which	4
-combination	1
-very	1
-indexing	1
-tradeoffs	1
-probability	1
-nearly	1
-optimal	1
-not	1
-using	2
-accepted	1
-establishes	1
-randomness	3
---	1
-solution	1
-t	1
-output	1
-testing	3
-module	1
-plausible	2
-design	1
-are	1
-sublinear	1
-`winner-take-all	1
-implemented	3
-spiking	1
-)	2
-network	4
-for	3
-demonstrates	1
-leveraged	1
-since	1
--far	1
-does	1
-dimension-based	1
-\log	1
-between	3
-leader	1
-contrast	1
-be	3
-we	5
-provide	1
-whose	1
-This	1
-O	2
-advantages	1
-separation	1
-distinguish	1
-along	1
-on	2
-applications	1
-of	5
-could	1
-firing	1
-allows	1
-equal	2
-{	3
-runtime	1
-or	2
-well-studied	1
-deterministic	2
-useful	1
-sigmoidal	2
-heart	1
-\right	1
-number	1
-stochasticity	1
-Yao	1
-simplified	1
-size	2
--round	1
-given	1
-from	1
-compression	1
-two	1
-.	12
-much	1
-call	1
-basic	1
-efficiently	1
-\epsilon	2
-neuro-RAM	4
-function	1
-that	3
-memory	1
-but	2
-it	1
-construction	1
-input	1
-with	5
-auxiliary	2
-this	3
-wish	1
-work	1
-us	1
-n	3
-values	1
-can	3
-many	1
-Our	1
-problem	1
-more	1
-study	1
-election	1
-and	7
-\frac	1
-is	6
-argument	1
-n/t	1
-Randomization	1
-neurons	3
-in	7
-if	1
-result	1
-beyond	1
-tradeoff	1
-efficient	1
-how	1
-setting	1
-role	1
-widely	1
-biologically	2
-algorithms	2
-several	1
-principle	1
-VC	1
-'s	1
-our	4
-time	1
-inherently	1
-less	1
-most	1
-explored	1
-significant	1
-model	1
-recent	1
-a	9
-task	2
-'	1
-neural	5
--length	1
-implications	1
-It	2
-patterns	2
-complexity	1
-solve	2
-At	1
-In	2
-the	8
-}	3
-minimax	1
+gates,2
+all,1
+Using,1
+similarity,3
+random,1
+focus,2
+computational,1
+computation,3
+threshold,1
+networks,3
+spike,1
+compact,1
+whose,1
+We,2
+based,1
+probability,1
+also,1
+winner,1
+distributed,1
+Here,1
+to,4
+stochastic,2
+has,1
+real,1
+which,4
+combination,1
+very,1
+indexing,1
+tradeoffs,1
+nearly,1
+optimal,1
+not,1
+using,2
+accepted,1
+randomness,3
+solution,1
+t,2
+output,1
+round,1
+right,1
+testing,3
+module,1
+plausible,2
+design,1
+are,1
+sublinear,1
+biologically,2
+implemented,3
+spiking,1
+network,4
+for,3
+demonstrates,1
+leveraged,1
+since,1
+access,1
+does,1
+establishes,1
+between,3
+leader,1
+contrast,1
+be,3
+we,5
+provide,1
+This,1
+O,2
+deterministic,2
+advantages,1
+separation,1
+distinguish,1
+along,1
+log,1
+on,2
+applications,1
+of,5
+could,1
+firing,1
+allows,1
+equal,2
+length,1
+implement,1
+runtime,1
+or,2
+RAM,4
+useful,1
+sigmoidal,2
+number,1
+stochasticity,1
+Yao,1
+simplified,1
+size,2
+given,1
+from,1
+compression,1
+two,1
+much,1
+call,1
+basic,1
+show,1
+efficiently,1
+more,1
+function,1
+that,3
+epsilon,2
+memory,1
+but,2
+it,1
+construction,1
+input,1
+with,5
+this,3
+wish,1
+work,1
+us,1
+n,4
+values,1
+can,3
+many,1
+Our,1
+problem,1
+study,1
+election,1
+and,7
+heart,1
+studied,1
+well,1
+is,6
+argument,1
+Randomization,1
+neurons,3
+in,7
+if,1
+result,1
+beyond,1
+tradeoff,1
+efficient,1
+s,1
+sqrt,1
+how,1
+setting,1
+role,1
+take,1
+widely,1
+algorithms,2
+several,1
+principle,1
+VC,1
+frac,1
+our,4
+time,1
+inherently,1
+less,1
+most,1
+explored,1
+significant,1
+model,1
+recent,1
+a,9
+task,2
+neuro,4
+auxiliary,2
+neural,5
+implications,1
+It,2
+dimension,1
+patterns,2
+complexity,1
+solve,2
+At,1
+In,2
+far,1
+the,8
+minimax,1
+left,1

@@ -1,181 +1,173 @@
-
-all	1
-LisaTK	1
-insight	1
-``	1
-attempts	1
-through	1
-using	1
-follow	1
-networks	1
-based	1
-parameters	2
-implementation	1
-(	1
-technique	1
-,	12
-including	1
-estimating	1
-production	1
-systems	1
-molecules	1
-factor	1
-probabilistic	1
-has	1
-local	1
-match	2
-then	3
-global	1
-matches	1
-redox-mediated	1
-activation	1
-disagreement	1
-novel	1
-cellular	1
-experimentally	1
-unique	1
-equality	1
-solves	1
-follows	1
-signal	1
-differential	1
-PTEN	1
-demonstrated	1
-each	2
-biological	1
-Availability	1
-because	1
-methods	4
-global-local	1
-biology	1
-observed	3
-rate	2
-are	1
-timeslice	1
-measurement	1
-spline-curve	1
-dynamics	2
-network	1
-for	3
-space	1
-decomposition	1
-between	1
-new	2
-;	1
-method	1
-contrast	1
-available	1
-be	1
-we	1
-run	1
-belief	1
-degree	1
-enforcing	1
-Contact	1
-modeling	1
-equations	1
-extreme	1
-on	1
-Motivation	1
-of	12
-creates	1
-propagation	1
-concentrations	3
-estimation	1
-search	1
-into	1
-powerful	1
-number	1
-one	2
-polynomial	1
-spline	1
-physico-chemical	1
-derivatives	1
-conventional	1
-asymptotic	1
-consumption	1
-to	5
-data	2
-.	11
-time	1
-Modeling	1
-molecular	1
-is	5
-nus.edu.sg	1
-function	2
-generating	1
-that	1
-exactly	2
-ODEs	3
-but	2
-signaling	1
-systematic	1
-supplementary	1
-with	2
-graphical	1
-Software	1
-approximation	1
-:	5
-exponential	1
-this	2
-timepoints	1
-loopy	1
-ODE	1
-optimization	2
-can	1
-behavior	1
-BPPE	3
-Keywords	1
-biochemical	1
-problem	2
-providing	1
-decompose	1
-and	10
-compare	1
-@	1
-Whereas	1
-in	4
-measure	1
-it	1
-proven	1
-an	1
-''	1
-at	2
-New	1
-concentration	1
-species	2
-transduction	1
-information	1
-)	1
-inactivation	1
-hybrid	2
-URL	1
-which	1
-objective	1
-performance	1
-ordinary	1
-parameter	1
-pathway	1
-A	1
-http	1
-models	1
-simulated	1
-Akt	1
-coverage	1
-fits	1
-The	2
-opportunity	1
-model	1
-a	6
-attempt	1
-factorized	1
-algorithm	1
-minimize	1
-typically	1
-curve	1
-Results	1
-traditional	1
-points	1
-In	1
-the	21
-requires	1
+all,1
+LisaTK,1
+insight,1
+attempts,1
+through,1
+using,1
+follow,1
+networks,1
+based,1
+parameters,2
+implementation,1
+technique,1
+including,1
+estimating,1
+production,1
+systems,1
+molecules,1
+factor,1
+probabilistic,1
+has,1
+local,2
+match,2
+then,3
+global,2
+matches,1
+activation,1
+disagreement,1
+cellular,1
+experimentally,1
+unique,1
+equality,1
+solves,1
+follows,1
+signal,1
+differential,1
+PTEN,1
+demonstrated,1
+each,2
+biological,1
+Availability,1
+because,1
+methods,4
+edu,1
+nus,1
+observed,3
+rate,2
+sg,1
+are,1
+timeslice,1
+measurement,1
+New,1
+dynamics,2
+biology,1
+network,1
+for,3
+space,1
+mediated,1
+decomposition,1
+between,1
+new,2
+method,1
+contrast,1
+available,1
+be,1
+we,1
+run,1
+belief,1
+degree,1
+enforcing,1
+Contact,1
+modeling,1
+equations,1
+extreme,1
+on,1
+Motivation,1
+of,12
+creates,1
+propagation,1
+concentrations,3
+estimation,1
+search,1
+into,1
+powerful,1
+number,1
+one,2
+polynomial,1
+spline,2
+derivatives,1
+conventional,1
+asymptotic,1
+consumption,1
+to,5
+opportunity,1
+redox,1
+time,1
+Modeling,1
+molecular,1
+is,5
+function,2
+physico,1
+generating,1
+that,1
+exactly,2
+ODEs,3
+but,2
+signaling,1
+systematic,1
+supplementary,1
+with,2
+graphical,1
+Software,1
+approximation,1
+novel,1
+exponential,1
+this,2
+timepoints,1
+loopy,1
+ODE,1
+optimization,2
+can,1
+behavior,1
+BPPE,3
+Keywords,1
+biochemical,1
+problem,2
+providing,1
+decompose,1
+and,10
+compare,1
+Whereas,1
+measure,1
+it,1
+proven,1
+an,1
+at,2
+in,4
+concentration,1
+species,2
+transduction,1
+information,1
+inactivation,1
+hybrid,2
+chemical,1
+URL,1
+which,1
+objective,1
+performance,1
+ordinary,1
+parameter,1
+pathway,1
+A,1
+http,1
+models,1
+simulated,1
+Akt,1
+coverage,1
+fits,1
+The,2
+data,2
+model,1
+a,6
+attempt,1
+factorized,1
+algorithm,1
+minimize,1
+typically,1
+curve,2
+Results,1
+traditional,1
+points,1
+In,1
+the,21
+requires,1

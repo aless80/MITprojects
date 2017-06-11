@@ -1,118 +1,111 @@
-
-all	1
-developed	1
-paper	1
-computation	1
-carefully	1
-its	1
-We	1
-graph	5
-technique	1
-,	16
-to	3
-bases	1
-systems	1
-By	2
-treewidth	2
-cryptography	1
-obner	2
-maintaining	1
-areas	1
-outperform	1
-differential	1
-exploiting	1
-smaller	1
-methods	1
-completions	1
-ideals	1
-are	1
-our	1
-theory	1
-solving	1
-for	3
-restricted	1
-Gr\	2
-rings	1
-new	1
-sensor	1
-refer	1
-be	2
-we	3
-terms	1
-linear	2
-localization	1
-standard	1
-reason	1
-from	1
-equations	2
-properties	1
-on	2
-constraint	1
-geometry	1
-of	10
-study	1
-Chordal	2
-chordal	4
-(	1
-computational	2
-variables	1
-number	1
-satisfaction	1
-exploit	1
-done	1
-polynomial	2
-throughout	1
-size	1
-described	1
-basis	1
-system	1
-.	10
-colorings	1
-more	1
-a	4
-graphical	1
-arises	1
-that	2
-relevant	1
-suitability	1
-particular	3
-elimination	3
-cases	1
-this	3
-can	3
-many	3
-demonstrate	1
-examples	1
-and	5
-process	1
-is	2
-``	1
-equal	1
-''	3
-To	1
-as	1
-in	9
-end	1
-)	1
-how	1
-other	1
-which	1
-applications	1
-begin	1
-algebra	1
-models	1
-numerical	1
-algebraic	1
-bounded	1
-develop	1
-The	2
-class	1
-structure	5
-relies	1
-computations	1
-efficient	2
-complexity	1
-algorithms	2
-allow	1
-In	2
-the	8
+all,1
+developed,1
+paper,1
+computation,1
+carefully,1
+its,1
+We,1
+graph,5
+technique,1
+to,3
+bases,1
+systems,1
+By,2
+treewidth,2
+cryptography,1
+obner,2
+maintaining,1
+areas,1
+Gr,2
+outperform,1
+differential,1
+exploiting,1
+smaller,1
+methods,1
+completions,1
+ideals,1
+are,1
+our,1
+theory,1
+solving,1
+for,3
+restricted,1
+rings,1
+new,1
+sensor,1
+refer,1
+be,2
+we,3
+terms,1
+linear,2
+localization,1
+standard,1
+reason,1
+from,1
+equations,2
+properties,1
+on,2
+constraint,1
+geometry,1
+of,10
+study,1
+Chordal,2
+chordal,4
+computational,2
+variables,1
+number,1
+satisfaction,1
+exploit,1
+done,1
+polynomial,2
+throughout,1
+size,1
+described,1
+basis,1
+system,1
+colorings,1
+more,1
+a,4
+graphical,1
+arises,1
+that,2
+relevant,1
+suitability,1
+particular,3
+elimination,3
+cases,1
+this,3
+can,3
+many,3
+demonstrate,1
+examples,1
+and,5
+process,1
+is,2
+equal,1
+To,1
+as,1
+in,9
+end,1
+efficient,2
+how,1
+other,1
+which,1
+applications,1
+begin,1
+algebra,1
+models,1
+numerical,1
+algebraic,1
+bounded,1
+develop,1
+The,2
+class,1
+structure,5
+relies,1
+computations,1
+complexity,1
+algorithms,2
+allow,1
+In,2
+the,8

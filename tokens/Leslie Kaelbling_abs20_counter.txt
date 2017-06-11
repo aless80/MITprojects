@@ -1,87 +1,85 @@
-
-show	1
-over	1
-actions	1
-planning	1
-world	1
-We	3
-,	1
-to	2
-rules	1
-effects	1
-using	2
-task-specific	2
-reduces	1
-paper	1
-affect	1
-set	3
-often	1
-stochastically	1
-related	2
-blocks-world	1
-'s	1
-ascent	1
-learns	1
-for	1
-ways	1
-relational	1
-approach	1
-be	1
-This	1
-by	1
-training	1
-of	4
-prior	3
-amount	1
-action	1
-tasks	2
-addresses	1
-learning	1
-significantly	1
-from	1
-probabilistic	1
-system	1
-.	6
-compactly	1
-that	3
-transferring	1
-problem	1
-hierarchical	1
-present	1
-prototype	1
-this	1
-modified	1
-can	1
-iteratively	1
-distribution	2
-and	1
-modeled	1
-predict	1
-is	1
-describe	1
-agent	1
-an	1
-rule	5
-in	3
-distributions	1
-information	1
-also	1
-take	1
-which	2
-Bayesian	1
-multiple	1
-optimizes	1
-domains	1
-produce	1
-such	1
-The	1
-data	1
-class	1
-a	7
-algorithm	2
-required	1
-parameterized	1
-Experiments	1
-sets	3
-coordinate	1
-the	6
+and,1
+coordinate,1
+set,3
+often,1
+show,1
+predict,1
+over,1
+in,3
+agent,1
+an,1
+planning,1
+parameterized,1
+learning,1
+using,2
+blocks,1
+distributions,1
+action,1
+addresses,1
+information,1
+We,3
+learns,1
+from,1
+for,1
+to,2
+ways,1
+ascent,1
+system,1
+class,1
+This,1
+amount,1
+Experiments,1
+take,1
+which,2
+Bayesian,1
+relational,1
+compactly,1
+approach,1
+is,1
+domains,1
+data,1
+be,1
+such,1
+describe,1
+multiple,1
+optimizes,1
+tasks,2
+that,3
+rules,1
+transferring,1
+distribution,2
+task,2
+by,1
+produce,1
+hierarchical,1
+actions,1
+world,2
+The,1
+significantly,1
+probabilistic,1
+problem,1
+present,1
+a,7
+also,1
+training,1
+prototype,1
+algorithm,2
+this,1
+of,4
+reduces,1
+modeled,1
+modified,1
+rule,5
+specific,2
+prior,3
+s,1
+paper,1
+can,1
+affect,1
+sets,3
+stochastically,1
+iteratively,1
+the,6
+required,1
+related,2
+effects,1

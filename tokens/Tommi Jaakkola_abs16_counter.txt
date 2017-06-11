@@ -1,76 +1,76 @@
-
-and	3
-limited	1
-breaking	1
-semantic	1
-features	1
-render	1
-word-level	1
-predict	1
-consistently	1
-into	1
-each	2
-observed	1
-outperforms	1
-log-linear	1
-set	1
-including	1
-orthographic	2
-in	1
-Arabic	1
-their	1
-We	2
-based	1
-for	3
-to	2
-integrates	1
-views	1
-,	6
-relations	1
-.	6
-Most	1
-only	1
-parents	2
-systems	2
-chains	2
-contrast	1
-morpheme	1
-we	1
-terms	1
-that	1
-models	1
-propose	1
-morphological	3
-use	1
-Turkish	1
-possible	1
-five	1
-state-of-the-art	2
-produce	1
-formation	1
-contrastive	1
-words	3
-parent-child	1
-from	1
-The	1
-with	1
-the	2
-a	1
-on	2
-modifications	1
-word	3
-candidate	1
-unsupervised	1
-of	3
-analysis	2
-feasible	1
-matches	1
-patterns	1
-base	1
-today	1
-In	1
-Our	1
-model	3
-estimation	1
-or	1
-English	1
+and,3
+limited,1
+breaking,1
+art,2
+features,1
+render,1
+Turkish,1
+predict,1
+consistently,1
+into,1
+each,2
+observed,1
+outperforms,1
+set,1
+including,1
+orthographic,2
+in,1
+semantic,1
+their,1
+We,2
+based,1
+log,1
+for,3
+to,2
+integrates,1
+views,1
+state,2
+relations,1
+Most,1
+only,1
+parents,2
+systems,2
+chains,2
+contrast,1
+morpheme,1
+we,1
+terms,1
+linear,1
+parent,1
+that,1
+models,1
+propose,1
+morphological,3
+use,1
+possible,1
+five,1
+produce,1
+formation,1
+contrastive,1
+words,3
+child,1
+from,1
+The,1
+with,1
+model,3
+a,1
+on,2
+modifications,1
+word,4
+candidate,1
+unsupervised,1
+of,5
+level,1
+Arabic,1
+analysis,2
+feasible,1
+matches,1
+patterns,1
+base,1
+today,1
+In,1
+Our,1
+the,4
+estimation,1
+or,1
+English,1

@@ -1,104 +1,100 @@
-
-help	1
-when	1
-Research	1
-paper	1
-incurring	1
-physiological	1
-situations	2
-technique	2
-,	7
-coordinates	1
-demonstrate	1
-to	4
-workforces	1
-easy	1
-them	1
-Unfortunately	1
-propose	1
-Turk	1
-Mechanical	1
-not	1
-elude	1
-hallmarks	1
-cognitive	1
-always	1
-collective	1
-Habitual	1
-individuals	1
-indices	1
-often	1
-Thinking	1
-intelligence	2
-experiments	1
-design	1
-our	1
-down-regulate	1
-stressful	2
-emotions	2
-Amazon	1
-health	1
-reappraisals	1
-we	4
-ability	1
-poise	1
-reinterpreting	1
-faculties	1
-key	2
-emotional	2
-assess	1
-on	2
-about	1
-of	7
-suggests	1
-reappraise	1
-or	2
-involves	1
-features	1
-negative	1
-psychological	1
-apply	1
-.	7
-empathetic	1
-use	1
-flexibly	1
-creativity	1
-two	1
-strategy	1
-crowdsourcing	1
-that	4
-demand	2
-with	1
-feasibility	1
-this	3
-us	1
-can	1
-many	1
-situation	1
-and	5
-is	3
-an	1
-as	1
-reappraisal	1
-need	1
-regulate	1
-technology	1
-linked	1
-physical	1
--	2
-also	1
-without	1
-assistive	1
-'s	1
-most	1
-meaning	1
-significant	1
-such	1
-thoughts	2
-a	2
-One	1
-thought	1
-costs	1
-In	2
-the	5
-requires	1
+help,1
+Research,1
+experiments,1
+incurring,1
+physiological,1
+situations,2
+technique,2
+coordinates,1
+demonstrate,1
+to,4
+workforces,1
+easy,1
+them,1
+Unfortunately,1
+propose,1
+Turk,1
+Mechanical,1
+not,1
+assess,1
+hallmarks,1
+cognitive,1
+always,1
+collective,1
+Habitual,1
+individuals,1
+indices,1
+often,1
+Thinking,1
+intelligence,2
+feasibility,1
+design,1
+elude,1
+our,1
+stressful,2
+emotions,2
+Amazon,1
+health,1
+reappraisals,1
+we,4
+ability,1
+poise,1
+paper,1
+reinterpreting,1
+faculties,1
+key,2
+emotional,2
+on,2
+about,1
+of,7
+suggests,1
+reappraise,1
+or,2
+involves,1
+features,1
+negative,1
+down,1
+apply,1
+empathetic,1
+use,1
+flexibly,1
+creativity,1
+two,1
+strategy,1
+crowdsourcing,1
+that,4
+demand,2
+with,1
+this,3
+us,1
+can,1
+many,1
+situation,1
+and,5
+is,3
+an,1
+as,1
+reappraisal,1
+need,1
+regulate,2
+technology,1
+linked,1
+physical,1
+when,1
+s,1
+also,1
+without,1
+assistive,1
+most,1
+meaning,1
+significant,1
+such,1
+thoughts,2
+a,2
+psychological,1
+One,1
+thought,1
+costs,1
+In,2
+the,5
+requires,1

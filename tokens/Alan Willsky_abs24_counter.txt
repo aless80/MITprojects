@@ -1,133 +1,121 @@
-
-particularly	1
-consider	1
-show	2
-over	1
-truncated	1
-results	1
-nonparametric	2
-mixing	1
-We	2
-rapidly	1
-knowledge	1
-(	2
-segments	1
-,	5
--creating	1
-Although	1
-hidden	1
-them	1
-resample	1
-possible	1
-not	1
---	3
-realistic	1
-J.	1
-yields	1
-architecture	2
-difficult	1
-set	1
-people	1
-approximation	1
-rate	1
-individual	1
-are	1
-et	1
-scale	1
-state	1
-Assoc	1
-provides	1
-tends	1
-approach	1
-we	4
-full	1
-jointly	1
-control	1
-address	1
-[	1
-101	1
-by	1
-on	1
-of	7
-participating	1
-resulting	1
-greatly	1
--we	1
-makes	1
-temporal	1
-among	1
-rendered	1
-Working	1
-into	1
-number	1
-sampling	1
-nonparametrically	1
-The	1
-to	7
-]	1
-1581	1
-.	11
-rates	1
-treat	1
-basic	1
-Amer	1
-meeting	2
-describe	1
-corresponding	1
-NIST	1
-that	6
-benchmark	1
-emission	1
-it	1
-hierarchical	1
-Statist	1
-with	1
-Teh	1
-builds	1
-this	2
-recording	1
-problem	4
-and	1
-process	2
-is	1
-allowed	1
-al	1
-an	2
-states	1
-To	2
-employs	1
-in	1
-distributions	1
-over-segment	1
-speakers	1
-develop	1
-)	2
-HDP-HMM	3
-also	1
-speaker	3
-take	1
-Bayesian	2
-algorithm	1
-switching	2
-1566	1
-segmenting	1
-Dirichlet	2
-our	1
-problems	1
-state-of-the-art	1
-augmentation	1
-improving	1
-Markov	1
-diarization	4
-data	2
-the	12
-a	5
-effective	1
-assume	1
-redundant	1
-2006	1
-model	1
-audio	2
-sequence	1
-fact	1
-augmented	1
+particularly,1
+consider,1
+show,2
+over,2
+truncated,1
+results,1
+nonparametric,2
+mixing,1
+We,2
+rapidly,1
+knowledge,1
+segments,1
+to,7
+Although,1
+hidden,1
+them,1
+resample,1
+possible,1
+not,1
+realistic,1
+yields,1
+architecture,2
+difficult,1
+set,1
+art,1
+people,1
+approximation,1
+rate,1
+individual,1
+are,1
+et,1
+scale,1
+HMM,3
+state,2
+Assoc,1
+provides,1
+tends,1
+approach,1
+we,5
+full,1
+creating,1
+jointly,1
+control,1
+address,1
+by,1
+on,1
+of,8
+participating,1
+resulting,1
+greatly,1
+makes,1
+temporal,1
+among,1
+rendered,1
+Working,1
+into,1
+number,1
+sampling,1
+nonparametrically,1
+The,1
+segment,1
+HDP,3
+rates,1
+treat,1
+basic,1
+Amer,1
+meeting,2
+describe,1
+corresponding,1
+that,6
+J,1
+benchmark,1
+emission,1
+it,1
+hierarchical,1
+Statist,1
+with,1
+Teh,1
+builds,1
+this,2
+recording,1
+problem,4
+and,1
+process,2
+is,1
+allowed,1
+al,1
+an,2
+states,1
+To,2
+employs,1
+in,1
+distributions,1
+speakers,1
+develop,1
+also,1
+speaker,3
+take,1
+Bayesian,2
+algorithm,1
+switching,2
+NIST,1
+segmenting,1
+Dirichlet,2
+our,1
+problems,1
+augmentation,1
+improving,1
+Markov,1
+diarization,4
+data,2
+the,13
+a,5
+effective,1
+assume,1
+redundant,1
+model,1
+audio,2
+sequence,1
+fact,1
+augmented,1

@@ -1,139 +1,134 @@
-
-proposed	2
-developed	1
-random	1
-results	1
-existing	1
-paper	1
-statistical	1
-Galerkin	1
-We	1
-based	1
-parameters	1
-(	3
-deterministic	1
-,	6
-controls	1
-presents	1
-to	4
-efficient	1
-other	1
-samples	1
-stochastic	3
-Simulation	1
-using	1
-several	1
-solver	1
-fewer	1
-method	4
-circuits	2
-each	1
-become	1
-Carlo	1
-mathematical	1
-methods	1
-simulator	2
-testing	1
-design	1
-accelerate	1
-our	2
-analog	1
-concern	1
-spectral	1
-nonlinear	1
-nonintrusive	2
-for	2
-solved	1
-avoid	1
-chaos	1
-integrated	1
-be	2
-recently	1
-problems	1
-modify	1
-expansion	1
-reported	1
-step	1
-equations	1
-properties	1
-both	1
-Monte	1
-of	3
-uncertainty	1
-allows	1
-simulation	2
-resulting	1
-circuit	3
-suitable	1
-Uncertainties	1
-major	1
-Compared	1
-point	1
-number	1
-directly	1
-polynomial	1
-size	1
-are	1
-conventional	1
-from	1
-two	1
-.	9
-RF	1
-time	3
-collocation	1
-flexible	1
-intrusive	2
-more	3
-Since	1
-on	1
-These	1
-transistor	1
-repeated	1
-with	2
-than	3
-applied	1
-this	1
-ST	5
-can	2
-many	1
-SC	3
-Our	1
-SG	2
-called	1
-decoupled	1
-at	1
-and	6
-employs	1
-coupled	1
-is	1
-in	3
-an	2
-quantification	1
-engineering	1
-manner	1
-have	1
-simulations	1
-huge	1
-generic	1
-develop	1
-perform	1
-make	1
-same	1
-time-domain	1
-generalized	1
-digital	1
-non-Gaussian	1
-models	1
-numerical	1
-variant	1
-flows	1
-uses	1
-a	3
-algorithm	2
-Gaussian	1
-analysis	1
-)	3
-At	1
-In	1
-the	8
-order	1
+proposed,2
+developed,1
+random,1
+results,1
+existing,1
+paper,1
+statistical,1
+Galerkin,1
+We,1
+based,1
+parameters,1
+deterministic,1
+controls,1
+presents,1
+to,4
+efficient,1
+samples,1
+stochastic,3
+non,1
+Simulation,1
+using,1
+solver,1
+fewer,1
+method,4
+solved,1
+each,1
+become,1
+Carlo,1
+mathematical,1
+domain,1
+methods,1
+simulator,2
+testing,1
+design,1
+accelerate,1
+our,2
+analog,1
+concern,1
+spectral,1
+nonlinear,1
+nonintrusive,2
+for,2
+avoid,1
+chaos,1
+integrated,1
+be,2
+recently,1
+problems,1
+modify,1
+expansion,1
+reported,1
+step,1
+equations,1
+properties,1
+both,1
+Monte,1
+of,3
+uncertainty,1
+allows,1
+simulation,2
+resulting,1
+circuit,3
+suitable,1
+Uncertainties,1
+major,1
+Compared,1
+point,1
+number,1
+directly,1
+polynomial,1
+size,1
+are,1
+conventional,1
+from,1
+two,1
+RF,1
+time,4
+collocation,1
+flexible,1
+intrusive,2
+more,3
+Since,1
+on,1
+These,1
+transistor,1
+repeated,1
+with,2
+than,3
+applied,1
+this,1
+ST,5
+can,2
+many,1
+SC,3
+Our,1
+SG,2
+called,1
+decoupled,1
+manner,1
+and,6
+employs,1
+coupled,1
+is,1
+in,3
+an,2
+quantification,1
+engineering,1
+at,1
+have,1
+simulations,1
+huge,1
+generic,1
+develop,1
+perform,1
+make,1
+same,1
+other,1
+generalized,1
+digital,1
+several,1
+models,1
+numerical,1
+variant,1
+flows,1
+uses,1
+a,3
+algorithm,2
+Gaussian,2
+analysis,1
+circuits,2
+At,1
+In,1
+the,8
+order,1

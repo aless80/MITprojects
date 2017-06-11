@@ -1,165 +1,162 @@
-
-developed	1
-over	1
-existing	1
-leads	1
-sources	2
-paper	1
-through	1
-where	1
-alternative	1
-networks	4
-issues	1
-synthetic	1
-We	2
-inverse	1
-(	1
-,	22
-demonstrate	2
-signals	1
-to	8
-has	1
-real	2
-mean-field	1
-compounded	1
-propose	1
-engineered	1
-framework	1
-they	2
-not	1
-world	2
-inversion	1
-effectiveness	2
-necessary	1
-progression	1
-identifying	2
-signal	2
-Within	1
-method	2
-large	1
-these	2
-underlying	1
-well-approximates	1
-setups	1
-possibilities	1
-introduce	1
-lends	1
-homogeneous	1
-conform	1
-Network	1
-achieved	1
-maximization	1
-idea	1
-owing	1
-design	1
-are	2
-dynamics	3
-established	1
-network	3
-for	6
-Moreover	1
-integrative	1
-single-source	1
-may	1
-propagated	1
-Digg	1
-numerous	1
-across	1
-be	1
-we	3
-full	1
-creating	1
-minimization	1
-This	1
-error	1
-standard	1
-its	1
-key	1
-biological	1
-news	1
-likelihood	1
-by	2
-single-snapshot	1
-both	3
-determining	1
-study	1
-prove	1
-practical	1
-propagation	1
-multi-source	1
-social	2
-or	1
-well-studied	1
-via	1
-inference	2
-characterization	1
-Finally	1
-directly	1
-apply	2
-rarely	1
-circumvent	1
-several	1
-methods	1
-NI	6
-combines	1
-source	4
-unknown	2
-been	3
-.	10
-scenarios	1
-observations	1
-enable	1
-that	5
-with	1
-multi-snapshot	1
-but	1
-optimality	1
-cases	2
-true	1
-diffusion	6
-distance	1
-this	1
-challenge	1
-frameworks	1
-itself	1
-of	10
-heterogeneous	1
-making	1
-problem	1
-called	1
-centrality-based	1
-and	8
-challenging	1
-kernel	1
-is	4
-an	1
-as	1
-assumptions	1
-have	2
-in	4
-Several	1
-any	1
-different	1
-compared	1
-)	1
-when	1
-Infusion	1
-application	1
-complex	1
-which	1
-objective	1
-performance	1
-many	1
-infer	1
-node	1
-models	3
-real-data	1
-designed	1
-significant	1
-robust	1
-The	1
-measured	1
-a	5
-In	2
-the	16
-typically	1
+developed,1
+over,1
+existing,1
+leads,1
+sources,2
+paper,1
+through,1
+alternative,1
+data,1
+networks,4
+issues,1
+synthetic,1
+We,2
+inverse,1
+based,1
+application,1
+with,1
+demonstrate,2
+signals,1
+to,8
+has,1
+real,3
+compounded,1
+propose,1
+engineered,1
+framework,1
+they,2
+not,1
+world,2
+inversion,1
+effectiveness,2
+necessary,1
+progression,1
+identifying,2
+signal,2
+Within,1
+method,2
+large,1
+these,2
+underlying,1
+setups,1
+possibilities,1
+where,1
+lends,1
+homogeneous,1
+conform,1
+Network,1
+achieved,1
+maximization,1
+idea,1
+owing,1
+design,1
+are,2
+dynamics,3
+established,1
+network,3
+for,6
+Moreover,1
+integrative,1
+its,1
+may,1
+propagated,1
+Digg,1
+numerous,1
+across,1
+be,1
+we,3
+full,1
+creating,1
+minimization,1
+This,1
+error,1
+standard,1
+key,1
+biological,1
+news,1
+likelihood,1
+by,2
+both,3
+determining,1
+study,1
+studied,1
+practical,1
+propagation,1
+social,2
+mean,1
+or,1
+designed,1
+via,1
+inference,2
+characterization,1
+Finally,1
+directly,1
+apply,2
+rarely,1
+circumvent,1
+several,1
+methods,1
+NI,6
+combines,1
+source,6
+unknown,2
+been,3
+centrality,1
+scenarios,1
+observations,1
+enable,1
+that,5
+but,1
+approximates,1
+optimality,1
+cases,2
+true,1
+diffusion,6
+distance,1
+multi,2
+this,1
+challenge,1
+single,2
+frameworks,1
+itself,1
+of,10
+heterogeneous,1
+making,1
+problem,1
+called,1
+and,8
+challenging,1
+kernel,1
+is,4
+an,1
+as,1
+assumptions,1
+have,2
+in,4
+Several,1
+any,1
+different,1
+compared,1
+when,1
+Infusion,1
+field,1
+complex,1
+which,1
+objective,1
+performance,1
+many,1
+infer,1
+node,1
+models,3
+introduce,1
+significant,1
+robust,1
+The,1
+measured,1
+a,5
+prove,1
+well,2
+snapshot,2
+In,2
+the,16
+typically,1

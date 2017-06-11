@@ -1,148 +1,141 @@
-
-selection	2
-help	1
-diameter	2
-random	1
-four	1
-experiments	1
-its	1
-We	2
-based	1
-calculate	1
-(	2
-show	1
-,	8
-opportunities	1
-better	1
-to	10
-only	3
-extends	1
-systems	1
-has	1
-tests	1
-increased	1
-advantage	1
-advances	1
-early	1
-they	1
-competing	1
-not	1
-formulating	1
-structural	1
-regarding	1
-proposals	1
-specific	1
-this	1
-common	2
-testers	1
-traces	1
-set	3
-design	1
-are	1
-measure	1
-our	1
-practical	1
-even	2
-and/or	2
-for	2
-ways	1
-However	1
-research	1
-increase	1
-provides	1
-between	1
-new	1
-be	2
-measures	1
-theory	1
-This	1
-complement	1
-test-related	1
-approaches	1
-on	3
-pairs	1
-of	8
-creates	1
-prior	1
-argue	1
-or	1
-software	4
-among	1
-intuition	1
-computational	1
-regardless	1
-into	1
-number	1
-downside	1
-quality	2
-select	1
-differ	2
-compression	1
-system	2
-.	10
-their	2
-much	1
-ensured	1
-time	1
-:	1
-type	2
-metric	1
-enable	1
-diversity	4
-that	5
-with	1
-outputs	2
-tested	1
-properly	1
-understand	1
-normalized	1
-cases	2
-Consequently	1
-than	1
-applied	2
-distance	2
-these	1
-pairwise	1
-can	3
-fault	1
-Our	1
-and	8
-gone	1
-calculation	1
-is	5
-it	1
-quantification	1
-in	1
-need	1
-any	1
-if	1
-information	2
-different	1
-compared	1
-)	2
-when	1
-how	1
-TSDm	2
-other	1
-propose	1
-test	13
-higher	1
-A	2
-inputs	4
-earlier	1
-automation	1
-metrics	1
-coverage	1
-data	2
-types	1
-recent	1
-a	4
-natural	1
-multisets	1
-It	1
-analysis	1
-An	1
-sets	2
-the	8
-NCD	1
-having	1
+selection,2
+help,1
+diameter,2
+random,1
+four,1
+experiments,1
+its,1
+We,2
+based,1
+calculate,1
+with,1
+show,1
+opportunities,1
+better,1
+to,10
+only,3
+extends,1
+systems,1
+has,1
+tests,1
+increased,1
+advantage,1
+advances,1
+early,1
+they,1
+competing,1
+not,1
+formulating,1
+structural,1
+regarding,1
+proposals,1
+specific,1
+this,1
+common,2
+testers,1
+traces,1
+set,3
+related,1
+design,1
+are,1
+measure,1
+our,1
+practical,1
+even,2
+for,2
+ways,1
+However,1
+research,1
+increase,1
+provides,1
+between,1
+new,1
+be,2
+measures,1
+theory,1
+This,1
+complement,1
+approaches,1
+on,3
+pairs,1
+of,8
+creates,1
+prior,1
+argue,1
+or,3
+software,4
+among,1
+intuition,1
+computational,1
+regardless,1
+into,1
+number,1
+downside,1
+quality,2
+select,1
+differ,2
+compression,1
+system,2
+their,2
+much,1
+ensured,1
+time,1
+type,2
+metric,1
+enable,1
+diversity,4
+that,5
+outputs,2
+tested,1
+properly,1
+understand,1
+normalized,1
+cases,2
+Consequently,1
+than,1
+applied,2
+distance,2
+these,1
+pairwise,1
+can,3
+fault,1
+Our,1
+and,10
+gone,1
+calculation,1
+is,5
+it,1
+quantification,1
+in,1
+need,1
+any,1
+if,1
+information,2
+different,1
+compared,1
+when,1
+how,1
+TSDm,2
+other,1
+propose,1
+test,14
+higher,1
+A,2
+inputs,4
+earlier,1
+automation,1
+metrics,1
+coverage,1
+data,2
+types,1
+recent,1
+a,4
+natural,1
+multisets,1
+It,1
+analysis,1
+An,1
+sets,2
+the,8
+NCD,1
+having,1

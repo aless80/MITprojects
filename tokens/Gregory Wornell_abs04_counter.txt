@@ -1,91 +1,89 @@
-
-issued	1
-insight	1
-adding	3
-We	2
-how	1
-,	8
-to	4
-systems	1
-Although	1
-factor	1
-resources	1
-then	2
-get	1
-early	1
-they	1
-affect	1
-always	1
-reduces	3
-fewer	1
-be	1
-eg	1
-individual	1
-are	1
-log-concave	1
-for	2
-per	2
-waiting	2
-increasing	1
-method	1
-variability	1
-log-convex	1
-job	3
-key	1
-earliest	1
-both	1
-log-concavity	1
-determining	1
-queue	1
-requests	1
-number	1
-servers	2
-proportional	1
-total	2
-cloud	1
-service	3
-.	8
-analyze	1
-more	1
-that	1
-copy	1
-assigning	1
-And	1
-whether	1
-maximum	1
-cost	4
-of	4
-strategies	1
-distribution	2
-and	7
-computing	4
-is	6
-canceling	1
-thus	1
-it	1
-an	1
-canceled	1
-in	3
-if	1
-latency	3
-different	1
-redundancy	3
-when	1
-also	1
-higher	1
-finish	1
-multiple	1
-combat	1
-replicas	3
-may	1
-In	1
-The	1
-response	1
-a	2
-effective	2
-spent	2
-redundant	2
-time	7
-the	11
-having	1
-If	1
+issued,1
+insight,1
+adding,3
+We,2
+how,1
+to,4
+systems,1
+Although,1
+factor,1
+resources,1
+then,2
+get,1
+early,1
+they,1
+affect,1
+always,1
+reduces,3
+concave,1
+fewer,1
+be,1
+eg,1
+individual,1
+are,1
+convex,1
+for,2
+per,2
+waiting,2
+increasing,1
+method,1
+variability,1
+job,3
+key,1
+earliest,1
+both,1
+determining,1
+queue,1
+requests,1
+number,1
+servers,2
+proportional,1
+total,2
+cloud,1
+log,3
+service,3
+analyze,1
+more,1
+that,1
+copy,1
+assigning,1
+And,1
+whether,1
+maximum,1
+cost,4
+of,4
+strategies,1
+distribution,2
+and,7
+computing,4
+is,6
+canceling,1
+thus,1
+it,1
+an,1
+canceled,1
+in,3
+if,1
+latency,3
+different,1
+redundancy,3
+when,1
+also,1
+concavity,1
+higher,1
+finish,1
+multiple,1
+combat,1
+replicas,3
+may,1
+In,1
+The,1
+response,1
+a,2
+effective,2
+spent,2
+redundant,2
+time,7
+the,11
+having,1
+If,1

@@ -1,129 +1,124 @@
-
-show	1
-paper	1
-still	1
-its	1
-We	3
-conclusions	2
-(	2
-,	13
-to	6
-Despite	1
-has	1
-local	2
-2012	1
-then	1
-lacking	1
-propose	1
-choice	5
-not	1
-easily	1
-follows	1
-this	3
-reasonable	1
-entirely	1
-mean	1
-set	1
-often	1
-begin	1
-plausible	1
-result	1
-measure	1
-substantially	1
-our	4
-for	2
-posteriors	1
-quantify	2
-since	1
-replacing	1
-Bayes	1
-closed	1
-drawn	1
-body	1
-be	4
-we	3
-importance	1
-Were	1
-likelihood	1
-by	1
-on	2
-of	11
-Abstract	1
-sensitive	1
-changes	2
-equally	1
-simple	2
-powerful	1
-one	1
-determine	1
-such	1
-Variational	1
-methods	1
-easy-to-use	1
-from	3
-would	1
-simulated	1
-approximate	2
-.	11
-perturbations	1
-interest	1
-function	1
-form	1
-that	3
-subjective	1
-posterior	5
-subjectively	1
-somewhat	1
-particular	1
-hopes	1
-with	2
-considerable	1
-must	1
-case	1
-made	1
-whether	1
-approximations	1
-robustness	5
-infinitesimal	1
-can	2
-demonstrate	3
-problem	1
-are	1
-and	6
-inadequate	1
-is	5
-influence	1
-To	1
-as	1
-in	2
-different	3
-prior	8
-generic	1
-how	2
-another	1
-which	1
-Bayesian	2
-effectiveness	1
-A	1
-Gustafson	1
-VB	2
-literature	1
-may	1
-measures	3
-effect	1
-variation	1
-non-local	2
-robust	3
-data	3
-the	13
-a	9
-expression	1
-calculated	1
-analysis	1
-One	1
-)	2
-so	1
-In	3
-model	1
-modeler	1
-easy-to-calculate	1
+show,1
+paper,1
+still,1
+its,1
+We,3
+calculate,1
+conclusions,2
+to,8
+easy,2
+Despite,1
+has,1
+local,4
+then,1
+non,2
+lacking,1
+propose,1
+choice,5
+not,1
+easily,1
+follows,1
+this,3
+reasonable,1
+entirely,1
+mean,1
+set,1
+often,1
+begin,1
+plausible,1
+result,1
+measure,1
+substantially,1
+our,4
+for,2
+posteriors,1
+quantify,2
+since,1
+replacing,1
+Bayes,1
+closed,1
+drawn,1
+body,1
+be,4
+we,3
+importance,1
+Were,1
+likelihood,1
+by,1
+on,2
+of,11
+Abstract,1
+sensitive,1
+changes,2
+equally,1
+simple,2
+powerful,1
+one,1
+determine,1
+such,1
+Variational,1
+methods,1
+use,1
+from,3
+would,1
+simulated,1
+approximate,2
+perturbations,1
+interest,1
+function,1
+form,1
+that,3
+subjective,1
+posterior,5
+subjectively,1
+somewhat,1
+particular,1
+hopes,1
+with,2
+considerable,1
+must,1
+case,1
+made,1
+whether,1
+approximations,1
+robustness,5
+infinitesimal,1
+can,2
+demonstrate,3
+problem,1
+are,1
+and,6
+inadequate,1
+is,5
+influence,1
+To,1
+as,1
+in,2
+different,3
+prior,8
+generic,1
+how,2
+another,1
+which,1
+Bayesian,2
+effectiveness,1
+A,1
+Gustafson,1
+VB,2
+literature,1
+may,1
+measures,3
+effect,1
+variation,1
+robust,3
+data,3
+the,13
+a,9
+expression,1
+calculated,1
+analysis,1
+One,1
+so,1
+In,3
+model,1
+modeler,1

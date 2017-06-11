@@ -1,28 +1,21 @@
-
-and	1
-selection	1
-Latent	1
-graphical	1
-''	1
-via	1
-Alan	1
-convex	1
-.	1
-Venkat	1
-,	1
-Parrilo	1
-A.	1
-to	1
-Chandrasekaran	1
-arXiv:1008.1290	1
-``	1
-variable	1
-[	1
-]	1
-by	1
-Rejoinder	1
-Willsky	1
-optimization	1
-Pablo	1
-model	1
-S.	1
+A,1
+Rejoinder,1
+graphical,1
+selection,1
+Latent,1
+and,1
+optimization,1
+Willsky,1
+Parrilo,1
+Alan,1
+to,1
+S,1
+via,1
+Chandrasekaran,1
+Pablo,1
+convex,1
+variable,1
+model,1
+arXiv,1
+by,1
+Venkat,1

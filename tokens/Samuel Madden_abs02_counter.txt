@@ -1,78 +1,70 @@
-
-and	4
-application	1
-Group	1
-Working	1
-our	1
-the	2
-is	1
-sizes	1
-we	1
-,	2
-''	1
-analytics	1
-at	1
-in	1
-intend	1
-forthcoming	1
-open	2
-MIT	1
-to	2
-Center	1
-We	1
-number	1
-reference	1
-for	2
-variety	1
-implementation	1
-(	1
-Polystore	1
-system	2
-.	5
-languages	1
-include	1
-complex	1
-developed	1
-researchers	1
-2017	1
-many	1
-Data	2
-``	1
-Spring	1
-multiple	1
-Intel	1
-oceanographic	1
-with	1
-Science	1
-In	1
-describe	1
-BigDAWG	5
-containerization	1
-applications	1
-metagenomics	1
-demonstrate	1
-article	1
-The	2
-an	2
-polystore	1
-problem	1
-recent	1
-a	4
-supports	1
-engines	1
-developing	1
-this	1
-of	8
-database	2
-programming	1
-ocean	1
-will	1
-)	1
-source	2
-Big	2
-release	2
-Our	1
-efforts	1
-workloads	1
-Technology	1
-v1.0	1
+and,4
+the,2
+Group,1
+Working,1
+our,1
+developed,1
+is,1
+sizes,1
+number,1
+an,2
+analytics,1
+at,1
+in,1
+intend,1
+forthcoming,1
+open,2
+MIT,1
+to,2
+Center,1
+We,1
+reference,1
+for,2
+variety,1
+implementation,1
+Big,2
+Polystore,1
+system,2
+languages,1
+application,1
+complex,1
+many,1
+supports,1
+we,1
+Spring,1
+multiple,1
+Intel,1
+oceanographic,1
+with,1
+Science,1
+v,1
+describe,1
+BigDAWG,5
+containerization,1
+applications,1
+metagenomics,1
+demonstrate,1
+article,1
+The,2
+polystore,1
+problem,1
+recent,1
+a,4
+include,1
+engines,1
+developing,1
+this,1
+Data,2
+database,2
+programming,1
+ocean,1
+will,1
+source,2
+of,8
+release,2
+Our,1
+efforts,1
+workloads,1
+Technology,1
+researchers,1
+In,1

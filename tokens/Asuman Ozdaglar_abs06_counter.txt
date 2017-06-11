@@ -1,92 +1,88 @@
-
-show	1
-global	1
-results	1
-through	2
-equip	1
-its	1
-We	7
-termed	1
-(	2
-,	7
-to	5
-systems	6
-inherited	1
-consequential	1
-local	1
-them	1
-around	1
-combination	1
-amenable	1
-introduce	1
-effects	3
-combinations	2
-lattices	1
-with	2
-cascading	2
-enhance	1
-fixed	2
-energy	1
-fragility	2
-deduce	1
-are	1
-fail	1
-may	1
-new	1
-minimal	1
-shocks	1
-be	1
-theory	3
-understanding	1
-uncover	1
-properties	1
-on	1
-of	14
-studied	1
-commonly	1
-amount	2
-inducing	1
-two	1
-endeavor	1
-resilience	1
-system	3
-.	8
-their	1
-naturally	1
-that	2
-instantiated	1
-operators	2
-failure	3
-understand	2
-general	1
-effort	1
-those	1
-evolves	1
-express	1
-limit	1
-guide	1
-interplay	1
-and	9
-an	3
-characterize	1
-as	2
-dual	1
-viewed	1
-capture	2
-develop	2
-)	2
-towards	1
-axiomatic	1
-models	1
-inherently	1
-The	1
-class	2
-a	8
-dynamical	1
-required	1
-mu-rank	1
-cascade	1
-points	2
-sets	1
-the	9
-notion	3
+show,1
+global,1
+results,1
+through,2
+equip,1
+its,1
+We,7
+termed,1
+with,2
+to,5
+systems,6
+inherited,1
+consequential,1
+local,1
+them,1
+around,1
+combination,1
+amenable,1
+introduce,1
+effects,3
+combinations,2
+lattices,1
+cascading,2
+enhance,1
+fixed,2
+energy,1
+fragility,2
+deduce,1
+are,1
+fail,1
+may,1
+new,1
+minimal,1
+shocks,1
+be,1
+theory,3
+understanding,1
+uncover,1
+properties,1
+on,1
+of,14
+studied,1
+commonly,1
+amount,2
+inducing,1
+rank,1
+two,1
+endeavor,1
+resilience,1
+system,3
+their,1
+naturally,1
+that,2
+instantiated,1
+operators,2
+failure,3
+understand,2
+general,1
+effort,1
+those,1
+evolves,1
+mu,1
+express,1
+limit,1
+guide,1
+interplay,1
+and,9
+an,3
+characterize,1
+as,2
+dual,1
+viewed,1
+capture,2
+develop,2
+towards,1
+axiomatic,1
+models,1
+inherently,1
+The,1
+class,2
+a,8
+dynamical,1
+required,1
+cascade,1
+points,2
+sets,1
+the,9
+notion,3

@@ -1,128 +1,122 @@
-
-exclusive	1
-all	3
-captures	1
-datum	1
-recently-developed	1
-previous	2
-We	3
-group	1
-(	2
-,	8
-to	5
-only	1
-edge-exchangeable	1
-analogous	1
-belonging	1
-sparse	1
-introduce	1
-not	1
-randomness	1
---	2
-unnecessary	1
--unlike	1
-realistic	1
-allocations	5
-each	2
-Clustering	1
-often	1
-our	1
-direct	1
-exchangeable	3
-further	1
-proofs	1
-single-occurrence	1
-for	4
-avoid	1
-combinatorial	1
-version	1
-provides	1
-between	1
-refer	1
-we	2
-theory	1
-groups	4
-relaxation	1
-along	1
-exhibit	1
-of	7
-study	1
-allows	2
-practical	1
-mutually	1
-connection	1
-graph	1
-Kingman	1
-first	1
-ETPF	3
-inference	1
-probability	3
-characterization	1
-into	1
--fully	1
-paintbox	2
-sequences	1
-establish	1
-clustering	4
-use	1
-EPPF	1
-placing	1
-But	1
-.	8
-structures	1
-function	2
-``	2
-corresponding	1
-that	3
-trait	5
-but	1
-general	1
-with	2
-novel	1
-characterizations	1
-these	1
-us	1
-while	1
-can	1
-Our	1
-distribution	1
-specialized	1
-and	4
-an	2
-''	2
-characterize	1
-as	1
-at	1
-have	1
-in	3
-constrained	1
-binary	1
-different	1
-constructions	1
-graphs	1
-)	2
-belong	1
-feature	3
-application	1
-multiple	2
-capture	1
-models	2
-functions	1
-allocation	2
-membership	1
-levels	1
-dust	1
-The	1
-data	2
-model	1
-a	5
-auxiliary	1
-partition	1
-provide	1
-As	1
-points	1
-allow	1
-representation	2
-the	8
-requires	1
-once	1
+exclusive,1
+all,3
+developed,1
+datum,1
+previous,2
+We,3
+group,1
+graph,1
+to,5
+only,1
+captures,1
+analogous,1
+belonging,1
+introduce,1
+not,1
+randomness,1
+fully,1
+unnecessary,1
+realistic,1
+allocations,5
+each,2
+Clustering,1
+often,1
+our,1
+direct,1
+exchangeable,4
+further,1
+proofs,1
+for,4
+avoid,1
+combinatorial,1
+version,1
+provides,1
+between,1
+refer,1
+we,2
+recently,1
+theory,1
+groups,4
+relaxation,1
+along,1
+exhibit,1
+of,7
+study,1
+allows,2
+practical,1
+mutually,1
+connection,1
+Kingman,1
+first,1
+ETPF,3
+inference,1
+probability,3
+characterization,1
+into,1
+sparse,1
+paintbox,2
+sequences,1
+establish,1
+occurrence,1
+clustering,4
+use,1
+EPPF,1
+placing,1
+But,1
+structures,1
+function,2
+corresponding,1
+that,3
+trait,5
+but,1
+general,1
+with,2
+novel,1
+unlike,1
+characterizations,1
+these,1
+single,1
+us,1
+while,1
+can,1
+Our,1
+distribution,1
+specialized,1
+and,4
+an,2
+characterize,1
+as,1
+at,1
+have,1
+in,3
+constrained,1
+binary,1
+different,1
+constructions,1
+provide,1
+belong,1
+feature,3
+application,1
+edge,1
+multiple,2
+capture,1
+models,2
+functions,1
+allocation,2
+membership,1
+levels,1
+dust,1
+The,1
+data,2
+model,1
+a,5
+auxiliary,1
+partition,1
+graphs,1
+As,1
+points,1
+allow,1
+representation,2
+the,8
+requires,1
+once,1

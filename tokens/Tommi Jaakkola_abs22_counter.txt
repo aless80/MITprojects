@@ -1,97 +1,90 @@
-
-show	2
-over	4
-results	2
-Beside	1
-paper	1
-through	1
-nets	1
-latent	1
-parameters	2
-graph	1
-,	5
-to	3
-main	1
-trees	1
-exact	1
-follows	1
-these	1
-Heckerman	1
-the	4
-set	1
-computed	1
-formulate	1
-for	2
-(	1
-closed	1
-new	1
-integrated	1
-be	3
-we	3
-belief	1
-This	1
-completely	1
-likelihood	1
-First	1
-tractable	2
-of	6
-permit	1
-family	1
-point	1
-learning	2
-polynomial	1
-from	1
-two	1
-.	5
-observations	1
-compactly	1
-structures	1
-decomposable	2
-complete	1
-form	1
-that	3
-posterior	1
-with	1
-present	1
-:	1
-1995	1
-this	1
-tree	4
-us	1
-determined	1
-can	2
-similar	1
-and	4
-is	3
-in	5
-al	1
-an	1
-examine	1
-assumptions	1
-sense	1
-spanning	1
-distributions	2
-)	1
-priors	4
-also	1
-which	2
-Bayesian	2
-parameter	1
-ensemble	1
-product	1
-Dirichlet	1
-models	1
-In	1
-factored	1
-allowing	1
-variable	1
-analytically	1
-data	1
-class	1
-structure	1
-a	6
-average	1
-parameterized	1
-Second	1
-time	1
-constrain	1
+show,2
+over,4
+results,2
+Beside,1
+paper,1
+through,1
+nets,1
+latent,1
+parameters,2
+graph,1
+to,3
+main,1
+trees,1
+exact,1
+follows,1
+these,1
+Heckerman,1
+the,4
+set,1
+computed,1
+formulate,1
+for,2
+closed,1
+new,1
+integrated,1
+be,3
+we,3
+belief,1
+This,1
+completely,1
+likelihood,1
+First,1
+tractable,2
+of,6
+permit,1
+family,1
+point,1
+learning,2
+polynomial,1
+from,1
+two,1
+observations,1
+compactly,1
+structures,1
+decomposable,2
+complete,1
+form,1
+that,3
+posterior,1
+with,1
+present,1
+this,1
+tree,4
+us,1
+determined,1
+can,2
+similar,1
+and,4
+is,3
+in,5
+al,1
+an,1
+examine,1
+assumptions,1
+sense,1
+spanning,1
+distributions,2
+priors,4
+also,1
+which,2
+Bayesian,2
+parameter,1
+ensemble,1
+product,1
+Dirichlet,1
+models,1
+In,1
+factored,1
+allowing,1
+variable,1
+analytically,1
+data,1
+class,1
+structure,1
+a,6
+average,1
+parameterized,1
+Second,1
+time,1
+constrain,1

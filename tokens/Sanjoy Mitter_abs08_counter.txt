@@ -1,128 +1,125 @@
-
-perspective	2
-code	1
-Han	1
-less	1
-being	1
-over	1
-random	1
-distortion	3
-paper	2
-fidelity	3
-Verdu	1
-title	1
-,	8
-operational	1
-to	10
-only	1
-Part	4
-role	1
-setting	2
-multi-user	2
-black-box	2
-get	1
-view-point	2
-compound	3
-not	1
-Csiszar	1
-level	3
-source	4
-end-to-end	1
-rate	1
-are	2
-infimum	1
-by	2
-for	4
-does	1
-Optimality	2
-This	2
-understanding	2
-separation	5
-Further	1
-refers	1
-permitted	1
-generalizing	1
-of	12
-discussed	1
-layered	3
-or	1
-communication	3
-within	3
-lies	1
-capable	3
-assumed	1
-there	1
-question	1
-three	1
-long	1
-.	11
-their	1
-rates	1
-criteria	1
-taken	1
-:	1
-bits	1
-universal	1
-``	2
-medium	1
-an	1
-that	3
-proving	1
-source-medium	1
-needed	1
-part	1
-optimality	1
-particular	1
-hold	1
-with	3
-than	1
-unicast	2
-word	1
-covering-packing	1
-this	3
-proof	2
-and	4
-heart	1
-proved	2
-defined	2
-certain	2
-is	12
-thus	1
-general	2
-''	2
-as	5
-at	2
-in	5
-any	2
-source-channel	1
-codes	1
-holds	1
-when	2
-also	1
-book	1
-criterion	2
-which	1
-gets	1
-III	1
-Why	1
-channel	5
-play	1
-used	1
-description	1
-communicating	3
-I	2
-why	1
-input-output	1
-II	1
-uses	1
-The	3
-randomized	1
-the	17
-a	13
-implies	1
-implications	1
-It	1
-Korner	1
-In	1
-model	3
-fact	1
+perspective,2
+code,1
+Han,1
+less,1
+being,1
+over,1
+random,1
+distortion,3
+paper,2
+fidelity,3
+Verdu,1
+title,1
+operational,1
+source,6
+only,1
+does,1
+black,2
+role,1
+setting,2
+to,11
+get,1
+compound,3
+not,1
+Csiszar,1
+level,3
+covering,1
+output,1
+view,2
+rate,1
+are,2
+infimum,1
+for,4
+Part,4
+Optimality,2
+This,2
+understanding,2
+packing,1
+separation,5
+Further,1
+refers,1
+permitted,1
+box,2
+generalizing,1
+of,12
+discussed,1
+layered,3
+or,1
+point,2
+communication,3
+within,3
+lies,1
+capable,3
+assumed,1
+there,1
+question,1
+three,1
+long,1
+by,2
+their,1
+rates,1
+criteria,1
+taken,1
+bits,1
+universal,1
+medium,2
+an,1
+that,3
+proving,1
+needed,1
+part,1
+optimality,1
+particular,1
+hold,1
+with,3
+than,1
+multi,2
+word,1
+input,1
+this,3
+proof,2
+and,4
+heart,1
+proved,2
+defined,2
+certain,2
+is,12
+thus,1
+general,2
+unicast,2
+as,5
+at,2
+in,5
+any,2
+codes,1
+end,2
+holds,1
+when,2
+also,1
+book,1
+criterion,2
+which,1
+gets,1
+III,1
+Why,1
+channel,6
+play,1
+used,1
+description,1
+communicating,3
+I,2
+why,1
+II,1
+uses,1
+user,2
+The,3
+randomized,1
+the,17
+a,13
+implies,1
+implications,1
+It,1
+Korner,1
+In,1
+model,3
+fact,1

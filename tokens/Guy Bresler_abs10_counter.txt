@@ -1,121 +1,108 @@
-
-all	4
-3-user	1
-r+1	1
-just	1
-switched	1
-captures	1
-both	1
-paper	1
-alignment	6
-(	3
-,	6
-to	1
-only	1
-investigation	1
-essence	1
-analogous	1
-main	1
-<	1
-then	1
-not	1
-condition	1
-desire	1
-achievability	1
-necessary	1
-d	2
-turns	1
-vector	1
-each	1
-where	1
-feasibility	4
-frequency	1
-result	2
-our	2
-rN	1
-out	1
-dimensions	1
-for	4
-space	1
-interference	4
-symmetric	1
-does	1
-new	1
-receivers	1
-This	1
-dictates	1
-path	1
-equations	2
-by	2
-obtained	1
-integers	1
-geometry	1
-of	10
-nonnegative	1
-length	2
-{	1
-parallel	1
-studies	1
-or	1
-transmitters	1
-characterization	1
-variables	1
-number	1
-simply	1
-BT09	1
-three-user	1
-.	7
-comparing	1
->	2
-a	2
-diversity	1
-N.	1
-that	2
-converse	1
-N	4
-antennas	2
-careful	1
-with	2
-case	1
-maximum	1
-value	1
-problem	2
-more	1
-and	7
-predict	1
-is	5
-as	1
-have	2
-in	1
-Instead	1
-feasible	2
-MIMO	1
-if	3
-paths	1
-counting	2
-no	1
-)	3
-holds	1
-criterion	2
-arguments	1
-transmit	1
-=	3
-channel	2
-users	1
-max	1
-time	1
-M	6
-\cite	1
-The	3
-r.	1
-2r+1	1
-required	1
-implications	1
-It	1
-One	1
-implied	1
-In	1
-the	13
-}	1
-fact	1
-If	1
+all,4
+just,1
+switched,1
+captures,1
+BT,1
+paper,1
+integers,1
+alignment,6
+to,1
+only,1
+investigation,1
+essence,1
+analogous,1
+main,1
+then,1
+not,1
+condition,1
+desire,1
+achievability,1
+necessary,1
+d,2
+turns,1
+vector,1
+each,1
+where,1
+feasibility,4
+frequency,1
+result,2
+our,2
+rN,1
+out,1
+dimensions,1
+for,4
+space,1
+interference,4
+symmetric,1
+does,1
+new,1
+receivers,1
+This,1
+dictates,1
+path,1
+equations,2
+by,2
+obtained,1
+both,1
+geometry,1
+of,10
+nonnegative,1
+length,2
+studies,1
+or,1
+transmitters,1
+characterization,1
+variables,1
+number,1
+simply,1
+three,1
+comparing,1
+cite,1
+more,1
+diversity,1
+that,2
+converse,1
+N,5
+antennas,2
+careful,1
+with,2
+case,1
+maximum,1
+value,1
+r,3
+problem,2
+and,7
+predict,1
+is,5
+as,1
+have,2
+in,1
+Instead,1
+feasible,2
+MIMO,1
+if,3
+paths,1
+counting,2
+no,1
+holds,1
+criterion,2
+arguments,1
+transmit,1
+channel,2
+users,1
+max,1
+time,1
+M,6
+user,2
+The,3
+parallel,1
+a,2
+required,1
+implications,1
+It,1
+One,1
+implied,1
+In,1
+the,13
+fact,1
+If,1

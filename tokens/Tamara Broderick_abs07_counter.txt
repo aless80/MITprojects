@@ -1,87 +1,81 @@
-
-show	2
-random	4
-existing	1
-Theorem	2
-exchangeability	6
-sub-quadratic	1
-We	3
-graph	2
-encompasses	1
-,	5
-to	3
-a.k.a	1
-guarantees	1
-familiar	1
-nodes	3
-partitions	1
-Aldous-Hoover	2
---	1
-unrealistic	1
-sparsity	1
-popular	1
-A	1
-sequence	1
-observed	1
-growth	1
-are	2
-relates	1
-established	1
-dense	1
-for	2
-combinatorial	1
-;	1
-contrast	1
-provide	1
-notions	1
-This	1
-edge-exchangeability	1
-from	1
-on	1
-many	1
-(	2
-quadratically	1
-and	2
-probability	1
-number	4
-one	1
-circumvent	1
-clustering	1
-i.e.	1
-.	6
-structures	1
-define	1
-that	5
-known	2
-projective	1
-with	3
-than	1
-has	1
-unlike	1
-these	1
-behavior	1
-of	12
-naturally	1
-exhibit	1
-is	3
-in	3
-traditionally	1
-graphs	6
-)	2
--	1
-how	1
-other	1
-which	1
-grows	1
-node	1
-models	2
-edges	3
-infinite	1
-a	3
-considered	1
-failing	1
-rather	1
-edge	2
-relied	1
-the	7
-notion	2
+and,2
+node,1
+probability,1
+show,2
+is,3
+random,4
+number,4
+one,1
+observed,1
+infinite,1
+growth,1
+are,2
+Theorem,2
+combinatorial,1
+relates,1
+exchangeability,7
+considered,1
+clustering,1
+established,1
+We,3
+Hoover,2
+dense,1
+i,1
+for,2
+to,3
+rather,1
+graph,2
+sequence,1
+encompasses,1
+This,1
+quadratic,1
+which,1
+sparsity,1
+nodes,3
+guarantees,1
+structures,1
+grows,1
+contrast,1
+define,1
+A,1
+from,1
+provide,1
+notions,1
+that,5
+models,2
+familiar,1
+traditionally,1
+relied,1
+partitions,1
+how,1
+edges,3
+circumvent,1
+known,2
+projective,1
+existing,1
+with,3
+than,1
+sub,1
+a,5
+on,1
+exhibit,1
+has,1
+in,3
+unlike,1
+these,1
+many,1
+k,1
+failing,1
+unrealistic,1
+Aldous,2
+other,1
+graphs,6
+edge,3
+behavior,1
+of,12
+popular,1
+quadratically,1
+the,7
+naturally,1
+notion,2
+e,1

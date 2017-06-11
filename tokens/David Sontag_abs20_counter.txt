@@ -1,106 +1,103 @@
-
-show	3
-altogether	1
-results	1
-paper	1
-using	1
-networks	2
-ground	1
-We	2
-based	1
-parameters	3
-how	2
-noisy-or	1
-(	1
-expectations	1
-to	4
-only	1
-hidden	1
-has	1
-might	1
-mixture	1
-treewidth	1
-expectation	1
-polynomial-time	1
-during	1
-settings	1
-fully	1
-large	1
-discrete	1
-truth	1
-Carlo	1
-Previous	1
-methods	1
-findings	1
-maximization	1
-observed	1
-are	1
-our	2
-approximated	1
-even	1
-network	2
-for	2
-giving	1
-avoid	1
-;	1
-be	1
-we	2
-This	1
-approaches	1
-by	1
-discrete-valued	1
-on	2
-Monte	1
-of	5
-or	1
-experimental	1
-inference	1
-family	1
-variables	2
-,	5
-learning	4
-considers	1
-use	1
-unknown	1
-.	6
-variational	1
-a	3
-that	1
-training	1
-particular	1
-known	1
-with	1
-QMR-DT	2
-these	1
-work	1
-method-of-moments	1
-learn	2
-demonstrate	1
-problem	1
-and	1
-is	1
-it	1
-an	1
-high	1
-in	3
-diseases	1
-)	1
-when	2
-application	1
-Bayesian	3
-used	1
-models	1
-upon	1
-possible	1
-data	1
-structure	1
-recent	1
-building	1
-algorithm	2
-medical	1
-required	1
-diagnosis	1
-In	2
-the	9
-typically	1
-bipartite	1
+show,3
+moments,1
+results,1
+paper,1
+using,1
+networks,2
+ground,1
+We,2
+based,1
+parameters,3
+how,2
+expectations,1
+to,4
+only,1
+hidden,1
+has,1
+might,1
+mixture,1
+treewidth,1
+expectation,1
+altogether,1
+during,1
+settings,1
+fully,1
+large,1
+discrete,2
+truth,1
+Carlo,1
+Previous,1
+methods,1
+findings,1
+maximization,1
+observed,1
+are,1
+our,2
+approximated,1
+even,1
+network,2
+for,2
+giving,1
+avoid,1
+method,1
+be,1
+we,2
+This,1
+approaches,1
+by,1
+noisy,1
+on,2
+Monte,1
+of,6
+or,2
+experimental,1
+inference,1
+family,1
+variables,2
+learning,4
+polynomial,1
+considers,1
+use,1
+unknown,1
+QMR,2
+variational,1
+a,3
+that,1
+training,1
+particular,1
+known,1
+with,1
+valued,1
+these,1
+work,1
+learn,2
+demonstrate,1
+problem,1
+and,1
+is,1
+it,1
+an,1
+high,1
+in,3
+DT,2
+diseases,1
+when,2
+application,1
+Bayesian,3
+used,1
+models,1
+time,1
+upon,1
+possible,1
+data,1
+structure,1
+recent,1
+building,1
+algorithm,2
+medical,1
+required,1
+diagnosis,1
+In,2
+the,9
+typically,1
+bipartite,1

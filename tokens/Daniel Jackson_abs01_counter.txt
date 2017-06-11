@@ -1,74 +1,70 @@
-
-and	6
-the	2
-because	1
-protocol	1
-Knowledge	1
-characterization	1
-simple	1
-allows	1
-is	3
-instantiated	1
-corresponds	1
-ordering	1
-key	1
-Alloy	1
-descriptions	1
-framework	1
-in	3
-primitives	1
-message	1
-find	1
-readily	1
-generic	1
-flaws	1
-knowledge	1
-for	1
-communications	1
-informal	1
-away	1
-,	5
-.	4
-to	2
-handles	1
-offers	1
-way	1
-between	1
-flexible	1
-;	1
-principals	2
-A	2
-cryptographic	1
-scheme	1
-succinct	1
-rules	1
-uniformly	1
-collection	1
-it	3
-constraining	1
-management	1
-modelling	1
-amongst	1
-closely	1
-new	1
-represented	1
-described	1
-standard	2
-by	1
-protocols	3
-a	5
-Because	1
-natural	1
-language	1
-formalization	1
-applications	1
-this	1
-of	4
-presented	1
-flow	1
-analysis	1
-propagation	1
-logic	1
-security	1
-abstracts	1
-two	1
+and,6
+the,2
+because,1
+protocol,1
+Knowledge,1
+characterization,1
+simple,1
+allows,1
+is,3
+instantiated,1
+corresponds,1
+ordering,1
+key,1
+Alloy,1
+descriptions,1
+framework,1
+in,3
+primitives,1
+message,1
+find,1
+readily,1
+generic,1
+flaws,1
+knowledge,1
+for,1
+communications,1
+informal,1
+away,1
+two,1
+to,2
+handles,1
+offers,1
+way,1
+between,1
+flexible,1
+principals,2
+A,2
+cryptographic,1
+scheme,1
+succinct,1
+rules,1
+uniformly,1
+collection,1
+it,3
+constraining,1
+management,1
+modelling,1
+amongst,1
+closely,1
+new,1
+represented,1
+described,1
+standard,2
+by,1
+protocols,3
+a,5
+Because,1
+natural,1
+language,1
+formalization,1
+applications,1
+this,1
+of,4
+presented,1
+flow,1
+analysis,1
+propagation,1
+logic,1
+security,1
+abstracts,1

@@ -1,107 +1,105 @@
-
-consider	1
-show	1
-obtain	1
-solutions	1
-We	4
-field	1
-guaranteed	1
-,	4
-to	5
-factor	1
-achieve	1
-means	1
-designing	1
-results	1
-While	1
-one	1
-several	1
-turns	1
-submodular	3
-constraints	2
-body	1
-methods	1
-formulate	1
-resist	1
-design	7
-are	4
-optimum	1
-port	1
-techniques	2
-for	3
-However	1
-combinatorial	3
-between	2
-sensor	1
-available	1
-be	3
-we	1
-theory	1
-This	1
-possibility	1
-configuration	1
-by	1
-on	2
-about	1
-applications	1
-geometry	2
-of	8
-prior	2
-connection	2
-NP-hard	1
-inference	1
-within	1
-scene	2
-sampling	1
-submodularity	1
-utilized	2
-solvers	1
-array	8
-from	2
-leverage	1
-topologies	1
-.	8
-interest	1
-aperture	1
-utilizing	1
-more	1
-that	2
-with	2
-insights	1
-approximation	1
-novel	1
-arrays	2
-optimization	5
-many	1
-growing	1
-demonstrate	1
-problem	3
-enables	1
-and	6
-constant	1
-respecting	1
-agnostic	1
-as	3
-in	2
-information	1
-suggests	1
-efficient	5
-priors	1
-how	1
-other	1
-which	1
-finding	1
-out	1
-literature	1
-may	2
-problems	3
-Traditional	1
-far-field	2
-such	1
-a	4
-placement	1
-well	1
-generic	1
-algorithms	1
-the	10
-sensing	2
+consider,1
+show,1
+obtain,1
+solutions,1
+We,4
+how,1
+guaranteed,1
+to,5
+factor,1
+achieve,1
+means,1
+far,2
+designing,1
+results,1
+While,1
+sampling,1
+several,1
+turns,1
+submodular,3
+constraints,2
+body,1
+methods,1
+formulate,1
+hard,1
+resist,1
+design,7
+are,4
+optimum,1
+port,1
+techniques,2
+for,3
+However,1
+combinatorial,3
+between,2
+sensor,1
+available,1
+be,3
+we,1
+theory,1
+This,1
+possibility,1
+configuration,1
+by,1
+on,2
+about,1
+geometry,2
+of,8
+prior,2
+connection,2
+inference,1
+within,1
+scene,2
+one,1
+submodularity,1
+utilized,2
+solvers,1
+array,8
+from,2
+leverage,1
+topologies,1
+interest,1
+NP,1
+utilizing,1
+more,1
+that,2
+aperture,1
+with,2
+insights,1
+approximation,1
+novel,1
+arrays,2
+optimization,5
+many,1
+growing,1
+demonstrate,1
+problem,3
+enables,1
+and,6
+constant,1
+respecting,1
+agnostic,1
+as,3
+in,2
+information,1
+suggests,1
+efficient,5
+priors,1
+field,3
+other,1
+which,1
+finding,1
+out,1
+literature,1
+may,2
+problems,3
+Traditional,1
+applications,1
+such,1
+a,4
+placement,1
+well,1
+generic,1
+algorithms,1
+the,10
+sensing,2

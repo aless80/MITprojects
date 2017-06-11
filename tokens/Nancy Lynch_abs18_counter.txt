@@ -1,76 +1,66 @@
-
-and	3
-upper	1
-set	2
-statements	1
-probability	1
-process	1
--	1
-is	2
-within	1
-some	1
-it	1
-general	1
-illustrated	1
-randomized	2
-analyzing	1
-in	6
-consists	1
-constant	1
-U'	1
-reasoning	1
-t.	1
-use	1
-describing	1
-power	1
-for	3
-)	2
-(	2
-Lehmann	1
-that	1
-distributed	1
-,	5
-.	2
-Philosophers	1
-to	1
-state	2
-critical	1
-which	1
-expected	1
-new	1
-'s	1
-method	3
->	1
-A	1
-begins	1
-bound	1
-form	1
-means	1
-reach	2
-proving	2
-Dining	1
-'	1
-framework	1
-U	3
-The	2
-with	1
-by	1
-a	4
-on	1
-about	1
-auxiliary	1
-algorithm	2
-presented	1
-whenever	1
-of	5
-region	1
-bounds	1
-will	1
-p	2
-algorithms	2
-t	1
-context	1
-time	3
-the	5
-Rabin	1
-its	2
+and,3
+upper,1
+set,2
+statements,1
+probability,1
+process,1
+is,2
+within,1
+some,1
+it,1
+general,1
+illustrated,1
+randomized,2
+analyzing,1
+in,6
+consists,1
+constant,1
+reasoning,1
+use,1
+describing,1
+power,1
+for,3
+Lehmann,1
+that,1
+distributed,1
+its,2
+Philosophers,1
+to,1
+state,2
+critical,1
+which,1
+expected,1
+new,1
+method,3
+Rabin,1
+A,1
+begins,1
+form,1
+means,1
+reach,2
+proving,2
+Dining,1
+bound,1
+framework,1
+U,4
+The,2
+with,1
+by,1
+a,4
+on,1
+about,1
+auxiliary,1
+algorithm,2
+presented,1
+whenever,1
+of,5
+region,1
+bounds,1
+will,1
+p,2
+s,1
+algorithms,2
+t,2
+context,1
+time,3
+the,5

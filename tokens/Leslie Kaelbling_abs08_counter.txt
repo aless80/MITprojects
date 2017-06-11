@@ -1,112 +1,112 @@
-
-represent	1
-all	1
-consider	2
-over	1
-indoor	1
-via	1
-We	5
-derive	1
-(	1
-,	10
-to	6
-only	1
-Although	1
-under	1
-has	1
-mixture	1
-dependent	1
-Dirichlet-process	1
-not	1
-world	5
-association	1
-MAP	1
-DDP	1
-where	2
-Previous	1
-previously-proposed	1
-static	1
-are	3
-our	1
-ourselves	1
-constraints	1
-More	1
-accomplish	1
-state	1
-approach	3
-refer	1
-perception	1
-terms	1
-extend	1
-restricting	1
-clustering-based	1
-approaches	1
-objects	4
-modeling	2
-by	2
-change	1
-noisy	1
-of	1
-changed	1
-times	1
-motion	1
-improves	1
-domains	1
-attributes	1
-argue	1
-tasks	2
-inference	1
-environments	4
-framed	1
-computational	1
-expensive	1
-needed	1
-assumed	1
-.	9
-their	1
-that	2
-acquire	1
-understand	1
-human-centric	1
-semi-static	3
-removed	1
-novel	1
-applying	1
-this	4
-work	1
-enabled	1
-demonstrate	1
-problem	1
-and	6
-generality	1
-is	3
-it	4
-general	1
-To	1
-as	3
-at	1
-in	6
-need	1
-attribute-based	1
-computationally	1
-efficient	1
-how	1
-occasionally	1
-potentially	1
-performance	1
-subject	1
-added	1
-multiple-target	1
-robots	1
-such	2
-data	1
-the	2
-a	4
-tracking	1
-algorithm	1
-)	1
-maintain	1
-time	1
-representation	1
-model	3
-typical	1
+represent,1
+all,1
+consider,2
+proposed,1
+over,1
+indoor,1
+via,1
+human,1
+We,5
+derive,1
+based,2
+Dirichlet,1
+to,6
+only,1
+Although,1
+under,1
+has,1
+mixture,1
+dependent,1
+not,1
+world,5
+association,1
+MAP,1
+semi,3
+DDP,1
+where,2
+Previous,1
+perception,1
+static,4
+are,3
+our,1
+ourselves,1
+constraints,1
+More,1
+accomplish,1
+state,1
+approach,3
+refer,1
+centric,1
+terms,1
+extend,1
+restricting,1
+approaches,1
+objects,4
+modeling,2
+by,2
+change,1
+noisy,1
+of,1
+changed,1
+times,1
+motion,1
+improves,1
+domains,1
+attributes,1
+argue,1
+tasks,2
+inference,1
+previously,1
+environments,4
+framed,1
+computational,1
+expensive,1
+clustering,1
+needed,1
+assumed,1
+their,1
+that,2
+acquire,1
+understand,1
+removed,1
+novel,1
+applying,1
+target,1
+this,4
+work,1
+enabled,1
+demonstrate,1
+problem,1
+and,6
+generality,1
+process,1
+attribute,1
+is,3
+it,4
+general,1
+To,1
+as,3
+at,1
+in,6
+need,1
+computationally,1
+efficient,1
+how,1
+occasionally,1
+potentially,1
+performance,1
+subject,1
+added,1
+multiple,1
+robots,1
+such,2
+data,1
+the,2
+a,4
+tracking,1
+algorithm,1
+maintain,1
+time,1
+representation,1
+model,3
+typical,1

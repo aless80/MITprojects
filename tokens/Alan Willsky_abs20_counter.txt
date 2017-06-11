@@ -1,101 +1,95 @@
-
-consider	1
-SLDS	2
-dynamic	1
-nonparametric	1
-switches	1
-synthetic	1
-We	3
-system	2
-(	2
-,	4
-to	4
-relevance	1
-Many	1
-joint	1
-VAR	2
-processes	1
-infer	1
-vector	1
-mode	1
-sparse	1
-automatic	1
-set	2
-truncated	1
-phenomena	1
-approximation	1
-are	1
-our	1
-index	1
-conditionally	1
-state	2
-approach	1
-demonstrated	1
-be	1
-linear	2
-dependencies	1
-by	1
-on	1
-autoregressive	2
-of	6
-prior	1
-or	1
-among	1
-utilizes	1
-number	1
-sampling	2
-flexibility	1
-sequences	2
-utility	1
-combines	1
-unknown	1
-two	1
-.	6
-bees	1
-:	1
-that	2
-hierarchical	1
-determination	1
-varying	2
-with	3
-dynamical	4
-target	1
-smooth	1
-us	1
-employ	1
-can	1
-learn	2
-Our	1
-and	4
-process	3
-an	1
-honey	1
-effectively	1
-develop	1
-dancing	1
-efficient	1
-application	1
-complex	1
-Bayesian	1
-switching	3
-stock	1
-Dirichlet	2
-maneuvering	1
-models	1
-allowing	1
-additionally	1
-such	1
-The	1
-IBOVESPA	1
-data	1
-the	5
-a	7
-tracking	1
-modes	2
-algorithm	1
-modeled	1
-persistent	1
-dimension	1
-)	2
-model	1
-order	1
+consider,1
+SLDS,2
+dynamic,1
+nonparametric,1
+switches,1
+synthetic,1
+We,3
+system,2
+to,4
+relevance,1
+Many,1
+joint,1
+VAR,2
+processes,1
+infer,1
+vector,1
+mode,1
+sparse,1
+automatic,1
+set,2
+truncated,1
+phenomena,1
+approximation,1
+are,1
+our,1
+index,1
+conditionally,1
+state,2
+approach,1
+demonstrated,1
+be,1
+linear,2
+dependencies,1
+by,1
+on,1
+autoregressive,2
+of,6
+prior,1
+or,1
+among,1
+utilizes,1
+number,1
+sampling,2
+flexibility,1
+sequences,2
+utility,1
+combines,1
+unknown,1
+two,1
+bees,1
+that,2
+hierarchical,1
+determination,1
+varying,2
+with,3
+dynamical,4
+target,1
+smooth,1
+us,1
+employ,1
+can,1
+learn,2
+Our,1
+and,4
+process,3
+an,1
+honey,1
+effectively,1
+develop,1
+dancing,1
+efficient,1
+application,1
+complex,1
+Bayesian,1
+switching,3
+stock,1
+Dirichlet,2
+maneuvering,1
+models,1
+allowing,1
+additionally,1
+such,1
+The,1
+IBOVESPA,1
+data,1
+the,5
+a,7
+tracking,1
+modes,2
+algorithm,1
+modeled,1
+persistent,1
+dimension,1
+model,1
+order,1

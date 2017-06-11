@@ -1,80 +1,77 @@
-
-and	1
-fractions	2
-later	1
-effectiveness	1
-determine	1
-presence	1
-developed	1
-is	2
-simulations	1
-some	1
-potential	1
-dose	3
-growth	2
-fractionation	1
-are	2
-primarily	1
-in	5
-duration	1
-improvement	1
-find	1
-repopulation	3
-shorter	1
-We	4
-end	1
-proliferation	1
-for	3
-prove	1
-addition	1
-Numerical	1
-radiation	3
-,	2
-.	7
-cell	1
-to	4
-compensate	1
-role	1
-treatment	6
-which	1
-between	1
-optimal	3
-analyze	1
-over	1
-A	1
-model	1
-play	1
-towards	1
-motivated	1
-increased	1
-that	2
-sites	1
-dynamic	1
-time	1
-overall	1
-effect	1
-delivery	1
-failure	1
-therapy	1
-based	1
-an	1
-by	1
-a	2
-on	2
-indicate	1
-scheme	1
-faster	1
-framework	1
-of	4
-increasing	1
-larger	1
-programming	1
-days	1
-tumor	6
-suggests	2
-accelerated	2
-due	1
-In	1
-believed	1
-kill	1
-the	6
+and,1
+fractions,2
+later,1
+effectiveness,1
+determine,1
+presence,1
+developed,1
+is,2
+simulations,1
+some,1
+potential,1
+dose,3
+growth,2
+fractionation,1
+are,2
+primarily,1
+in,5
+duration,1
+find,1
+repopulation,3
+shorter,1
+We,4
+end,1
+proliferation,1
+for,3
+prove,1
+addition,1
+Numerical,1
+radiation,3
+sites,1
+improvement,1
+cell,1
+to,4
+compensate,1
+role,1
+treatment,6
+which,1
+between,1
+optimal,3
+analyze,1
+over,1
+A,1
+model,1
+play,1
+towards,1
+motivated,1
+increased,1
+that,2
+dynamic,1
+time,1
+overall,1
+effect,1
+delivery,1
+failure,1
+therapy,1
+based,1
+an,1
+by,1
+a,2
+on,2
+indicate,1
+scheme,1
+faster,1
+framework,1
+of,4
+increasing,1
+larger,1
+programming,1
+days,1
+tumor,6
+suggests,2
+accelerated,2
+due,1
+In,1
+believed,1
+kill,1
+the,6

@@ -1,140 +1,124 @@
-
-random	3
-hypergraph	1
-paper	1
-Dixon	1
-threshold	5
-perfect	1
-whose	1
-martingales	1
-$	12
-\infty	1
-how	1
-chosen	1
-(	2
-,	19
-exhibits	1
-should	1
-to	3
-Pemantle	2
-location	1
-factor	1
-main	1
-conjecture	1
-posed	1
-bound	1
-\	1
-Consider	1
-prime	1
-regarding	1
-large	1
-these	1
-each	1
-x	1
-upper	1
-set	1
-sequence	2
-4/\pi	1
-Granville	2
-our	1
-event	1
-More	1
-conjectures	1
-both	1
-for	2
-factors	1
-factorisation	1
-+	1
-conjectured	1
-new	1
-;	1
-squares	1
-method	2
-?	1
-be	1
-we	2
-recently	1
-theory	1
-use	1
-completely	1
-Our	2
-Motivated	1
-sieve	2
-by	2
-integers	1
-of	12
-o	1
-{	1
-control	1
-probability	2
-Tetali	2
-2-core	1
-Pomerance	2
-asymptotically	1
-number	2
-square	1
-size	1
-combines	1
-from	2
-prove	1
-combinatorics	1
-contains	1
-\dots	1
-.	6
-quadratic	1
-x\	1
-:	1
-gives	1
-that	3
-theorem	1
-\to	1
-analytic	1
-encodes	1
-N	3
-particular	1
-with	1
-logarithm	1
-also	1
-made	1
-1994	1
-this	3
-up	1
-Croot	2
-subsequence	1
-determined	2
-determining	1
-following	1
-making	1
-problem	1
-proof	2
-and	8
-is	1
-it	1
-high	1
-as	2
-numbers	1
-in	6
-sharp	3
-different	1
-)	2
-1	2
-field	1
-algorithms	1
-techniques	1
-product	1
-elements	1
-'s	1
-uniformly	1
-applications	1
-such	1
-self-correcting	1
-a	7
-so-called	1
-independently	1
-algorithm	1
-so	1
-In	1
-the	18
-}	1
-order	1
-fact	1
+random,3
+hypergraph,1
+paper,1
+Dixon,1
+threshold,5
+integers,1
+perfect,1
+whose,1
+martingales,1
+analytic,1
+how,1
+chosen,1
+exhibits,1
+should,1
+to,4
+Pemantle,2
+location,1
+factor,1
+main,1
+infty,1
+conjecture,1
+posed,1
+bound,1
+correcting,1
+prime,1
+regarding,1
+large,1
+these,1
+each,1
+x,2
+upper,1
+set,1
+sequence,2
+Granville,2
+our,1
+event,1
+More,1
+conjectures,1
+for,2
+factors,1
+factorisation,1
+conjectured,1
+new,1
+squares,1
+method,2
+be,1
+we,2
+recently,1
+theory,1
+use,1
+completely,1
+Our,2
+Motivated,1
+sieve,2
+by,2
+both,1
+of,12
+o,1
+s,1
+control,1
+probability,2
+Tetali,2
+Pomerance,2
+asymptotically,1
+number,2
+square,1
+size,1
+combines,1
+from,2
+prove,1
+combinatorics,1
+contains,1
+quadratic,1
+pi,1
+gives,1
+dots,1
+that,3
+theorem,1
+encodes,1
+N,3
+particular,1
+with,1
+logarithm,1
+also,1
+made,1
+Consider,1
+this,3
+up,1
+Croot,2
+subsequence,1
+determined,2
+determining,1
+following,1
+making,1
+problem,1
+called,1
+proof,2
+and,8
+is,1
+it,1
+high,1
+as,2
+numbers,1
+in,6
+sharp,3
+different,1
+self,1
+field,1
+algorithms,1
+techniques,1
+product,1
+elements,1
+uniformly,1
+applications,1
+such,1
+core,1
+a,7
+independently,1
+algorithm,1
+so,2
+In,1
+the,18
+order,1
+fact,1

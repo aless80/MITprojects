@@ -1,65 +1,63 @@
-
-and	3
-the	3
-unitary	1
-useful	1
-simple	1
-Bloch-Siegert	1
-accurate	2
-rotated	1
-results	1
-an	1
-leads	1
-two-level	1
-in	3
-constant	1
-to	2
-regime	1
-We	1
-Recently	1
-system	1
-multiphoton	1
-shifts	1
-dressed	1
-away	1
-there	1
-transform	1
-been	1
-.	4
-field	1
-treatment	1
-interest	1
-new	1
-dimensionless	1
-has	1
-theoretical	1
-difficult	1
-A	2
-,	2
-over	1
-which	2
-energy	2
-get	1
-becomes	1
-is	1
-photon	1
-anticrossings	1
-from	1
-estimate	1
-intense	1
-present	1
-coupling	1
-a	3
-wide	1
-variational	1
-for	1
-level	1
-this	1
-of	1
-allows	1
-us	1
-range	1
-model	1
-expression	1
-experimental	1
-perturbative	1
+and,3
+the,3
+unitary,1
+useful,1
+simple,1
+accurate,2
+rotated,1
+results,1
+an,1
+leads,1
+in,3
+constant,1
+to,2
+regime,1
+We,1
+Recently,1
+system,1
+multiphoton,1
+shifts,1
+dressed,1
+away,1
+there,1
+Siegert,1
+transform,1
+been,1
+Bloch,1
+field,1
+treatment,1
+interest,1
+new,1
+dimensionless,1
+has,1
+theoretical,1
+difficult,1
+A,2
+anticrossings,1
+over,1
+which,2
+energy,2
+get,1
+becomes,1
+is,1
+photon,1
+two,1
+from,1
+estimate,1
+intense,1
+present,1
+coupling,1
+a,3
+wide,1
+variational,1
+for,1
+level,2
+this,1
+of,1
+allows,1
+us,1
+range,1
+model,1
+expression,1
+experimental,1
+perturbative,1

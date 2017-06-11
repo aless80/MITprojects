@@ -1,70 +1,64 @@
-
-v3.00	2
-and	4
-programming	1
-formulate	1
-Highlights	1
-is	1
-in	2
-symbolic	1
-MuPAD	1
-as	3
-examples	1
-arise	1
-polynomial	2
-demonstration	1
-to	1
-nonlinear	1
-matrix	1
-for	1
-combinatorial	1
-)	1
-(	1
-sum	1
-solving	1
-,	5
-.	4
-also	1
-SOS	1
-other	1
-MATLAB	2
-SOSTOOLS	2
-Such	1
-squares	1
-ten	1
-naturally	1
-available	1
-inequalities	1
-such	1
-ability	1
-with	2
-v2.01	1
-problems	2
-systems	1
-but	1
-includes	1
-solvers	1
-control	1
-multipoly	1
-new	2
-interface	1
-formulating	1
-toolbox	2
-matrices	1
-compatibility	1
-areas	1
-semidefinite	1
-include	1
-dynamical	1
-of	4
-well	1
-analysis	1
-engine	1
-optimization	2
-can	1
-freely	1
-release	2
-five	1
-the	7
-create	1
-latest	1
+and,4
+control,1
+programming,1
+formulate,1
+Highlights,1
+is,1
+in,2
+symbolic,1
+MuPAD,1
+as,3
+examples,1
+arise,1
+polynomial,2
+demonstration,1
+to,1
+nonlinear,1
+matrix,1
+for,1
+combinatorial,1
+with,2
+sum,1
+solving,1
+also,1
+SOS,1
+other,1
+MATLAB,2
+SOSTOOLS,2
+Such,1
+squares,1
+ten,1
+naturally,1
+available,1
+inequalities,1
+such,1
+ability,1
+problems,2
+systems,1
+but,1
+includes,1
+solvers,1
+multipoly,1
+new,2
+interface,1
+formulating,1
+toolbox,2
+matrices,1
+compatibility,1
+freely,1
+semidefinite,1
+include,1
+dynamical,1
+of,4
+areas,1
+well,1
+analysis,1
+engine,1
+optimization,2
+can,1
+v,3
+release,2
+five,1
+the,7
+create,1
+latest,1

@@ -1,96 +1,94 @@
-
-proposed	1
-being	1
-dynamic	1
-paper	1
-find	1
-based	1
-(	2
-,	5
-to	4
-program	1
-input	1
-possible	1
-performance	2
-worst-case	1
-exploiting	1
-deals	1
-underlying	1
-Moreover	1
-set	1
-classical	1
-intensity	1
-design	2
-measure	1
-Converters	1
-special	1
-shown	1
-for	1
-decision	1
-its	1
-designing	1
-be	1
-spacing	1
-step	1
-DSM	1
-discrete-time	1
-optimize	1
-on	1
-of	4
-taking	1
-quantization	2
-hence	1
-makes	1
-certifying	1
-causal	1
-law	1
-system	2
-.	6
-their	1
-function	1
-Modulator	1
-that	1
-outputs	1
-exactly	1
-optimality	1
-ADC	2
-with	4
-quantized	1
-value	1
-values	1
-can	1
-error	1
-making	1
-and	4
-defined	1
-is	5
-Digital	1
-it	1
-general	1
-as	3
-have	1
-in	3
-viewed	1
-)	2
-matching	1
-which	1
-objective	1
-optimal	6
-finite	1
-A	1
-designed	1
-The	3
-analytically	1
-structure	2
-a	4
-filtered	1
-task	2
-dynamical	1
-algorithm	2
-average	1
-modeled	1
-An	1
-Delta-Sigma	1
-ADCs	2
-the	10
-Analog	1
+proposed,1
+being,1
+dynamic,1
+paper,1
+find,1
+based,1
+to,4
+program,1
+input,1
+possible,1
+worst,1
+performance,2
+exploiting,1
+deals,1
+discrete,1
+underlying,1
+Moreover,1
+set,1
+classical,1
+intensity,1
+design,2
+measure,1
+Converters,1
+special,1
+shown,1
+for,1
+decision,1
+its,1
+designing,1
+be,1
+spacing,1
+step,1
+DSM,1
+Sigma,1
+optimize,1
+on,1
+of,4
+taking,1
+quantization,2
+hence,1
+makes,1
+certifying,1
+causal,1
+law,1
+system,2
+their,1
+Delta,1
+function,1
+Modulator,1
+that,1
+outputs,1
+exactly,1
+optimality,1
+ADC,2
+with,4
+case,1
+quantized,1
+value,1
+values,1
+can,1
+error,1
+making,1
+and,4
+defined,1
+is,5
+Digital,1
+it,1
+general,1
+as,3
+have,1
+in,3
+viewed,1
+matching,1
+which,1
+objective,1
+optimal,6
+finite,1
+A,1
+designed,1
+The,3
+analytically,1
+structure,2
+a,4
+filtered,1
+task,2
+dynamical,1
+algorithm,2
+average,1
+modeled,1
+An,1
+ADCs,2
+time,1
+the,10
+Analog,1

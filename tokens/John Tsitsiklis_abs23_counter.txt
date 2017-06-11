@@ -1,81 +1,76 @@
-
-and	4
-opinions	1
-all	2
-own	1
-partial	1
-less	1
-understand	1
-averaging	1
-into	1
-particular	1
-obtaining	1
-number	2
-agent	2
-an	1
-stability	1
-convergence	2
-inter-cluster	2
-assumptions	1
-agents	4
-at	1
-in	1
-dynamics	1
-.	4
-the	6
-its	2
-better	1
-We	3
-from	1
-system	1
-To	1
-provide	1
-give	1
-when	1
-,	5
-same	2
-Krause	1
-1	1
-also	1
-holding	1
-stable	1
-new	1
-has	1
-is	1
-equilibrium	2
-real	1
-then	1
-we	1
-than	1
-that	1
-some	1
-under	1
-variant	1
-differ	1
-introduce	2
-results	1
-involving	1
-distances	2
-updates	1
-clusters	1
-represented	1
-mild	1
-with	1
-by	4
-a	7
-on	2
-lower	2
-:	1
-continuum	1
-cluster	1
-of	7
-study	2
-bounds	2
-large	1
-behavior	1
-each	1
-opinion	4
-model	1
-introduced	1
-notion	1
-proof	1
+and,4
+opinions,1
+all,2
+own,1
+partial,1
+less,1
+understand,1
+averaging,1
+into,1
+particular,1
+obtaining,1
+number,2
+agent,2
+an,1
+stability,1
+convergence,2
+mild,1
+assumptions,1
+agents,4
+at,1
+in,1
+dynamics,1
+the,6
+its,2
+We,3
+from,1
+To,1
+provide,1
+give,1
+when,1
+system,1
+same,2
+Krause,1
+better,1
+also,1
+holding,1
+stable,1
+new,1
+has,1
+is,1
+equilibrium,2
+real,1
+then,1
+we,1
+than,1
+that,1
+some,1
+under,1
+variant,1
+differ,1
+introduce,2
+results,1
+involving,1
+distances,2
+updates,1
+clusters,1
+represented,1
+with,1
+by,4
+a,7
+on,2
+lower,2
+inter,2
+continuum,1
+cluster,3
+of,7
+study,2
+bounds,2
+large,1
+behavior,1
+each,1
+opinion,4
+model,1
+introduced,1
+notion,1
+proof,1

@@ -1,115 +1,111 @@
-
-superfluidity	1
-phenomenon	1
-Bose-Einstein	1
-thermal	1
-scattering	2
-exciton-polaritons	2
-,	9
-Here	1
-ultralight	1
-to	5
-only	3
-stable	1
-has	2
-de	1
-fluid	1
-not	2
-now	1
-polariton	1
-imposed	2
-particle	1
---	2
-collective	1
-velocities	1
-table-top	1
-small	2
--is	1
-upper	1
-For	1
-be	1
-energy	1
-related	1
-observed	1
-result	1
-quantum	2
-wavelength	1
-normal	1
-prohibitively	1
-critical	1
-demonstrated	1
-can	1
-supporting	1
-we	1
-This	2
-atoms	1
-behaviour	1
-demonstrate	1
-by	3
-Superfluidity	1
-organic	1
-of	7
-transition	1
-excitons	1
-manifestations	1
-microcavity	1
-devices	1
-studies	1
-Even	1
-striking	1
-one	1
-condensates	1
-Wannier-Mott	1
-from	2
-temperature	2
-paves	1
-Frenkel	1
-quasiparticles	1
-been	2
-.	7
-low	1
-way	1
-until	1
-that	1
-but	2
-case	2
-room	1
-places	1
-this	2
-value	1
-inversely	1
-superfluid	1
-below	1
-protected	1
-limit	3
-temperatures	2
-akin	1
-is	3
-binding	1
-metals	1
-an	1
-as	1
-at	4
-in	4
-helium	1
-robustly	1
-Broglie	1
-exciton	1
-room-temperature	1
-also	1
--the	1
-which	2
-instead	1
-superconductivity	1
-most	1
-hydrodynamics	1
-suppression	1
-such	1
-a	3
-liquid	1
-flow	1
-mass	2
-In	1
-the	10
-cryogenic	1
-typical	1
+superfluidity,1
+phenomenon,1
+thermal,1
+scattering,2
+Here,1
+ultralight,1
+to,5
+quasiparticles,1
+stable,1
+Bose,1
+has,2
+de,1
+fluid,1
+not,2
+now,1
+polariton,1
+imposed,2
+particle,1
+collective,1
+velocities,1
+small,2
+upper,1
+For,1
+be,1
+energy,1
+related,1
+observed,1
+result,1
+quantum,2
+wavelength,1
+normal,1
+critical,1
+demonstrated,1
+can,1
+supporting,1
+we,1
+This,2
+Einstein,1
+atoms,1
+behaviour,1
+akin,1
+by,3
+Superfluidity,1
+organic,1
+of,7
+transition,1
+excitons,1
+manifestations,1
+microcavity,1
+devices,1
+studies,1
+top,1
+hydrodynamics,1
+Even,1
+striking,1
+one,1
+condensates,1
+table,1
+prohibitively,1
+from,2
+temperature,3
+paves,1
+Frenkel,1
+only,3
+been,2
+low,1
+way,1
+until,1
+that,1
+but,2
+case,2
+room,2
+places,1
+this,2
+value,1
+inversely,1
+superfluid,1
+below,1
+protected,1
+limit,3
+temperatures,2
+Wannier,1
+demonstrate,1
+polaritons,2
+is,4
+binding,1
+metals,1
+an,1
+as,1
+at,4
+in,4
+helium,1
+robustly,1
+Broglie,1
+exciton,3
+also,1
+which,2
+instead,1
+superconductivity,1
+most,1
+mass,2
+suppression,1
+such,1
+a,3
+liquid,1
+flow,1
+Mott,1
+In,1
+the,11
+cryogenic,1
+typical,1

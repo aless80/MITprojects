@@ -1,103 +1,97 @@
-
-code	2
-closed-loop	1
-feedback	1
-proposed	1
-random	2
-paper	1
-questions	2
-whose	1
-based	2
-(	2
-,	4
-decreases	1
-better	2
-to	2
-policy	1
-non-adaptive	1
-matches	1
-When	1
-wishes	1
-querying	3
-benefit	1
-mapped	1
-output	1
-where	1
-employing	1
-successively	1
-significantly	2
-rate	3
-are	3
-et	1
-exponent	1
-for	1
-symmetric	1
-new	1
-adaptive	1
-receiving	1
-be	1
-we	1
-responses	2
-equivalent	1
-queries	4
-protection	3
-20	2
-estimate	1
-by	2
-noisy	3
-on	2
-of	11
-equal	1
-non-adaptively	1
-estimation	1
-block	2
-coding	3
-number	1
-decrease	1
-achievable	1
-.	7
-strategy	2
-scheme	1
-UEP	3
-that	3
-continuous	1
-2015	1
-convergence	1
-repetition	1
-with	3
-than	2
-exponential	2
-this	2
-single	1
-value	1
-can	1
-error	5
-problem	4
-and	2
-is	3
-al	1
-an	4
-player	1
-as	2
-posing	1
-refine	1
-in	1
-sequentially	1
-binary	2
-)	2
-Variani	1
-propose	1
-With	1
-channel	2
-A	1
-superposition	2
-designed	2
-variable	1
-Furthermore	1
-a	6
-introduced	2
-unequal	2
-modeled	1
-open-loop	1
-In	2
-the	13
+code,2
+feedback,1
+proposed,1
+random,2
+paper,1
+questions,2
+whose,1
+based,2
+decreases,1
+better,2
+to,2
+policy,1
+non,2
+matches,1
+When,1
+wishes,1
+querying,3
+benefit,1
+mapped,1
+output,1
+where,1
+employing,1
+successively,1
+significantly,2
+rate,3
+are,3
+et,1
+exponent,1
+for,1
+symmetric,1
+closed,1
+new,1
+adaptive,2
+receiving,1
+be,1
+we,1
+responses,2
+equivalent,1
+queries,4
+protection,3
+estimate,1
+by,2
+noisy,3
+on,2
+of,11
+equal,1
+estimation,1
+block,2
+coding,3
+number,1
+decrease,1
+achievable,1
+open,1
+adaptively,1
+strategy,2
+scheme,1
+UEP,3
+that,3
+continuous,1
+convergence,1
+repetition,1
+with,3
+than,2
+exponential,2
+this,2
+single,1
+value,1
+can,1
+error,5
+problem,4
+loop,2
+and,2
+is,3
+al,1
+an,4
+player,1
+as,2
+posing,1
+refine,1
+in,1
+sequentially,1
+binary,2
+Variani,1
+propose,1
+With,1
+channel,2
+A,1
+superposition,2
+designed,2
+variable,1
+Furthermore,1
+a,6
+introduced,2
+unequal,2
+modeled,1
+In,2
+the,13

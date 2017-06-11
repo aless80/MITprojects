@@ -1,107 +1,104 @@
-
-concept	1
-statistical	2
-We	3
-based	1
-(	1
-,	5
-to	4
-allele	1
-guarantees	3
-Building	1
-do	1
-frequencies	1
-private	1
-not	1
-association	1
-regarding	1
-differential	1
-logistic	1
-arbitrary	1
-release	1
-differentially	1
-GWAS	3
-methods	3
-deal	1
-canine	1
-hair	1
-rigorous	1
-scale	1
-for	3
-provides	1
-new	1
-approach	2
-method	1
-we	1
-terms	2
-notions	1
-approaches	1
-protection	2
-although	1
-come	1
-by	1
-linkage	1
-on	4
-of	7
-study	1
-length	1
-introduced	1
-studies	1
-compromising	1
-confidentiality	1
-presence	1
-community	1
-penalized	1
-privacy-preserving	1
-p-values	1
-utility	1
-statistics	1
-from	1
-privacy	4
-meaningful	1
-.	6
-dogs	1
-minor	1
-more	1
-a	5
-definition	1
-releasing	1
-external	2
-with	2
-present	1
-these	1
-and	2
-associations	1
-compare	1
-is	1
-an	2
-chi-square	1
-at	1
-in	3
-regression	1
-information	2
-)	1
-also	1
-which	1
-propose	2
-finding	1
-genome-wide	2
-price	1
-simulated	1
-Traditional	1
-involving	1
-aggregate	1
-such	1
-The	1
-data	3
-differentially-private	1
-recent	1
-cryptographic	1
-especially	1
-well	1
-without	1
-databases	2
-685	1
-serious	1
-the	3
-individual's	1
+concept,1
+statistical,2
+We,3
+based,1
+to,4
+allele,1
+guarantees,3
+Building,1
+do,1
+frequencies,1
+private,2
+not,1
+association,1
+regarding,1
+differential,1
+p,1
+logistic,1
+arbitrary,1
+release,1
+differentially,2
+GWAS,3
+square,1
+methods,3
+deal,1
+canine,1
+hair,1
+individual,1
+rigorous,1
+scale,1
+for,3
+provides,1
+new,1
+approach,2
+method,1
+we,1
+terms,2
+notions,1
+approaches,1
+protection,2
+although,1
+meaningful,1
+by,1
+linkage,1
+definition,1
+of,7
+study,1
+s,1
+introduced,1
+studies,1
+compromising,1
+confidentiality,1
+presence,1
+community,1
+penalized,1
+utility,1
+statistics,1
+from,1
+privacy,5
+chi,1
+come,1
+dogs,1
+minor,1
+more,1
+a,5
+on,4
+releasing,1
+external,2
+with,2
+present,1
+wide,2
+these,1
+values,1
+and,2
+associations,1
+compare,1
+is,1
+preserving,1
+an,2
+at,1
+in,3
+regression,1
+information,2
+length,1
+also,1
+genome,2
+which,1
+propose,2
+finding,1
+price,1
+simulated,1
+Traditional,1
+involving,1
+aggregate,1
+such,1
+The,1
+data,3
+recent,1
+cryptographic,1
+especially,1
+well,1
+without,1
+databases,2
+serious,1
+the,3

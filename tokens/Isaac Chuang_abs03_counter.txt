@@ -1,131 +1,124 @@
-
-show	2
-when	2
-both	1
-terminate	1
-speedup	3
-longer	1
-We	3
-amplification	1
-Recently	1
-$	4
-Meanwhile	1
-,	13
-discuss	1
-to	2
-only	1
-gave	1
-Yoder	1
-finding	1
-While	1
-know	1
-gate	2
-neither	1
-nor	1
-prime	1
-loss	1
-necessary	1
---	1
-Guided	1
-adiabatic	5
-upper	1
-classical	1
-some	1
-approximation	1
-depends	1
-computer	1
-are	1
-quantum	3
-our	1
-even	1
-preparation	1
-what	1
-total	1
-state	1
-gate-model	2
-geometric	1
-?	1
-be	2
-we	2
-run	1
-schedule	1
-error	1
-succeed	1
-operating	1
-ask	1
-by	2
-on	3
-search	6
-rigorously	1
-of	10
-quadratically	1
-among	1
-intuition	1
-bound	1
-one	1
-Finally	1
-Low	1
-oblivious	1
-precisely	1
-there	1
-.	8
-quadratic	3
-fraction	1
-Hamiltonian	1
-N	1
-Fixed-point	1
-varying	1
-known	2
-with	3
-than	2
-must	1
-target	2
-versions	1
-reproduce	2
-Chuang	1
-can	4
-amplitude	1
-items	3
-continuously	1
-property	4
-attain	1
-and	3
-Bloch	1
-is	3
-it	2
-an	4
-sphere	1
-as	2
-at	1
-in	3
-lacks	1
-relatively	1
-that	3
--	1
-algorithms	2
-also	2
-which	1
-answer	1
-optimal	1
-interpolation	1
-used	1
-'s	1
-simulated	1
-M	1
-non-fixed-point	1
-Grover	3
-uses	1
-such	1
-model	2
-a	3
-natural	1
-faster	1
-algorithm	7
-famous	1
-explicit	1
-fixed-point	7
-so	1
-time	1
-claims	1
-the	19
-justify	1
+show,2
+both,1
+terminate,1
+speedup,3
+longer,1
+We,3
+amplification,1
+Recently,1
+Meanwhile,1
+discuss,1
+to,2
+only,1
+gave,1
+Yoder,1
+non,1
+finding,1
+While,1
+know,1
+optimal,1
+Fixed,1
+neither,1
+nor,1
+prime,1
+loss,1
+necessary,1
+Guided,1
+adiabatic,5
+fixed,8
+upper,1
+classical,1
+some,1
+approximation,1
+depends,1
+computer,1
+are,1
+quantum,3
+our,1
+even,1
+preparation,1
+what,1
+total,1
+state,1
+geometric,1
+be,2
+we,2
+run,1
+schedule,1
+error,1
+succeed,1
+operating,1
+ask,1
+by,2
+on,3
+search,6
+rigorously,1
+of,10
+s,1
+quadratically,1
+among,1
+intuition,1
+point,9
+bound,1
+one,1
+Finally,1
+Low,1
+oblivious,1
+precisely,1
+there,1
+Bloch,1
+quadratic,3
+fraction,1
+that,3
+N,1
+varying,1
+known,2
+with,3
+than,2
+must,1
+target,2
+versions,1
+reproduce,2
+Chuang,1
+can,4
+amplitude,1
+items,3
+continuously,1
+property,4
+attain,1
+and,3
+is,3
+it,2
+an,4
+sphere,1
+as,2
+at,1
+in,3
+lacks,1
+relatively,1
+Hamiltonian,1
+when,2
+algorithms,2
+also,2
+which,1
+answer,1
+gate,4
+interpolation,1
+used,1
+simulated,1
+M,1
+Grover,3
+uses,1
+such,1
+the,19
+a,3
+natural,1
+faster,1
+algorithm,7
+famous,1
+explicit,1
+so,1
+time,1
+claims,1
+model,4
+justify,1

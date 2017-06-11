@@ -1,175 +1,167 @@
-
-all	1
-show	4
-text	1
-dynamic	1
-results	1
-interpreted	1
-paper	1
-including	1
-solutions	1
-expressions	6
-its	1
-sub-quadratic	3
-We	1
-based	1
-$	12
-(	9
-,	18
-to	4
-complex	1
-Hypothesis	1
-factor	1
-Strong	1
-combination	1
-Nevertheless	1
-bound	1
-break	2
-not	3
-formal	1
-this	1
-either	1
-where	1
-OR	2
-characterized	1
-subset	1
-significantly	1
-For	2
-dichotomy	1
-testing	2
-constitute	1
-computer	1
-are	2
-matching	5
-special	2
-for	5
-solved	4
-pattern	1
-various	1
-above	1
-assuming	2
-0.44\ldots	1
-formula	1
-three	1
-be	6
-we	3
-theory	1
-dictionary	1
-This	2
-O	3
-[	1
-by	1
-improve	1
-on	1
-search	1
-improved	1
-language	1
-nm^	1
-of	13
-programming	1
-membership	2
-etc	1
-length	2
-involving	2
-resulting	1
-{	4
-automaton	1
-expression	2
-concatenations	2
-involves	1
-strongly	3
-corresponds	1
-except	1
-or	1
-SETH	2
-two	1
-.	12
-much	1
-stars	1
-:	1
-define	1
-a	7
-``	2
-corresponding	1
-form	1
-that	3
-operators	1
-constructs	1
-but	1
-Time	1
-known	2
-Kleene	2
-cases	1
-hold	1
-with	1
-case	1
-intriguing	1
-word	2
-these	1
-science	1
-mn	1
-a|ab|bc	1
-n	1
-polylogarithmic	1
-can	6
-following	1
-Our	1
-problem	2
-more	1
-and	6
-e.g.	1
-classic	1
-is	5
-concatenation	1
-an	2
-''	2
-non-deterministic	1
-as	1
-exist	1
-in	7
-An	1
-any	1
-near-linear	1
-Exponential	1
-no	1
-)	9
-latter	1
-when	1
-depth	3
-same	1
-tight	1
-^*	1
-Regular	1
-which	2
-plus	1
-finite	1
-A	1
-picture	1
-used	1
-star	2
-fundamental	1
-time	7
-problems	2
-running	2
-regular	5
-n\sqrt	1
-frequently	1
-]	1
-simulates	1
-so-called	1
-runtime	2
-faster	2
-algorithm	2
-slightly	1
-m	2
-roughly	1
-\em	2
-patterns	1
-complexity	1
-algorithms	1
-At	1
-wildcard	1
-In	1
-the	15
-}	4
-notion	1
+all,1
+show,4
+text,1
+dynamic,1
+results,1
+interpreted,1
+paper,1
+including,1
+solutions,1
+expressions,6
+its,1
+We,1
+based,1
+deterministic,1
+except,1
+to,4
+complex,1
+Hypothesis,1
+factor,1
+Strong,1
+non,1
+combination,1
+Nevertheless,1
+so,1
+break,2
+sqrt,1
+not,3
+formal,1
+this,1
+either,1
+where,1
+OR,2
+characterized,1
+subset,1
+strongly,3
+significantly,1
+For,2
+dichotomy,1
+testing,2
+constitute,1
+computer,1
+are,2
+matching,5
+special,2
+linear,1
+sub,3
+for,5
+solved,4
+pattern,1
+various,1
+above,1
+assuming,2
+formula,1
+be,6
+we,3
+bound,1
+theory,1
+dictionary,1
+bc,1
+This,2
+O,3
+by,1
+improve,1
+on,1
+search,1
+improved,1
+language,1
+of,13
+programming,1
+membership,2
+ldots,1
+etc,1
+length,2
+involving,2
+resulting,1
+automaton,1
+expression,2
+concatenations,2
+involves,1
+em,2
+corresponds,1
+three,1
+SETH,2
+two,1
+much,1
+stars,1
+define,1
+a,8
+corresponding,1
+form,1
+that,3
+operators,1
+constructs,1
+but,1
+Time,1
+known,2
+Kleene,2
+cases,1
+hold,1
+with,1
+case,1
+intriguing,1
+word,2
+g,1
+these,1
+science,1
+mn,1
+n,2
+near,1
+polylogarithmic,1
+can,6
+following,1
+Our,1
+problem,2
+more,1
+called,1
+and,6
+ab,1
+classic,1
+is,5
+concatenation,1
+an,2
+as,1
+exist,1
+in,7
+An,1
+any,1
+Exponential,1
+no,1
+latter,1
+when,1
+depth,3
+same,1
+tight,1
+Regular,1
+which,2
+plus,1
+finite,1
+A,1
+picture,1
+used,1
+star,2
+fundamental,1
+time,7
+problems,2
+running,2
+regular,5
+frequently,1
+nm,1
+simulates,1
+runtime,2
+e,1
+faster,2
+algorithm,2
+slightly,1
+m,2
+roughly,1
+or,1
+patterns,1
+complexity,1
+algorithms,1
+At,1
+wildcard,1
+In,1
+quadratic,3
+the,15
+notion,1

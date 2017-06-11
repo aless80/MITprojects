@@ -1,97 +1,94 @@
-
-two-dimensional	1
-show	1
-probe	1
-assigned	1
-BP	3
-Raman	3
-We	1
-group	1
-(	4
-,	5
-to	8
-black	1
-<	1
-breathing	4
-means	1
-frequencies	1
-material	2
-harmonic	1
-they	1
-report	1
-nano-optoelectronics	1
-findings	1
-interlayer	2
-related	1
-are	3
-cm-1	1
-first-principles	1
-our	1
-HF	2
-for	3
-thickness	1
-new	1
-contrast	1
-shows	1
-layers	1
-theory	2
-100	1
-by	1
-on	1
-of	1
-study	2
-dependence	3
-sensitive	1
-layered	1
-first	1
-exhibit	1
-Compared	1
-symmetry	1
-number	1
-crystalline	1
-use	1
-behavior	1
-temperature	1
-few-layer	2
-.	6
-their	1
-much	2
-Furthermore	1
-low-frequency	1
-more	1
-both	1
-known	1
-be	1
-modes	6
-laser	1
-Ag	1
-spectroscopy	1
-promising	1
-could	1
-and	5
-orientation	1
-nanoelectronics	1
-is	1
-thus	1
-as	1
-have	1
-in	2
-LF	2
-)	4
-anharmonicity	1
-that	1
-polarization	1
-which	1
-used	1
-high-frequency	1
-Hence	1
-The	1
-phosphorus	1
-a	3
-coupling	1
-effective	1
-stronger	1
-analysis	1
-As	1
-time	1
-the	8
+show,1
+probe,1
+assigned,1
+BP,3
+Raman,3
+We,1
+group,1
+cm,1
+to,8
+black,1
+breathing,4
+means,1
+frequencies,1
+material,2
+harmonic,1
+they,1
+report,1
+findings,1
+interlayer,2
+principles,1
+related,1
+frequency,2
+are,3
+our,1
+HF,2
+both,1
+nano,1
+optoelectronics,1
+thickness,1
+new,1
+contrast,1
+shows,1
+layers,1
+theory,2
+by,1
+on,1
+of,1
+study,2
+dependence,3
+sensitive,1
+layered,1
+first,2
+exhibit,1
+Compared,1
+symmetry,1
+number,1
+dimensional,1
+crystalline,1
+use,1
+behavior,1
+temperature,1
+few,2
+two,1
+their,1
+much,2
+low,1
+Furthermore,1
+more,1
+that,1
+known,1
+be,1
+coupling,1
+laser,1
+Ag,1
+spectroscopy,1
+promising,1
+could,1
+and,5
+layer,2
+orientation,1
+nanoelectronics,1
+is,1
+thus,1
+high,1
+as,1
+have,1
+in,2
+LF,2
+anharmonicity,1
+for,3
+polarization,1
+which,1
+used,1
+Hence,1
+The,1
+phosphorus,1
+a,3
+modes,6
+effective,1
+stronger,1
+analysis,1
+As,1
+time,1
+the,8

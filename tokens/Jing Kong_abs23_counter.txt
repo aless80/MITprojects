@@ -1,62 +1,66 @@
-
-and	5
-signatures	1
-oscillation	1
-using	1
-within	1
-find	1
-Fano	1
-conductance	1
-at	1
-in	1
-quantum	1
-our	1
-formalism	1
-power-law	1
-transport	1
-theory	1
-We	3
-strong	1
-Keldysh	1
-interference	1
-,	1
-exhibits	1
-.	3
-current	1
-Tomonaga-Luttinger	1
-electrical	1
-low	1
-factor	1
-ballistic	1
-:	1
-scalings	1
-three-terminal	1
-model	1
-noise	1
-amplitudes	1
-experiment	1
-interactions	1
-non-equilibrium	1
-between	1
-electron-electron	1
-agreement	1
-single-walled	1
-observe	1
-nanotubes	1
-carbon	1
-configuration	1
-data	1
-properties	1
-well-contacted	1
-a	1
-both	1
-analyze	1
-liquid	1
-of	3
-study	1
-manifest	1
-bias-voltage-dependent	2
-temperatures	1
-quantitative	1
-the	5
-qualitative	1
+and,5
+signatures,1
+contacted,1
+within,1
+using,1
+both,1
+Fano,1
+single,1
+bias,2
+at,1
+in,1
+quantum,1
+our,1
+formalism,1
+find,1
+transport,1
+current,1
+We,3
+strong,1
+oscillation,1
+Keldysh,1
+interference,1
+three,1
+exhibits,1
+terminal,1
+Tomonaga,1
+experiment,1
+electrical,1
+low,1
+factor,1
+ballistic,1
+analyze,1
+law,1
+equilibrium,1
+model,1
+non,1
+noise,1
+amplitudes,1
+theory,1
+power,1
+interactions,1
+dependent,2
+between,1
+agreement,1
+electron,2
+observe,1
+nanotubes,1
+carbon,1
+configuration,1
+data,1
+properties,1
+scalings,1
+a,1
+walled,1
+Luttinger,1
+liquid,1
+of,3
+study,1
+well,1
+conductance,1
+manifest,1
+temperatures,1
+quantitative,1
+the,5
+qualitative,1
+voltage,2

@@ -1,136 +1,127 @@
-
-exploits	1
-obtain	1
-thermal	2
-including	1
-thanks	1
-associatedmatrices	1
-scattering	3
-previous	1
-Raman	1
-We	3
-based	2
-susceptible	1
-(	2
-,	16
-to	5
-extends	1
-momentum	1
-fluctuating	1
-which	1
-checking	1
-powerful	1
-material	1
-matrices	1
-VIE	2
---	2
-shaped	1
-permittivities	1
-making	1
-homogeneous	2
-methods	1
-Rev	1
-inhomogeneous	1
-88	1
-are	1
-our	4
-best	1
-techniques	3
-established	1
-and/or	2
-Unlike	1
-for	1
-electromagnetic	2
-interactions	1
-current	2
-between	2
-method	2
-incandescence	1
-terms	1
-power	1
-exchange	1
-Phys	1
-volumetric	1
-objects	1
-complicated	1
-demonstrate	1
-described	1
-[	1
-equations	1
-properties	2
-on	3
-tractable	1
-of	5
-study	1
-iterative	1
-against	1
-practical	1
-resulting	1
-situations	1
-well-studied	1
-arbitrarily	1
-spatially	2
-integral	1
-low-rank	1
-apply	1
-throughout	1
-from	2
-temperature	1
-geometries	1
-054305	1
-transfer	3
-predictions	1
-.	8
-calculations	1
-characteristics	1
-B	1
-fast-trace	1
-that	2
-emission	1
-volume	2
-heat	3
-varying	2
-with	2
-applying	1
-these	1
-equation	1
-work	2
-profiles	1
-unknowns	2
-fluctuations	1
-spontaneous	1
-and	7
-fluctuation	1
-is	1
-describe	2
-it	1
-surface	1
-involve	1
-as	2
-formulation	1
-boxed	1
-)	2
-media	1
-formulations	1
-radiation	3
-field	1
-complex	1
-forces	1
-products	1
-formulas	2
-trace	1
-problems	1
-involving	1
-suited	1
-Casimir	2
-The	1
-]	1
-recent	1
-a	1
-luminescence	1
-in	4
-fluorescence	2
-computations	1
-well	1
-the	4
-bodies	4
+exploits,1
+obtain,1
+thermal,2
+including,1
+thanks,1
+associatedmatrices,1
+scattering,3
+previous,1
+Raman,1
+We,3
+based,2
+susceptible,1
+situations,1
+to,5
+extends,1
+momentum,1
+fluctuating,1
+which,1
+checking,1
+powerful,1
+material,1
+matrices,1
+VIE,2
+shaped,1
+permittivities,1
+making,1
+homogeneous,2
+methods,1
+Rev,1
+inhomogeneous,1
+are,1
+our,4
+best,1
+techniques,3
+established,1
+Unlike,1
+for,1
+electromagnetic,2
+interactions,1
+current,2
+between,2
+method,2
+incandescence,1
+terms,1
+power,1
+exchange,1
+Phys,1
+volumetric,1
+objects,1
+complicated,1
+demonstrate,1
+described,1
+equations,1
+properties,2
+on,3
+tractable,1
+of,5
+study,1
+studied,1
+iterative,1
+against,1
+practical,1
+products,1
+or,2
+arbitrarily,1
+spatially,2
+integral,1
+rank,1
+apply,1
+throughout,1
+from,2
+temperature,1
+geometries,1
+transfer,3
+predictions,1
+fast,1
+low,1
+calculations,1
+characteristics,1
+B,1
+that,2
+emission,1
+volume,2
+heat,3
+varying,2
+with,2
+applying,1
+these,1
+equation,1
+work,2
+profiles,1
+unknowns,2
+fluctuations,1
+spontaneous,1
+and,9
+fluctuation,1
+is,1
+describe,2
+it,1
+surface,1
+involve,1
+as,2
+formulation,1
+boxed,1
+media,1
+formulations,1
+radiation,3
+field,1
+complex,1
+forces,1
+resulting,1
+formulas,2
+trace,2
+problems,1
+involving,1
+suited,1
+Casimir,2
+The,1
+recent,1
+a,1
+luminescence,1
+in,4
+fluorescence,2
+computations,1
+well,2
+the,4
+bodies,4

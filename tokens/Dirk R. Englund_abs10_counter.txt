@@ -1,114 +1,103 @@
-
-operations	1
--times	1
-linewidth	1
-centers	1
-\pm13	1
-We	1
-$	12
-(	1
-photons	1
-deterministic	1
-,	4
-GHz	1
-to	6
-systems	2
-<	1
-scalable	1
-beam	1
-electron	1
-126	1
-solid-state	1
-inhomogeneously	1
---	1
-51	1
-50	1
-yield	2
-Moreover	1
-irradiation	1
-creation	3
-direct	1
-challenges	1
-maskless	1
-quantum	4
-close	1
-extract	1
-network	1
-for	2
-memories	1
-increase	1
-\sim	4
-silicon-vacancy	1
-we	2
-This	1
-atom-like	1
-linewidths	2
-step	1
-focused	1
-single-emitter	1
-by	1
-32	1
-transition	1
-positioning	1
-MHz	1
-spin	1
-lateral	1
-1.4	1
-via	1
-interfacing	1
-implantation	1
-one	1
-down	1
-entanglement	1
-Here	1
-determine	1
-nanocavity	1
-additional	1
-.	5
-development	1
-efficiently	1
-lifetime-limited	1
-diamond	1
-controlled	1
-emission	1
-2.5\	1
-coherent	1
-observe	1
-with	2
-relative	1
-nanostructures	1
-devices	1
-of	7
-demonstrate	1
-and	3
-outstanding	1
-is	2
-defect	1
-an	1
-single	2
-in	2
-corresponding	1
-demonstration	1
-conversion	2
-%	1
-SiV	2
-)	1
-ensemble	1
-accuracy	1
-optically	1
-towards	1
-precision	1
-ion	2
-important	1
-Si+	1
-The	1
-nm	2
-a	3
--nanocavity	1
-natural	1
-center	2
-broadened	1
-photon-based	1
-optical	1
-the	3
-10-fold	1
+operations,1
+limited,1
+vacancy,1
+linewidth,1
+centers,1
+We,1
+based,1
+spin,1
+photons,1
+deterministic,1
+GHz,1
+to,6
+systems,2
+scalable,1
+beam,1
+electron,1
+inhomogeneously,1
+like,1
+yield,2
+Moreover,1
+irradiation,1
+creation,3
+direct,1
+challenges,1
+fold,1
+maskless,1
+quantum,4
+close,1
+extract,1
+network,1
+for,2
+memories,1
+increase,1
+state,1
+we,2
+This,1
+linewidths,2
+step,1
+focused,1
+emitter,1
+of,7
+transition,1
+positioning,1
+times,1
+silicon,1
+MHz,1
+lateral,1
+via,1
+interfacing,1
+implantation,1
+one,1
+down,1
+Here,1
+determine,1
+nanocavity,2
+additional,1
+by,1
+development,1
+efficiently,1
+pm,1
+diamond,1
+controlled,1
+photon,1
+precision,1
+Si,1
+observe,1
+atom,1
+with,2
+relative,1
+nanostructures,1
+solid,1
+devices,1
+demonstrate,1
+and,3
+outstanding,1
+is,2
+defect,1
+an,1
+single,3
+in,2
+lifetime,1
+demonstration,1
+conversion,2
+SiV,2
+ensemble,1
+sim,4
+accuracy,1
+optically,1
+towards,1
+emission,1
+ion,2
+important,1
+entanglement,1
+The,1
+nm,2
+a,3
+natural,1
+center,2
+corresponding,1
+broadened,1
+coherent,1
+optical,1
+the,3

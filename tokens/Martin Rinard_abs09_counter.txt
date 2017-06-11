@@ -1,87 +1,86 @@
-
-restriction	1
-show	2
-unary	1
-shape	2
-identify	1
-We	4
-knowledge	1
-,	8
-bases	1
-Using	1
-has	2
-notation	2
-fragment	3
-de	1
-decidable	2
-using	1
-closure	1
-RL^2	4
-constraints	1
-two-variable	1
-expressive	3
-describing	1
-for	3
-version	1
-imperative	1
-relational	2
-unrestricted	1
-we	2
-power	2
-implicit	1
-on	1
-language	1
-of	9
-allows	1
-logic	9
-transitive	1
-lambda	2
-encoding	1
-simple	1
-into	1
-boolean	1
-manipulate	1
-properties	1
-addition	1
-construct	1
-.	7
-therefore	1
-structures	2
-that	2
-encodes	1
-translation	1
-with	2
-present	2
-compositional	1
-verification	1
-Bruijn	1
-and	5
-is	1
-an	3
-as	1
-analysis	2
-in	2
-counting	1
-binary	1
-first-order	2
-syntactic	1
-ideas	1
-same	1
-how	1
-role	5
-arguments	1
-which	1
-calculus	2
-formulas	1
-'s	1
-description	1
-databases	1
-predicates	1
-The	1
-a	5
-natural	1
-programs	1
-rule	1
-C^2	1
-In	1
-the	5
+restriction,1
+show,2
+unary,1
+shape,2
+identify,1
+We,4
+knowledge,1
+bases,1
+RL,4
+Using,1
+has,2
+notation,2
+fragment,3
+de,1
+decidable,2
+using,1
+closure,1
+constraints,1
+we,2
+expressive,3
+describing,1
+for,3
+version,1
+imperative,1
+relational,2
+unrestricted,1
+C,1
+power,2
+implicit,1
+on,1
+language,1
+of,9
+allows,1
+s,1
+logic,9
+transitive,1
+first,2
+encoding,1
+simple,1
+into,1
+predicates,1
+boolean,1
+manipulate,1
+addition,1
+two,1
+construct,1
+properties,1
+therefore,1
+structures,2
+that,2
+encodes,1
+translation,1
+with,2
+present,2
+compositional,1
+verification,1
+Bruijn,1
+and,5
+is,1
+an,3
+as,1
+analysis,2
+in,2
+counting,1
+binary,1
+syntactic,1
+ideas,1
+same,1
+how,1
+role,5
+arguments,1
+which,1
+calculus,2
+formulas,1
+description,1
+databases,1
+variable,1
+The,1
+a,5
+natural,1
+programs,1
+rule,1
+In,1
+the,5
+lambda,2
+order,2

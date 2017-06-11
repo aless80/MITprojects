@@ -1,81 +1,77 @@
-
-and	3
-model	1
-SNSPDs	2
-associated	1
-feedback	3
-achieved	1
-simple	1
-resistive	1
-is	5
-electrothermal	2
-results	2
-up	1
-known	1
-superconducting	1
-set	1
-through	1
-quantitatively	1
-in	4
-effort	1
-operation	2
-kinetic	1
-as	1
-if	1
-happens	1
-We	2
-slow	1
-for	1
-to	1
-)	1
-(	1
-photons	1
-,	4
-.	4
-increase	1
-their	1
-only	1
-role	1
-which	3
-stable	1
-electrical	1
-sped	1
-relatively	1
-explains	1
-single-photon	1
-naturally	1
-a	3
-that	1
-becomes	1
-elucidate	1
-effect	2
-desired	1
-state	1
-detect	1
-inductance	1
-device	2
-nanowire	1
-an	2
-with	1
-response	2
-present	1
-count	1
-locked	1
-longer	1
-this	3
-of	4
-latching	1
-no	1
-detectors	1
-It	1
-can	1
-large	1
-investigate	1
-experiments	1
-unstable	1
-mode	1
-found	1
-the	8
-rate	1
-where	1
-If	1
+and,3
+model,1
+SNSPDs,2
+associated,1
+feedback,3
+achieved,1
+simple,1
+resistive,1
+is,5
+electrothermal,2
+results,2
+up,1
+known,1
+superconducting,1
+set,1
+through,1
+quantitatively,1
+in,4
+operation,2
+kinetic,1
+as,1
+if,1
+happens,1
+We,2
+slow,1
+for,1
+to,1
+effort,1
+photons,1
+state,1
+increase,1
+their,1
+only,1
+role,1
+present,1
+which,3
+stable,1
+electrical,1
+sped,1
+relatively,1
+explains,1
+naturally,1
+a,3
+that,1
+becomes,1
+elucidate,1
+photon,1
+effect,2
+desired,1
+detect,1
+inductance,1
+device,2
+nanowire,1
+an,2
+with,1
+response,2
+single,1
+count,1
+locked,1
+longer,1
+this,3
+of,4
+latching,1
+no,1
+detectors,1
+It,1
+can,1
+large,1
+investigate,1
+experiments,1
+unstable,1
+mode,1
+found,1
+the,8
+rate,1
+where,1
+If,1

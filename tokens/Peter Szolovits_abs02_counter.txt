@@ -1,83 +1,80 @@
-
-limited	1
-learning	1
-particularly	1
-trained	2
-what	1
-is	2
-labels	2
-ANNs	2
-results	2
-dataset	4
-high	1
-However	1
-have	1
-need	1
-label	1
-NER	3
-networks	1
-recognition	1
-pronounced	1
-shown	1
-issue	1
-based	1
-for	4
-instance	1
-)	2
-(	2
-,	5
-artificial	1
-.	5
-note	2
-to	6
-another	1
-of	2
-which	2
-transfer	1
-:	1
-might	1
-named-entity	1
-achieve	1
-Recent	1
-wants	1
-be	2
-we	2
-transferring	1
-patient	2
-that	1
-may	1
-promising	1
-upon	1
-de-identification	2
-obtain	1
-state-of-the-art	1
-approaches	1
-datasets	1
-user	1
-extent	1
-address	1
-number	1
-an	2
-with	1
-model	1
-scarcity	1
-a	3
-on	5
-analyze	1
-particular	1
-neural	1
-this	2
-performances	1
-ANN	1
-work	1
-different	1
-large	2
-perform	1
-labeled	2
-improves	1
-In	3
-demonstrate	1
-the	3
-difficult	1
-order	1
-two	1
+limited,1
+named,1
+particularly,1
+trained,2
+is,2
+labels,2
+ANNs,2
+results,2
+entity,1
+high,1
+have,1
+need,1
+art,1
+NER,3
+networks,1
+recognition,1
+pronounced,1
+shown,1
+issue,1
+based,1
+for,4
+instance,1
+perform,1
+transfer,1
+transferring,1
+However,1
+artificial,1
+label,1
+note,2
+to,6
+another,1
+of,3
+identification,2
+which,2
+analyze,1
+might,1
+achieve,1
+Recent,1
+wants,1
+be,2
+we,2
+de,2
+patient,2
+that,1
+may,1
+promising,1
+upon,1
+what,1
+obtain,1
+approaches,1
+state,1
+user,1
+extent,1
+address,1
+number,1
+dataset,4
+with,1
+model,1
+scarcity,1
+a,3
+on,5
+datasets,1
+particular,1
+neural,1
+this,2
+performances,1
+ANN,1
+work,1
+different,1
+large,2
+labeled,2
+improves,1
+learning,1
+In,3
+an,2
+demonstrate,1
+the,4
+difficult,1
+order,1
+two,1

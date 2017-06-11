@@ -1,134 +1,126 @@
-
-consider	1
-proposed	1
-results	1
-Alloying	1
-alternative	1
-We	1
-based	1
-$	12
-parameters	2
-_x	1
-energies	1
-(	2
-,	4
-to	4
-coherent-potential	1
-alter	1
-shear	1
-Both	1
-predict	1
-combination	1
-G\	1
-combinations	1
-exact	1
-\	2
-unstable	1
-cleavage	1
-x	1
-muffin-tin	1
-accessible	1
-enhances	1
-moduli	1
-energy	2
-approximation	1
-\langle111\rangle	2
-measure	1
-Rice	1
-by	1
-M=Mn	1
-Nickel	1
-initio	1
-various	1
-between	1
-method	1
-theory	1
-respectively	1
-Mn	4
-orbitals	1
-single-crystal	1
-found	2
-properties	2
-_	1
-on	4
-ferromagnetic	1
-noticeable	1
-fault	2
-study	1
-larger	1
-discussed	1
-facet	1
-ductility	2
-{	5
-slightly	1
-or	1
-origin	1
-Ni	4
-formulated	1
-within	1
-planar	1
-\le	1
-two	1
-decrease	1
-doping	1
-110\	3
-phenomenological	1
-from	1
-elastic	1
-lattice	1
-system	1
-.	7
-their	1
-Fe	3
-calculations	1
-criteria	2
-theoretical	1
-alloys	1
-that	1
-but	1
-contradictory	1
-discrepancy	1
-with	2
-than	1
-case	1
-ductile-brittle	1
-behavior	1
-of	7
-First-principles	1
-0\le	1
-stacking	1
-and	9
-1-x	1
-compare	1
-ab	1
-associated	1
-give	1
-0.1	1
-consistently	1
-is	5
-influence	1
-surface	2
-an	1
-Pugh	1
-slip	1
-in	3
-physical	1
-strength	1
-)	2
-body-centered	1
-several	1
-modulus	1
-used	1
-cubic	1
-models	1
-M	1
-effect	2
-produce	2
-The	2
-semi-empirical	1
-bcc	1
-\emph	1
-mechanical	1
-alloy	1
-the	17
-}	5
+consider,1
+proposed,1
+muffin,1
+results,1
+Alloying,1
+rangle,2
+alternative,1
+brittle,1
+We,1
+le,2
+based,1
+parameters,2
+consistently,1
+energies,1
+to,4
+alter,1
+shear,1
+Both,1
+predict,1
+combination,1
+combinations,1
+exact,1
+semi,1
+unstable,1
+cleavage,1
+found,2
+accessible,1
+enhances,1
+moduli,1
+energy,2
+principles,1
+emph,1
+approximation,1
+ductile,1
+measure,1
+Rice,1
+Nickel,1
+initio,1
+various,1
+between,1
+method,1
+body,1
+theory,1
+G,1
+respectively,1
+Mn,5
+orbitals,1
+langle,2
+x,3
+properties,2
+First,1
+on,4
+ferromagnetic,1
+noticeable,1
+of,7
+study,1
+larger,1
+discussed,1
+facet,1
+ductility,2
+slightly,1
+or,1
+origin,1
+Ni,4
+formulated,1
+within,1
+planar,1
+two,1
+decrease,1
+doping,1
+from,1
+elastic,1
+lattice,1
+system,1
+by,1
+their,1
+Fe,3
+calculations,1
+criteria,2
+theoretical,1
+alloys,1
+that,1
+centered,1
+but,1
+coherent,1
+contradictory,1
+discrepancy,1
+with,2
+than,1
+case,1
+empirical,1
+crystal,1
+behavior,1
+fault,2
+stacking,1
+and,9
+compare,1
+ab,1
+associated,1
+give,1
+phenomenological,1
+is,5
+influence,1
+surface,2
+an,1
+single,1
+Pugh,1
+slip,1
+in,3
+physical,1
+strength,1
+tin,1
+potential,1
+several,1
+modulus,1
+used,1
+cubic,1
+models,1
+M,2
+effect,2
+produce,2
+The,2
+bcc,1
+mechanical,1
+alloy,1
+the,17

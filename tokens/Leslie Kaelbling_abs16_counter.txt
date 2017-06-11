@@ -1,78 +1,75 @@
-
-and	1
-because	1
-set	1
-show	1
-is	2
-Solving	1
-we	2
-highly	1
-globally	1
-as	1
-paper	1
-at	1
-in	2
-further	1
-constrained	1
-POMDP	1
-size	1
-given	1
-and/or	1
-from	1
-for	2
-infinitely	1
-)	1
-(	1
-decision	1
-branch-and-bound	1
-when	1
-,	5
-least	1
-.	4
-This	1
-state	1
-locally	1
-policy	3
-optimal	4
-finite	1
-method	2
-greatly	1
-be	2
-intractable	2
-good	1
-that	1
-may	1
-We	1
-but	1
-results	1
-finding	3
-explore	1
-part	1
-deterministic	1
-stochastic	1
-represented	1
-Markov	1
-general	1
-with	1
-problem	2
-partially	1
-a	4
-observable	1
-processes	1
-this	1
-of	3
-also	1
-automata	1
-empirical	1
-large	1
-POMDPs	1
-complexity	1
-can	1
-policies	3
-In	1
-gradient-ascent	1
-demonstrate	1
-the	5
-reduced	1
-restricted	1
-are	1
+and,3
+because,1
+set,1
+show,1
+is,2
+Solving,1
+we,2
+highly,1
+globally,1
+as,1
+paper,1
+at,1
+in,2
+further,1
+constrained,1
+ascent,1
+POMDP,1
+size,1
+given,1
+from,1
+for,2
+infinitely,1
+gradient,1
+restricted,1
+decision,1
+deterministic,1
+when,1
+automata,1
+least,1
+This,1
+state,1
+locally,1
+branch,1
+policy,3
+optimal,4
+finite,1
+method,2
+greatly,1
+be,2
+intractable,2
+good,1
+bound,1
+that,1
+may,1
+We,1
+but,1
+results,1
+finding,3
+explore,1
+part,1
+stochastic,1
+represented,1
+Markov,1
+general,1
+with,1
+problem,2
+partially,1
+a,4
+observable,1
+processes,1
+this,1
+of,3
+also,1
+empirical,1
+or,1
+large,1
+POMDPs,1
+complexity,1
+can,1
+policies,3
+In,1
+demonstrate,1
+the,5
+reduced,1
+are,1

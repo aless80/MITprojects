@@ -1,135 +1,131 @@
-
-Lagrangiias	1
-consider	3
-similarity	2
-known	1
-including	1
-proximal	3
-Under	1
-We	5
-(	1
-delays	1
-show	1
-distributed	1
-,	12
-to	5
-finally	1
-advantages	1
-alternating	1
-then	1
-far	1
-propose	2
-sums	1
-bear	1
-closely	1
-variants	1
-convexity	1
-orthant	1
-solution	1
-large	2
-sufficiently	1
-small	1
-through	1
-methods	5
-uses	1
-related	1
-cost	1
-result	1
-convex	1
-subject	1
-for	3
-gradient	1
-sum	1
-inequality-constrained	1
-version	3
-decomposition	2
-method	5
-limitations	1
-be	1
-we	3
-terms	1
-linear	1
-minimization	3
-This	1
-attention	1
-standard	1
-interprocessor	1
-highlight	1
-strong	1
-properties	1
-received	1
-constraint	1
-of	15
-equality-constrained	1
-dually	1
-admit	1
-bounded	1
-separable	2
-communication	1
-address	1
-Lagrangian	4
-number	1
-such	2
-linearly	1
-use	1
-bears	1
-.	9
-their	2
-lot	1
-more	2
-function	2
-direction	1
-corresponding	1
-that	2
-regularization	1
-stepsize	1
-convergence	1
-subgradient	1
-convergent	1
-entropy	1
-nonquadratic	2
-exponential	1
-versions	1
-these	2
-variations	1
-differentiable	1
-incremental	7
-applies	1
-Our	1
-are	1
-and	8
-compare	1
-constant	1
-have	1
-ADMM	1
-mirror	1
-an	4
-as	3
-assumptions	1
-asynchronous	1
-dual	1
-in	2
-viewed	1
-functions	1
-descent	1
-)	1
-differentiability	1
-multipliers	2
-also	2
-potential	1
-which	3
-several	1
-optimization	2
-may	1
-problems	2
-update	1
-involving	1
-Contrary	1
-frequently	1
-aggregated	5
-recent	2
-a	5
-algorithm	2
-algorithms	2
-the	14
-augmented	5
+Lagrangiias,1
+consider,3
+similarity,2
+known,1
+including,1
+proximal,3
+Under,1
+We,5
+delays,1
+show,1
+distributed,1
+to,5
+finally,1
+advantages,1
+alternating,1
+then,1
+far,1
+propose,2
+sums,1
+bear,1
+closely,1
+variants,1
+convexity,1
+orthant,1
+equality,1
+solution,1
+large,2
+sufficiently,1
+inequality,1
+small,1
+through,1
+methods,5
+uses,1
+related,1
+cost,1
+result,1
+convex,1
+subject,1
+for,3
+gradient,1
+sum,1
+version,3
+decomposition,2
+method,5
+limitations,1
+be,1
+we,3
+terms,1
+linear,1
+minimization,3
+This,1
+attention,1
+standard,1
+interprocessor,1
+highlight,1
+strong,1
+properties,1
+received,1
+constraint,1
+of,15
+dually,1
+admit,1
+bounded,1
+separable,2
+communication,1
+address,1
+Lagrangian,4
+number,1
+such,2
+linearly,1
+use,1
+bears,1
+their,2
+lot,1
+more,2
+function,2
+direction,1
+corresponding,1
+that,2
+regularization,1
+stepsize,1
+convergence,1
+subgradient,1
+convergent,1
+entropy,1
+nonquadratic,2
+exponential,1
+versions,1
+these,2
+variations,1
+differentiable,1
+incremental,7
+applies,1
+Our,1
+are,1
+and,8
+compare,1
+constant,1
+have,1
+ADMM,1
+mirror,1
+an,4
+as,3
+assumptions,1
+asynchronous,1
+dual,1
+in,2
+constrained,2
+viewed,1
+functions,1
+descent,1
+differentiability,1
+multipliers,2
+also,2
+potential,1
+which,3
+several,1
+optimization,2
+may,1
+problems,2
+update,1
+involving,1
+Contrary,1
+frequently,1
+aggregated,5
+recent,2
+a,5
+algorithm,2
+algorithms,2
+the,14
+augmented,5

@@ -1,103 +1,101 @@
-
-limited	1
-over	1
-experiments	1
-including	1
-using	1
-MIP	1
-We	2
-based	1
-(	4
-solving	1
-distributed	1
-,	2
-to	6
-extensive	1
-do	1
-tourist	2
-propose	1
-introduce	1
-integer	1
-POIs	3
-realistic	1
-planning	1
-each	1
-characterized	1
-set	2
-intelligence	1
-some	1
-traveling	1
-our	2
-for	3
-between	1
-demonstrated	1
-be	1
-first-time	1
-arbitrary	1
-by	1
-of	7
-study	1
-programming	1
-Alternatively	1
-amount	1
-mixed	1
-NP-hard	1
-among	1
-computational	1
-spatially	1
-Istanbul	1
-maximize	1
-total	1
-quality	1
-spending	2
-two	1
-least	1
-.	6
-collected	1
-function	1
-acquire	1
-precision	1
-tasked	1
-hopes	1
-an	1
-with	1
-must	1
-these	1
-mount	1
-budget	1
-optimization	1
-itinerary	1
-problem	1
-balance	1
-and	4
-gather	1
-point-of-interests	1
-is	3
-robot	3
-as	1
-minimum	1
-at	4
-in	2
-information	2
-)	4
-travel	1
-which	1
-POI	2
-non-decreasing	1
-effectiveness	1
-With	1
-may	1
-problems	1
-collection	1
-The	2
-a	6
-algorithm	2
-mobile	1
-required	1
-spent	1
-anytime	1
-so	2
-time	5
-the	9
-reward	3
-sensing	2
+limited,1
+over,1
+experiments,1
+including,1
+using,1
+MIP,1
+We,2
+based,1
+solving,1
+distributed,1
+to,6
+extensive,1
+do,1
+non,1
+tourist,2
+propose,1
+introduce,1
+integer,1
+POIs,3
+realistic,1
+planning,1
+each,1
+characterized,1
+set,2
+intelligence,1
+hard,1
+some,1
+traveling,1
+our,2
+for,3
+between,1
+demonstrated,1
+be,1
+arbitrary,1
+by,1
+of,8
+study,1
+programming,1
+Alternatively,1
+amount,1
+mixed,1
+first,1
+among,1
+computational,1
+spatially,1
+Istanbul,1
+point,1
+maximize,1
+total,1
+quality,1
+spending,2
+two,1
+least,1
+collected,1
+function,1
+acquire,1
+precision,1
+NP,1
+tasked,1
+hopes,1
+an,1
+with,1
+must,1
+these,1
+mount,1
+budget,1
+optimization,1
+itinerary,1
+problem,1
+balance,1
+and,4
+interests,1
+gather,1
+is,3
+robot,3
+as,1
+minimum,1
+at,4
+in,2
+information,2
+travel,1
+which,1
+POI,2
+effectiveness,1
+With,1
+may,1
+time,6
+problems,1
+collection,1
+The,2
+a,6
+algorithm,2
+mobile,1
+required,1
+spent,1
+anytime,1
+so,2
+decreasing,1
+the,9
+reward,3
+sensing,2

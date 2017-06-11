@@ -1,86 +1,77 @@
-
-and	2
-the	6
-sketch	1
-initial	1
-motif	1
-family	1
-show	1
-smooth	1
-describe	1
-geometry	1
-identify	1
-general	1
-''	1
-curved-crease	1
-point	1
-convex	2
-curved	2
-satisfies	1
-any	1
-We	3
-configuration	1
-exists	1
-in	2
-author	1
-)	1
-pattern	1
-that	4
-when	1
-two	1
-,	3
-.	5
-to	1
-fitting	1
-properties	1
-inflection	1
-ruling	1
-no	1
-additional	1
-consisting	1
-pictured	1
-circular	1
-differential	1
-model	1
-``	1
-used	1
-form	1
-arcs	2
-creases	1
-formed	1
-Curve	1
-use	1
-folded	1
-lens	1
-made	1
-vinyl	1
-such	1
-The	1
-invented	1
-with	1
-by	1
-be	2
-he	1
-a	5
-both	1
-1992	1
-folding	2
-third	1
-this	1
-of	4
-chosen	1
-prove	1
-curve	2
-through	2
-crease	1
-suggests	1
-below	1
-without	1
-can	1
-(	1
-design	2
-repeating	1
-first	1
-qualitative	1
-fact	1
-tessellations	1
+and,2
+the,6
+sketch,1
+initial,1
+motif,1
+family,1
+show,1
+smooth,1
+describe,1
+geometry,1
+general,1
+design,2
+point,1
+convex,2
+curved,3
+satisfies,1
+any,1
+We,3
+configuration,1
+exists,1
+in,2
+author,1
+chosen,1
+pattern,1
+that,4
+when,1
+two,1
+properties,1
+to,1
+fitting,1
+ruling,1
+no,1
+additional,1
+consisting,1
+pictured,1
+circular,1
+differential,1
+model,1
+used,1
+form,1
+arcs,2
+creases,1
+formed,1
+Curve,1
+use,1
+folded,1
+lens,1
+inflection,1
+vinyl,1
+such,1
+The,1
+invented,1
+with,1
+by,1
+be,2
+he,1
+a,5
+both,1
+made,1
+folding,2
+third,1
+this,1
+of,4
+qualitative,1
+prove,1
+curve,2
+through,2
+crease,2
+suggests,1
+below,1
+without,1
+can,1
+identify,1
+repeating,1
+first,1
+fact,1
+tessellations,1

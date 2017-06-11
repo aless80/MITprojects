@@ -1,98 +1,92 @@
-
-all	1
-feedback	1
-produces	1
-transmitting	1
-developed	1
-over	1
-random	1
-distortion	1
-bandwidth	2
-Elias	1
-(	2
-,	1
-decreases	3
-to	1
-Schalkwijk-Kailath	1
-then	2
-1956	1
-using	1
-mean-square	1
-well-known	1
-upper	1
-energy	1
-zero	1
-result	2
-shown	1
-capacity	2
-exponent	1
-for	4
-Kailath	1
-decoding	1
-increasing	2
-terms	1
-This	1
-second-order	1
-here	1
-by	1
-on	1
-of	5
-length	3
-bounded	1
-block	4
-probability	5
-simple	1
-explained	1
-bound	2
-channels	1
-variable	1
-simply	1
-achievable	1
-linearly	2
-.	5
-rates	2
-Schalkwijk	1
-expected	1
-scheme	2
-that	1
-concerning	1
-but	1
-with	4
-case	1
-exponential	2
-this	1
-single	1
-below	2
-limit	1
-error	5
-rate	1
-and	2
-is	5
-an	3
-as	2
-minimum	1
-at	2
-have	1
-in	5
-codes	1
-)	2
-1966	1
-same	2
-ideal	1
-which	4
-modification	1
-finite	1
-channel	1
-A	2
-multiple	1
-derived	2
-uses	1
-infinite	1
-class	1
-a	4
-lower	1
-surprising	1
-Gaussian	3
-In	1
-the	9
-order	2
+all,1
+feedback,1
+produces,1
+transmitting,1
+developed,1
+over,1
+random,1
+distortion,1
+bandwidth,2
+Elias,1
+decreases,3
+to,1
+then,2
+using,1
+mean,1
+upper,1
+square,1
+energy,1
+second,1
+result,2
+shown,1
+capacity,2
+exponent,1
+for,4
+Kailath,2
+decoding,1
+increasing,2
+terms,1
+This,1
+here,1
+by,1
+on,1
+of,5
+length,3
+bounded,1
+block,4
+probability,5
+simple,1
+explained,1
+bound,2
+channels,1
+infinite,1
+simply,1
+achievable,1
+linearly,2
+rates,2
+Schalkwijk,2
+expected,1
+scheme,2
+that,1
+concerning,1
+but,1
+known,1
+with,4
+case,1
+exponential,2
+this,1
+zero,1
+below,2
+limit,1
+error,5
+rate,1
+and,2
+is,5
+an,3
+as,2
+minimum,1
+at,2
+have,1
+in,5
+codes,1
+same,2
+ideal,1
+which,4
+modification,1
+finite,1
+channel,1
+A,2
+multiple,1
+derived,2
+uses,1
+variable,1
+class,1
+single,1
+a,4
+lower,1
+surprising,1
+well,1
+Gaussian,3
+In,1
+the,9
+order,3

@@ -1,103 +1,101 @@
-
-show	1
-text	2
-both	1
-find	1
-ground	1
-outperforming	1
-We	2
-Callhome	1
-repurposed	1
-,	4
-languages	1
-source	2
-explicitly	1
-Fisher	2
-has	1
-attention-based	1
-not	1
-during	1
-nor	1
-translates	1
-architecture	2
-truth	1
-end-to-end	1
-transcribe	1
-illustrating	1
-another	1
-obtains	1
-further	1
-recognition	3
-network	2
-for	2
-does	2
-shared	1
-be	1
-we	1
-multi-task	1
-power	1
-attention	1
-by	3
-improve	1
-on	2
-training	3
-language	3
-of	3
-slightly	1
-BLEU	2
-1.4	1
-previously	1
-into	2
-one	1
-set	1
-directly	1
-apply	1
-.	5
-use	1
-from	1
-addition	1
-been	1
-sequence-to-sequence	3
-more	1
-Spanish-English	1
-that	4
-encoder	1
-trained	2
-translation	3
-with	2
-present	1
-encoder-decoder	1
-this	1
-require	1
-modified	1
-can	2
-making	1
-and	3
-1.8	1
-it	2
-deep	1
-single	1
-in	4
-transcription	1
-recurrent	1
-machine	1
-complex	1
-speech	6
-test	1
-performance	2
-A	1
-used	1
-models	3
-state-of-the-art	1
-The	1
-data	1
-model	2
-a	5
-independently	1
-task	2
-neural	1
-supervision	1
-cascade	1
-points	2
-In	1
-the	7
+show,1
+text,2
+both,1
+find,1
+ground,1
+outperforming,1
+We,2
+based,1
+Callhome,1
+repurposed,1
+languages,1
+to,4
+explicitly,1
+Fisher,2
+has,1
+not,1
+during,1
+nor,1
+translates,1
+architecture,2
+truth,1
+transcribe,1
+illustrating,1
+another,1
+sequence,6
+obtains,1
+further,1
+recognition,3
+network,2
+for,2
+state,1
+does,2
+shared,1
+be,1
+we,1
+power,1
+attention,2
+use,1
+English,1
+by,3
+improve,1
+on,2
+training,3
+language,3
+of,4
+slightly,1
+BLEU,2
+previously,1
+into,2
+one,1
+set,1
+directly,1
+apply,1
+art,1
+from,1
+source,2
+addition,1
+been,1
+more,1
+that,4
+encoder,2
+trained,2
+decoder,1
+translation,3
+with,2
+present,1
+multi,1
+this,1
+require,1
+modified,1
+can,2
+making,1
+and,3
+it,2
+deep,1
+single,1
+in,4
+end,2
+transcription,1
+recurrent,1
+machine,1
+complex,1
+speech,6
+test,1
+performance,2
+A,1
+used,1
+models,3
+In,1
+The,1
+data,1
+model,2
+a,5
+independently,1
+task,3
+neural,1
+supervision,1
+cascade,1
+points,2
+Spanish,1
+the,8

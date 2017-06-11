@@ -1,55 +1,53 @@
-
-and	3
-For	1
-testing	1
-some	1
-results	1
-effects	1
-years	2
-as	2
-design	2
-are	1
-Grating	1
-operated	1
-subtle	1
-ground	2
-designed	1
-calibration	3
-six	1
-,	8
-.	3
-to	1
-phased	1
-grating	1
-include	1
-details	1
-Observatory	1
-flight	3
-theory	1
-Transmission	1
-HETG	4
-after	1
-techniques	1
-it	1
-Chandra	1
-nearly	1
-although	1
-spectrometer	1
-Rowland	1
-fabrication	2
-X-ray	1
-applied	1
-on	1
-essentially	1
-has	2
-presented	2
-transmission	1
-of	8
-Energy	1
-gratings	1
-experience	1
-High	1
-Specifics	1
-five	1
-the	11
-Details	1
+and,3
+spectrometer,1
+For,1
+testing,1
+some,1
+results,1
+effects,1
+years,2
+as,2
+design,2
+Details,1
+Grating,1
+operated,1
+subtle,1
+ray,1
+has,2
+designed,1
+calibration,3
+six,1
+to,1
+phased,1
+grating,1
+ground,2
+details,1
+Observatory,1
+flight,3
+theory,1
+Transmission,1
+HETG,4
+after,1
+techniques,1
+it,1
+Chandra,1
+nearly,1
+although,1
+X,1
+Rowland,1
+fabrication,2
+applied,1
+on,1
+essentially,1
+include,1
+presented,2
+transmission,1
+of,8
+Energy,1
+gratings,1
+experience,1
+High,1
+Specifics,1
+five,1
+the,11
+are,1

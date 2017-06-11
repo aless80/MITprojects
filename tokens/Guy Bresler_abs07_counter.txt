@@ -1,104 +1,97 @@
-
-all	3
-M=N	1
-results	1
-solutions	2
-computation	1
-alignment	4
-We	2
-Jafar	1
-(	1
-,	7
-to	2
-only	1
-degrees	2
-possible	1
-using	2
-K-user	1
-discuss	1
-necessary	1
-d	1
-fully	1
-large	1
-vector	1
-arbitrary	1
-implication	1
-where	2
-feasibility	3
-frequency	2
-are	1
-our	1
-K/2	1
-shown	1
-dimensions	1
-for	4
-space	1
-interference	3
-symmetric	2
-conditions	1
-contrast	1
-available	1
-be	1
-we	2
-receivers	1
-This	1
-along	1
-by	1
-both	1
-freedom	2
-study	1
-extensions	1
-or	2
-Cadambe	1
-arbitrarily	1
-transmitters	1
-number	3
-total	1
-three-user	1
-from	1
-prove	1
-there	1
-question	1
-.	6
-2	1
-Moving	1
-diversity	3
-that	1
-sufficient	1
-N	1
-particular	1
-antennas	3
-cases	1
-with	3
-Schubert	1
-of	10
-and	4
-is	3
-an	1
-characterize	1
-as	2
-at	1
-have	2
-in	3
-sharp	1
-MIMO	1
-beyond	1
-no	2
-)	1
-spatial	1
-transmit	1
-finite	1
-channel	4
-calculus	1
-multiple	1
-users	2
-symbol	1
-time	2
-M	1
-most	1
-additionally	1
-a	2
-well	1
-An	1
-In	1
-the	9
+all,3
+results,1
+solutions,2
+computation,1
+alignment,4
+We,2
+Jafar,1
+to,2
+only,1
+degrees,2
+possible,1
+using,2
+discuss,1
+necessary,1
+d,1
+fully,1
+large,1
+vector,1
+arbitrary,1
+implication,1
+where,2
+feasibility,3
+frequency,2
+are,1
+our,1
+beyond,1
+shown,1
+dimensions,1
+for,4
+space,1
+interference,3
+symmetric,2
+conditions,1
+contrast,1
+available,1
+be,1
+we,2
+receivers,1
+This,1
+K,2
+along,1
+by,1
+both,1
+freedom,2
+study,1
+extensions,1
+or,2
+Cadambe,1
+arbitrarily,1
+transmitters,1
+number,3
+total,1
+from,1
+prove,1
+there,1
+question,1
+three,1
+Moving,1
+diversity,3
+that,1
+sufficient,1
+N,2
+particular,1
+antennas,3
+cases,1
+with,3
+Schubert,1
+of,10
+and,4
+is,3
+an,1
+characterize,1
+as,2
+at,1
+have,2
+in,3
+sharp,1
+MIMO,1
+no,2
+spatial,1
+transmit,1
+finite,1
+channel,4
+calculus,1
+multiple,1
+users,2
+symbol,1
+time,2
+M,2
+most,1
+user,2
+additionally,1
+a,2
+well,1
+An,1
+In,1
+the,9

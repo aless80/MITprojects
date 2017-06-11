@@ -30,10 +30,7 @@ def main(abs_dict):
             abstract=abstract.replace("Abstract: ","")
             title=soup.find("h1", class_="title").text
             try:
-                f=open(filename,"w")
-                #f.write(title)
-                f.write(abstract)
-                f.close()
+                saveTextToFile(abstract, filename)
                 print("   stored in %s" % filename)
             except:
                 print("   could not store in %s !" % filename)
@@ -46,24 +43,37 @@ def tokenize(path="./abstracts/",pathout="./tokens/"):
     from collections import Counter
     import nltk
     import os
+    import re
+    import string
+    #Create the output path
     pathout="./tokens/"
     if not os.path.exists(pathout):
         os.makedirs(pathout)       #mkdir if does not exist
+    #read the files
     filelist=os.listdir(path)
     for filename in filelist:
         f = open(path+filename, 'r')
         text = f.read()
         f.close()
+        #Substitute punctuation, remove non-alpha chars
+        replace_punctuation = string.maketrans(string.punctuation, ' '*len(string.punctuation))
+        text = text.translate(replace_punctuation)
+        text = re.compile(r'[^a-zA-Z\s]').sub('', text)
+        #Count tokens in text
         tokens = nltk.word_tokenize(text)
         counter=Counter(tokens)
         filename_counter = filename.replace(".txt","") + "_counter.txt"
+        #Save the tokens of each abstract to a new file
+        saveCounterToFile(counter, pathout+filename_counter)
         
-        f = open(pathout+filename_counter, 'w')
-        for el in counter.items():
-            f.write('\n'+el[0]+'\t'+str(el[1]))
-        f.close()
 
-    
+def saveTextToFile(text, filename):
+    f=open(filename,"w")
+    f.write(text)
+    f.close()
 
-def saveCounterToFile(cnt):
-    return
+def saveCounterToFile(counter, filename):
+    f = open(filename, 'w')
+    for tup in counter.items():
+        f.write(tup[0]+','+str(tup[1])+'\n')
+    f.close()

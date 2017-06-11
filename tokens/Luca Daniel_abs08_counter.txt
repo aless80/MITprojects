@@ -1,107 +1,102 @@
-
-MEMS	2
-show	1
-developed	1
-over	1
-speedup	1
-ANOVA	1
-existing	1
-sources	1
-paper	1
-identify	1
-We	1
-slow	1
-based	1
-(	1
-,	4
-to	3
-stochastic	3
-thousands	1
-achieve	1
-results	1
-degradation	1
-they	1
-effectiveness	1
-further	1
-Carlo	2
-significantly	1
-simulator	3
-testing	1
-some	2
-anchored	1
-cost	1
-design	2
-are	4
-our	2
-concern	1
-spectral	1
-for	1
-factors	1
-since	1
-approach	2
-consisting	1
-we	1
-recently	1
-This	2
-problems	1
-hundreds	1
-desired	1
-strong	1
-on	3
-Monte	2
-reported	1
-of	5
-simulation	3
-circuit	4
-variance	1
-or	1
-first	1
-major	1
-highly	1
-Therefore	1
-rely	1
-system	1
-fast	3
-.	7
-process	1
-too	1
-today	1
-that	1
-reduce	1
-simulators	2
-degrade	1
-simulate	1
-with	1
-present	1
-novel	1
-Process	1
-variations	2
-reviews	1
-can	4
-many	1
-examples	1
-and	3
-impacts	1
-predict	1
-chip	2
-To	1
-have	1
-in	1
-Then	1
-develop	1
-)	1
-complex	1
-which	2
-performance	2
-several	1
-'s	2
-blocks	1
-variation	1
-such	1
-The	1
-a	4
-analysis	1
-hierarchical	1
-algorithms	1
-the	3
-typically	1
+MEMS,2
+show,1
+developed,1
+over,1
+speedup,1
+ANOVA,1
+existing,1
+sources,1
+paper,1
+identify,1
+We,1
+slow,1
+based,1
+to,3
+stochastic,3
+thousands,1
+achieve,1
+results,1
+degradation,1
+they,1
+effectiveness,1
+further,1
+Carlo,2
+significantly,1
+simulator,3
+testing,1
+some,2
+anchored,1
+cost,1
+design,2
+are,4
+our,2
+concern,1
+spectral,1
+for,1
+factors,1
+since,1
+approach,2
+consisting,1
+we,1
+recently,1
+This,2
+hundreds,1
+desired,1
+strong,1
+on,3
+Monte,2
+reported,1
+many,1
+simulation,3
+s,2
+circuit,4
+variance,1
+or,1
+first,1
+major,1
+highly,1
+Therefore,1
+rely,1
+system,1
+fast,3
+process,1
+too,1
+today,1
+that,1
+reduce,1
+simulators,2
+degrade,1
+simulate,1
+with,1
+present,1
+novel,1
+Process,1
+variations,2
+reviews,1
+can,4
+of,5
+examples,1
+and,3
+impacts,1
+predict,1
+chip,2
+To,1
+have,1
+in,1
+Then,1
+develop,1
+complex,1
+which,2
+performance,2
+several,1
+blocks,1
+problems,1
+variation,1
+such,1
+The,1
+a,4
+analysis,1
+hierarchical,1
+algorithms,1
+the,3
+typically,1

@@ -1,94 +1,93 @@
-
-consider	1
-show	1
-random	1
-results	2
-converge	1
-whose	1
-We	4
-derive	1
-group	2
-,	6
-endogenously	1
-to	1
-systems	4
-remaining	2
-then	1
-which	1
-seeking	1
-satisfied	1
-ones	2
-not	1
-condition	2
-treating	1
-always	1
-consensus	1
-where	1
-weighted	1
-evolving	1
-are	4
-our	1
-special	1
-for	2
-cut-balanced	1
-symmetric	1
-values	3
-be	1
-we	1
-interactions	2
-discrete-time	1
-by	3
-topology	1
-on	1
-interaction	1
-limits	1
-of	3
-amount	1
-time-dependent	1
-Conversely	1
-or	1
-agents	2
-proportional	1
-prove	1
-Models	1
-unknown	1
-two	1
-least	1
-.	7
-:	1
-corresponding	1
-that	2
-These	1
-sufficient	1
-generically	1
-continuous-time	1
-cases	1
-former	1
-these	1
-determined	1
-limit	1
-following	1
-and	1
-e.g.	1
-give	1
-is	3
-sense	1
-agent	3
-conserved	1
-at	1
-in	2
-if	2
-influenced	1
-different	1
-same	1
-also	2
-priori	1
-influences	1
-models	1
-interconnections	1
-involving	1
-such	1
-a	5
-average	1
-allow	1
-the	10
+consider,1
+show,1
+random,1
+results,2
+converge,1
+whose,1
+We,4
+cut,1
+group,2
+endogenously,1
+to,1
+systems,4
+remaining,2
+then,1
+which,1
+seeking,1
+dependent,1
+satisfied,1
+ones,2
+not,1
+condition,2
+treating,1
+always,1
+consensus,1
+discrete,1
+where,1
+weighted,1
+evolving,1
+are,4
+our,1
+special,1
+for,2
+symmetric,1
+values,3
+be,1
+we,1
+interactions,2
+derive,1
+by,3
+topology,1
+on,1
+interaction,1
+g,1
+of,3
+amount,1
+Conversely,1
+or,1
+agents,2
+balanced,1
+proportional,1
+prove,1
+Models,1
+unknown,1
+two,1
+least,1
+corresponding,1
+that,2
+These,1
+sufficient,1
+continuous,1
+generically,1
+cases,1
+former,1
+limits,1
+these,1
+determined,1
+limit,1
+following,1
+and,1
+give,1
+is,3
+in,2
+agent,3
+conserved,1
+at,1
+sense,1
+if,2
+influenced,1
+different,1
+same,1
+also,2
+priori,1
+influences,1
+models,1
+interconnections,1
+involving,1
+such,1
+a,5
+e,1
+average,1
+allow,1
+time,3
+the,10

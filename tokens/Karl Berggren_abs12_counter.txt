@@ -1,110 +1,110 @@
-
-over	1
-resistance	1
-years	1
-discovered	1
-film-based	1
-its	2
-relationships	1
-We	2
-$	10
-(	5
-,	10
-technologically	1
-to	1
-absence	1
-which	1
-quantified	1
-possible	1
-facilitated	1
-scaling	2
-report	1
-experimentally	1
-unique	1
-is	1
-d	1
-further	1
-inherent	1
-disorder	1
-essential	1
-competition	1
-past	1
-usefulness	1
-our	1
-established	1
-for	6
-thickness	1
-critical	1
-between	2
-demonstrated	2
-we	1
-power	1
-R_s	2
-understanding	2
-Thin	1
-Moreover	1
-by	1
-analysing	1
-both	1
-e.g	1
-of	5
-transition	1
-photo-detectors	1
-turn	1
-published	1
-facilitate	1
-origin	1
-quantum-computers	1
-scales	1
-comprehension	1
-sheet	1
-temperature	1
-platform	1
-.	8
-films	3
-universal	1
-form	1
-that	1
-with	1
-NbN	1
-Consequently	1
-intriguing	1
-this	2
-as	1
-devices	2
-thin	2
-believed	1
-enables	1
-and	7
-Furthermore	1
-it	1
-an	2
-miniaturised	1
-superconducting	3
-in	2
-strongly-interacting	1
-film	2
-different	1
-hinders	1
-)	5
-onset	1
-They	1
-development	1
-geometrically-confined	1
-superconductivity	5
-T_c	2
-confirmed	1
-high-Tc	1
-explored	1
-law	1
-data	1
-a	2
-database	1
-analysis	1
-46	1
-materials	1
-electrons	1
-allow	1
-the	9
-d^.	1
-superconducting-to-insulator	1
+photo,1
+over,1
+resistance,1
+years,1
+discovered,1
+confined,1
+its,2
+relationships,1
+We,2
+based,1
+with,1
+technologically,1
+to,2
+absence,1
+insulator,1
+which,1
+quantified,1
+possible,1
+facilitated,1
+scaling,2
+T,2
+report,1
+experimentally,1
+unique,1
+is,1
+d,2
+further,1
+inherent,1
+disorder,1
+essential,1
+competition,1
+past,1
+geometrically,1
+usefulness,1
+quantum,1
+our,1
+established,1
+interacting,1
+for,6
+thickness,1
+critical,1
+between,2
+demonstrated,2
+we,1
+power,1
+understanding,2
+Thin,1
+Moreover,1
+by,1
+analysing,1
+both,1
+c,2
+g,1
+of,5
+computers,1
+turn,1
+s,2
+published,1
+facilitate,1
+origin,1
+and,7
+scales,1
+comprehension,1
+sheet,1
+temperature,1
+platform,1
+films,3
+universal,1
+form,1
+that,1
+R,2
+NbN,1
+Consequently,1
+miniaturised,1
+intriguing,1
+this,2
+as,1
+devices,2
+thin,2
+believed,1
+enables,1
+strongly,1
+transition,1
+Furthermore,1
+it,1
+an,2
+high,1
+superconducting,4
+in,2
+Tc,1
+film,3
+different,1
+hinders,1
+onset,1
+They,1
+development,1
+superconductivity,5
+confirmed,1
+explored,1
+law,1
+data,1
+a,2
+e,1
+database,1
+detectors,1
+analysis,1
+materials,1
+electrons,1
+allow,1
+the,9

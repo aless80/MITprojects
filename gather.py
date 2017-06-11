@@ -66,12 +66,5 @@ def main(stop = 10000):
     	json.dump(abs_dict, outfile)
 	return abs_dict
 
-
-#Notes
-#python onlinewikipedia.py 101; python printtopics.py dictnostops.txt lambda-100.dat
-#python onlinewikipedia.py 2; python printtopics.py dictnostops.txt lambda-1.dat
-#python printtopics.py dictnostops.txt lambda-10.dat
-#https://wellecks.wordpress.com/2014/10/26/ldaoverflow-with-online-lda/
-
 if __name__ == '__main__':
 	main(stop=5)

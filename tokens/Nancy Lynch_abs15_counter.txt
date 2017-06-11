@@ -1,128 +1,122 @@
-
-restriction	2
-consider	1
-existing	1
-multi-message	2
-solutions	1
-networks	1
-low-level	1
-layers	1
-We	3
-(	2
-,	6
-to	2
-setting	1
-under	1
-guarantees	1
-match	1
-then	1
-contention	1
-far	2
-not	2
-using	1
-solves	1
---	1
-signal	1
-MAC	5
-magnitude	1
-each	2
-upper	1
-directly	1
-For	1
--identifying	1
-related	1
-are	2
-enhanced	1
-for	1
-away	1
-investigate	1
-between	1
-new	3
-shows	1
-be	1
-we	3
-power	1
-however	1
-standard	1
-efficiency	3
-key	1
-by	3
-topology	1
-of	6
-study	1
-dependence	1
-propagation	1
-interesting	1
-{	2
-extra	1
-bound	1
-achievable	1
-impossible	1
-given	1
-from	2
-prove	1
-two	1
-.	7
-much	1
-too	2
-is	1
-more	2
-enable	1
-that	5
-These	1
-wireless	1
-link	3
-known	1
-unreliable	3
-than	1
-present	1
-must	1
-case	1
-distance	1
-this	3
-reliable	2
-bounds	1
-devices	2
-while	1
-can	1
-problem	3
-and	4
-layer	4
-abstracting	1
-links	1
-almost	1
-certain	1
-abstract	4
-an	5
-as	1
-assumptions	1
-in	5
-any	1
-capture	1
-)	2
-studying	1
-detail	2
-how	1
-other	2
-details	1
-begin	1
-added	1
-models	2
-In	2
-connected	2
-such	1
-the	9
-structure	1
-a	5
-broadcast	2
-lower	2
-natural	1
-faster	1
-algorithm	1
-order	1
-complexity	1
-time	1
-model	4
-geographic	1
-}	2
-\em	2
+restriction,2
+consider,1
+existing,1
+solutions,1
+networks,1
+layers,1
+We,3
+interesting,1
+to,2
+setting,1
+under,1
+guarantees,1
+match,1
+then,1
+contention,1
+far,2
+not,2
+using,1
+solves,1
+level,1
+signal,1
+identifying,1
+MAC,5
+magnitude,1
+each,2
+em,2
+upper,1
+directly,1
+For,1
+related,1
+are,2
+enhanced,1
+for,1
+away,1
+investigate,1
+between,1
+new,3
+shows,1
+be,1
+we,3
+power,1
+however,1
+standard,1
+efficiency,3
+key,1
+by,3
+topology,1
+of,6
+study,1
+dependence,1
+propagation,1
+extra,1
+bound,1
+achievable,1
+impossible,1
+message,2
+given,1
+from,2
+prove,1
+two,1
+much,1
+low,1
+is,1
+too,2
+enable,1
+that,5
+These,1
+wireless,1
+link,3
+known,1
+unreliable,3
+than,1
+present,1
+must,1
+case,1
+distance,1
+multi,2
+this,3
+reliable,2
+bounds,1
+devices,2
+while,1
+can,1
+problem,3
+more,2
+and,4
+layer,4
+abstracting,1
+links,1
+almost,1
+certain,1
+abstract,4
+an,5
+as,1
+assumptions,1
+in,5
+any,1
+capture,1
+studying,1
+detail,2
+how,1
+other,2
+details,1
+begin,1
+added,1
+models,2
+In,2
+connected,2
+such,1
+the,9
+structure,1
+a,5
+broadcast,2
+lower,2
+natural,1
+faster,1
+algorithm,1
+complexity,1
+time,1
+model,4
+geographic,1
+order,1

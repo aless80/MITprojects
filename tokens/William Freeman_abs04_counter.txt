@@ -1,90 +1,87 @@
-
-similarity	1
-essence	1
-statistical	1
-We	2
-based	1
-(	2
-,	7
-source	1
-complex	1
-has	1
-them	1
-propose	1
-novel	1
-background	1
-using	1
-deformations	1
-success	1
---	1
-each	1
-where	1
-consistent	1
-measure	1
-matching	1
-for	1
-justifies	1
-template	1
-between	1
-geometric	1
-method	1
-Pairs	1
-real-world	1
-key	1
-properties	1
-on	2
-pairs	1
-of	7
-study	1
-against	1
-neighbor	1
-useful	1
-features	2
-point	1
-number	1
-environments	1
-dataset	1
-such	1
-from	1
-two	1
-.	5
-outliers	1
-that	2
-Best-Buddies	2
-BBS	4
-those	1
-occlusions	1
-parameter-free	1
-BBPs	1
-target	1
-Similarity	1
-these	1
-while	1
-demonstrate	1
-and	5
-nearest	1
-challenging	1
-is	3
-it	1
-high	1
-as	1
-clutter	1
-in	2
-counting	1
-different	1
-)	2
-make	1
-other	1
-unconstrained	1
-several	1
-levels	1
-robust	2
-types	1
-a	4
-analysis	1
-provide	1
-points	2
-sets	2
-the	5
-arising	1
-Its	1
+similarity,1
+essence,1
+statistical,1
+using,1
+We,2
+based,1
+source,1
+complex,1
+has,1
+real,1
+them,1
+propose,1
+Buddies,2
+novel,1
+background,1
+world,1
+deformations,1
+success,1
+each,1
+where,1
+consistent,1
+measure,1
+matching,1
+for,1
+justifies,1
+template,1
+between,1
+geometric,1
+method,1
+Pairs,1
+free,1
+key,1
+properties,1
+on,2
+pairs,1
+of,7
+study,1
+against,1
+neighbor,1
+Best,2
+useful,1
+features,2
+point,1
+number,1
+environments,1
+dataset,1
+such,1
+from,1
+two,1
+outliers,1
+that,2
+BBS,4
+those,1
+occlusions,1
+BBPs,1
+target,1
+Similarity,1
+these,1
+while,1
+demonstrate,1
+and,5
+nearest,1
+challenging,1
+is,3
+it,1
+high,1
+as,1
+clutter,1
+in,2
+counting,1
+different,1
+provide,1
+make,1
+other,1
+unconstrained,1
+several,1
+parameter,1
+levels,1
+robust,2
+types,1
+a,4
+analysis,1
+points,2
+sets,2
+the,5
+arising,1
+Its,1

@@ -1,39 +1,38 @@
-
-distances	1
-show	1
-at	1
-quantum	1
-'s	1
-binary	1
-We	1
-keying	1
-to	1
-)	3
-(	3
-that	1
-.	2
-phase-shift	1
-rates	1
-BPSK	1
-achieve	1
-be	1
-multiple	1
-FL-QKD	2
-Gbps	1
-by	1
-optical	1
-uses	1
-key	1
-using	1
-distribution	1
-PSK	1
-modes	1
-32-ary	1
-of	1
-doubled	1
-metropolitan-area	1
-can	1
-secret-key	1
-Floodlight	1
-SKRs	1
-SKR	1
+distances,1
+metropolitan,1
+show,1
+ary,1
+at,1
+quantum,1
+FL,2
+binary,1
+We,1
+keying,1
+area,1
+SKR,1
+QKD,2
+to,1
+secret,1
+rates,1
+BPSK,1
+achieve,1
+be,1
+multiple,1
+that,1
+Gbps,1
+by,1
+optical,1
+uses,1
+key,2
+phase,1
+using,1
+distribution,1
+PSK,1
+modes,1
+shift,1
+doubled,1
+s,1
+can,1
+of,1
+Floodlight,1
+SKRs,1

@@ -1,82 +1,75 @@
-
-composed	1
-and	2
-set	1
-Based	1
-consider	1
-issued	1
-is	3
-strategy	1
-,	2
-states	1
-not	1
-as	2
-reported	1
-at	1
-another	1
-in	2
-scheduling	2
-existence	1
-operation	1
-recover	1
-its	1
-We	2
-from	1
-processors	5
-to	1
-)	1
-(	1
-selected	1
-system	4
-long	1
-.	9
-reconfigure	1
-indicate	1
-only	1
-does	1
-location	1
-drawn	1
-allowing	1
-faulty	3
-approximately	1
-occurs	1
-choose	1
-A	2
-case	1
-bound	1
-tight	1
-This	1
-precise	1
-never	1
-N/n	1
-but	1
-N	1
-most	1
-worst	1
-satisfactorily	2
-scheduler	1
-Our	1
-report	3
-The	2
-operates	1
-problem	1
-pool	1
-$	12
-a	4
-on	1
-exhibit	1
-faults	1
-f	2
-whenever	1
-of	5
-until	1
-n	3
-this	1
-while	1
-can	2
-fault	2
-following	1
-become	1
-the	7
-operate	1
-are	2
+composed,1
+and,2
+set,1
+Based,1
+consider,1
+issued,1
+is,3
+bound,1
+operates,1
+states,1
+not,1
+as,2
+reported,1
+at,1
+another,1
+in,2
+scheduling,2
+existence,1
+operation,1
+recover,1
+its,1
+We,2
+from,1
+processors,5
+to,1
+selected,1
+system,4
+long,1
+strategy,1
+reconfigure,1
+indicate,1
+only,1
+does,1
+location,1
+drawn,1
+allowing,1
+faulty,3
+approximately,1
+occurs,1
+choose,1
+A,2
+case,1
+tight,1
+This,1
+precise,1
+never,1
+but,1
+N,2
+most,1
+worst,1
+satisfactorily,2
+scheduler,1
+Our,1
+report,3
+The,2
+problem,1
+pool,1
+a,4
+on,1
+exhibit,1
+faults,1
+f,2
+whenever,1
+of,5
+until,1
+n,4
+this,1
+while,1
+can,2
+fault,2
+following,1
+become,1
+the,7
+operate,1
+are,2

@@ -1,95 +1,90 @@
-
-distances	1
-all	1
-protocol	3
-captures	1
-amplifier	1
-Compared	1
-augments	1
-amplified	1
-We	1
-photons	1
-,	3
-terminal	2
-source	1
-add	1
-has	1
-to	2
-propose	1
-two-way	1
-Alice	4
-they	1
-bit	1
-realize	1
-loss	1
-lost	1
-50	1
-prevailing	1
-employing	1
-methods	1
-direct	1
-quantum-secured	1
-3.5	1
-ultrabroadband	1
-quantum	2
-monitors	1
-injects	1
-per	1
-increase	1
-downconverter	1
-secure-communication	1
-Against	1
-key	4
-Bob	4
-by	1
-both	1
-eavesdropper	2
-of	1
-against	1
-range	2
-own	1
-secure	1
-communication	1
-into	1
-linking	1
-significantly	1
-keying	1
-her	2
-capable	1
-long	1
-.	4
-2	1
-rates	1
-that	1
-Gbps	2
-emission	1
-optical	1
-with	2
-this	2
-while	1
-can	1
-many	1
-distribution	2
-spontaneous	2
-and	4
-is	1
-an	4
-at	3
-employs	1
-in	2
-binary	1
-fibers	1
-phase-shift	1
-potential	1
-which	1
-channel	2
-'s	1
-who	2
-uses	1
-a	2
-mitigate	1
-light	2
-km	1
-the	2
-parametric	1
-If	1
+distances,1
+all,1
+protocol,3
+captures,1
+amplifier,1
+Compared,1
+augments,1
+amplified,1
+We,1
+photons,1
+terminal,2
+to,2
+add,1
+has,1
+propose,1
+Alice,4
+they,1
+bit,1
+realize,1
+loss,1
+lost,1
+source,1
+prevailing,1
+employing,1
+methods,1
+direct,1
+quantum,3
+monitors,1
+injects,1
+per,1
+increase,1
+downconverter,1
+Against,1
+key,4
+Bob,4
+by,1
+both,1
+eavesdropper,2
+many,1
+capable,1
+against,1
+range,2
+own,1
+secure,2
+communication,2
+into,1
+linking,1
+significantly,1
+keying,1
+her,2
+ultrabroadband,1
+two,1
+long,1
+rates,1
+way,1
+that,1
+Gbps,2
+emission,1
+optical,1
+with,2
+this,2
+while,1
+can,1
+of,1
+distribution,2
+spontaneous,2
+and,4
+is,1
+an,4
+at,3
+employs,1
+in,2
+shift,1
+binary,1
+fibers,1
+secured,1
+s,1
+potential,1
+which,1
+channel,2
+who,2
+uses,1
+phase,1
+a,2
+mitigate,1
+light,2
+km,1
+the,2
+parametric,1
+If,1

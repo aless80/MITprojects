@@ -1,79 +1,74 @@
-
-and	3
-all	1
-encoding	1
-energy	1
-relaxation	1
-find	1
-direct	1
-feasibility	1
-characterize	1
-superconducting	1
-frequency	1
-analyzing	1
-in	3
-quantum	1
-dynamics	1
-times	1
-its	1
-ground	1
-sequentially	1
-information	1
-We	3
-transitions	1
-from	1
-$	4
-for	3
-decay	3
-provide	1
-demonstrate	1
-measurements	1
-,	2
-.	5
-dispersion	1
-to	2
-state	2
-sequential	1
-fourth	1
-consecutive	1
-beating	1
-By	1
-excess	1
-higher	2
-measurement	1
-we	1
--pulses	1
-\pi	1
-qubits	1
-mainly	1
-\mu	1
-coherence	2
-excite	1
-charge	1
-results	1
-by	1
-levels	3
-successive	1
-transmon	2
-20	1
-The	1
-with	1
-the	6
-present	1
-proceed	1
-a	2
-also	1
-applying	1
-using	1
-level	1
-these	1
-of	8
-transition	1
-up	1
-excited	1
-patterns	1
-s	1
-fringes	1
-each	2
-Ramsey	1
-qubit	2
+and,3
+all,1
+encoding,1
+energy,1
+relaxation,1
+mainly,1
+direct,1
+feasibility,1
+characterize,1
+superconducting,1
+frequency,1
+pulses,1
+in,3
+quantum,1
+dynamics,1
+times,1
+its,1
+ground,1
+sequentially,1
+information,1
+We,3
+transitions,1
+from,1
+proceed,1
+for,3
+decay,3
+provide,1
+demonstrate,1
+measurements,1
+charge,1
+find,1
+dispersion,1
+to,2
+state,2
+sequential,1
+fourth,1
+consecutive,1
+pi,1
+By,1
+excess,1
+higher,2
+measurement,1
+we,1
+qubits,1
+coherence,2
+excite,1
+results,1
+by,1
+levels,3
+successive,1
+transmon,2
+using,1
+The,1
+with,1
+the,6
+present,1
+a,2
+also,1
+beating,1
+applying,1
+level,1
+these,1
+of,8
+transition,1
+up,1
+excited,1
+mu,1
+patterns,1
+s,1
+fringes,1
+each,2
+analyzing,1
+qubit,2
+Ramsey,1

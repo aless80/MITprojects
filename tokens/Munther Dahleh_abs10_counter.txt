@@ -1,119 +1,109 @@
-
-all	1
-show	1
-random	2
-focus	1
-paper	1
-whose	1
-based	1
-(	2
-less	1
-,	11
-to	3
-4	1
-theorem	1
-main	1
-joint	2
-entire	1
-lceil	1
-d	1
-discrete	1
-output	1
-stationary	2
-the	13
-computed	1
-namely	1
-are	2
-quasi-HMMs	1
-techniques	1
-matrix	1
-for	1
-space	1
-HMM	3
-state	1
-quasi-HMM	1
-decomposition	1
-minimal	2
-be	2
-we	4
-theory	1
-recent	1
-latent	1
-by	1
-both	1
-of	9
-k	2
-transition	1
-equal	1
-length	2
-assumed	1
-rceil	1
-or	1
-Given	1
-probability	1
-learning	1
-generative	1
-Markov	1
-size	1
-log_d	1
-probabilities	2
-unknown	1
-strictly	1
-HMMs	3
-two	2
-.	5
-almost	1
-realization	3
-:	2
->	1
-that	1
-N	2
-everywhere	1
-particular	1
-general	1
-with	2
-than	1
-Consider	1
-this	1
-aim	1
-classes	1
-can	1
-connect	1
-and	6
-compare	1
-larger	1
-process	5
-is	3
-describe	1
-an	2
-in	3
-Hidden	1
-if	1
-containing	1
-)	2
-alphabet	1
-+1	1
-also	1
-interested	1
-which	2
-finding	1
-finite	2
-parameter	1
-tensor	1
-development	1
-literature	1
-models	3
-generated	1
-variable	1
-Model	1
-on	3
-class	1
-efficiently	1
-a	3
-observation	1
-lines	1
-strings	2
-In	3
-position	1
-model	1
-order	1
+all,1
+show,1
+random,2
+focus,1
+paper,1
+whose,1
+based,1
+less,1
+to,3
+quasi,2
+theorem,1
+main,1
+joint,2
+entire,1
+lceil,1
+d,2
+discrete,1
+output,1
+stationary,2
+the,13
+computed,1
+namely,1
+are,2
+techniques,1
+matrix,1
+for,1
+space,1
+HMM,4
+state,1
+decomposition,1
+minimal,2
+be,2
+we,4
+theory,1
+latent,1
+by,1
+both,1
+of,9
+k,2
+transition,1
+equal,1
+length,2
+assumed,1
+rceil,1
+or,1
+Given,1
+probability,1
+learning,1
+generative,1
+Markov,1
+size,1
+log,1
+probabilities,2
+unknown,1
+strictly,1
+HMMs,4
+two,2
+almost,1
+realization,3
+recent,1
+that,1
+N,2
+everywhere,1
+particular,1
+general,1
+with,2
+than,1
+Consider,1
+this,1
+aim,1
+classes,1
+can,1
+connect,1
+and,6
+compare,1
+larger,1
+process,5
+is,3
+describe,1
+an,2
+in,3
+Hidden,1
+if,1
+containing,1
+alphabet,1
+also,1
+interested,1
+which,2
+finding,1
+finite,2
+parameter,1
+tensor,1
+development,1
+literature,1
+models,3
+generated,1
+variable,1
+Model,1
+on,3
+class,1
+efficiently,1
+a,3
+observation,1
+lines,1
+strings,2
+In,3
+position,1
+model,1
+order,1

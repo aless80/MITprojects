@@ -1,31 +1,28 @@
-
-simple	1
-is	2
-within	1
-number	1
-one	1
-as	1
-1+1/1080-\varepsilon	1
-another	1
-We	1
-polygon	1
-prove	1
-orthogonal	1
-,	1
-.	1
-to	2
-factor	1
-into	1
-that	1
-fewest	1
-given	1
-it	1
-using	1
-approximating	1
-pieces	2
-$	2
-a	2
-of	2
-dissect	1
-the	1
-NP-hard	1
+simple,1
+into,1
+hard,1
+number,1
+one,1
+as,1
+another,1
+We,1
+polygon,1
+prove,1
+orthogonal,1
+to,2
+factor,1
+NP,1
+is,2
+within,1
+that,1
+fewest,1
+given,1
+it,1
+using,1
+approximating,1
+pieces,2
+a,2
+varepsilon,1
+of,2
+dissect,1
+the,1

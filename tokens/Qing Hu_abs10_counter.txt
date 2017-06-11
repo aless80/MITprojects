@@ -1,107 +1,101 @@
-
-gold	1
-thresholds	1
-bandgap	1
-Compared	1
-mechanism	1
-scattering	2
-find	2
-We	1
-density	1
-(	2
-,	5
-passive	1
-to	2
-detected	1
-systems	1
-input	1
-excited	1
-diodes	1
-they	2
-speculate	1
-polariton	2
-THz	1
-incoherent	1
-sideband	1
-higher	1
-comparable	1
-intensity	1
-are	2
-quantum	2
-wavelength	1
-transitions	1
-spectral	1
-semiconductor	1
-may	1
-between	1
-utility	1
-all-optical	1
-be	2
-we	2
-noise	1
-mechanisms	1
-atom-like	1
-strongly-coupled	1
-shifting	1
-by	1
-observable	1
-of	3
-study	1
-times	1
-sensitive	1
-localised	1
-down	1
-telecommunications	1
-readily	1
-system	1
-.	4
-aperture	1
-more	1
-``	2
-that	4
-formed	1
-coherent	1
-optical	1
-coherently	1
-with	2
-than	2
-laser	2
-can	2
-SC	1
-SB	3
-scatter	1
-and	4
-intersubband	1
-polaritons	1
-give	1
-is	2
-spectrum	1
-''	2
-as	1
-at	1
-in	3
-sharp	1
-floor	1
-)	2
-radiation	1
-same	1
-strikingly	1
-also	1
-other	1
-events	1
-2500	1
-optically	1
-peaks	1
-excitation	2
-backscattered	1
-track	1
-effect	1
-edges	1
-The	2
-a	6
-lower	1
-modes	1
-cascade	1
-nanostructure	1
-the	8
-order	1
+all,1
+gold,1
+thresholds,1
+bandgap,1
+Compared,1
+mechanism,1
+scattering,2
+find,2
+We,1
+density,1
+passive,1
+to,2
+detected,1
+systems,1
+input,1
+excited,1
+diodes,1
+they,2
+speculate,1
+polariton,2
+THz,1
+incoherent,1
+sideband,1
+we,2
+intensity,1
+are,2
+quantum,2
+wavelength,1
+transitions,1
+spectral,1
+semiconductor,1
+may,1
+between,1
+utility,1
+be,2
+comparable,1
+noise,1
+mechanisms,1
+like,1
+shifting,1
+by,1
+observable,1
+of,3
+study,1
+times,1
+sensitive,1
+and,4
+localised,1
+down,1
+telecommunications,1
+readily,1
+give,1
+system,1
+aperture,1
+more,1
+that,4
+formed,1
+coherent,1
+optical,2
+coherently,1
+atom,1
+with,2
+than,2
+laser,2
+can,2
+SC,1
+SB,3
+scatter,1
+strongly,1
+intersubband,1
+polaritons,1
+coupled,1
+is,2
+spectrum,1
+as,1
+at,1
+in,3
+sharp,1
+floor,1
+radiation,1
+same,1
+strikingly,1
+also,1
+other,1
+events,1
+higher,1
+optically,1
+peaks,1
+excitation,2
+backscattered,1
+track,1
+effect,1
+edges,1
+The,2
+a,6
+lower,1
+modes,1
+cascade,1
+nanostructure,1
+the,8
+order,1

@@ -1,88 +1,85 @@
-
-show	1
-accurate	1
-sources	1
-experiments	1
-radio	2
-statistical	2
-its	1
-synthetic	1
-We	4
-parameters	1
-produces	1
-,	4
-to	3
-combine	1
-location	1
-under	1
-stochastic	1
-real	1
-introduce	1
-framework	1
-procedures	1
-arbitrary	1
-popular	1
-set	1
-estimates	1
-our	1
-principled	1
-for	2
-gradient	1
-integration	1
-state	1
-provides	1
-new	1
-movement	2
-both	1
-radio-tagged	1
-package	1
-of	3
-estimation	1
-software	1
-via	1
-features	1
-conclude	1
-appropriate	1
-ecology	1
-learning	1
-apply	1
-asymptotic	1
-.	5
-their	1
-way	1
-graphical	1
-that	2
-with	2
-datasets	1
-animals	1
-demonstrate	1
-and	6
-coupled	1
-describe	1
-it	1
-an	3
-outperforms	1
-single	1
-in	1
-different	1
-efficient	1
-telemetry	2
-also	1
-fitting	1
-animal	1
-spatial	1
-interpretable	1
-effectiveness	1
-parameter	1
-used	1
-userdefined	1
-most	1
-The	1
-data	3
-model	5
-a	3
-tracking	1
-algorithm	1
-analysis	1
-patterns	1
-the	1
+and,6
+tagged,1
+set,1
+features,1
+show,1
+accurate,1
+describe,1
+ecology,1
+it,1
+an,3
+outperforms,1
+single,1
+via,1
+radio,3
+learning,1
+our,1
+apply,1
+principled,1
+its,1
+synthetic,1
+We,4
+asymptotic,1
+for,2
+to,3
+efficient,1
+with,2
+that,2
+telemetry,2
+integration,1
+produces,1
+procedures,1
+their,1
+fitting,1
+combine,1
+location,1
+provides,1
+spatial,1
+new,1
+interpretable,1
+effectiveness,1
+parameter,1
+movement,2
+real,1
+graphical,1
+used,1
+coupled,1
+way,1
+userdefined,1
+conclude,1
+estimates,1
+in,1
+gradient,1
+different,1
+introduce,1
+most,1
+datasets,1
+under,1
+stochastic,1
+The,1
+state,1
+data,3
+the,1
+animal,1
+a,3
+also,1
+tracking,1
+animals,1
+parameters,1
+algorithm,1
+package,1
+of,3
+statistical,2
+framework,1
+appropriate,1
+analysis,1
+patterns,1
+experiments,1
+sources,1
+arbitrary,1
+popular,1
+demonstrate,1
+model,5
+estimation,1
+both,1
+software,1

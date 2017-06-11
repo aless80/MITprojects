@@ -1,166 +1,161 @@
-
-limited	1
-QAP	3
-proposed	1
-similarity	1
-over	3
-lack	1
-existing	2
-leads	1
-paper	1
-generalize	1
-human	1
-networks	5
-alignment	7
-consider	1
-synthetic	2
-heuristic	1
-We	1
-(	2
-,	8
-to	7
-only	1
-Although	1
-employed	1
-has	1
-real	1
-mismatches	1
-orthogonal	1
-matches	1
-propose	1
-scalable	1
-methods	3
-framework	2
-ones	1
-mismatched	2
-not	1
-matched	1
-subgraphs	1
-level	1
-exploiting	1
-method	2
-underlying	1
-eigenvalues	1
-where	1
-Network	1
-weight	1
-twitter	1
-de-anonymization	1
-worm	1
-connections	1
-owing	1
-expect	1
-our	1
-principled	1
-classes	1
-matching	1
-techniques	1
-spectral	4
-and/or	1
-network	9
-for	2
-Moreover	1
-both	1
-critical	1
-various	2
-theoretically	1
-between	1
-new	1
-;	1
-across	3
-be	2
-we	3
-provide	1
-interactions	2
-This	2
-attention	1
-standard	1
-relaxation	1
-regulatory	1
-refers	1
-by	1
-transformations	1
-received	1
-of	15
-through	1
-objective	2
-simulations	1
-gene	1
-user	1
-into	1
-number	2
-assess	1
-follower	1
-maximize	1
-bijective	1
-expensive	1
-often	1
-clustering	1
-use	1
-takes	1
-two	2
-been	1
-.	9
-quadratic	2
-low	1
-theoretical	1
-therefore	1
-function	2
-eigenvectors	1
-that	1
-adjacency	1
-overlapping	1
-than	1
-partially	1
-fly	1
-account	1
-this	1
-science	1
-maximum	1
-cast	1
-optimization	2
-can	2
-Our	2
-problem	5
-more	1
-and	8
-certain	1
-is	1
-formulation	1
-it	1
-an	2
-outperforms	1
-as	2
-have	2
-in	8
-comparative	1
-different	1
-justification	1
-)	2
-relaxations	1
-also	1
-which	1
-finding	1
-effectiveness	1
-models	1
-assignment	1
-sets	1
-problems	1
-mapping	1
-real-data	1
-applications	2
-edges	1
-uses	1
-but	1
-significant	1
-such	1
-a	6
-ellipsoidal	1
-algorithm	1
-minimize	1
-vertices	1
-analysis	1
-graphs	2
-In	1
-the	13
-bipartite	1
+limited,1
+QAP,3
+proposed,1
+similarity,1
+over,3
+lack,1
+existing,2
+leads,1
+paper,1
+generalize,1
+human,1
+networks,5
+alignment,7
+consider,1
+synthetic,2
+heuristic,1
+We,1
+to,7
+only,1
+Although,1
+employed,1
+has,1
+real,2
+mismatches,1
+orthogonal,1
+matches,1
+propose,1
+de,1
+scalable,1
+methods,3
+objective,2
+ones,1
+mismatched,2
+not,1
+matched,1
+subgraphs,1
+level,1
+exploiting,1
+method,2
+underlying,1
+eigenvalues,1
+where,1
+Network,1
+weight,1
+twitter,1
+worm,1
+connections,1
+owing,1
+expect,1
+our,1
+principled,1
+classes,1
+matching,1
+techniques,1
+spectral,4
+network,9
+for,2
+Moreover,1
+both,1
+critical,1
+various,2
+theoretically,1
+between,1
+new,1
+across,3
+be,2
+we,3
+justification,1
+interactions,2
+This,2
+attention,1
+standard,1
+relaxation,1
+regulatory,1
+refers,1
+by,1
+transformations,1
+received,1
+of,15
+through,1
+simulations,1
+gene,1
+or,1
+user,1
+into,1
+number,2
+assess,1
+follower,1
+maximize,1
+bijective,1
+expensive,1
+often,1
+clustering,1
+use,1
+takes,1
+two,2
+been,1
+quadratic,2
+low,1
+theoretical,1
+therefore,1
+function,2
+eigenvectors,1
+that,1
+adjacency,1
+overlapping,1
+anonymization,1
+than,1
+partially,1
+fly,1
+account,1
+this,1
+science,1
+maximum,1
+cast,1
+optimization,2
+can,2
+Our,2
+problem,5
+more,1
+and,9
+certain,1
+is,1
+formulation,1
+it,1
+an,2
+outperforms,1
+as,2
+have,2
+in,8
+comparative,1
+different,1
+provide,1
+relaxations,1
+also,1
+which,1
+finding,1
+effectiveness,1
+models,1
+assignment,1
+sets,1
+problems,1
+mapping,1
+applications,2
+edges,1
+uses,1
+but,1
+significant,1
+such,1
+data,1
+a,6
+ellipsoidal,1
+algorithm,1
+framework,2
+minimize,1
+vertices,1
+analysis,1
+graphs,2
+In,1
+the,13
+bipartite,1

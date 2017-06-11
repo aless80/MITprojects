@@ -1,50 +1,47 @@
-
-and	2
-show	1
-forbidden	1
-arise	1
-some	1
-relative	1
-are	1
-in	1
-Hopf	3
-We	3
-from	1
-commutative	1
-for	1
-their	1
-monoid	1
-algebra	1
-,	6
-.	4
-forms	1
-combinatorial	1
-various	1
-between	1
-algebras	1
-specializations	2
-naturally	1
-theory	2
-that	2
-This	1
-thus	1
-functions	3
-complexes	3
-link	1
-demonstrating	1
-coming	1
-composition	1
-class	1
-quasisymmetric	2
-a	2
-also	2
-Ehrhart	2
-these	1
-invariants	1
-study	1
-Hilbert	1
-investigate	1
-of	3
-called	1
-monoids	1
-simplicial	1
+and,2
+show,1
+forbidden,1
+arise,1
+some,1
+relative,1
+are,1
+in,1
+Hopf,3
+We,3
+from,1
+commutative,1
+for,1
+combinatorial,1
+monoid,1
+algebra,1
+forms,1
+their,1
+various,1
+between,1
+algebras,1
+specializations,2
+naturally,1
+theory,2
+that,2
+This,1
+thus,1
+functions,3
+complexes,3
+link,1
+demonstrating,1
+coming,1
+composition,1
+class,1
+quasisymmetric,2
+a,2
+also,2
+Ehrhart,2
+these,1
+invariants,1
+study,1
+Hilbert,1
+investigate,1
+of,3
+called,1
+monoids,1
+simplicial,1

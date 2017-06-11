@@ -1,65 +1,60 @@
-
-and	3
-limited	1
-curate	1
-dataset	2
-challenges	1
-platform	1
-have	1
-in	1
-Relational	1
-ability	2
-We	1
-git	1
-system	2
-for	1
-merge	1
-)	2
-(	2
-support	1
-,	10
-.	3
-to	2
-version	4
-collections	1
-systems	1
-branch	1
-perform	1
-analyze	1
-collaboration	1
-divergent	1
-building	1
-we	1
-users	2
-collaborative	1
-that	1
-propose	1
-Inspired	1
-providing	1
-collaboratively	1
-control	4
-b	1
-scale	1
-DataHub	1
-difference	1
-data	2
-by	1
-outline	1
-a	3
-on	1
-search	1
-datasets	2
-like	1
-this	1
-of	1
-analysis	1
-teams	1
-large	2
-giving	1
-databases	1
-at	1
-the	3
-gives	1
-where	1
-create	1
-software	1
+and,3
+limited,1
+curate,1
+dataset,2
+challenges,1
+at,1
+have,1
+in,1
+Relational,1
+ability,2
+We,1
+git,1
+for,1
+platform,1
+giving,1
+support,1
+system,2
+to,2
+version,4
+collections,1
+systems,1
+branch,1
+perform,1
+analyze,1
+collaboration,1
+divergent,1
+building,1
+we,1
+users,2
+collaborative,1
+that,1
+propose,1
+Inspired,1
+providing,1
+collaboratively,1
+control,4
+b,1
+scale,1
+DataHub,1
+difference,1
+data,2
+by,1
+outline,1
+a,3
+on,1
+search,1
+datasets,2
+like,1
+this,1
+of,1
+analysis,1
+teams,1
+large,2
+merge,1
+databases,1
+the,3
+gives,1
+where,1
+create,1
+software,1

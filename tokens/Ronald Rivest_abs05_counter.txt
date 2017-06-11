@@ -1,70 +1,63 @@
-
-and	3
-post-election	1
-via	1
-constant	1
-obtained	1
-simple	1
-is	3
-a-b	1
-Lindeman	1
-Stark	1
-an	1
-ballot-polling	1
-paper	1
-numbers	1
-simulations	1
-satisfies	1
-are	1
-sequentially	1
-DiffSum	2
-votes	1
-compared	1
-draws	1
-$	16
-for	2
-)	4
-(	4
-^2	1
-winner	1
-,	7
-.	4
-presents	1
-two-candidate	1
-candidates	1
-audit	1
-election	1
-a+b	1
-ballots	1
-until	1
-Yates	1
->	2
-A	2
-risk-limiting	1
-B	1
-Bravo	1
-This	1
-incorrect	1
-Bounds	1
-approving	1
-reported	1
-chance	1
-plurality	1
-The	1
-with	1
-outcome	1
-a	4
-on	1
-c	2
-b	2
-suitably	1
-of	3
-elections	1
-method	2
-chosen	1
-without	1
-error	1
-the	4
-rate	1
-where	1
-replacement	1
+and,3
+via,1
+constant,1
+obtained,1
+simple,1
+is,3
+Lindeman,1
+Stark,1
+an,1
+rate,1
+paper,1
+election,2
+numbers,1
+simulations,1
+satisfies,1
+ballot,1
+The,1
+are,1
+sequentially,1
+DiffSum,2
+votes,1
+compared,1
+draws,1
+for,2
+chosen,1
+winner,1
+two,1
+presents,1
+method,2
+candidates,1
+ballots,1
+until,1
+Yates,1
+A,2
+audit,1
+B,1
+risk,1
+Bravo,1
+This,1
+incorrect,1
+Bounds,1
+approving,1
+reported,1
+chance,1
+plurality,1
+post,1
+with,1
+a,6
+on,1
+c,2
+b,4
+candidate,1
+suitably,1
+of,3
+elections,1
+limiting,1
+without,1
+polling,1
+error,1
+the,4
+outcome,1
+where,1
+replacement,1

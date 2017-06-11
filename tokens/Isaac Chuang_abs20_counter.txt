@@ -1,114 +1,110 @@
-
-particularly	1
-extensively	1
-paper	1
-generalize	1
-computation	2
-find	1
-We	1
-based	1
-interesting	1
-,	8
-to	4
-only	1
-systems	1
-them	1
-framework	2
-entangled	2
-not	1
-resource	4
-possibilities	2
-inherent	1
-spins	1
-view	1
-the	7
-schemes	1
-many-body	2
-platforms	1
-been	1
-Fermions	1
-measurement	1
-quantum	4
-manipulating	1
-beyond	1
-specific	1
-for	3
-measurements	1
-However	1
-particles	1
-state	3
-version	1
-progress	1
-be	3
-we	2
-full	1
-processing	1
-care	1
-on	2
-of	7
-study	1
-studied	1
-(	1
-spin	1
-suitable	1
-MBQC	6
-major	1
-gases	1
-projected	1
-readily	1
-or	1
-construct	1
-.	7
-bosons	1
-fermions	1
-taken	1
-Such	1
-universal	1
-opens	1
-more	2
-a	5
-that	1
-it	1
-properly	1
-particular	1
-known	1
-with	2
-fermionic	5
-this	1
-single	1
-can	3
-demonstrate	1
-enables	1
-and	2
-give	1
-is	2
-site	1
-general	1
-states	4
-proper	1
-as	2
-have	1
-in	4
-formalism	1
-fermion	3
-information	1
-measurement-based	1
-provide	2
-ultracold	1
-how	1
-which	5
-finding	1
-used	1
-lab	1
-pair	1
-class	1
-recent	1
-implements	1
-non-locality	1
-realized	1
-up	1
-One	1
-)	1
-In	2
-representation	1
-model	1
+particularly,1
+projected,1
+paper,1
+generalize,1
+computation,2
+extensively,1
+find,1
+We,1
+based,2
+interesting,1
+to,4
+only,1
+systems,1
+them,1
+framework,2
+entangled,2
+not,1
+resource,4
+possibilities,2
+inherent,1
+spins,1
+view,1
+the,7
+schemes,1
+up,1
+platforms,1
+been,1
+Fermions,1
+measurement,2
+quantum,4
+manipulating,1
+beyond,1
+specific,1
+for,3
+measurements,1
+However,1
+particles,1
+state,3
+version,1
+progress,1
+body,2
+be,3
+we,2
+full,1
+processing,1
+care,1
+on,2
+of,7
+study,1
+studied,1
+spin,1
+suitable,1
+MBQC,6
+major,1
+non,1
+gases,1
+readily,1
+or,1
+construct,1
+bosons,1
+fermions,1
+taken,1
+Such,1
+universal,1
+opens,1
+more,2
+a,5
+that,1
+it,1
+properly,1
+particular,1
+known,1
+with,2
+fermionic,5
+this,1
+single,1
+can,3
+many,2
+demonstrate,1
+enables,1
+and,2
+give,1
+is,2
+site,1
+general,1
+states,4
+proper,1
+as,2
+have,1
+in,4
+formalism,1
+fermion,3
+information,1
+locality,1
+provide,2
+ultracold,1
+how,1
+which,5
+finding,1
+used,1
+lab,1
+pair,1
+class,1
+recent,1
+implements,1
+realized,1
+One,1
+In,2
+representation,1
+model,1

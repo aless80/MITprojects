@@ -1,137 +1,122 @@
-
-show	1
-random	1
-results	1
-bounded-degree	1
-relation	1
-query	3
-its	2
-whose	1
-We	3
-depend	1
-$	28
-sublinear-time	1
-graph	5
-G=	1
-,	10
-should	3
-0	1
-belongs	1
-then	1
-\sqrt	1
-matches	1
-possible	1
-choice	1
-decide	1
-fall	1
-not	2
-categories	1
-1+\epsilon	1
-=	1
-this	1
-sparse	1
-queries	1
-small	1
-fixed	1
-upper	1
-consistent	1
-design	1
-result	1
-|V|	3
-\Omega	1
-both	1
-'	4
-decision	1
-per	1
-does	1
-designing	1
-be	5
-we	1
-G	5
-This	1
-expansion	2
-by	1
-on	2
-of	9
-study	1
-initiate	1
-(	14
-bounded	1
-{	2
-first	1
-strongly	1
-into	1
-obtaining	2
-bound	2
-randomized	1
-such	1
-open	1
-given	3
-to	2
-coins	1
-question	1
-two	1
-.	8
-Such	1
-analyze	1
-is	2
->	1
-that	6
-but	1
-V	2
-general	1
-with	2
-must	1
-non-expanding	1
-whether	1
-v	3
-problem	2
-are	1
-and	6
-do	1
-\epsilon	1
-an	3
-high	2
-To	1
-as	3
-have	1
-in	3
-spanning	2
-seek	1
-any	1
-these	1
-different	1
-|E'|	1
-turn	1
-)	14
-holds	1
-Namely	1
-same	1
-which	1
-algorithms	4
-parameter	1
-independent	1
-E	2
-may	2
-incidence	1
-local\/	1
-running	1
-edges	1
-connected	2
-end	1
-The	1
-a	5
-lower	2
-for	7
-algorithm	2
-roughly	1
-order	1
-graphs	5
-complexity	4
-edge	2
-u	3
-time	1
-the	12
-}	2
-\em	1
-left	1
+show,1
+random,1
+results,1
+relation,1
+sqrt,1
+query,3
+its,2
+whose,1
+We,3
+depend,1
+graph,5
+should,3
+to,2
+belongs,1
+local,1
+then,1
+non,1
+matches,1
+possible,1
+choice,1
+decide,1
+fall,1
+not,2
+categories,1
+parameter,1
+this,1
+sparse,1
+queries,1
+small,1
+fixed,1
+em,1
+upper,1
+consistent,1
+design,1
+result,1
+sublinear,1
+G,6
+for,7
+decision,1
+both,1
+per,1
+does,1
+designing,1
+be,5
+we,1
+degree,1
+This,1
+expansion,2
+by,1
+on,2
+of,9
+study,1
+initiate,1
+bounded,2
+first,1
+strongly,1
+into,1
+obtaining,2
+bound,2
+randomized,1
+open,1
+given,3
+coins,1
+question,1
+two,1
+Such,1
+analyze,1
+that,6
+epsilon,2
+but,1
+V,5
+general,1
+with,2
+must,1
+whether,1
+v,3
+problem,2
+are,1
+and,6
+do,1
+expanding,1
+is,2
+an,3
+high,2
+To,1
+as,3
+have,1
+in,3
+spanning,2
+seek,1
+any,1
+these,1
+different,1
+end,1
+turn,1
+holds,1
+Namely,1
+same,1
+which,1
+algorithms,4
+Omega,1
+independent,1
+E,3
+may,2
+incidence,1
+running,1
+edges,1
+connected,2
+such,1
+The,1
+a,5
+lower,2
+algorithm,2
+roughly,1
+graphs,5
+complexity,4
+edge,2
+u,3
+time,2
+the,12
+order,1
+left,1

@@ -1,87 +1,85 @@
-
-all	1
-over	1
-bandwidth	1
-expressions	1
-photon-efficient	1
-We	1
-derive	1
-(	2
-,	7
-to	3
-detected	1
-easy	1
-propose	1
-practice	1
-While	1
-they	1
-conjunction	1
-realize	1
-reasonably	1
-this	1
-inherent	1
-schemes	2
-classical	1
-generation	2
-direct	1
-rate	1
-are	2
-for	1
-per	1
-between	1
-approach	1
-This	1
-efficiency	3
-key	3
-limits	1
-of	4
-practical	1
-or	1
-unbounded	1
-photodetection	1
-number	1
-respect	1
-bosonic	1
-considers	1
-use	1
-i.e.	1
-asymptotic	1
-there	1
-.	4
-secret	2
-rates	1
-bits	1
-that	2
-photon	3
-coherent	1
-optical	2
-with	2
-temporally-entangled	1
-states	1
-these	1
-approximations	1
-work	1
-up	1
-limit	1
-distribution	1
-and	3
-certain	1
-is	3
-in	6
-an	2
-high	2
-sense	1
-regime	1
-codes	1
-)	2
-when	1
-which	1
-optimal	1
-channel	2
-generated	1
-The	1
-a	1
-off-the-shelf	1
-tradeoff	1
-principle	1
-the	9
+and,3
+this,1
+all,1
+schemes,2
+they,1
+classical,1
+up,1
+generation,2
+unbounded,1
+over,1
+sense,1
+number,1
+an,2
+high,2
+rate,1
+are,2
+in,6
+respect,1
+expressions,1
+bosonic,1
+considers,1
+regime,1
+these,1
+We,1
+derive,1
+asymptotic,1
+for,1
+efficient,1
+there,1
+when,1
+detected,1
+per,1
+realize,1
+to,3
+secret,2
+approach,1
+rates,1
+which,1
+between,1
+optimal,1
+reasonably,1
+bits,1
+is,3
+channel,2
+certain,1
+photodetection,1
+easy,1
+that,2
+This,1
+propose,1
+practice,1
+photon,4
+use,1
+direct,1
+efficiency,3
+generated,1
+optical,2
+entangled,1
+key,3
+off,1
+The,1
+conjunction,1
+with,2
+the,10
+a,1
+states,1
+e,1
+limits,1
+bandwidth,1
+i,1
+of,4
+approximations,1
+work,1
+While,1
+shelf,1
+practical,1
+tradeoff,1
+limit,1
+principle,1
+codes,1
+coherent,1
+inherent,1
+distribution,1
+or,1
+temporally,1

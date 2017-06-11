@@ -1,151 +1,146 @@
-
-operations	2
-code	5
-over	1
-produced	1
-paper	1
-40	1
-query	1
-libraries	1
-also	1
-(	1
-,	9
-to	7
-systems	1
-Using	1
-details	1
-postconditions	3
-QBS	2
-Unfortunately	1
-advantage	1
-fragment	1
-records	1
-joins	1
-not	1
-using	4
-transparent	1
-easily	1
-open-source	1
-invariants	2
-solution	1
-SQL	3
-popular	1
-identifies	1
-works	1
-because	1
-Java	1
-often	1
-doing	1
-are	2
-close	1
-theory	2
-even	1
-precisely	1
-lead	1
-expressed	1
-access	1
-specifications	1
-written	3
-does	1
-imperative	1
-relational	4
-fragments	3
-order	1
-approach	1
-be	2
-we	2
-provide	2
-high-performance	1
-Developing	1
-queries	2
-expressiveness	1
-implementing	1
-reason	1
-by	2
-both	1
-about	1
-language	2
-of	11
-synthesized	1
-allows	1
-logic	1
-usually	1
-or	1
-automatically	2
-into	2
-down	1
-intricacies	1
-synthesizing	1
-readily	1
-use	1
-from	1
-their	1
-interact	1
-relations	1
-.	8
-object-relational	1
-that	9
-constructs	1
-convert	1
-understand	1
-with	2
-present	1
-extracted	1
-compute	1
-this	2
-up	1
-us	1
-frameworks	1
-ORM	2
-can	4
-demonstrate	1
-problem	1
-and	6
-ordered	1
-is	4
-implementations	1
-an	1
-pushed	1
-as	1
-in	5
-need	1
-contents	1
-end	1
-variety	1
-)	1
-same	1
-application	3
-complex	1
-take	1
-which	1
-performance	1
-developers	2
-difficult	1
-poor	1
-plans	1
-our	1
-translated	1
-aggregates	1
-databases	1
-mapping	1
-applications	3
-optimized	1
-Hibernate	1
-120k	1
-predicates	1
-such	1
-The	3
-the	14
-a	3
-task	1
-for	1
-algorithm	2
-database	2
-lines	1
-One	1
-efficient	1
-so	2
-In	1
-push	1
-model	1
-original	1
+operations,2
+code,5
+over,1
+produced,1
+paper,1
+query,1
+libraries,1
+also,1
+to,7
+systems,1
+Using,1
+details,1
+postconditions,3
+QBS,2
+Unfortunately,1
+advantage,1
+fragment,1
+records,1
+joins,1
+not,1
+using,4
+transparent,1
+easily,1
+In,1
+invariants,2
+solution,1
+source,1
+SQL,3
+popular,1
+identifies,1
+works,1
+because,1
+Java,1
+often,1
+doing,1
+are,2
+close,1
+even,1
+Hibernate,1
+lead,1
+expressed,1
+access,1
+specifications,1
+written,3
+does,1
+imperative,1
+relational,5
+fragments,3
+order,1
+approach,1
+be,2
+we,2
+theory,2
+Developing,1
+queries,2
+expressiveness,1
+implementing,1
+reason,1
+by,2
+both,1
+about,1
+language,2
+of,11
+k,1
+allows,1
+logic,1
+usually,1
+or,1
+automatically,2
+into,2
+down,1
+precisely,1
+open,1
+synthesizing,1
+readily,1
+use,1
+from,1
+synthesized,1
+interact,1
+relations,1
+intricacies,1
+their,1
+that,9
+constructs,1
+convert,1
+understand,1
+with,2
+present,1
+extracted,1
+compute,1
+this,2
+up,1
+us,1
+frameworks,1
+ORM,2
+can,4
+demonstrate,1
+problem,1
+and,6
+ordered,1
+is,4
+implementations,1
+an,1
+high,1
+pushed,1
+as,1
+in,5
+need,1
+contents,1
+end,1
+variety,1
+provide,2
+same,1
+application,3
+complex,1
+take,1
+which,1
+performance,2
+developers,2
+difficult,1
+poor,1
+plans,1
+our,1
+translated,1
+aggregates,1
+object,1
+mapping,1
+applications,3
+optimized,1
+predicates,1
+such,1
+The,3
+the,14
+a,3
+task,1
+for,1
+algorithm,2
+database,2
+lines,1
+One,1
+efficient,1
+so,2
+databases,1
+push,1
+model,1
+original,1

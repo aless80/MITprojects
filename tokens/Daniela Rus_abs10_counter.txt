@@ -1,176 +1,169 @@
-
-precise	1
-show	1
-polynomial-time	1
-desirable	1
-$	8
-convergence	1
-paper	3
-same	1
-existence	1
-ground	1
-adding	1
-We	1
-monitor	1
-(	7
-produces	1
-,	13
-to	3
-uniqueness	1
-other	1
-location	1
-occurring	1
-activities	1
--optimal	1
-around	1
-Of	1
-assuming	1
-early	1
-traffic	1
-provide	1
-consecutive	1
-not	1
-using	2
-unique	1
-areas	1
-1+\epsilon	1
-easily	1
-solution	4
-activity	1
-volcano	1
-valid	1
-occurrence	1
-scheme	1
-phenomena	1
-Except	1
-observed	1
-Application	1
-are	2
-manner	1
-event	1
-optimize	1
-minimize	1
-for	5
-forecast	1
-\log	1
-between	1
-new	1
-sensor	1
-available	1
-be	1
-we	1
-focuses	1
-This	1
-O	2
-constructive	1
-congestion	1
-Motivated	1
-by	1
-First	1
-on	1
-e.g	2
-of	10
-route	1
-introduces	1
-times	2
-remains	1
-range	1
-removing	1
-{	5
-proof	1
-or	1
-NP-hard	1
-number	2
-maximize	1
-balanced	1
-The	2
-properties	1
-statistics	1
-from	1
-prove	1
-ordering	1
-unknown	2
-objectives	1
-patrolling	1
-two	2
-.	12
-their	1
-observations	2
-interest	2
-then	1
-:	1
-gives	1
-urban	1
-optimizing	1
-that	4
-abnormal	1
-but	1
-tasked	2
-transient	1
-particular	1
-known	1
-general	1
-with	4
-those	1
-case	1
-approximation	1
-has	1
-cyclic	3
-this	2
-stations	3
-robustness	1
-n	3
-i	1
-can	1
-many	1
-following	2
-Our	1
-problem	2
-more	1
-examples	1
-and	5
-aerial	1
-computing	1
-is	6
-locations	1
-an	2
-ii	1
-incrementally	1
-single	1
-at	2
-in	3
-scheduling	1
-occur	1
-different	1
-monitoring	4
-)	7
-when	2
-formations	1
-delay	1
-also	1
-priori	1
-which	2
-optimal	3
-several	1
-events	6
-'s	1
-problems	1
-most	1
-involving	1
-considers	1
-seismic	1
-a	10
-task	1
-natural	1
-algorithm	2
-mobile	1
-inter-arrival	1
-robot	5
-analysis	1
-order	1
-efficient	1
-complexity	2
-time	2
-the	19
-}	5
-\em	5
+precise,1
+show,1
+desirable,1
+convergence,1
+paper,3
+same,1
+existence,1
+ground,1
+adding,1
+We,1
+monitor,1
+produces,1
+to,3
+uniqueness,1
+other,1
+location,1
+occurring,1
+activities,1
+around,1
+Of,1
+assuming,1
+early,1
+traffic,1
+consecutive,1
+not,1
+using,2
+unique,1
+areas,1
+easily,1
+solution,4
+activity,1
+volcano,1
+inter,1
+valid,1
+em,5
+arrival,1
+occurrence,1
+hard,1
+phenomena,1
+Except,1
+observed,1
+Application,1
+are,2
+manner,1
+event,1
+minimize,1
+for,5
+forecast,1
+then,1
+between,1
+new,1
+sensor,1
+available,1
+be,1
+we,1
+focuses,1
+This,1
+O,2
+constructive,1
+congestion,1
+Motivated,1
+by,1
+First,1
+on,1
+g,2
+stations,3
+of,10
+route,1
+introduces,1
+times,2
+remains,1
+range,1
+removing,1
+proof,1
+or,1
+number,2
+maximize,1
+balanced,1
+seismic,1
+properties,1
+statistics,1
+from,1
+log,1
+prove,1
+ordering,1
+unknown,2
+objectives,1
+patrolling,1
+two,2
+optimize,1
+their,1
+observations,2
+interest,2
+NP,1
+scheme,1
+gives,1
+urban,1
+optimizing,1
+that,4
+abnormal,1
+but,1
+tasked,2
+transient,1
+particular,1
+known,1
+e,2
+general,1
+with,4
+those,1
+case,1
+approximation,1
+has,1
+cyclic,3
+this,2
+robustness,1
+n,3
+i,1
+can,1
+many,1
+following,2
+Our,1
+problem,2
+more,1
+examples,1
+and,5
+aerial,1
+computing,1
+is,6
+locations,1
+an,2
+ii,1
+incrementally,1
+single,1
+at,2
+in,3
+scheduling,1
+occur,1
+different,1
+monitoring,4
+efficient,1
+when,2
+s,1
+formations,1
+delay,1
+also,1
+priori,1
+which,2
+epsilon,1
+optimal,4
+several,1
+events,6
+problems,1
+most,1
+involving,1
+considers,1
+The,2
+a,10
+task,1
+natural,1
+algorithm,2
+mobile,1
+robot,5
+analysis,1
+provide,1
+complexity,2
+time,3
+the,19
+order,1
+polynomial,1

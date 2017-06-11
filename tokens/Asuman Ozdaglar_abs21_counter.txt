@@ -1,154 +1,147 @@
-
-neighbors	1
-consider	1
-show	3
-Thirdly	1
-underlying	1
-monopolist	7
-We	3
-derive	2
-(	2
-,	13
-should	2
-to	6
-charge	1
-choose	1
-under	1
-usage	2
-guarantees	1
-local	1
-good	3
-effects	1
-not	1
-discuss	1
-level	1
-this	1
-optimally	1
-paper	1
-each	3
-where	1
-set	3
-Next	1
-approximation	1
-depends	1
-pricing	3
-choosing	1
-our	1
-network	8
-for	4
-profit	2
-uniform	1
-discounts	1
-does	1
-be	2
-we	7
-full	1
-however	1
-centrality	1
-key	1
-strategies	1
-by	1
-First	1
-on	1
-central	1
-her	4
-discount	1
-of	17
-study	2
-experience	1
-nonnegative	1
-88	1
-social	3
-explicit	2
-NP-hard	1
-characterization	2
-into	1
-number	1
-two	1
-Finally	1
-agents	4
-directly	1
-polynomial	1
-proportional	1
-.	12
-given	1
-service	1
-positive	1
-single	1
-only	1
-least	1
-strategy	2
-comparing	1
-function	1
-selling	1
-offering	1
-offer	2
-monopolist's	1
-offered	1
-Bonacich	1
-policy	1
-part	1
-particular	2
-prices	2
-those	1
-account	1
-compute	1
-embedded	1
-divisible	1
-second	1
-value	1
-can	3
-determining	1
-individualized	1
-problem	2
-are	1
-and	4
-certain	1
-is	5
-describe	1
-it	1
-agent	1
-an	4
-involve	1
-as	1
-at	1
-have	1
-in	6
-feasible	1
-any	1
-if	1
-information	2
-%	1
-)	2
-that	11
-when	1
-feature	1
-setting	1
-take	1
-which	1
-finding	1
-optimal	7
-A	1
-'s	1
-may	1
-price	6
-who	1
-effect	1
-allocation	1
-uses	1
-such	1
-the	28
-structure	1
-a	13
-discounted	2
-consumers	3
-algorithm	3
-assume	1
-Thus	1
-highlight	1
-provide	1
-In	3
-position	2
-model	1
-consumer	2
-profits	1
+neighbors,1
+consider,1
+show,3
+Thirdly,1
+underlying,1
+monopolist,8
+We,3
+derive,2
+should,2
+to,6
+charge,1
+choose,1
+under,1
+usage,2
+guarantees,1
+local,1
+good,3
+effects,1
+not,1
+discuss,1
+level,1
+this,1
+optimally,1
+paper,1
+each,3
+where,1
+set,3
+hard,1
+Next,1
+approximation,1
+depends,1
+pricing,3
+choosing,1
+our,1
+network,8
+for,4
+profit,2
+uniform,1
+discounts,1
+does,1
+be,2
+we,7
+full,1
+however,1
+discount,1
+key,1
+strategies,1
+by,1
+First,1
+on,1
+central,1
+her,4
+of,17
+study,2
+experience,1
+nonnegative,1
+s,2
+social,3
+explicit,2
+characterization,2
+into,1
+number,1
+two,1
+Finally,1
+agents,4
+directly,1
+polynomial,1
+proportional,1
+strategy,2
+given,1
+service,1
+positive,1
+single,1
+only,1
+least,1
+centrality,1
+comparing,1
+NP,1
+function,1
+selling,1
+offering,1
+offer,2
+offered,1
+Bonacich,1
+policy,1
+part,1
+particular,2
+prices,2
+those,1
+account,1
+compute,1
+embedded,1
+divisible,1
+second,1
+value,1
+can,3
+determining,1
+individualized,1
+problem,2
+are,1
+and,4
+certain,1
+is,5
+describe,1
+it,1
+agent,1
+an,4
+involve,1
+as,1
+at,1
+have,1
+in,6
+feasible,1
+any,1
+if,1
+information,2
+provide,1
+that,11
+when,1
+feature,1
+setting,1
+take,1
+which,1
+finding,1
+optimal,7
+A,1
+may,1
+price,6
+who,1
+effect,1
+allocation,1
+uses,1
+such,1
+the,28
+structure,1
+a,13
+discounted,2
+consumers,3
+algorithm,3
+assume,1
+Thus,1
+highlight,1
+In,3
+position,2
+model,1
+consumer,2
+profits,1

@@ -1,137 +1,135 @@
-
-exploits	1
-random	1
-through	2
-filters	1
-We	1
-patches	1
-(	1
-except	1
-attackers	1
-patched	1
-program	6
-provably-secure	1
-Path	3
-By	2
-black-box	1
-adversaries	1
-propose	1
-as-yet-unknown	1
-break	1
-P	1
-novel	1
-difficult	1
-they	1
-not	2
-him	1
-reveal	1
-if-conditionals	1
-crypto	1
-patch	1
-security	3
-unpatched	1
-mean	2
-obfuscated	1
-prevent	2
-schemes	1
-methods	1
-testing	1
-discover	1
-are	3
-our	1
-techniques	1
-errors	2
-hide	1
-for	2
-error-checking	1
-unpreventable	1
-enough	1
-version	1
-approach	1
-Cryptographic	3
-be	1
-we	6
-dictionary	1
-equivalent	1
-never	1
-given	1
-standard	1
-reason	1
-along	1
-by	1
-hiding	1
-about	1
-provably	2
-attacks	1
-of	4
-or	2
-software	3
-mathematical	1
-secure	1
-,	6
-exploit	1
-hardening	1
-aimed	2
-often	1
-use	3
-from	2
-to	10
-error-revealing	2
-construct	2
-.	6
-attack	1
-resource-bounded	1
-analyze	1
-a	3
-``	3
-hard	2
-that	5
-attacker	3
-hardened	1
-constructing	1
-than	1
-those	1
-Hardening	3
-these	1
-devices	2
-harden	2
-replaced	1
-can	5
-error-finding	1
-called	1
-semi-automatic	1
-and	4
-certain	1
-is	2
-sense	1
-thus	2
-it	1
-an	2
-''	4
-as	1
-Other	1
-at	2
-in	6
-paths	3
-cryptography	1
-perhaps	1
-vulnerabilities	1
-make	2
-same	2
-application	1
-potentially	1
-arguments	1
-which	2
-security-through-obscurity	1
-inputs	2
-used	2
-Unlike	1
-information	1
-improving	1
-cryptographic	2
-programs	1
-analysis	2
-One	1
-)	1
-ones	1
-the	9
+exploits,1
+random,1
+through,3
+filters,1
+yet,1
+obscurity,1
+We,1
+patches,1
+except,1
+to,10
+patched,1
+program,6
+black,1
+Path,3
+By,2
+adversaries,1
+checking,1
+propose,1
+break,1
+P,1
+novel,1
+they,1
+not,2
+him,1
+reveal,1
+resource,1
+semi,1
+crypto,1
+patch,1
+security,4
+unpatched,1
+automatic,1
+mean,2
+obfuscated,1
+prevent,2
+schemes,1
+methods,1
+testing,1
+discover,1
+are,3
+our,1
+techniques,1
+errors,2
+hide,1
+for,2
+unpreventable,1
+enough,1
+version,1
+approach,1
+Cryptographic,3
+be,1
+we,6
+dictionary,1
+equivalent,1
+never,1
+given,1
+standard,1
+reason,1
+along,1
+by,1
+hiding,1
+box,1
+about,1
+provably,3
+attacks,1
+of,4
+or,2
+software,3
+mathematical,1
+secure,2
+revealing,2
+exploit,1
+hardening,1
+aimed,2
+often,1
+use,3
+from,2
+attackers,1
+unknown,1
+construct,2
+attack,1
+analyze,1
+a,3
+hard,2
+that,5
+attacker,3
+hardened,1
+constructing,1
+than,1
+those,1
+Hardening,3
+these,1
+devices,2
+harden,2
+replaced,1
+can,5
+error,4
+called,1
+and,4
+certain,1
+is,2
+sense,1
+thus,2
+it,1
+an,2
+as,2
+Other,1
+at,2
+in,6
+if,1
+paths,3
+cryptography,1
+perhaps,1
+vulnerabilities,1
+make,2
+same,2
+application,1
+potentially,1
+arguments,1
+which,2
+finding,1
+difficult,1
+inputs,2
+used,2
+Unlike,1
+information,1
+bounded,1
+improving,1
+cryptographic,2
+programs,1
+analysis,2
+One,1
+ones,1
+the,9
+conditionals,1

@@ -1,136 +1,132 @@
-
-operations	4
-skip	1
-over	1
-Jahob	1
-dynamic	1
-report	1
-stored	1
-mechanism	1
-two-level	1
-We	2
-(	1
-,	12
-to	3
-combine	1
-systems	2
-theorem	1
-Using	1
-main	1
-combination	1
-without	1
-quantified	1
-trees	2
-During	1
-combinations	1
-sorted	1
-procedures	3
-verifying	1
-invariants	4
-this	1
-architecture	1
-satisfy	1
-set	1
-communication	1
-back	1
-challenges	1
-techniques	1
-for	2
-decision	3
-currently	1
-expressed	1
-between	1
-new	1
-shows	2
-preserve	1
-we	1
-terms	1
-parent	1
-Isabelle	1
-This	2
-objects	1
-SMT-LIB	1
-analyses	1
-universally	1
-on	1
-of	14
-larger	1
-enabling	1
-context	1
-changes	1
-software	1
-useful	1
-can	1
-unbounded	1
-within	1
-disjunctions	1
-synthesize	1
-Lite	1
-apply	1
-array	1
-iterators	1
-synthesized	1
-.	9
-their	1
-2	1
-memory	1
-structures	5
-annotations	1
-Second-Order	1
-form	2
-that	3
-reduce	1
-serve	1
-lists	3
-automated	1
-with	4
-infers	1
-deployed	1
-arrays	1
-pointers	2
-clients	1
-prover	1
-us	1
-verification	1
-loop	3
-interactive	1
-and	10
-Hob	1
-is	1
-describe	1
-it	1
-an	1
-To	1
-as	5
-have	2
-in	6
-linked	2
-different	1
-verified	1
-Bohne	9
-)	3
-describes	1
-Monadic	1
-CVC	1
-1	1
-verifies	1
-formulas	1
-specifications	1
-allocation	1
-running	1
-uses	2
-ammount	1
-Logic	1
-such	2
-data	10
-structure	5
-a	3
-algorithm	1
-programs	1
-well	1
-analysis	5
-One	1
-reasoner	1
-Boolean	1
-time	1
-the	16
+operations,4
+LIB,1
+skip,1
+over,1
+Jahob,1
+dynamic,1
+report,1
+stored,1
+mechanism,1
+We,2
+to,3
+combine,1
+systems,2
+theorem,1
+Using,1
+main,1
+SMT,1
+combination,1
+without,1
+quantified,1
+trees,2
+During,1
+combinations,1
+sorted,1
+procedures,3
+level,1
+verifying,1
+invariants,4
+this,1
+architecture,1
+satisfy,1
+set,1
+communication,1
+back,1
+challenges,1
+techniques,1
+for,2
+decision,3
+currently,1
+expressed,1
+between,1
+new,1
+shows,2
+preserve,1
+we,1
+terms,1
+parent,1
+Isabelle,1
+This,2
+objects,1
+analyses,1
+universally,1
+on,1
+of,14
+larger,1
+enabling,1
+context,1
+changes,1
+software,1
+useful,1
+can,1
+unbounded,1
+within,1
+disjunctions,1
+synthesize,1
+Lite,1
+apply,1
+array,1
+iterators,1
+synthesized,1
+two,1
+their,1
+describes,1
+memory,1
+structures,5
+annotations,1
+form,2
+that,3
+reduce,1
+serve,1
+lists,3
+automated,1
+with,4
+infers,1
+deployed,1
+arrays,1
+pointers,2
+clients,1
+prover,1
+us,1
+verification,1
+loop,3
+interactive,1
+and,10
+Hob,1
+is,1
+describe,1
+it,1
+an,1
+To,1
+as,5
+have,2
+in,6
+CVC,1
+different,1
+verified,1
+Bohne,9
+Monadic,1
+linked,2
+verifies,1
+formulas,1
+specifications,1
+allocation,1
+running,1
+uses,2
+ammount,1
+Logic,1
+such,2
+data,10
+Order,1
+structure,5
+a,3
+algorithm,1
+programs,1
+well,1
+analysis,5
+One,1
+reasoner,1
+Second,1
+Boolean,1
+time,1
+the,16

@@ -1,103 +1,103 @@
-
-all	3
-random	1
-JL	5
-brain	2
-efficient	1
-existence	1
-We	1
-non-negative	1
-candidate	1
-(	2
-had	1
-,	7
-better	1
-to	5
-real	1
-Johnson-Lindenstrauss	1
-connects	1
-sign-consistent	2
-every	1
-non-positive	1
-matrices	2
-synaptic	1
-prime	1
-necessary	1
-either	2
-sparse	3
-small	1
-constraints	1
-mathematical	2
-connections	1
-are	4
-our	1
-implemented	1
-inhibitory	1
-for	2
-crucial	1
-However	1
-excitatory	1
-implementable	1
-be	4
-answers	1
-by	2
-essentially	1
-column	1
-of	3
-correlation-preserving	1
-or	2
-subset	1
-given	2
-i.e.	1
-compression	2
-prove	1
-support	1
-there	1
-question	1
-construct	1
-.	5
-was	1
-complete	1
-triggered	1
-that	8
-construction	1
-must	2
-work	2
-neurons	3
-Our	1
-entries	1
-and	4
-is	4
-neuron	1
-implementations	1
-convergent	1
-single	1
-tissue	1
-in	3
-any	1
-relatively	1
-information	1
-no	1
-)	2
-how	1
-other	1
-optimal	1
-if	1
-earlier	1
-compress	1
-emphasizes	1
-pathways	1
-date	1
-such	1
-The	1
-matrix	2
-a	4
-implies	2
-neural	1
-thought	1
-perform	1
-inhibition	1
-so	1
-the	6
-fact	2
-justify	1
+all,3
+random,1
+JL,5
+brain,2
+existence,1
+We,1
+candidate,1
+had,1
+better,1
+to,5
+real,1
+non,2
+connects,1
+inhibition,1
+every,1
+entries,1
+matrices,2
+synaptic,1
+prime,1
+necessary,1
+either,2
+sparse,3
+small,1
+constraints,1
+mathematical,2
+consistent,2
+sign,2
+connections,1
+are,4
+our,1
+implemented,1
+inhibitory,1
+for,2
+crucial,1
+However,1
+excitatory,1
+implementable,1
+be,4
+Johnson,1
+answers,1
+Lindenstrauss,1
+by,2
+essentially,1
+column,1
+of,3
+or,2
+subset,1
+given,2
+compression,2
+prove,1
+positive,1
+support,1
+there,1
+question,1
+negative,1
+construct,1
+was,1
+preserving,1
+complete,1
+triggered,1
+that,8
+construction,1
+implies,2
+must,2
+work,2
+neurons,3
+Our,1
+and,4
+is,4
+neuron,1
+implementations,1
+convergent,1
+single,1
+tissue,1
+in,3
+any,1
+relatively,1
+information,1
+no,1
+perform,1
+how,1
+other,1
+optimal,1
+if,1
+earlier,1
+compress,1
+emphasizes,1
+pathways,1
+date,1
+such,1
+The,1
+matrix,2
+a,4
+e,1
+neural,1
+i,1
+thought,1
+efficient,1
+so,1
+correlation,1
+the,6
+fact,2
+justify,1

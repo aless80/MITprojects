@@ -1,141 +1,139 @@
-
-rating	2
-BARS	1
-labels	1
-focus	1
-course	1
-predicts	1
-using	4
-speed	1
-We	3
-disorders	1
-(	1
-,	8
-to	6
-only	1
-Using	1
-tests	1
-objective	1
-during	1
-Rating	1
-prediction-label	1
-progression	2
-common	1
-mean	1
-Scale	1
-motor	1
-For	1
-Brief	1
-achieves	1
-video	2
-are	1
-our	1
-extract	1
-techniques	1
-provided	1
-scale	3
-clinicians	1
-for	1
-comparable	1
-demonstrates	1
-checkups	1
-experiment	1
-routine	1
-time-consuming	1
-method	2
-movement	2
-be	1
-we	1
-measures	1
-patient	1
-exam	1
-This	1
-pose	1
-reported	1
-recordings	1
-by	3
-on	2
-many	1
-according	2
-Parkinson	1
-0.835	1
-motion	3
-supervised	1
-usually	1
-estimation	1
-or	1
-among	1
-useful	1
-features	1
-leave-one-patient-out	1
-assess	1
-learning	1
-assessed	1
-ataxia	4
-inter-rater	1
-0.363	1
-system	1
-.	10
-clinical	1
-more	1
-0-4	1
-that	2
-These	1
-subjective	1
-optical	1
-automated	1
-with	1
-present	1
-must	1
-feasibility	1
-work	1
-recording	1
-patients	1
-finger-to-nose	2
-Ataxia	1
-Our	2
-similar	1
-and	6
-videos	2
-of	10
-is	2
-describe	1
-an	2
-as	2
-in	4
-absolute	1
-assessing	1
-severity	2
-)	1
-administered	1
-build	1
-test	1
-performance	1
-impairment	2
-accuracy	1
-visually	1
-used	1
-'s	2
-track	1
-numerical	1
-variation	1
-hand	1
-produce	1
-uses	1
-such	2
-The	1
-model	2
-a	11
-task	1
-clinically	1
-expert	1
-flow	1
-disease	1
-error	1
-qualities	1
-correlation	2
-questionnaires	1
-professional	1
-the	10
-quantifying	1
-clinician	2
+rating,2
+BARS,1
+correlation,2
+labels,1
+focus,1
+course,1
+predicts,1
+using,4
+speed,1
+We,3
+disorders,1
+nose,2
+to,8
+only,1
+Using,1
+tests,1
+objective,1
+during,1
+Rating,1
+progression,2
+leave,1
+common,1
+inter,1
+mean,1
+Scale,1
+motor,1
+For,1
+Brief,1
+achieves,1
+video,2
+are,1
+our,1
+extract,1
+techniques,1
+provided,1
+scale,3
+clinicians,1
+for,1
+comparable,1
+demonstrates,1
+checkups,1
+label,1
+experiment,1
+finger,2
+routine,1
+method,2
+movement,2
+be,1
+we,1
+measures,1
+patient,2
+exam,1
+This,1
+pose,1
+reported,1
+recordings,1
+by,3
+on,2
+of,10
+according,2
+Parkinson,1
+motion,3
+s,2
+supervised,1
+usually,1
+estimation,1
+or,1
+among,1
+useful,1
+features,1
+one,1
+assess,1
+learning,1
+assessed,1
+ataxia,4
+consuming,1
+system,1
+clinical,1
+rater,1
+more,1
+that,2
+These,1
+prediction,1
+subjective,1
+optical,1
+automated,1
+with,1
+present,1
+must,1
+feasibility,1
+work,1
+recording,1
+patients,1
+many,1
+Ataxia,1
+Our,2
+similar,1
+and,6
+videos,2
+is,2
+describe,1
+an,2
+as,2
+in,4
+absolute,1
+assessing,1
+severity,2
+administered,1
+build,1
+test,1
+performance,1
+out,1
+impairment,2
+accuracy,1
+visually,1
+used,1
+track,1
+numerical,1
+variation,1
+hand,1
+produce,1
+uses,1
+such,2
+The,1
+model,2
+a,11
+task,1
+clinically,1
+expert,1
+flow,1
+disease,1
+error,1
+qualities,1
+time,1
+questionnaires,1
+professional,1
+the,10
+quantifying,1
+clinician,2

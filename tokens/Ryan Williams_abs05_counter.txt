@@ -1,137 +1,117 @@
-
-gates	4
-all	1
-restriction	1
-hierarchy	1
-\sqrt	1
-``	1
-results	1
-threshold	8
-layers	1
-We	4
-1/2+\epsilon	1
-based	1
-$	26
-tight	1
-(	9
-,	9
-\epsilon^3	1
-crack	1
-has	1
-intractable	1
-random	1
-establishes	1
-P	1
-3/2	2
-not	2
-nor	2
-turns	1
-arbitrary	1
-analytical	1
-PARITY	1
-computed	3
-/\log^	2
-computable	2
-\epsilon\gg	1
-out	1
--bit	1
-wire	2
-for	6
-frontier	1
-super-quadratic	1
-uniform	2
-3	1
-\log	1
-new	2
-;	1
-be	4
-we	2
-linear	5
-power	1
-This	1
-O	1
-\bullet	3
-key	1
-additive	1
-by	4
-on	2
-of	7
-prove	3
-o	5
-/\log^3	2
-{	8
-first	3
-three	1
-Lemma	1
-vote	1
-Andreev	2
-size	1
-from	1
-to	4
-combinatorics	1
-give	1
-two	1
-been	1
-.	8
-Littlewood-Offord	1
-analyze	1
-function	4
-main	1
--fraction	1
-formally	1
-that	2
-tool	1
-it	1
-\epsilon^	1
-understand	1
-small-biased	1
-with	6
-present	1
-5/2	2
-depth-three	2
-circuits	10
-bounds	2
-n	7
-can	3
-Our	1
-and	5
-linear-time	1
-computing	3
-is	3
-n^3	1
-surprisingly	1
-an	2
-''	1
-as	2
-n^	4
-in	1
-need	1
-average-case	2
-regime	1
-/n	1
-functions	1
-lemma	1
-)	9
-same	1
-majority	4
-which	1
-answer	1
-gate	2
-depth-two	6
-inputs	1
-wires	2
-'s	2
-sets	1
-The	1
-super-linear	1
-a	5
-lower	2
-neural	1
-explicit	1
-7/2	2
-complexity	1
-weights	1
-In	1
-the	8
-}	8
-order	1
+gates,4
+all,1
+restriction,1
+hierarchy,1
+random,1
+results,1
+gg,1
+same,1
+threshold,8
+layers,1
+We,4
+based,1
+tight,1
+to,4
+crack,1
+has,1
+intractable,1
+Offord,1
+P,1
+not,2
+bit,1
+nor,2
+turns,1
+arbitrary,1
+small,1
+PARITY,1
+computed,3
+biased,1
+computable,2
+out,1
+wire,2
+for,6
+frontier,1
+uniform,2
+establishes,1
+new,2
+be,4
+we,2
+linear,7
+power,1
+This,1
+O,1
+analytical,1
+key,1
+additive,1
+super,2
+by,4
+on,2
+of,7
+o,5
+s,2
+first,3
+two,7
+Lemma,1
+vote,1
+Andreev,2
+size,1
+from,1
+log,5
+prove,3
+combinatorics,1
+give,1
+three,3
+been,1
+quadratic,1
+fraction,1
+analyze,1
+function,4
+formally,1
+that,2
+epsilon,4
+tool,1
+it,1
+understand,1
+with,6
+present,1
+case,2
+main,1
+circuits,10
+bounds,2
+n,13
+can,3
+Our,1
+sets,1
+and,5
+computing,3
+is,3
+surprisingly,1
+an,2
+as,2
+in,1
+need,1
+regime,1
+functions,1
+lemma,1
+complexity,1
+sqrt,1
+majority,4
+which,1
+answer,1
+gate,2
+inputs,1
+wires,2
+In,1
+The,1
+a,5
+lower,2
+bullet,3
+neural,1
+average,2
+explicit,1
+Littlewood,1
+depth,8
+weights,1
+time,1
+the,8
+order,1

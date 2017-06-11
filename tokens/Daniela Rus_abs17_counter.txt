@@ -1,94 +1,89 @@
-
-consider	1
-chain	1
-dynamic	1
-results	1
-satisfies	1
-its	1
-We	1
-(	2
-temporal	1
-deterministic	1
-,	1
-environment	3
-to	1
-only	1
-stochastic	1
-resources	1
-hit	1
-propose	1
-increases	1
-progresses	1
-runs	1
-issue	1
-small	1
-where	2
-constraints	1
-subset	1
-successively	1
-are	2
-for	1
-decision	1
-state	1
-approach	1
-we	2
-explosion	1
-initially	1
-address	1
-by	2
-on	1
-of	2
-transition	1
-incorporated	1
-logic	1
-adapted	1
-or	1
-and	1
-computational	1
-probability	1
-Each	1
-agents	3
-from	1
-interact	1
-system	1
-.	5
-until	1
-synthesis	3
-that	2
-with	1
-partially	1
-case	2
-Existing	1
-verification	1
-policies	1
-Our	1
-problem	1
-more	1
-procedure	1
-control	1
-fashion	1
-process	1
-is	3
-agent	1
-an	2
-To	1
-as	1
-incremental	1
-in	5
-)	2
-whereas	1
-finite	1
-added	1
-multiple	1
-specifications	1
-robots	1
-Markov	2
-probabilistic	1
-a	3
-algorithm	2
-modeled	2
-robot	2
-anytime	1
-solve	1
-the	11
-specification	1
+consider,1
+chain,1
+dynamic,1
+results,1
+satisfies,1
+its,1
+We,1
+temporal,1
+deterministic,1
+environment,3
+to,1
+only,1
+stochastic,1
+resources,1
+hit,1
+propose,1
+increases,1
+progresses,1
+runs,1
+issue,1
+small,1
+where,2
+constraints,1
+subset,1
+successively,1
+are,2
+for,1
+decision,1
+state,1
+approach,1
+we,2
+explosion,1
+initially,1
+address,1
+by,2
+on,1
+of,2
+transition,1
+incorporated,1
+logic,1
+adapted,1
+or,1
+and,1
+computational,1
+probability,1
+Each,1
+agents,3
+from,1
+interact,1
+system,1
+until,1
+synthesis,3
+that,2
+with,1
+partially,1
+case,2
+Existing,1
+verification,1
+policies,1
+Our,1
+problem,1
+more,1
+procedure,1
+control,1
+fashion,1
+process,1
+is,3
+agent,1
+an,2
+To,1
+as,1
+incremental,1
+in,5
+whereas,1
+finite,1
+added,1
+multiple,1
+specifications,1
+robots,1
+Markov,2
+probabilistic,1
+a,3
+algorithm,2
+modeled,2
+robot,2
+anytime,1
+solve,1
+the,11
+specification,1

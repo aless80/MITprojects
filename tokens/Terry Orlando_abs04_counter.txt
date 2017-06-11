@@ -1,83 +1,80 @@
-
-and	2
-model	1
-prerequisite	1
-two-qubit	2
-enhanced	1
-qubit	2
-is	2
-we	1
-pulse	1
-an	2
-relative	1
-1/f	1
-superconducting	1
-frequency	1
-pulses	1
-are	1
-two-level	2
-in	3
-fault-tolerant	1
-lifetime	1
-any	1
-techniques	2
-We	1
-rapidly	1
-$	2
-decoupling	2
-with	2
-coupled	1
-when	1
-system	3
-computing	1
-.	4
-to	5
-state	2
-potential	1
-microscopic	1
-gate	1
-coherence	2
-By	1
-realize	1
-refocusing	2
-,	5
-noise	2
-'s	1
-thereby	1
-that	2
-our	1
-frequencies	1
-formed	1
-agreement	1
-results	1
-implementing	1
-entangled	2
-they	1
-fluctuations	1
-improving	2
-changing	1
-The	2
-transverse	1
-multiple	1
-the	7
-coupling	2
-a	3
-fidelities	1
-mitigate	1
-applying	1
-dynamical	1
-of	3
-reduces	1
-transition	2
-applicable	1
-highlight	1
-flux	1
-dephasing	1
-quantum	1
-due	1
-time	1
-further	1
-enhance	1
-implement	1
-essential	1
-for	2
+and,2
+model,1
+qubit,4
+is,2
+results,1
+pulse,1
+an,2
+relative,1
+superconducting,1
+frequency,1
+pulses,1
+are,1
+enhanced,1
+in,3
+quantum,1
+lifetime,1
+tolerant,1
+any,1
+techniques,2
+We,1
+rapidly,1
+system,3
+decoupling,2
+coupled,1
+when,1
+two,4
+computing,1
+realize,1
+to,5
+state,2
+potential,1
+microscopic,1
+gate,1
+coherence,2
+By,1
+prerequisite,1
+refocusing,2
+we,1
+noise,2
+multiple,1
+thereby,1
+that,2
+our,1
+frequencies,1
+formed,1
+dephasing,1
+agreement,1
+implementing,1
+entangled,2
+they,1
+fluctuations,1
+improving,2
+changing,1
+The,2
+transverse,1
+with,2
+the,7
+coupling,2
+a,3
+fidelities,1
+mitigate,1
+f,1
+applying,1
+dynamical,1
+level,2
+of,3
+reduces,1
+transition,2
+applicable,1
+highlight,1
+flux,1
+s,1
+due,1
+time,1
+further,1
+enhance,1
+implement,1
+fault,1
+essential,1
+for,2

@@ -1,149 +1,141 @@
-
-concept	1
-consider	2
-show	5
-indeed	1
-random	1
-focus	1
-paper	1
-filters	1
-on-the-fly	1
-query	1
-We	5
-monotonicity	2
-$	2
-also	3
-situations	1
-,	11
-source	2
-capturing	1
-samples	1
-analogous	1
-achieve	1
-then	2
-distance	1
-very	1
-obtain	1
-whether	2
-using	1
-one	1
-correcting	1
-these	1
-originally	1
-learning	5
-testing	2
-connections	2
-namely	1
-design	1
-are	2
-proper	1
-close	2
-provided	1
-for	4
-restricted	1
-access	2
-(	2
-between	2
-drawn	1
-approach	1
-be	3
-we	4
-terms	1
-missing	1
-monotone	2
-error	1
-O	1
-step	1
-address	1
-by	2
-noisy	2
-obtained	1
-on	1
-improved	1
-of	8
-introduces	1
-1/\log^2	1
-act	1
-corrections	1
-implement	1
-or	1
-first	1
-purported	1
-tasks	1
-probability	1
-When	1
-sampling	7
-utilized	1
-applicability	1
-significantly	1
-use	1
-from	2
-additional	1
-to	13
-addition	1
-question	2
-.	13
-structure	1
-Such	1
-type	1
-correction	1
-more	2
-function	1
-``	2
-imperfect	1
-that	9
-These	1
-known	1
-than	2
-those	1
-granted	1
-case	1
-''	2
-this	4
-bits	1
-correctors	6
-aims	1
-n	1
-can	2
-many	1
-distribution	6
-property	2
-and	3
-process	1
-stronger	1
-is	4
-an	1
-sample	2
-as	3
-at	2
-have	2
-in	2
-families	1
-distributions	3
-corruptions	2
-achievable	1
-end	1
-efficient	2
-make	1
-cumulative	1
-when	1
-complexity	1
-how	1
-independent	1
-corrector	1
-user	1
-such	1
-data	3
-model	2
-expand	1
-a	5
-required	1
-well	1
-)	2
-As	1
-without	1
-algorithms	9
-allow	1
-In	4
-the	13
-order	2
+concept,1
+consider,2
+show,5
+indeed,1
+random,1
+focus,1
+paper,1
+filters,1
+query,1
+We,5
+monotonicity,2
+also,3
+situations,1
+source,2
+capturing,1
+samples,1
+analogous,1
+achieve,1
+then,2
+very,1
+obtain,1
+additional,1
+using,1
+one,1
+correcting,1
+this,4
+originally,1
+learning,5
+testing,2
+connections,2
+namely,1
+design,1
+are,2
+proper,1
+close,2
+provided,1
+for,4
+restricted,1
+access,2
+case,1
+between,2
+drawn,1
+approach,1
+be,3
+we,4
+terms,1
+missing,1
+monotone,2
+error,1
+O,1
+step,1
+address,1
+by,2
+noisy,2
+obtained,1
+on,2
+improved,1
+of,8
+introduces,1
+act,1
+corrections,1
+implement,1
+or,1
+first,1
+purported,1
+tasks,1
+probability,1
+When,1
+sampling,7
+utilized,1
+applicability,1
+significantly,1
+use,1
+from,2
+log,1
+to,13
+addition,1
+question,2
+structure,1
+Such,1
+type,1
+correction,1
+more,2
+function,1
+imperfect,1
+that,9
+These,1
+known,1
+than,2
+those,1
+granted,1
+fly,1
+distance,1
+whether,2
+bits,1
+correctors,6
+aims,1
+n,1
+can,2
+many,1
+distribution,6
+property,2
+and,3
+process,1
+stronger,1
+is,4
+an,1
+sample,2
+as,3
+at,2
+have,2
+in,2
+families,1
+distributions,3
+corruptions,2
+these,1
+achievable,1
+end,1
+efficient,2
+make,1
+cumulative,1
+when,1
+complexity,1
+how,1
+independent,1
+corrector,1
+user,1
+such,1
+data,3
+model,2
+expand,1
+a,5
+required,1
+well,1
+As,1
+without,1
+algorithms,9
+allow,1
+In,4
+the,14
+order,2

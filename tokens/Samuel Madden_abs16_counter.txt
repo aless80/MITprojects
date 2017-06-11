@@ -1,160 +1,153 @@
-
-selection	1
-Based	1
-show	1
-over	3
-insight	2
-dynamic	1
-results	1
-paper	1
-query	4
-decisions	1
-its	1
-previous	1
-perfect	1
-multi-dimensional	1
-trade-off	1
-based	1
-system	2
-(	3
-less	1
-distributed	1
-,	11
-to	2
-absence	1
-version	1
-Inc.	1
-samples	2
-Conviva	1
-achieve	1
-10	1
-framework	1
-every	1
-not	1
-using	2
-massively	1
-TPC-H	1
-workload	1
-open-source	1
-ad-hoc	1
-server	1
-large	1
-experiments	1
-processed	1
-reasonable	1
-queries	4
-bars	1
-set	1
-often	1
-For	1
-sampling-based	1
-sized	1
-and/or	1
-for	2
-BlinkDB	6
-multi-resolution	1
-seconds	1
-does	1
-adaptive	1
-we	1
-maintains	1
-malfunctioning	1
-real-world	2
-TBs	1
-SQL	1
-We	1
-answers	1
-Hive	1
-key	2
-detecting	1
-by	2
-on	7
-of	8
-allows	1
-enabling	1
-range	1
-massive	1
-parallel	1
-100\times	1
-appropriately	1
-within	1
-one	2
-well-known	1
-analyzing	1
-strategy	1
-100	1
-logs	1
-from	4
-annotated	1
-area	1
-data	5
-approximate	1
-.	6
-2	3
-:	1
-selects	1
-engine	1
-that	6
-benchmark	1
-analytic	1
-differentiate	1
-with	1
-than	2
-present	1
-wide	1
-builds	2
-17	1
-cluster	1
-this	4
-require	1
-work	1
-up	1
-optimization	1
-can	2
-reliably	1
-error	2
-Our	1
-example	1
-interactive	2
-and	4
-well	1
-is	1
-it	1
-an	4
-sample	2
-To	1
-as	2
-have	1
-in	3
-validated	1
-requirements	1
-built	1
-)	3
-make	1
--	1
-ideas	1
-1	1
-answer	1
-effectiveness	1
-accuracy	2
-node	1
-'s	1
-trace	1
-In	1
-derived	1
-collection	1
-running	2
-uses	1
-two	1
-%	1
-The	1
-meaningful	1
-response	2
-a	10
-faster	1
-request	1
-presenting	1
-volumes	1
-time	3
-the	3
-original	1
+selection,1
+Based,1
+show,1
+over,3
+insight,2
+dynamic,1
+results,1
+trade,1
+paper,1
+world,2
+query,4
+decisions,1
+its,1
+previous,1
+perfect,1
+We,1
+based,2
+analytic,1
+less,1
+distributed,1
+to,2
+absence,1
+version,1
+samples,2
+Conviva,1
+achieve,1
+real,2
+TPC,1
+H,1
+framework,1
+every,1
+not,1
+using,2
+one,2
+massively,1
+workload,1
+times,1
+server,1
+large,1
+experiments,1
+processed,1
+reasonable,1
+queries,4
+bars,1
+set,1
+often,1
+For,1
+sized,1
+for,2
+BlinkDB,6
+seconds,1
+does,1
+adaptive,1
+we,1
+maintains,1
+malfunctioning,1
+TBs,1
+SQL,1
+answers,1
+Hive,1
+key,2
+detecting,1
+by,2
+on,7
+of,8
+allows,1
+range,1
+enabling,1
+s,1
+massive,1
+Inc,1
+or,1
+appropriately,1
+within,1
+sampling,1
+dimensional,1
+analyzing,1
+strategy,1
+open,1
+logs,1
+from,4
+annotated,1
+area,1
+data,5
+system,2
+parallel,1
+selects,1
+engine,1
+that,6
+benchmark,1
+differentiate,1
+known,1
+with,1
+than,2
+present,1
+wide,1
+multi,2
+builds,2
+cluster,1
+this,4
+require,1
+work,1
+up,1
+optimization,1
+can,2
+reliably,1
+error,2
+Our,1
+example,1
+interactive,2
+and,5
+ad,1
+well,2
+is,1
+approximate,1
+it,1
+an,4
+sample,2
+To,1
+as,2
+have,1
+in,3
+validated,1
+requirements,1
+hoc,1
+source,1
+make,1
+ideas,1
+answer,1
+effectiveness,1
+accuracy,2
+node,1
+trace,1
+In,1
+derived,1
+collection,1
+running,2
+uses,1
+two,1
+The,1
+meaningful,1
+response,2
+built,1
+a,10
+off,1
+faster,1
+request,1
+presenting,1
+volumes,1
+time,3
+the,3
+resolution,1
+original,1

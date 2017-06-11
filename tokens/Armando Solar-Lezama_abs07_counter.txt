@@ -1,137 +1,129 @@
-
-operations	1
-particularly	1
-consider	1
-both	1
-existing	1
--of	1
-We	3
-implementation	1
-(	1
-,	7
-to	3
-program	2
-those	1
-input	1
-combination	1
-checking	1
-decomposed	1
-trees	1
-synthesizers	1
-they	1
-combinations	1
-unique	1
-sorting	1
---	2
-fewer	1
-large	1
-found	1
-automatic	1
-set	1
-art	1
-often	2
-core	1
-are	1
-our	2
-polymorphic	1
-expressive	1
-for	6
-space	1
-specification	3
-its	1
-combinatorial	1
-state	1
-decomposition	1
-new	1
-supports	1
-method	1
-verification	1
-satisfy	1
-be	1
-terms	1
-power	1
-component	1
-scalability	1
-refinement	2
-by	1
-First	1
-on	2
-search	2
-provably	1
-reported	1
-of	8
-prior	1
-hence	1
-suitable	1
-reasons	1
-into	1
-synthesize	1
-balanced	1
-complex	1
-type-based	1
-synthesizing	1
-size	1
-given	1
-from	1
-leading	1
-concise	1
-two	1
-.	7
-synthesizer	1
-reduction	1
-prototype	1
-type	2
-synthesis	4
-form	1
-offer	1
-tool	1
-observe	1
-than	1
-present	1
-intuitive	1
-was	1
-work	1
-evaluated	1
-can	1
-benchmarks	1
-decidability	1
-tackled	1
-enables	1
-procedure	1
-usability	1
-and	6
-is	1
-it	1
-effectively	1
-as	2
-have	1
-in	4
-functions	1
-recursive	1
-)	1
-that	3
-able	1
-nontrivial	1
-causing	1
--and	1
-which	2
-most	1
-several	1
-independent	1
-specifications	2
-problems	1
-exceeds	1
-user	1
-such	1
-The	1
-a	10
-algorithm	1
-programs	2
-well	1
-more	2
-Second	1
-algorithms	1
-At	1
-components	1
-the	8
-starting	1
+operations,1
+particularly,1
+consider,1
+both,1
+existing,1
+its,1
+We,3
+based,1
+implementation,1
+complex,1
+to,3
+program,2
+those,1
+input,1
+combination,1
+checking,1
+decomposed,1
+trees,1
+synthesizers,1
+they,1
+combinations,1
+unique,1
+sorting,1
+fewer,1
+large,1
+found,1
+automatic,1
+set,1
+art,1
+often,2
+core,1
+are,1
+our,2
+polymorphic,1
+expressive,1
+for,6
+space,1
+specification,3
+combinatorial,1
+state,1
+decomposition,1
+new,1
+supports,1
+method,1
+verification,1
+satisfy,1
+be,1
+terms,1
+power,1
+component,1
+scalability,1
+refinement,2
+by,1
+First,1
+on,2
+search,2
+provably,1
+reported,1
+of,9
+prior,1
+hence,1
+suitable,1
+reasons,1
+into,1
+synthesize,1
+balanced,1
+synthesizing,1
+size,1
+given,1
+from,1
+leading,1
+concise,1
+two,1
+synthesizer,1
+reduction,1
+prototype,1
+type,3
+synthesis,4
+form,1
+offer,1
+tool,1
+observe,1
+than,1
+present,1
+intuitive,1
+was,1
+work,1
+evaluated,1
+can,1
+benchmarks,1
+decidability,1
+tackled,1
+enables,1
+procedure,1
+usability,1
+and,7
+is,1
+it,1
+effectively,1
+as,2
+have,1
+in,4
+functions,1
+recursive,1
+that,3
+able,1
+nontrivial,1
+causing,1
+which,2
+most,1
+several,1
+independent,1
+specifications,2
+problems,1
+exceeds,1
+user,1
+such,1
+The,1
+a,10
+algorithm,1
+programs,2
+well,1
+more,2
+Second,1
+algorithms,1
+At,1
+components,1
+the,8
+starting,1

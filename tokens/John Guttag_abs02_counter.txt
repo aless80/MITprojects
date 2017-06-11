@@ -1,100 +1,95 @@
-
-proposed	1
-show	1
-over	2
-results	1
-symbols	1
-pulses	1
-impact	1
-We	3
-latent	1
-22	1
-(	1
-segments	1
-,	6
-controls	2
-signals	1
-to	2
-data-driven	1
-therapy	1
-misuse	2
-affect	1
-matched	1
-uncovering	1
-large	1
-investigate	1
-uncover	1
-folds	1
-some	1
-closures	1
-glottal	1
-estimated	1
-scale	1
-for	1
-provides	1
-between	4
-approach	2
-million	2
-understanding	1
-step	1
-based	1
-by	1
-on	2
-about	1
-disorders	2
-many	1
-study	1
-basis	1
-days	1
-Americans	1
-long-term	1
-first	2
-diagnose	1
-into	2
-symbolic	1
-253	1
-use	1
-from	2
-accelerometer	1
-post-treatment	2
-data	3
-.	6
-collected	1
-hundred	1
-more	2
-mining	1
-differences	2
-mismatch	1
-ambulatory	1
-Voice	1
-present	1
-pre-	2
-14	1
-as	2
-vocal	2
-placed	1
-patients	4
-of	5
-Our	2
-voice	3
-and	8
-is	1
-working-aged	1
-an	4
-cluster	1
-single	1
-information	1
-)	1
-subjects	1
-objective	1
-worldwide	1
-towards	1
-helping	1
-significant	1
-segment	1
-a	3
-neck	1
-unsupervised	1
-well	1
-behavioral	2
-the	4
+proposed,1
+show,1
+over,2
+results,1
+symbols,1
+pulses,1
+impact,1
+We,3
+latent,1
+disorders,2
+segments,1
+controls,2
+signals,1
+to,2
+treatment,2
+therapy,1
+misuse,2
+affect,1
+matched,1
+diagnose,1
+term,1
+uncovering,1
+large,1
+investigate,1
+uncover,1
+folds,1
+some,1
+closures,1
+glottal,1
+estimated,1
+scale,1
+for,1
+provides,1
+between,4
+approach,2
+million,2
+understanding,1
+step,1
+based,1
+post,2
+by,1
+on,2
+about,1
+accelerometer,1
+many,1
+study,1
+days,1
+Americans,1
+first,2
+pre,2
+into,2
+symbolic,1
+use,1
+from,2
+working,1
+basis,1
+data,4
+long,1
+collected,1
+hundred,1
+more,2
+mining,1
+differences,2
+mismatch,1
+ambulatory,1
+Voice,1
+present,1
+as,2
+vocal,2
+placed,1
+patients,4
+of,5
+Our,2
+voice,3
+and,8
+is,1
+an,4
+cluster,1
+single,1
+aged,1
+information,1
+subjects,1
+objective,1
+worldwide,1
+towards,1
+helping,1
+driven,1
+significant,1
+segment,1
+a,3
+neck,1
+unsupervised,1
+well,1
+behavioral,2
+the,4

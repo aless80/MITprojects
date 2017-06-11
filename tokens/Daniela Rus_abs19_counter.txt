@@ -1,104 +1,99 @@
-
-show	1
-over	2
-satisfied	2
-existing	1
-proposition	1
-its	1
-We	5
-Linear	1
-(	2
-,	3
-environment	1
-to	3
-only	1
-illustrative	1
-policy	1
-include	1
-checking	1
-results	2
-solution	1
-this	1
-truth	1
-reduced	1
-set	1
-are	2
-transitions	1
-maximizes	1
-by	1
-accomplish	1
-for	3
-current	1
-maximized	1
-formula	2
-method	1
-be	2
-we	2
-from	1
-sensors	1
-properties	2
-noisy	1
-on	3
-of	5
-region	1
-motion	1
-graph	1
-action	1
-and	2
-probability	2
-Decision	1
-determine	1
-.	8
-Markov	1
-given	1
-Motivated	1
-abstractions	1
-probabilities	2
-strategy	1
-MDP	1
-Temporal	1
-generating	1
-complete	1
-that	8
-known	2
-with	2
-present	1
-LTL	2
-case	1
-account	1
-builds	1
-Process	1
-value	1
-can	3
-problem	3
-enables	1
-study	1
-performed	1
-control	3
-generate	1
-is	3
-an	2
-states	1
-To	1
-as	1
-at	3
-partitioned-based	1
-)	2
-actuators	1
-latter	1
-regions	2
-which	1
-several	2
-satisfying	1
-Logic	1
-such	1
-The	1
-probabilistic	1
-model	1
-a	12
-task	2
-partitioned	1
-assume	3
-robot	2
-provide	1
-the	12
+show,1
+over,2
+satisfied,2
+existing,1
+proposition,1
+its,1
+We,5
+based,1
+Linear,1
+graph,1
+environment,1
+to,3
+only,1
+illustrative,1
+policy,1
+include,1
+checking,1
+results,2
+solution,1
+this,1
+truth,1
+reduced,1
+set,1
+are,2
+transitions,1
+maximizes,1
+by,1
+accomplish,1
+for,3
+current,1
+maximized,1
+formula,2
+method,1
+be,2
+we,2
+from,1
+sensors,1
+properties,2
+noisy,1
+on,3
+of,5
+region,1
+motion,1
+action,1
+and,2
+probability,2
+Decision,1
+determine,1
+Markov,1
+given,1
+Motivated,1
+abstractions,1
+probabilities,2
+strategy,1
+MDP,1
+Temporal,1
+generating,1
+complete,1
+that,8
+known,2
+with,2
+present,1
+LTL,2
+case,1
+account,1
+builds,1
+Process,1
+value,1
+can,3
+problem,3
+enables,1
+study,1
+performed,1
+control,3
+generate,1
+is,3
+an,2
+states,1
+To,1
+as,1
+at,3
+provide,1
+actuators,1
+latter,1
+regions,2
+which,1
+several,2
+satisfying,1
+Logic,1
+such,1
+The,1
+probabilistic,1
+model,1
+a,12
+task,2
+partitioned,2
+assume,3
+robot,2
+the,12

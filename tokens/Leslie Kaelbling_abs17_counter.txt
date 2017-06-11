@@ -1,92 +1,90 @@
-
-over	1
-obtain	1
-spaces	1
-alternative	1
-networks	1
-We	3
-based	2
-also	1
-,	5
-estimating	1
-finally	1
-other	1
-present	3
-samples	1
-has	1
-them	1
-sums	1
-exact	1
-systematically	1
-Sampling	1
-large	1
-paper	1
-integrals	1
-methods	4
-For	1
-direct	1
-belief	1
-for	3
-current	1
-provides	1
-between	1
-evaluation	1
-method	1
-we	3
-notions	1
-by	2
-improve	1
-adapting	1
-on	2
-of	4
-action	1
-variance	1
-inference	1
-sampling	5
-dimensional	1
-minization	1
-estimators	1
-Ideally	1
-from	1
-to	3
-been	1
-.	7
-diagrams	1
-that	2
-optimal-variance	1
-problem	1
-updating	1
-distance	1
-minimizationof	1
-applying	1
-target	1
-this	1
-approximations	1
-distribution	5
-and	3
-compare	1
-have	1
-is	1
-influence	1
-it	1
-an	2
-high	1
-as	2
-want	1
-in	2
-sequentially	1
-information	1
-different	1
-instance	1
-empirically	1
-complex	1
-optimal	1
-stochastic-gradient-descent	2
-tool	1
-used	1
-important	2
-validate	1
-a	2
-In	1
-the	10
-typical	1
+over,1
+obtain,1
+spaces,1
+alternative,1
+networks,1
+We,3
+based,2
+also,1
+estimating,1
+finally,1
+other,1
+present,3
+samples,1
+stochastic,2
+has,1
+them,1
+sums,1
+exact,1
+systematically,1
+Sampling,1
+large,1
+paper,1
+integrals,1
+methods,4
+For,1
+direct,1
+belief,1
+for,3
+gradient,2
+current,1
+provides,1
+between,1
+evaluation,1
+method,1
+we,3
+notions,1
+by,2
+improve,1
+adapting,1
+on,2
+of,4
+action,1
+variance,2
+inference,1
+sampling,5
+dimensional,1
+minization,1
+estimators,1
+Ideally,1
+from,1
+to,3
+been,1
+diagrams,1
+that,2
+tool,1
+distribution,5
+updating,1
+distance,1
+minimizationof,1
+applying,1
+target,1
+this,1
+approximations,1
+problem,1
+and,3
+compare,1
+have,1
+is,1
+influence,1
+it,1
+an,2
+high,1
+as,2
+want,1
+in,2
+sequentially,1
+information,1
+different,1
+descent,2
+instance,1
+empirically,1
+complex,1
+optimal,2
+used,1
+important,2
+validate,1
+a,2
+In,1
+the,10
+typical,1

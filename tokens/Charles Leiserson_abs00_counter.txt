@@ -1,46 +1,44 @@
-
-operations	1
-and	1
-primitive	1
-set	1
-art	1
-constructing	1
-is	3
-an	1
-paper	2
-in	2
-our	2
-open	1
-intention	1
-graph	1
-support	1
-state	1
-.	2
-to	3
-enough	1
-defining	1
-define	1
-building	1
-terms	1
-linear	1
-that	1
-This	1
-blocks	1
-collection	1
-standard	2
-algebraic	1
-emergence	1
-effort	1
-problem	1
-a	3
-announcing	1
-launch	1
-this	1
-of	5
-It	1
-large	1
-algorithms	1
-mature	1
-position	1
-the	4
-view	1
+operations,1
+and,1
+primitive,1
+set,1
+art,1
+constructing,1
+is,3
+an,1
+paper,2
+in,2
+our,2
+open,1
+intention,1
+graph,1
+support,1
+state,1
+to,3
+enough,1
+defining,1
+define,1
+building,1
+terms,1
+linear,1
+that,1
+This,1
+blocks,1
+collection,1
+standard,2
+algebraic,1
+emergence,1
+effort,1
+problem,1
+a,3
+announcing,1
+launch,1
+this,1
+of,5
+It,1
+large,1
+algorithms,1
+mature,1
+position,1
+the,4
+view,1

@@ -1,150 +1,145 @@
-
-operations	2
-limited	1
-externally	1
-holds	1
-consider	1
-show	1
-when	1
-over	1
-existing	1
-re-enters	1
-paper	1
-atomic	1
-yet	1
-completion	1
-We	3
-based	1
-$	14
-how	1
-situations	1
-concerned	1
-distributed	1
-,	12
-to	3
-only	1
-systems	1
-stable	1
-nodes	5
-guarantees	1
-atomicity	4
-crash	1
-RADON_C	2
-read	2
-background	1
-exchanges	1
-during	3
-execution	1
-;	1
-condition	3
-stability	2
-always	1
-these	1
-either	1
-works	2
-node	3
-significantly	1
-cost	1
-further	1
-operation	1
-out	1
-network	2
-state	3
-neither	1
-participation	1
-be	1
-we	2
-provide	1
-simultaneously	1
-ability	1
-never	2
-implementing	1
-active	2
-by	1
-violate	1
-improved	1
-carried	1
-concurrent	1
-of	11
-practical	1
-resumes	1
-expense	1
-slightly	1
-or	1
-comes	1
-repair	4
-via	1
-presence	2
-communication	2
-number	2
-decrease	1
-construct	1
-message	2
-RADON_R	1
-Erasure	1
-additional	2
-service	1
-live	1
-Upon	1
-system	1
-long	1
-.	10
-restricts	1
-way	1
-memory	1
-replication-based	1
-triggered	1
-offer	1
-under	1
-broadcast	1
-demand	1
-N1	3
-N2	1
-with	2
-present	1
-has	1
-this	1
-liveness	1
-while	1
-future	1
-ongoing	1
-can	1
-and	9
-is	4
-an	3
-To	1
-as	2
-writes	1
-asynchronous	1
-at	1
-in	5
-any	1
-guarantee	2
-codes	1
-efficient	1
-erasure-code-based	1
-that	4
-storage	4
-crashed/repair	1
-write	2
-also	1
-other	1
-which	1
-instead	1
-A	1
-used	1
-crashed	2
-phase	1
-The	1
-a	4
-natural	1
-erasure-code	1
-algorithm	2
-assume	1
-stronger	1
-perform	1
-costs	1
-algorithms	2
-In	2
-the	12
-having	2
+operations,2
+limited,1
+externally,1
+code,2
+consider,1
+show,1
+when,1
+over,1
+existing,1
+stability,2
+paper,1
+atomic,1
+yet,1
+completion,1
+We,3
+enters,1
+based,3
+violate,1
+how,1
+situations,1
+concerned,1
+distributed,1
+to,3
+only,1
+systems,1
+stable,1
+nodes,5
+guarantees,1
+atomicity,4
+erasure,2
+crash,1
+read,2
+replication,1
+background,1
+exchanges,1
+during,3
+execution,1
+condition,3
+always,1
+these,1
+either,1
+works,2
+node,3
+significantly,1
+C,2
+cost,1
+further,1
+operation,1
+out,1
+holds,1
+network,2
+re,1
+state,3
+neither,1
+participation,1
+be,1
+we,2
+provide,1
+simultaneously,1
+ability,1
+never,2
+implementing,1
+active,2
+by,1
+improved,1
+carried,1
+concurrent,1
+of,11
+practical,1
+resumes,1
+expense,1
+slightly,1
+or,1
+comes,1
+repair,5
+via,1
+presence,2
+communication,2
+number,2
+decrease,1
+construct,1
+message,2
+Erasure,1
+additional,2
+service,1
+live,1
+Upon,1
+system,1
+long,1
+restricts,1
+way,1
+memory,1
+triggered,1
+offer,1
+under,1
+N,4
+broadcast,1
+R,1
+demand,1
+RADON,3
+with,2
+present,1
+has,1
+this,1
+liveness,1
+while,1
+future,1
+ongoing,1
+can,1
+and,9
+is,4
+an,3
+To,1
+as,2
+writes,1
+asynchronous,1
+at,1
+in,5
+any,1
+guarantee,2
+codes,1
+efficient,1
+that,4
+storage,4
+write,2
+also,1
+other,1
+which,1
+instead,1
+A,1
+used,1
+crashed,3
+phase,1
+The,1
+a,4
+natural,1
+algorithm,2
+assume,1
+stronger,1
+perform,1
+costs,1
+algorithms,2
+In,2
+the,12
+having,2

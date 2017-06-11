@@ -1,168 +1,160 @@
-
-limited	1
-all	1
-transmitting	1
-magnetic	2
-both	1
-amplifier	1
-existing	2
-including	1
-modulate	1
-localized	1
-We	1
-amplification	1
-electron-beam	1
-(	6
-,	20
-Here	1
-signals	1
-to	7
-critical	1
-systems	1
-electrical	1
-as	2
-has	1
-junction	1
-superconductors	2
-material	1
-nanocryotron	1
-framework	1
-its	1
-performance	1
-not	1
-matched	1
-fields	2
-nTron	4
-large	1
-communications	1
-single-photon	1
-pulses	1
-sub-Angstrom-scale	1
-3-terminal	1
-because	1
-classical	1
-sensitivity	1
-operates	1
-depends	1
-design	1
-expect	1
-quantum	1
-Josephson-junction-based	1
-\Omega	1
-high-temperature	1
-driving	1
-However	1
-thickness	1
-current	2
-3	1
-does	1
-occurs	1
-thin	1
-limitations	1
-be	2
-we	3
-barrier	1
-processing	1
-rely	1
-Joule-heated	1
-difficulty	1
-half-adder	1
-path	1
-100	1
-on	2
-providing	1
-central	1
-perpendicular	1
-of	7
-k	1
-compatible	1
-characterized	1
-circuit	1
-logic	2
-{	1
-sensitively	1
-technologies	1
-number	1
-T-shaped	1
-electronic	2
-conventional	1
-from	1
-capable	1
-.	8
-2	1
-call	1
-characteristics	1
-:	1
-nanowire-based	1
-4	1
-patterned	1
-Josephson	2
-that	2
-formed	1
-photon	1
-immediate	1
-effect	1
-controlling	1
-gain	2
-known	1
-nanowire	1
-small-amplitude	1
-with	3
-than	1
-present	1
-applied	1
-~20	1
-single	1
-devices	1
-theoretical	1
-can	1
-tunneling	1
-and	10
-planar	1
-impedances	2
-is	2
-ambient	1
-it	3
-superconducting	6
-at	1
-have	2
-in	9
-lithography	1
-film	1
-4.2K	1
-)	6
-make	1
-hotspot	2
-1	1
-other	1
-role	1
-junctions	2
-which	2
-digital	3
-gate	1
-switching	1
-channel	1
-play	1
-temperatures	1
-detectors	1
-variation	1
-applications	1
-uses	1
-device	3
-The	3
-astronomy	1
-Furthermore	1
-a	13
-for	1
-sensing	1
-flow	1
-drive	1
-element	1
-more	1
-materials	1
-extensible	1
-In	1
-inability	1
-the	7
-}	1
-typical	1
+limited,1
+all,1
+transmitting,1
+magnetic,2
+both,1
+amplifier,1
+existing,2
+performance,1
+including,1
+modulate,1
+localized,1
+We,1
+amplification,1
+based,2
+Here,1
+terminal,1
+to,7
+does,1
+systems,1
+electrical,1
+as,2
+has,1
+junction,2
+superconductors,2
+material,1
+nanocryotron,1
+beam,1
+electron,1
+T,1
+half,1
+not,1
+matched,1
+shaped,1
+fields,2
+nTron,4
+large,1
+communications,1
+small,1
+pulses,1
+its,1
+characterized,1
+because,1
+classical,1
+sensitivity,1
+operates,1
+depends,1
+design,1
+expect,1
+quantum,1
+lithography,1
+scale,1
+sub,1
+driving,1
+However,1
+thickness,1
+current,2
+critical,1
+Joule,1
+occurs,1
+can,1
+limitations,1
+be,2
+we,3
+barrier,1
+K,1
+processing,1
+rely,1
+perpendicular,1
+difficulty,1
+path,1
+on,2
+providing,1
+central,1
+of,7
+k,1
+compatible,1
+circuit,1
+logic,2
+sensitively,1
+number,1
+Angstrom,1
+heated,1
+electronic,2
+signals,1
+conventional,1
+from,1
+temperature,1
+capable,1
+call,1
+characteristics,1
+theoretical,1
+more,1
+patterned,1
+Josephson,3
+that,2
+formed,1
+photon,2
+immediate,1
+effect,1
+controlling,1
+gain,2
+known,1
+nanowire,2
+technologies,1
+with,3
+than,1
+present,1
+applied,1
+single,2
+devices,1
+thin,1
+amplitude,1
+tunneling,1
+and,10
+planar,1
+impedances,2
+is,2
+ambient,1
+it,3
+high,1
+superconducting,6
+at,1
+have,2
+in,9
+film,1
+make,1
+hotspot,2
+other,1
+role,1
+junctions,2
+which,2
+digital,3
+gate,1
+Omega,1
+switching,1
+channel,1
+play,1
+temperatures,1
+detectors,1
+variation,1
+applications,1
+uses,1
+adder,1
+device,3
+The,3
+astronomy,1
+Furthermore,1
+a,13
+for,1
+framework,1
+flow,1
+drive,1
+element,1
+materials,1
+extensible,1
+In,1
+inability,1
+the,7
+sensing,1
+typical,1

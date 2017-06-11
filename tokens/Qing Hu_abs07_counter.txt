@@ -1,49 +1,50 @@
-
-and	1
-heavy	1
-symmetry	1
-show	1
-process	1
-multi-quasiparticle	1
-system	1
-including	1
-are	1
-in	1
-substantially	1
-our	1
-excitations	1
-physical	1
-compact	1
-We	1
-matrix	1
-for	2
-nuclear	1
-when	1
-,	2
-.	2
-forms	1
-to	2
-those	1
-which	1
-test	1
-new	1
-two-body	1
-elements	1
-calculations	1
-that	1
-may	1
-one-body	1
-operators	1
-functions	1
-wave	1
-restoration	1
-formulae	2
-The	1
-Hartree-Fock-Bogoliubov	1
-present	1
-applied	1
-of	2
-applicable	1
-arbitrary	1
-the	3
-accelerate	1
+and,1
+heavy,1
+symmetry,1
+show,1
+quasiparticle,1
+one,1
+including,1
+are,1
+in,1
+substantially,1
+our,1
+excitations,1
+physical,1
+compact,1
+We,1
+matrix,1
+for,2
+nuclear,1
+when,1
+two,1
+forms,1
+to,2
+those,1
+which,1
+test,1
+new,1
+Hartree,1
+body,2
+process,1
+elements,1
+calculations,1
+that,1
+may,1
+operators,1
+functions,1
+wave,1
+Fock,1
+formulae,2
+The,1
+Bogoliubov,1
+present,1
+applied,1
+multi,1
+of,2
+applicable,1
+restoration,1
+arbitrary,1
+the,3
+system,1
+accelerate,1

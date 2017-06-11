@@ -1,133 +1,131 @@
-
-proposed	2
-violation	1
-captures	1
-results	1
-paper	1
-solutions	1
-find	1
-devoted	1
-We	2
-based	1
-implementation	1
-(	2
-guaranteed	1
-,	6
-Trees	1
-environment	1
-to	6
-only	1
-Random	1
-systems	1
-employed	1
-guarantees	1
-do	1
-motivated	1
-rules	5
-not	1
-conjunction	1
-Kripke	1
-level	1
-always	1
-differential	1
-experiments	1
-become	1
-constraints	1
-subset	1
-concretization	1
-set	1
-violated	1
-computes	1
-are	2
-incrementally	1
-dynamics	1
-Rapidly-exploring	1
-satisfying	1
-for	1
-behind	1
-safety	4
-navigating	1
-Probabilistic	1
-weighted	1
-be	1
-This	2
-attention	1
-unsafety	1
-desired	1
-almost-sure	1
-by	1
-change	1
-on	1
-of	8
-feasible	1
-present	1
-automaton	1
-studies	1
-road	1
-and	3
-sampling	1
-Maps	1
-right	1
-such	2
-reached	1
-strategy	1
-The	1
-given	1
-i.e.	1
-asymptotic	1
-prove	1
-trajectory	1
-system	1
-construct	1
-.	8
-PRMs	1
-motion-planning	1
-synthesis	1
-urban	2
-``	2
-lanes	1
-that	5
-problem	2
-optimality	1
-goals	1
-convergence	1
-with	2
-Road	1
-this	1
-car	1
-while	3
-following	1
-fulfill	1
-autonomous	2
-mobility-on-demand	1
-control	2
-is	4
-Ideas	1
-an	5
-''	2
-as	3
-in	2
-simulation	1
-if	1
-goal	2
-)	2
-travel	1
-Particular	1
-optimal	2
-finite	2
-used	1
-durational	1
-frequently	1
-minimizes	2
-law	1
-structure	1
-RRTs	1
-a	7
-lane	1
-dynamical	1
-algorithm	2
-reachability	1
-algorithms	1
-In	1
-the	9
-order	1
+proposed,2
+violation,1
+captures,1
+results,1
+paper,1
+solutions,1
+find,1
+devoted,1
+We,2
+based,1
+implementation,1
+guaranteed,1
+Trees,1
+environment,1
+to,6
+only,1
+Random,1
+systems,1
+employed,1
+guarantees,1
+do,1
+motivated,1
+rules,5
+not,1
+conjunction,1
+Kripke,1
+level,1
+always,1
+differential,1
+planning,1
+become,1
+constraints,1
+subset,1
+concretization,1
+set,1
+violated,1
+experiments,1
+computes,1
+sure,1
+are,2
+incrementally,1
+dynamics,1
+satisfying,1
+for,1
+behind,1
+safety,4
+navigating,1
+Probabilistic,1
+weighted,1
+be,1
+This,2
+attention,1
+unsafety,1
+desired,1
+by,1
+change,1
+on,2
+of,8
+feasible,1
+motion,1
+present,1
+automaton,1
+studies,1
+road,1
+and,3
+Rapidly,1
+mobility,1
+sampling,1
+Maps,1
+right,1
+such,2
+reached,1
+The,1
+given,1
+asymptotic,1
+prove,1
+trajectory,1
+system,1
+construct,1
+strategy,1
+PRMs,1
+synthesis,1
+urban,2
+lanes,1
+that,5
+problem,2
+optimality,1
+goals,1
+demand,1
+convergence,1
+with,2
+Road,1
+this,1
+car,1
+while,3
+following,1
+fulfill,1
+autonomous,2
+control,2
+exploring,1
+almost,1
+is,4
+Ideas,1
+an,5
+as,3
+in,2
+simulation,1
+if,1
+goal,2
+travel,1
+Particular,1
+optimal,2
+finite,2
+used,1
+durational,1
+frequently,1
+minimizes,2
+law,1
+structure,1
+RRTs,1
+a,7
+lane,1
+e,1
+dynamical,1
+algorithm,2
+i,1
+reachability,1
+algorithms,1
+In,1
+the,9
+order,1

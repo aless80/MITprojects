@@ -1,114 +1,99 @@
-
-show	1
-BO	1
-results	1
-identify	1
-momenta	1
-excitations	1
-We	1
-group	1
-$	14
-density	1
-(	7
-,	8
-topological	2
-to	3
-under	1
-By	2
-real	1
-SG-156	2
-SG-150	2
--invariant	1
-unique	1
-Symmetry	1
-identifying	1
-_6	1
-_3	2
-_2	2
-topologically	1
-constraints	1
-constructing	1
-are	2
-for	2
-space	1
-gapless	1
-conditions	1
-be	1
-we	2
-theory	1
-use	1
-O	1
-Our	1
-[	1
-strong	1
-properties	1
-time-reversal	1
-on	1
-Weyl	3
-chiral	2
-of	5
-time-reversal-invariant	1
-{	3
-\textit	1
-features	2
-symmetry	1
-functional	1
-utilized	1
-electronic	1
-considering	1
-pinned	1
-\mathcal	2
-.	5
-Kramers	3
-their	1
-fermions	1
-realization	1
-Ag2Se	1
-families	1
-that	3
-tight-binding	1
-theorem	1
-interaction	1
-with	1
-Se	1
-fermionic	1
-SG-19	2
-novel	1
-places	1
-16	1
-TlTe2O6	1
-SG-16	1
-crystal	1
-can	1
-demonstrate	2
-examples	1
-and	3
-Ag3BO3	1
-predict	1
-universal	1
-metals	1
-states	1
-in	3
-crystals	3
-spin-orbit	1
-)	7
-methodology	1
-role	1
-which	1
-may	1
-class	3
-structurally	1
-TlTe	1
-significant	1
-robust	1
-]	1
-the	5
-theorem-enforced	2
-a	2
-lead	1
-Ag	2
-compounds	1
-materials	1
-model	1
-}	3
-T	2
+AgBO,1
+show,1
+BO,1
+results,1
+identify,1
+momenta,1
+excitations,1
+We,1
+group,1
+density,1
+with,1
+topological,2
+to,3
+under,1
+By,2
+real,1
+T,2
+reversal,2
+invariant,2
+unique,1
+Symmetry,1
+identifying,1
+topologically,1
+constraints,1
+constructing,1
+are,2
+lead,1
+space,1
+gapless,1
+mathcal,2
+conditions,1
+be,1
+we,2
+theory,1
+O,1
+demonstrate,2
+textit,1
+strong,1
+AgSe,1
+properties,1
+on,1
+Weyl,3
+chiral,2
+of,5
+features,2
+symmetry,1
+functional,1
+utilized,1
+electronic,1
+considering,1
+Kramers,3
+use,1
+class,3
+pinned,1
+their,1
+fermions,1
+realization,1
+families,1
+that,3
+theorem,3
+interaction,1
+spin,1
+Se,1
+fermionic,1
+novel,1
+places,1
+crystal,1
+can,1
+Our,1
+SG,7
+examples,1
+and,3
+enforced,2
+predict,1
+universal,1
+binding,1
+metals,1
+states,1
+in,3
+crystals,3
+tight,1
+methodology,1
+role,1
+which,1
+may,1
+structurally,1
+TlTe,1
+TlTeO,1
+significant,1
+robust,1
+the,5
+a,2
+for,2
+Ag,2
+compounds,1
+orbit,1
+materials,1
+time,2
+model,1

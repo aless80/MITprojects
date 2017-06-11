@@ -1,136 +1,129 @@
-
-operations	1
-selection	1
-joins	1
-Mechanical	1
-focus	1
-Crowdsourcing	1
-tasks	2
-including	1
-query	1
-before	1
-tables	1
-We	3
-$	2
-parameters	1
-also	1
-implementation	1
-(	1
-,	11
-to	7
-factor	1
-crowds	1
-dramatically	1
-them	1
-optimizations	1
-3	1
-propose	1
-overall	2
-possible	1
-Turk	1
-burden	1
-workflows	1
-designers	1
-14.5	1
-sorting	1
-like	1
-ad-hoc	1
-labeling	1
-paper	1
-common	2
-small	1
-end-to-end	1
-reduced	1
-programmatic	1
-crowd	1
-people	1
-humans	2
-cost	3
-are	1
-images	2
-our	1
-for	2
-currently	1
-per	1
-looking	1
-Amazon	1
-experiment	2
-affecting	1
-sorts	1
-integrated	1
-we	5
-jobs	1
-workflow	2
-processing	1
-interface	3
-post	1
-by	1
-on	3
-about	1
-items	1
-or	2
-user	1
-via	1
-DBMSs	1
-into	1
-number	1
-67	1
-use	1
-from	1
-two	2
-.	8
-basic	1
-batching	1
-markets	1
-engine	1
-reduce	3
-naive	1
-pre-filtering	1
-phone	1
-an	2
-with	4
-datasets	1
-this	1
-up	1
-pairwise	1
-of	8
-reimplementation	1
-called	1
-and	5
-compare	1
-describe	2
-it	1
-Qurk	1
-substantially	1
-as	2
-numbers	1
-have	1
-in	2
-ratings	1
-)	1
-pay	1
-make	1
-how	2
-which	1
-accuracy	1
-'s	1
-latency	1
-replacing	1
-price	1
-numerical	1
-MTurk	3
-most	1
-running	1
-declarative	1
-designed	1
-significant	1
-such	2
-data	1
-a	5
-task	3
-sets	1
-without	1
-In	3
-comparisons	1
-the	7
-joining	3
+operations,1
+selection,1
+joins,1
+Mechanical,1
+focus,1
+Crowdsourcing,1
+tasks,2
+including,1
+query,1
+before,1
+tables,1
+We,3
+parameters,1
+also,1
+implementation,1
+to,8
+factor,1
+crowds,1
+dramatically,1
+them,1
+optimizations,1
+propose,1
+overall,2
+possible,1
+Turk,1
+burden,1
+workflows,1
+designers,1
+sorting,1
+like,1
+labeling,1
+paper,1
+common,2
+small,1
+reduced,1
+programmatic,1
+filtering,1
+crowd,1
+people,1
+humans,2
+cost,3
+are,1
+images,2
+our,1
+for,2
+currently,1
+per,1
+looking,1
+Amazon,1
+experiment,2
+affecting,1
+sorts,1
+integrated,1
+we,5
+jobs,1
+workflow,2
+processing,1
+interface,3
+post,1
+by,1
+on,3
+about,1
+items,1
+s,1
+or,2
+user,1
+pre,1
+via,1
+DBMSs,1
+into,1
+number,1
+use,1
+from,1
+two,2
+basic,1
+batching,1
+markets,1
+engine,1
+reduce,3
+naive,1
+phone,1
+an,2
+with,4
+datasets,1
+this,1
+up,1
+pairwise,1
+of,8
+reimplementation,1
+called,1
+and,5
+compare,1
+ad,1
+describe,2
+it,1
+Qurk,1
+substantially,1
+as,2
+numbers,1
+have,1
+in,2
+ratings,1
+end,2
+hoc,1
+pay,1
+make,1
+how,2
+which,1
+accuracy,1
+latency,1
+replacing,1
+price,1
+numerical,1
+MTurk,3
+most,1
+running,1
+declarative,1
+designed,1
+significant,1
+such,2
+data,1
+a,5
+task,3
+sets,1
+without,1
+In,3
+comparisons,1
+the,7
+joining,3

@@ -1,104 +1,98 @@
-
-random	2
-alternative	1
-exchangeability	3
-adding	1
-We	2
-latent	1
-graph	5
-,	11
-to	4
-edge-exchangeable	1
-theorem	1
-2015	1
-guarantees	1
-do	1
-Many	1
-framework	2
-increases	1
-new	1
-dataset	1
-Aldous-Hoover	1
-sparsity	1
-steps	1
-sparse	1
-popular	1
-stationary	1
-sequence	2
-Fox	1
-exchangeable	1
-instantiating	1
-are	4
-measure	2
-our	2
-dense	1
-network	1
-for	2
-However	1
-invariant	2
-;	1
-across	1
-contrast	1
-pioneering	1
-we	2
-real-world	1
-atoms	2
-by	2
-on	1
-of	9
-(	2
-or	1
-and	1
-probability	1
-within	1
-one	1
-relabelings	1
-generative	1
-size	1
-rely	1
-.	6
-assumption	1
-call	1
-empty	1
-more	1
-rather	1
-that	3
-particular	1
-general	1
-with	1
-than	1
-present	1
-unlike	1
-these	1
-work	1
-as	1
-can	1
-many	1
-demonstrate	1
-distribution	2
-exhibit	1
-is	2
-an	1
-To	1
-single	1
-in	2
-traditionally	1
-)	2
-whereas	1
-which	3
-Caron	1
-grows	1
-models	5
-vertex	2
-edges	1
-model	1
-a	3
-outline	1
-vertices	1
-notion	1
-graphs	3
-edge	1
-so	1
-In	1
-the	13
-order	1
+random,2
+alternative,1
+exchangeability,3
+adding,1
+We,2
+Hoover,1
+latent,1
+graph,5
+to,4
+theorem,1
+guarantees,1
+real,1
+do,1
+Many,1
+framework,2
+increases,1
+new,1
+world,1
+dataset,1
+sparsity,1
+steps,1
+sparse,1
+popular,1
+stationary,1
+sequence,2
+Fox,1
+exchangeable,2
+instantiating,1
+are,4
+measure,2
+our,2
+dense,1
+network,1
+for,2
+However,1
+invariant,2
+across,1
+contrast,1
+pioneering,1
+we,2
+atoms,2
+by,2
+on,1
+of,9
+or,1
+and,1
+probability,1
+within,1
+one,1
+relabelings,1
+generative,1
+size,1
+rely,1
+assumption,1
+call,1
+empty,1
+more,1
+that,3
+particular,1
+an,1
+with,1
+than,1
+present,1
+unlike,1
+these,1
+work,1
+as,1
+can,1
+many,1
+demonstrate,1
+distribution,2
+exhibit,1
+is,2
+general,1
+To,1
+single,1
+in,2
+traditionally,1
+rather,1
+whereas,1
+which,3
+Caron,1
+grows,1
+models,5
+vertex,2
+edges,1
+the,13
+a,3
+outline,1
+vertices,1
+Aldous,1
+notion,1
+graphs,3
+edge,2
+so,1
+In,1
+model,1
+order,1

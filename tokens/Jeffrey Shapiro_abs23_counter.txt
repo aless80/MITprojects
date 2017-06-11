@@ -1,75 +1,71 @@
-
-and	1
-decoy	7
-200	1
-protocol	2
-secure	4
-show	1
-is	2
-the	1
-over	1
-it	1
-,	5
-states	5
-as	2
-optimize	1
-at	3
-parties	1
-quantum	2
-where	1
-implemented	2
-practical	1
-information	1
-by	1
-for	1
-communications	1
-)	1
-(	1
-achieved	1
-two	5
-per	2
-.	5
-to	3
-detected	1
-rates	1
-those	1
-under	1
-bits	2
-Furthermore	1
-therefore	1
-be	2
-we	1
-only	3
-multiple	2
-that	1
-photon	1
-state	2
-distances	2
-a	2
-key	1
-infinite	1
-using	1
-one	3
-with	5
-generate	2
-protocols	1
-High-dimensional	1
-almost	1
-short	1
-practically	1
-this	1
-of	2
-work	1
-allows	1
-HD-QKD	5
-km	1
-coincidence	1
-realistic	1
-can	3
-In	1
-distribution	1
-rate	1
-similar	1
-or	2
-experimental	1
-constraints	1
+and,1
+distances,2
+protocol,2
+secure,4
+show,1
+is,2
+the,1
+over,1
+it,1
+one,3
+dimensional,1
+as,2
+optimize,1
+at,3
+parties,1
+quantum,2
+where,1
+implemented,2
+practical,1
+HD,5
+information,1
+by,1
+for,1
+communications,1
+decoy,7
+achieved,1
+two,5
+per,2
+QKD,5
+to,3
+detected,1
+rates,1
+those,1
+under,1
+bits,2
+Furthermore,1
+therefore,1
+be,2
+we,1
+only,3
+multiple,2
+that,1
+photon,1
+state,2
+key,1
+infinite,1
+using,1
+coincidence,1
+with,5
+generate,2
+protocols,1
+a,2
+states,5
+almost,1
+short,1
+practically,1
+this,1
+of,2
+work,1
+allows,1
+rate,1
+km,1
+High,1
+realistic,1
+can,3
+In,1
+distribution,1
+similar,1
+or,2
+experimental,1
+constraints,1

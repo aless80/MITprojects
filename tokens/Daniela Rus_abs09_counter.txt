@@ -1,123 +1,118 @@
-
-limited	1
-spatiotemporal	2
-over	2
-focus	1
-planning	2
-tours	3
-looks	1
-integer	1
-its	1
-synthetic	1
-We	2
-$	2
-also	1
-(	5
-,	6
-to	6
-only	1
-nodes	2
-main	1
-time-invariant	1
-Besides	1
-propose	1
-using	1
-performing	1
-solved	1
-paper	1
-OP	1
-correlations	2
-are	1
-realistic	1
-our	1
-said	1
-network	2
-for	1
-informative	1
-state	1
-Massachusetts	1
-between	1
-be	1
-we	1
-non-linear	1
-QCOP	3
-extension	1
-of	5
-programming	1
-simulation	1
-length	1
-resulting	1
-mixed	1
-estimation	1
-studies	1
-COP	3
-tasks	1
-Orienteering	2
-maximize	1
-quickly	1
-utility	2
-use	1
-temperature	1
-capable	1
-estimating	1
-two	1
-.	7
-quadratic	4
-:	1
-'s	1
-function	1
-Correlated	1
-MIQP	1
-that	2
-near-optimal	1
-particular	1
-Problem	2
-with	3
-extensive	1
-capturing	1
-applied	1
-novel	1
-this	1
-up	1
-can	1
-Our	1
-distribution	1
-called	1
-tour	1
-and	2
-150	1
-successfully	1
-correctness	1
-is	2
-formulation	1
-it	1
-ii	1
-characterize	1
-at	1
-have	1
-in	4
-disjoint	1
-constrained	1
-monitoring	2
-)	5
-verify	1
-feature	1
-field	2
-which	1
-spatial	2
-performance	1
-node	1
-multiple	1
-may	1
-In	1
-plan	1
-The	1
-model	1
-a	8
-algorithm	3
-i	1
-neighboring	1
-persistent	2
-anytime	1
-correlation	1
-the	11
+limited,1
+spatiotemporal,2
+over,2
+focus,1
+planning,2
+tours,3
+looks,1
+integer,1
+its,1
+synthetic,1
+We,2
+also,1
+to,6
+only,1
+nodes,2
+main,1
+non,1
+Besides,1
+propose,1
+performance,1
+using,1
+performing,1
+solved,1
+paper,1
+OP,1
+correlations,2
+are,1
+realistic,1
+our,1
+said,1
+network,2
+for,1
+informative,1
+state,1
+Massachusetts,1
+between,1
+invariant,1
+be,1
+we,1
+linear,1
+QCOP,3
+extension,1
+of,5
+programming,1
+simulation,1
+length,1
+resulting,1
+mixed,1
+s,1
+estimation,1
+studies,1
+COP,3
+tasks,1
+Orienteering,2
+maximize,1
+utility,2
+use,1
+temperature,1
+capable,1
+estimating,1
+two,1
+quickly,1
+quadratic,4
+time,1
+function,1
+Correlated,1
+MIQP,1
+that,2
+particular,1
+Problem,2
+with,3
+extensive,1
+capturing,1
+applied,1
+novel,1
+this,1
+up,1
+near,1
+can,1
+Our,1
+distribution,1
+called,1
+tour,1
+and,2
+successfully,1
+correctness,1
+is,2
+formulation,1
+it,1
+ii,1
+characterize,1
+at,1
+have,1
+in,4
+disjoint,1
+constrained,1
+monitoring,2
+verify,1
+feature,1
+field,2
+which,1
+spatial,2
+optimal,1
+node,1
+multiple,1
+may,1
+In,1
+plan,1
+The,1
+model,1
+a,8
+algorithm,3
+i,1
+neighboring,1
+persistent,2
+anytime,1
+correlation,1
+the,11

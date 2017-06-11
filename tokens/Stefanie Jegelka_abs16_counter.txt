@@ -1,104 +1,96 @@
-
-operations	1
-over	1
-ground	1
-synthetic	1
-sampled	1
-based	1
-$	2
-(	1
-,	5
-coresets	2
-to	4
-samples	2
-accurate	1
-real	1
-advantage	1
-propose	1
-large	2
-discrete	2
-yields	1
-works	1
-set	1
-hindered	1
-elegant	1
-are	1
-our	2
-matrix	1
-for	3
-new	1
-;	1
-previous	2
-method	2
-we	1
-approaches	2
-by	1
-on	3
-property	1
-Point	1
-of	6
-k	1
-repulsion	1
-first	1
-tasks	1
-thereafter	1
-sampling	3
-applicability	1
-total	1
-expensive	1
-from	2
-takes	1
-indicate	1
-data	1
-approximate	1
-But	1
-.	6
-their	1
-opposed	1
-basic	1
-:	1
-more	1
-Processes	1
-diversity	2
-both	1
-constructs	1
-than	1
-distance	1
-datasets	1
-subsets	2
-this	1
-aims	1
-Determinantal	1
-items	2
-Our	1
-distribution	1
-stages	1
-cubic-complexity	1
-and	4
-DPP	1
-is	1
-it	2
-as	1
-in	1
-proceeds	1
-constructed	1
--DPPs	1
-)	1
-that	1
-models	1
-sets	3
-variation	1
-two	1
-such	1
-probabilistic	1
-efficiently	2
-a	2
-algorithm	2
-minimize	1
-light	1
-As	1
-Experiments	1
-In	1
-the	5
-DPPs	1
-original	1
+operations,1
+over,1
+ground,1
+synthetic,1
+sampled,1
+based,1
+coresets,2
+to,4
+samples,2
+accurate,1
+real,1
+advantage,1
+propose,1
+large,2
+discrete,2
+yields,1
+works,1
+set,1
+hindered,1
+elegant,1
+are,1
+our,2
+matrix,1
+for,3
+new,1
+previous,2
+method,2
+we,1
+approaches,2
+by,1
+both,1
+property,1
+Point,1
+of,6
+k,1
+repulsion,1
+first,1
+tasks,1
+thereafter,1
+sampling,3
+applicability,1
+total,1
+expensive,1
+from,2
+takes,1
+indicate,1
+data,1
+approximate,1
+But,1
+their,1
+opposed,1
+basic,1
+more,1
+Processes,1
+diversity,2
+on,3
+constructs,1
+than,1
+distance,1
+datasets,1
+subsets,2
+this,1
+aims,1
+Determinantal,1
+items,2
+Our,1
+distribution,1
+stages,1
+and,4
+DPP,1
+is,1
+it,2
+as,1
+in,1
+proceeds,1
+constructed,1
+that,1
+complexity,1
+cubic,1
+models,1
+In,1
+variation,1
+two,1
+such,1
+probabilistic,1
+efficiently,2
+a,2
+algorithm,2
+minimize,1
+light,1
+As,1
+Experiments,1
+sets,3
+the,5
+DPPs,2
+original,1

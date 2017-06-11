@@ -1,69 +1,67 @@
-
-and	4
-strongly	1
-features	3
-truncated	1
-moments	3
-series	1
-Furthermore	1
-in	1
-Laplacian	6
-radius	2
-are	2
-convex	1
-expressions	1
-constrained	1
-its	1
-methods	1
-spectral	8
-by	1
-derive	1
-from	2
-network	3
-for	1
-to	2
-graph	1
-enough	1
-measurements	1
-,	4
-.	5
-matrix	3
-that	1
-other	1
-between	1
-Using	1
-illustrate	1
-local	4
-shows	1
-On	1
-we	4
-terms	1
-theory	1
-relationship	1
-on	1
-propose	1
-sequence	1
-collection	1
-gap	2
-algebraic	1
-particular	1
-not	1
-estimate	1
-hand	1
-properties	1
-structural	4
-a	5
-so-called	1
-semidefinite	1
-compute	1
-programs	1
-of	10
-study	1
-bounds	1
-analysis	1
-optimization	1
-how	1
-In	1
-usually	1
-Our	1
-the	10
+and,4
+strongly,1
+features,3
+truncated,1
+moments,3
+series,1
+Furthermore,1
+in,1
+Laplacian,6
+radius,2
+are,2
+convex,1
+expressions,1
+constrained,1
+its,1
+methods,1
+spectral,8
+derive,1
+from,2
+network,3
+for,1
+to,2
+graph,1
+measurements,1
+by,1
+matrix,3
+enough,1
+other,1
+between,1
+Using,1
+illustrate,1
+local,4
+shows,1
+On,1
+we,4
+terms,1
+theory,1
+relationship,1
+that,1
+propose,1
+sequence,1
+collection,1
+gap,2
+algebraic,1
+particular,1
+not,1
+estimate,1
+hand,1
+properties,1
+structural,4
+a,5
+on,1
+semidefinite,1
+compute,1
+programs,1
+of,10
+study,1
+bounds,1
+analysis,1
+optimization,1
+so,1
+how,1
+In,1
+usually,1
+Our,1
+the,10
+called,1

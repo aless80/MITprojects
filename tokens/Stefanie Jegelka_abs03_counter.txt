@@ -1,123 +1,114 @@
-
-selection	2
-proposed	1
-lack	1
-=m	1
-satisfies	1
-its	4
-=k	1
-We	2
-remarkable	1
-(	3
-,	5
-to	6
-adoption	1
-attractive	1
-sampler	2
-has	2
-<	2
-columns	1
-lacking	1
-spanned	1
-closely	1
-exact	1
-fast-mixing	1
-Rayleigh	1
-Thereafter	1
-remove	1
-popular	1
-subset	1
-because	1
-methods	1
-classical	1
-related	1
-polynomial	2
-design	1
-result	1
-matrix	1
-for	3
-Boutsidis	1
-However	1
-induced	1
-method	3
-be	1
-we	1
-who	1
-theory	1
-This	3
-selecting	1
-n*m	1
-by	4
-provably	1
-real-stable	1
-column	1
-of	4
-study	2
-derandomization	1
-chain	1
-makes	1
-experimental	1
-via	1
-probability	1
-sampling	5
-randomized	1
-wider	1
-proportional	1
-rows	1
-from	1
-practitioners	1
-prove	1
-been	1
-.	7
-much	1
-was	1
-theoretical	1
-more	1
-``	1
-that	4
-but	1
-volume	4
-known	1
-wide	1
-Strong	1
-consequences	1
-showed	1
-developing	1
-this	1
-work	1
-n	1
-2013	1
-promising	1
-distribution	1
-property	1
-k	1
-are	2
-and	4
-is	2
-submatrix	1
-it	2
-an	2
-''	1
-as	2
-dual	3
-)	3
-hampered	1
-empirically	1
-multiple	1
-time	2
-polynomials	1
-applications	1
-Avron	1
-date	1
-such	1
-Markov	1
-a	3
-short	1
-implies	1
-especially	1
-algorithm	1
-well	2
-analysis	1
-algorithms	2
-hindrance	1
-the	7
+selection,2
+remarkable,1
+lack,1
+satisfies,1
+its,4
+We,2
+proposed,1
+to,6
+adoption,1
+attractive,1
+stable,1
+Strong,1
+columns,1
+real,1
+lacking,1
+spanned,1
+closely,1
+mixing,1
+exact,1
+Rayleigh,1
+Thereafter,1
+remove,1
+popular,1
+subset,1
+because,1
+methods,1
+classical,1
+related,1
+wider,1
+design,1
+result,1
+matrix,1
+for,3
+Boutsidis,1
+However,1
+induced,1
+method,3
+be,1
+we,1
+who,1
+theory,1
+This,3
+selecting,1
+by,4
+provably,1
+column,1
+of,4
+study,2
+derandomization,1
+chain,1
+makes,1
+experimental,1
+via,1
+probability,1
+sampling,5
+randomized,1
+fast,1
+polynomial,2
+proportional,1
+rows,1
+from,1
+practitioners,1
+prove,1
+been,1
+much,1
+was,1
+theoretical,1
+more,1
+that,4
+sampler,2
+but,1
+volume,4
+known,1
+wide,1
+has,2
+algorithm,1
+showed,1
+developing,1
+this,1
+work,1
+n,2
+promising,1
+distribution,1
+property,1
+k,2
+are,2
+and,4
+m,2
+is,2
+submatrix,1
+it,2
+an,2
+as,2
+dual,3
+hampered,1
+empirically,1
+multiple,1
+time,2
+polynomials,1
+applications,1
+Avron,1
+date,1
+such,1
+Markov,1
+a,3
+short,1
+implies,1
+especially,1
+consequences,1
+well,2
+analysis,1
+algorithms,2
+hindrance,1
+the,7

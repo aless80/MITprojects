@@ -1,99 +1,89 @@
-
-fabricated	1
-experiments	1
-layers	1
-We	1
-20	1
-$	4
-,	9
-to	3
-\left	1
-Using	1
-\bar	2
-cantilever	1
-obtain	1
-beam	1
-electron	4
-grid	1
-report	1
-transmission	2
-millimeter-scale	1
-microscope	2
-fringes	2
-1\right	1
-holography	1
-milling	1
-interferometer	3
-design	1
-measurement	1
-interaction-free	1
-interference	1
-self-aligned	1
-consisting	1
-contrast	1
-be	2
-we	1
-This	2
-focused	1
-[	1
-by	2
-on	1
-geometry	1
-of	4
-gallium	1
-0.32	1
-silicon	3
-path-separation	1
-period	1
-{	2
-corresponds	1
-scaled	1
-thick	1
-ion-beam	1
-from	1
-lattice	1
-unmodified	1
-two	1
-.	6
-was	1
-separated	1
-with	1
-applied	1
-15	1
-this	1
-maximum	1
-crystal	1
-can	2
-planes	1
-demonstrate	1
-and	3
-an	1
-single	1
-have	1
-in	3
-as	1
-%	1
-nm	2
-perform	1
-45	1
-Mach-Zehnder	1
-1	2
-also	1
-potentially	1
-which	1
-200	1
-used	1
-monolithic	1
-kV	1
-such	1
-The	1
-]	1
-\mu	1
-a	6
-physics	1
-m	1
-It	1
-electrons	1
-fundamental	1
-the	1
-}	2
+fabricated,1
+experiments,1
+layers,1
+We,1
+lattice,1
+Using,1
+cantilever,1
+obtain,1
+beam,2
+electron,4
+grid,1
+report,1
+bar,2
+transmission,2
+microscope,2
+fringes,2
+right,1
+milling,1
+maximum,1
+interferometer,3
+design,1
+measurement,1
+scale,1
+Zehnder,1
+interference,1
+consisting,1
+contrast,1
+be,2
+we,1
+This,2
+free,1
+focused,1
+separation,1
+path,1
+by,2
+on,1
+interaction,1
+geometry,1
+of,4
+gallium,1
+silicon,3
+period,1
+corresponds,1
+scaled,1
+holography,1
+thick,1
+from,1
+to,3
+unmodified,1
+two,1
+was,1
+Mach,1
+separated,1
+aligned,1
+with,1
+applied,1
+this,1
+as,1
+mu,1
+crystal,1
+can,2
+planes,1
+demonstrate,1
+and,3
+an,1
+single,1
+have,1
+in,3
+nm,2
+perform,1
+self,1
+also,1
+potentially,1
+which,1
+used,1
+monolithic,1
+millimeter,1
+ion,1
+kV,1
+such,1
+The,1
+a,6
+m,1
+It,1
+electrons,1
+fundamental,1
+the,1
+physics,1
+left,1

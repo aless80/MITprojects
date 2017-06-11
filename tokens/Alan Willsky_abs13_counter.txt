@@ -1,93 +1,90 @@
-
-limited	1
-proposed	1
-proximity	1
-random	3
-computation	3
-networks	2
-$	2
-graph	3
-,	1
-to	6
-under	1
-policy	3
-nodes	3
-maximal	1
-then	1
-designated	1
-scaling	2
-transmissions	1
-where	2
-constraints	1
-A	1
-energy	5
-achieves	2
-depends	1
-are	2
-special	1
-subject	2
-exponent	1
-for	3
-sum	1
-its	1
-goes	1
-designing	1
-geometric	1
-policies	1
-cliques	1
-analyzed	1
-on	1
-constraint	3
-of	11
-region	1
-according	1
-range	1
-neighbor	1
-or	1
-first	1
-number	1
-order-optimal	2
-given	1
-consumption	5
-.	7
-function	2
-wireless	1
-Euclidean	1
-with	1
-case	1
-albeit	1
-modified	1
-placed	2
-behavior	2
-growing	1
-problem	1
-root	1
-k	1
-decompose	1
-and	3
-is	5
-general	1
-as	1
-minimum	1
-in	2
--nearest	1
-latency	4
-functions	1
-regions	1
-which	2
-optimal	1
-node	1
-extended	1
-infinity	1
-uniformly	1
-such	1
-The	6
-class	1
-a	5
-delivery	1
-path-loss	1
-considered	2
-average	1
-in-network	1
-the	12
-dimension	1
+limited,1
+proposed,1
+proximity,1
+random,3
+computation,3
+networks,2
+graph,3
+to,6
+under,1
+policy,3
+nodes,3
+maximal,1
+then,1
+designated,1
+scaling,2
+transmissions,1
+loss,1
+where,2
+constraints,1
+A,1
+energy,5
+achieves,2
+depends,1
+are,2
+special,1
+subject,2
+network,1
+for,3
+sum,1
+its,1
+goes,1
+designing,1
+geometric,1
+policies,1
+cliques,1
+analyzed,1
+path,1
+on,1
+constraint,3
+of,11
+k,1
+according,1
+range,1
+neighbor,1
+or,1
+first,1
+number,1
+given,1
+consumption,5
+function,2
+wireless,1
+Euclidean,1
+with,1
+case,1
+albeit,1
+modified,1
+placed,2
+behavior,2
+growing,1
+problem,1
+root,1
+region,1
+decompose,1
+and,3
+nearest,1
+is,5
+general,1
+as,1
+minimum,1
+in,3
+latency,4
+functions,1
+regions,1
+which,2
+optimal,3
+node,1
+extended,1
+infinity,1
+uniformly,1
+such,1
+The,6
+class,1
+exponent,1
+a,5
+delivery,1
+considered,2
+average,1
+order,2
+the,12
+dimension,1

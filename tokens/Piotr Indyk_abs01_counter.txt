@@ -1,163 +1,147 @@
-
-\geq	1
-all	3
-k=4	1
-consider	3
-show	2
-over	1
--sparse	1
-paper	1
-query	2
-We	2
-$	46
-(	12
-solving	2
-,	14
-0	1
-add	2
-batched	1
-n^	3
-k-1	2
-under	1
-conjecture	1
-\tau_i=1	1
-Improving	1
-whether	1
-||M	1
-variants	3
-\tilde	2
-d	3
-\sum_i	1
-these	1
-\tau	2
-vector	3
-testing	1
-sparse	1
-queries	1
-Moreover	1
-where	5
-exhaustively	1
-set	1
-conditional	1
-Hopcroft's	1
-imply	2
-are	1
-further	1
-complexity-theoretic	1
-\Omega	2
-matrix	3
-for	4
-sparsity	2
-However	1
-provides	1
-conjectured	1
-offline	3
-k/2	1
-be	1
-we	7
-This	1
-problems	3
-of	12
-O	1
-Sparse	1
-Linear	1
-advance	1
-constraint	2
-many	1
-k	4
-dependence	1
-o	2
-Convex	1
-{	5
-aforementioned	1
-well-studied	1
--dimensional	2
-affine	1
-upper	1
-bound	4
-three	2
-improvements	1
-learning	1
-.	12
-\times	1
-given	3
-statistics	1
-would	3
-to	3
-approximate	1
-been	1
-quickly	1
-low	2
-is	4
-searches	1
-``	1
-B	1
-form	1
-that	6
-naive	1
-\tau-q||	1
-lower	3
-particular	2
-with	1
-present	1
-case	1
-''	1
-compute	1
-preprocesses	1
-this	4
-require	2
-bounds	1
-value	1
-n	3
-variant	3
-can	1
-error	1
-problem	4
-and	7
-have	2
-solved	1
-Furthermore	1
-Affine	1
-an	3
-ii	2
-as	1
-want	1
-in	5
-regime	1
-recovery	1
-degenerate	1
-)	12
-\choose	1
-machine	1
-also	1
-nontrivial	1
-setting	2
-online	2
-answer	1
-several	1
-exponential	1
-inputs	1
-time	2
-M	3
-minimized	1
-SLR	4
-applications	1
-such	2
-n^d	2
-/e^	1
-a	7
-All	1
-natural	1
-subsets	1
-algorithm	2
-famous	1
-i	2
-space	1
-q	2
-points	1
-algorithms	1
-In	4
-the	24
-}	5
-Regression	1
-non-trivial	1
+all,3
+consider,3
+show,2
+over,1
+paper,1
+tilde,2
+query,2
+trivial,1
+We,2
+Linear,1
+solving,2
+to,3
+add,2
+batched,1
+choose,1
+under,1
+geq,1
+Improving,1
+whether,1
+aforementioned,1
+variants,3
+d,5
+Hopcroft,1
+this,4
+vector,3
+testing,1
+sparse,2
+queries,1
+Moreover,1
+where,5
+exhaustively,1
+set,1
+conditional,1
+imply,2
+are,1
+further,1
+theoretic,1
+matrix,3
+for,4
+sparsity,2
+sum,1
+However,1
+provides,1
+conjectured,1
+offline,3
+be,1
+we,7
+conjecture,1
+This,1
+M,4
+of,12
+O,1
+Sparse,1
+advance,1
+constraint,2
+many,1
+k,8
+studied,1
+dependence,1
+o,2
+times,1
+s,1
+Convex,1
+affine,1
+upper,1
+bound,4
+three,2
+dimensional,2
+improvements,1
+learning,1
+given,3
+statistics,1
+would,3
+approximate,1
+been,1
+quickly,1
+low,2
+Furthermore,1
+searches,1
+B,1
+form,1
+that,6
+naive,1
+lower,3
+particular,2
+natural,1
+with,1
+present,1
+case,1
+compute,1
+preprocesses,1
+these,1
+require,2
+bounds,1
+value,1
+n,8
+variant,3
+can,1
+error,1
+problem,4
+and,7
+tau,4
+have,2
+solved,1
+is,4
+Affine,1
+non,1
+an,3
+ii,2
+as,1
+want,1
+in,5
+regime,1
+recovery,1
+degenerate,1
+machine,1
+also,1
+nontrivial,1
+setting,2
+online,2
+answer,1
+several,1
+Omega,2
+exponential,1
+inputs,1
+time,2
+problems,3
+minimized,1
+SLR,4
+applications,1
+such,2
+a,7
+All,1
+e,1
+subsets,1
+algorithm,2
+famous,1
+i,4
+space,1
+well,1
+q,3
+complexity,1
+points,1
+algorithms,1
+In,4
+the,24
+Regression,1

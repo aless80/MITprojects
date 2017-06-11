@@ -1,193 +1,170 @@
-
-limited	1
-when	1
-obtain	1
-~1500	1
-paper	1
-during	2
-SII	1
-its	1
-galaxy	3
-observational	1
-Mgb	1
-We	1
-derive	1
-based	1
-21	1
-H-band	1
-(	8
-,	35
-Here	1
-to	2
-detected	1
-black	1
-unobscured	1
-~80	1
-<	8
-Evolution	1
-H	1
-break	1
-using	1
-down	1
-NII	1
-continuum	1
-OII	1
-55	1
-24.5	1
-24.0	1
-large	1
-these	1
-intervals	1
-GOODS-N	1
-either	1
-fields	1
-H_AB	1
-fixed	1
-591	1
-transform	1
-For	1
-R=3000-3650	1
-rate	1
-4000	1
-are	1
-redshifts	1
-our	2
-hole	1
-targets	1
-MOSDEF	4
-Msol	1
-for	2
-confirm	1
-broad	1
-selected	1
-content	1
-3D-HST	1
-1.70	1
-rest-frame	1
-size	1
-available	1
-24	1
-we	5
-catalogs	1
-respectively	1
-K	1
-5008	1
-galaxies	5
-OIII	1
-understanding	1
-spectroscopic	1
-moderate-resolution	1
-formation	1
-F160W	1
-active	1
-[	4
-strong	1
-spectroscopically	1
-wealth	1
-obtained	1
-both	1
-dusty	1
-of	7
-Halpha	1
-survey	4
-absorption	2
-or	1
-well-studied	1
-features	1
-redshift	2
-overview	1
-photometric	1
-obtaining	1
-CANDELS	1
-MOSFIRE	1
-dust	1
-Angstrom	2
-spans	1
-strategy	1
-star-forming	2
-properties	1
-3.80	2
-from	2
-additional	1
-addition	1
-data	2
-three	2
-Msol/yr	1
-.	11
-nebular	1
-reduction	1
-gaseous	1
-:	2
-was	1
-diversity	1
-25.0	1
-completed	1
-universe	1
-emission	2
-optical	1
-quiescent	1
-representative	1
-serendipitously	1
-Hbeta	1
-stellar	3
-present	2
-wide	1
-target	1
-To	1
-this	1
-aims	1
-2.61	1
-will	1
-Ca-II	1
-were	1
-metal	1
-z	4
-Targets	1
-and	15
-e.g.	2
-characteristics	1
-is	1
-in	4
-an	2
-sample	5
-Field	1
-at	2
-have	1
-magnitudes	1
-analysis	1
-confirmed	1
-nights	1
-%	1
-~10^9-10^11.5	1
-)	8
-~10^0-10^3	1
-range	1
-~3700-7000	1
-which	1
-ancillary	1
-mass	1
-COSMOS	1
-With	1
-1.37	2
-2.95	1
-star	1
-time	1
-masks	1
-includes	1
-most	1
-date	1
-robust	1
-The	3
-on	1
-]	4
-a	2
-spectra	3
-lines	3
-roughly	1
-Deep	1
-Balmer	1
-AEGIS	1
-2.09	1
-In	2
-the	11
-first	1
+limited,1
+obtain,1
+rest,1
+paper,1
+during,2
+SII,1
+its,1
+galaxy,3
+observational,1
+Mgb,1
+We,1
+derive,1
+based,1
+absorption,2
+FW,1
+Here,1
+to,2
+detected,1
+black,1
+HST,1
+unobscured,1
+Evolution,1
+D,1
+H,3
+break,1
+band,1
+using,1
+yr,1
+down,1
+NII,1
+continuum,1
+OII,1
+fields,1
+large,1
+these,1
+intervals,1
+either,1
+spectroscopically,1
+fixed,1
+transform,1
+For,1
+frame,1
+rate,1
+are,1
+redshifts,1
+our,2
+hole,1
+targets,1
+MOSDEF,4
+Msol,2
+for,2
+confirm,1
+broad,1
+selected,1
+content,1
+moderate,1
+available,1
+we,5
+catalogs,1
+respectively,1
+K,1
+galaxies,5
+OIII,1
+understanding,1
+spectroscopic,1
+formation,1
+active,1
+strong,1
+properties,1
+wealth,1
+obtained,1
+both,1
+g,2
+dusty,1
+of,7
+studied,1
+Halpha,1
+survey,4
+or,1
+first,1
+features,1
+redshift,2
+overview,1
+photometric,1
+obtaining,1
+CANDELS,1
+MOSFIRE,1
+dust,1
+Angstrom,2
+spans,1
+size,1
+from,2
+additional,1
+addition,1
+three,2
+strategy,1
+nebular,1
+reduction,1
+characteristics,1
+gaseous,1
+was,1
+GOODS,1
+diversity,1
+on,1
+forming,2
+completed,1
+universe,1
+emission,2
+N,1
+R,1
+quiescent,1
+representative,1
+serendipitously,1
+Hbeta,1
+stellar,3
+present,2
+wide,1
+target,1
+To,1
+this,1
+Ca,1
+aims,1
+will,1
+were,1
+metal,1
+z,4
+Targets,1
+and,15
+well,1
+is,1
+in,4
+an,2
+sample,5
+Field,1
+at,2
+have,1
+magnitudes,1
+analysis,1
+confirmed,1
+nights,1
+when,1
+range,1
+which,1
+ancillary,1
+mass,1
+COSMOS,1
+With,1
+AB,1
+star,3
+time,1
+masks,1
+includes,1
+II,1
+most,1
+date,1
+robust,1
+The,3
+data,2
+a,2
+e,2
+spectra,3
+lines,3
+roughly,1
+Deep,1
+Balmer,1
+optical,1
+AEGIS,1
+In,2
+the,11
+resolution,1

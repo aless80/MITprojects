@@ -1,121 +1,114 @@
-
-show	1
-captures	1
-obtain	1
-existing	1
-underlying	1
-networks	4
-compact	1
-We	3
-based	1
-interesting	1
-,	9
-to	3
-efficient	1
-systems	2
-into	1
-introduce	1
-methods	1
-they	1
-using	1
-outperform	1
-large	1
-sparsity	1
-vector	1
-arbitrary	1
-Cifuentes-Parrilo-2016	1
-computed	1
-ideals	2
-examples	1
-our	1
-techniques	1
-even	1
-by	2
-network	1
-for	3
-its	1
-magnitude	1
-decomposition	1
-(	2
-;	1
-size	1
-refer	1
-be	2
-we	1
-linear	1
-interactions	1
-refinement	1
-Chordal	2
-from	2
-[	1
-properties	1
-simpler	1
-on	1
-many	1
-admit	1
-exponentially	1
-graph	1
-among	1
-radical	1
-variables	2
-number	2
-instances	1
-such	1
-polynomial	5
-apply	1
-often	1
-statistics	1
-described	1
-addition	1
-probabilistic	1
-structured	1
-system	1
-.	7
-Furthermore	1
-graphical	1
-families	1
-that	2
-triangular	1
-elimination	1
-cardinality	1
-novel	1
-these	1
-while	1
-can	2
-of	9
-and	2
-is	2
-preserving	1
-an	1
-effectively	1
-as	4
-in	1
-orders	1
-computationally	1
-variety	1
-)	2
-convenient	1
-chordal	4
-ideal	1
-which	1
-test	1
-several	1
-used	1
-though	1
-equidimensional	1
-algebraic	1
-membership	1
-representations	1
-The	1
-]	1
-structure	2
-a	5
-algorithm	1
-well	1
-provide	1
-algorithms	1
-components	2
-sets	1
-representation	1
-the	7
-dimension	1
+show,1
+captures,1
+obtain,1
+existing,1
+underlying,1
+networks,4
+compact,1
+We,3
+based,1
+interesting,1
+Parrilo,1
+to,3
+systems,2
+into,1
+introduce,1
+methods,1
+they,1
+using,1
+outperform,1
+large,1
+sparsity,1
+vector,1
+arbitrary,1
+computed,1
+ideals,2
+examples,1
+our,1
+techniques,1
+even,1
+network,1
+for,3
+its,1
+magnitude,1
+decomposition,1
+size,1
+refer,1
+be,2
+we,1
+linear,1
+interactions,1
+Cifuentes,1
+refinement,1
+Chordal,2
+from,2
+properties,1
+simpler,1
+on,1
+many,1
+admit,1
+exponentially,1
+graph,1
+among,1
+radical,1
+variables,2
+number,2
+instances,1
+such,1
+polynomial,5
+apply,1
+often,1
+statistics,1
+described,1
+addition,1
+structured,1
+system,1
+by,2
+Furthermore,1
+graphical,1
+families,1
+that,2
+triangular,1
+elimination,1
+cardinality,1
+novel,1
+these,1
+while,1
+can,2
+of,9
+and,2
+is,2
+preserving,1
+an,1
+effectively,1
+as,4
+in,1
+orders,1
+computationally,1
+variety,1
+provide,1
+convenient,1
+chordal,4
+ideal,1
+which,1
+test,1
+several,1
+used,1
+though,1
+equidimensional,1
+algebraic,1
+membership,1
+representations,1
+The,1
+probabilistic,1
+structure,2
+a,5
+algorithm,1
+well,1
+efficient,1
+algorithms,1
+components,2
+sets,1
+representation,1
+the,7
+dimension,1

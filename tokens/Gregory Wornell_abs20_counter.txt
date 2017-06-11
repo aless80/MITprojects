@@ -1,94 +1,80 @@
-
-consider	1
-produces	1
-message-passing	2
-\leq	1
-computation	1
-||x-x	1
-We	2
-graph	1
-solving	1
-,	7
-to	1
-total	1
-||x-\hat	1
-k-sparse	2
-number	1
-entries	1
-vector	1
-x	8
-where	2
-broader	1
-n/k	4
-approximation	1
-are	1
-further	1
-best	1
-||_1	2
-satisfying	1
-matrix	2
-measurements	2
-performs	1
-expansion	1
-step	1
-O	4
-estimate	1
-of	7
-k	5
-nonnegative	1
-(	12
-{	3
-compressed	1
-Ultimately	1
-simple	1
-corresponds	1
-\hat	1
-whos	1
-establish	1
-from	1
-log	5
-0	1
-.	5
-more	1
-direction	1
-formally	1
-that	1
-sufficient	1
-exactly	1
-with	1
-case	1
-developing	1
-this	1
-work	1
-n	2
-and	1
-is	5
-an	2
-in	5
-recovery	1
-)	12
-^2	1
-when	2
-recovers	1
-1	1
-role	1
-special	1
-=	2
-A	2
-adjacency	1
-In	1
-problems	1
-m-by-n	1
-The	1
-a	4
-algorithm	3
-sensing	1
-required	1
-m	1
-algorithms	1
-time	1
-y	1
-Ax	1
-the	8
-}	3
-bipartite	1
+and,1
+Ultimately,1
+work,1
+consider,1
+produces,1
+simple,1
+is,5
+entries,1
+corresponds,1
+an,2
+approximation,1
+are,1
+computation,1
+in,5
+further,1
+message,2
+n,7
+establish,1
+The,1
+best,1
+solving,1
+We,2
+satisfying,1
+from,1
+matrix,2
+graph,1
+measurements,2
+when,2
+whos,1
+to,1
+role,1
+special,1
+performs,1
+time,1
+total,1
+passing,2
+hat,2
+more,1
+A,2
+case,1
+direction,1
+exactly,1
+formally,1
+that,1
+broader,1
+sufficient,1
+adjacency,1
+problems,1
+expansion,1
+number,1
+leq,1
+step,1
+O,4
+x,11
+estimate,1
+with,1
+by,1
+recovery,1
+a,4
+algorithm,3
+developing,1
+this,1
+of,7
+k,11
+required,1
+m,2
+nonnegative,1
+sensing,1
+recovers,1
+vector,1
+algorithms,1
+log,5
+sparse,2
+In,1
+y,1
+Ax,1
+the,8
+where,2
+bipartite,1
+compressed,1

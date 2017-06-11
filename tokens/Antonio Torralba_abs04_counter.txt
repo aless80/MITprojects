@@ -1,98 +1,93 @@
-
-semantic	1
-accurate	1
-manipulation	1
-perceptive	1
-still	1
-speed	1
-networks	1
-6-DOF	1
-We	1
-$	1
-presence	1
-,	4
-to	3
-systems	1
-multi-hypothesis	1
-<	1
-achieve	2
-pixel-wise	1
-real	1
-evaluate	1
-solution	1
-realistic	1
-architecture	1
-5^\circ	1
-we	1
-achieves	1
-noise	1
-recognition	1
-even	1
-'	1
-competitions	1
-sensor	1
-integrated	1
-segmentation	1
-perception	1
-pose	2
-objects	2
-struggle	1
-by	1
-improve	1
-both	1
-of	2
-against	1
-motion	1
-estimation	2
-relevant	1
-point	1
-dataset	1
-registration	1
-cloud	1
-annotated	1
-initial	1
-fast	1
-.	5
-scenarios	1
-Recent	1
-convolutional	1
-that	1
-benchmark	1
-sophisticated	1
-real-time	1
-an	2
-present	1
-occlusions	1
-novel	1
-these	1
-reliable	1
-robustness	1
-error	2
-Our	1
-and	8
-task-relevant	1
-SegICP	3
-couples	1
-To	1
-as	2
-seed	1
-have	1
-in	3
-capture	1
-angle	1
-highlighted	1
-complex	1
-object	1
-robots	1
-generated	1
-robotic	1
-robust	1
-a	1
-for	1
-neural	1
-well	1
-without	1
-time	1
-position	1
-the	1
-1cm	1
+semantic,1
+accurate,1
+perceptive,1
+still,1
+speed,1
+networks,1
+We,1
+presence,1
+to,3
+systems,1
+pixel,1
+achieve,2
+real,2
+evaluate,1
+solution,1
+realistic,1
+architecture,1
+we,1
+achieves,1
+noise,1
+recognition,1
+even,1
+for,1
+competitions,1
+circ,1
+sensor,1
+integrated,1
+segmentation,1
+perception,1
+pose,2
+objects,2
+hypothesis,1
+struggle,1
+by,1
+improve,1
+both,1
+of,2
+against,1
+motion,1
+estimation,2
+relevant,2
+cm,1
+point,1
+DOF,1
+dataset,1
+registration,1
+cloud,1
+annotated,1
+initial,1
+fast,1
+scenarios,1
+Recent,1
+convolutional,1
+that,1
+benchmark,1
+sophisticated,1
+manipulation,1
+an,2
+present,1
+occlusions,1
+multi,1
+novel,1
+wise,1
+these,1
+reliable,1
+robustness,1
+error,2
+Our,1
+and,8
+SegICP,3
+couples,1
+To,1
+as,2
+seed,1
+have,1
+in,3
+capture,1
+angle,1
+highlighted,1
+complex,1
+object,1
+robots,1
+generated,1
+robotic,1
+robust,1
+a,1
+task,1
+neural,1
+well,1
+without,1
+time,2
+position,1
+the,1

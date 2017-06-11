@@ -1,91 +1,89 @@
-
-thicken	1
-chain	1
-show	2
-lack	1
-dynamic	1
-infinite-horizon	1
-implying	1
-identify	1
-We	3
-hard-to-match	1
-,	5
-to	3
-only	1
-stochastic	1
-match	2
-increases	1
-ones	1
-effects	1
-not	1
-difference	1
-First	1
-Agents	1
-either	1
-through	2
-attracting	1
-compensated	1
-matchings	1
-hard	1
-some	1
-are	1
-matching	7
-networked	1
-preferences	1
-thickness	2
-between	2
-chains	2
-be	1
-we	2
-easy-to-match	2
-efficiency	3
-others	1
-strong	1
-by	3
-Otherwise	1
-on	1
-non-myopic	1
-of	2
-study	2
-connection	1
-or	2
-compatibility-based	1
-agents	4
-market	4
-significantly	1
-from	1
-.	7
-way	1
-analyze	1
-markets	1
-is	2
-more	3
-that	3
-technologies	1
-with	1
-than	2
-join	1
-myopic	1
-can	2
-policies	3
-and	5
-bilaterally	2
-an	1
-have	2
-in	3
-technology	1
-different	1
-when	1
-priori	1
-which	1
-difficult	1
-compositions	1
-driven	1
-moving	1
-frequently	1
-a	3
-bilateral	1
-Second	1
-negligible	1
-the	9
-indirectly	1
+thicken,1
+chain,1
+show,2
+lack,1
+dynamic,1
+implying,1
+identify,1
+We,3
+based,1
+to,6
+only,1
+easy,2
+stochastic,1
+match,5
+non,1
+increases,1
+ones,1
+effects,1
+not,1
+difference,1
+First,1
+Agents,1
+either,1
+through,2
+attracting,1
+compensated,1
+matchings,1
+hard,2
+some,1
+are,1
+matching,7
+networked,1
+preferences,1
+thickness,2
+between,2
+chains,2
+be,1
+we,2
+efficiency,3
+others,1
+strong,1
+by,3
+Otherwise,1
+on,1
+of,2
+study,2
+connection,1
+horizon,1
+or,2
+agents,4
+market,4
+significantly,1
+from,1
+compositions,1
+way,1
+analyze,1
+markets,1
+is,2
+more,3
+that,3
+technologies,1
+with,1
+than,2
+join,1
+myopic,2
+can,2
+policies,3
+and,5
+bilaterally,2
+an,1
+have,2
+in,3
+technology,1
+different,1
+when,1
+priori,1
+which,1
+difficult,1
+driven,1
+moving,1
+infinite,1
+frequently,1
+compatibility,1
+a,3
+bilateral,1
+Second,1
+negligible,1
+the,9
+indirectly,1

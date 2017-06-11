@@ -1,103 +1,102 @@
-
-over	1
-brain	1
-tasks	2
-including	1
-experimentally	1
-speed	2
-networks	2
-We	1
-,	6
-Here	1
-to	2
-has	1
-dramatically	1
-propose	1
-using	2
-unique	1
-signal	1
-tuned	1
-large	1
-magnitude	2
-architecture	2
-optics	1
-Networks	1
-because	1
-energy	1
-are	1
-our	1
-recognition	1
-network	2
-for	3
-However	1
-artificial	1
-new	1
-we	1
-power	1
-processing	1
-efficiency	2
-advantages	1
-by	1
-improve	1
-both	1
-improved	1
-implementing	1
-of	7
-inspired	1
-essential	1
-nanophotonic	1
-implement	1
-processor	1
-architectures	1
-computational	3
-Artificial	1
-three	1
-schemes	1
-least	1
-learning	2
-electronic	1
-conventional	1
-two	1
-been	1
-.	6
-much	1
-programmable	1
-was	1
-von	1
-today	1
-inefficient	1
-that	2
-These	1
-part	1
-effort	1
-made	1
-Neumann	1
-fully-optical	1
-many	1
-demonstrate	1
-enhancement	1
-and	3
-promises	1
-computing	2
-is	1
-it	1
-hardware	1
-at	2
-have	1
-in	3
-orders	2
-develop	1
-Neural	1
-parts	1
-speech	1
-Significant	1
-performance	1
-'s	1
-models	2
-object	1
-upon	1
-state-of-the-art	1
-designed	1
-a	4
-neural	3
-the	3
+over,1
+brain,1
+tasks,2
+including,1
+experimentally,1
+speed,2
+networks,2
+We,1
+Here,1
+to,2
+has,1
+dramatically,1
+propose,1
+using,2
+unique,1
+fully,1
+signal,1
+tuned,1
+large,1
+magnitude,2
+architecture,2
+optics,1
+Networks,1
+because,1
+art,1
+energy,1
+are,1
+our,1
+recognition,1
+network,2
+for,3
+However,1
+artificial,1
+state,1
+new,1
+we,1
+power,1
+processing,1
+efficiency,2
+advantages,1
+by,1
+improve,1
+both,1
+improved,1
+implementing,1
+of,8
+inspired,1
+essential,1
+s,1
+nanophotonic,1
+implement,1
+processor,1
+architectures,1
+computational,3
+Artificial,1
+three,1
+schemes,1
+least,1
+learning,2
+electronic,1
+conventional,1
+two,1
+been,1
+much,1
+programmable,1
+was,1
+von,1
+today,1
+inefficient,1
+that,2
+These,1
+part,1
+effort,1
+made,1
+Neumann,1
+many,1
+demonstrate,1
+enhancement,1
+and,3
+promises,1
+computing,2
+is,1
+it,1
+hardware,1
+at,2
+have,1
+in,3
+orders,2
+develop,1
+Neural,1
+parts,1
+speech,1
+Significant,1
+performance,1
+models,2
+object,1
+upon,1
+designed,1
+a,4
+neural,3
+optical,1
+the,4

@@ -1,115 +1,108 @@
-
-limited	1
-particularly	1
-photonic	2
-PICs	2
-mid-infrared	1
-atomic	1
-system	2
-(	2
-PIC	2
-,	8
-Here	1
-to	4
-high-fidelity	1
-systems	1
-integrate	1
-has	2
-However	1
-scalable	2
-introduce	1
-low-jitter	1
-timing	1
-using	1
-flip-chip	1
-yield	2
-Superconducting	1
-SNSPDs	5
-sensitivity	1
-reduce	1
-detection	1
-individual	1
-are	1
-quantum	1
-beyond	1
-for	2
-measurements	1
-below	1
-emerged	1
-integrated	2
-we	2
-photon-resolving	1
-efficiency	3
-100	1
-non-classical	1
-on-chip	1
-on	3
-central	1
-of	5
-losses	1
-range	1
-circuit	1
-integration	1
-jitter	1
-into	1
-one	3
-visible	1
-because	1
-from	1
-waveguides	1
-platform	1
-due	1
-been	3
-.	7
-low	1
-sub-50-ps	1
-attractive	1
-that	1
-photon	1
-optical	1
-nanowire	1
-technologies	1
-with	2
-reset	1
-10	1
-Ten	1
-circuits	1
-single	1
-Photonic	1
-while	1
-were	1
-demonstrate	1
-enables	1
-and	3
-associated	1
-process	1
-0.2	1
-spectrum	1
-an	1
-high	1
-as	1
-nanosecond-scale	1
-have	2
-in	1
-latency	1
-%	3
-goal	1
-)	2
-wiring	1
-micrometer-scale	1
-complex	1
-With	1
-single-photon	1
-A	1
-multiple	2
-incorporated	1
-correlation	1
-off-chip	1
-device	2
-a	3
-light	1
-average	1
-detectors	4
-complexity	1
-time	1
-the	3
+limited,1
+particularly,1
+nanosecond,1
+photonic,2
+PICs,2
+atomic,1
+fidelity,1
+system,2
+PIC,2
+Here,1
+to,4
+systems,1
+integrate,1
+has,2
+However,1
+non,1
+scalable,2
+introduce,1
+timing,1
+using,1
+infrared,1
+yield,2
+Superconducting,1
+SNSPDs,5
+classical,1
+sensitivity,1
+reduce,1
+flip,1
+detection,1
+individual,1
+are,1
+quantum,1
+beyond,1
+scale,2
+sub,1
+for,2
+measurements,1
+below,1
+emerged,1
+integrated,2
+we,2
+efficiency,3
+on,4
+central,1
+of,5
+losses,1
+range,1
+circuit,1
+integration,1
+jitter,2
+into,1
+one,3
+visible,1
+because,1
+ps,1
+from,1
+waveguides,1
+platform,1
+due,1
+been,3
+low,2
+attractive,1
+that,1
+photon,3
+micrometer,1
+optical,1
+nanowire,1
+technologies,1
+with,2
+reset,1
+Ten,1
+circuits,1
+single,2
+Photonic,1
+while,1
+were,1
+demonstrate,1
+enables,1
+and,3
+associated,1
+process,1
+resolving,1
+chip,3
+spectrum,1
+an,1
+high,2
+as,1
+have,2
+in,1
+latency,1
+goal,1
+wiring,1
+mid,1
+complex,1
+With,1
+A,1
+multiple,2
+incorporated,1
+correlation,1
+device,2
+a,3
+off,1
+light,1
+average,1
+detectors,4
+complexity,1
+time,1
+the,3

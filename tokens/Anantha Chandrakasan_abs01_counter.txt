@@ -1,112 +1,110 @@
-
-emerging	1
-radios	1
-years	1
-paper	1
-radio	4
-interoperable	1
-networks	2
-layers	1
-,	9
-intensive	1
-to	3
-has	1
-indicating	1
-evaluate	1
-activation	1
-milestone	1
-now	1
-211m	1
-presented	1
-transmission	1
-mm	1
-architecture	1
-release	1
-reduced	1
-specifies	1
-breakdown	1
-energy	1
-reduce	1
-packet	1
-Next	1
-are	2
-further	1
-out	1
-shown	1
-dense	1
-network	2
-for	1
-measurements	1
-per	1
-research	1
-access	1
-between	1
-sensor	3
-be	2
-we	1
-power	3
-targeted	1
-microsensor	2
-standard	1
-operating	1
-on	1
-carried	1
-transceiver	1
-of	5
-transition	1
-enabling	1
-control	1
-industrial	1
-down	1
-adaptation	1
-use	1
-from	1
-consumption	1
-been	2
-.	6
-low	1
-medium	1
-that	2
-wireless	2
-self-powered	1
-mW	1
-part	1
-link	1
-Starting	1
-effective	1
-this	2
-can	2
-policies	1
-ultra	1
-most	1
-and	2
-is	2
-an	2
-topic	1
-effectively	1
-have	1
-in	7
-IEEE	1
-physical	1
-different	1
-802.15.4	2
-Wireless	1
-potential	1
-which	2
-node	3
-derived	1
-phases	1
-applications	1
-optimized	1
-important	1
-recent	1
-a	3
-off-the-shelf	1
-scenario	1
-average	1
-It	1
-An	1
-In	1
-the	10
-order	1
-typical	1
+emerging,1
+radios,1
+years,1
+paper,1
+radio,4
+interoperable,1
+networks,2
+layers,1
+intensive,1
+to,3
+has,1
+indicating,1
+evaluate,1
+activation,1
+milestone,1
+now,1
+presented,1
+transmission,1
+mm,1
+architecture,1
+release,1
+reduced,1
+specifies,1
+breakdown,1
+energy,1
+reduce,1
+packet,1
+Next,1
+are,2
+further,1
+out,1
+shown,1
+dense,1
+network,2
+for,1
+measurements,1
+per,1
+research,1
+access,1
+between,1
+sensor,3
+be,2
+we,1
+power,3
+targeted,1
+microsensor,2
+standard,1
+operating,1
+on,1
+carried,1
+transceiver,1
+of,5
+transition,1
+enabling,1
+control,1
+industrial,1
+down,1
+adaptation,1
+use,1
+from,1
+consumption,1
+powered,1
+been,2
+low,1
+medium,1
+that,2
+shelf,1
+wireless,2
+mW,1
+part,1
+link,1
+Starting,1
+effective,1
+this,2
+can,2
+policies,1
+ultra,1
+most,1
+and,2
+is,2
+an,2
+topic,1
+effectively,1
+have,1
+in,7
+IEEE,1
+physical,1
+different,1
+self,1
+Wireless,1
+potential,1
+which,2
+node,3
+derived,1
+phases,1
+applications,1
+optimized,1
+important,1
+recent,1
+a,3
+off,1
+scenario,1
+average,1
+m,1
+It,1
+An,1
+In,1
+the,11
+order,1
+typical,1

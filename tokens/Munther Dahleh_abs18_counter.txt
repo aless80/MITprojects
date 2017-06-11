@@ -1,118 +1,116 @@
-
-closed-loop	1
-feedback	2
-real-time	2
-proposes	1
-paper	1
-carefully	1
-layers	1
-ratio	2
-electricity	1
-highlights	1
-distributed	1
-,	13
-to	7
-absence	1
-Real-time	1
-maximal	2
-eventually	1
-increased	1
-framework	1
-increases	1
-volatility	4
-systematically	1
-optimally	1
-unstable	1
-architecture	2
-instability	1
-characterized	2
-trade-offs	1
-generation	1
-direct	1
-relative	1
-likely	1
-economic	1
-pricing	2
-dynamics	1
-shown	2
-for	2
-clearing	1
-increase	2
-volatile	1
-between	3
-new	2
-advance	1
-be	1
-terms	1
-power	2
-This	1
-system's	1
-efficiency	1
-asymmetry	1
-modeling	1
-by	1
-on	1
-of	10
-could	1
-uncertainty	1
-passing	1
-introduced	1
-control	1
-supply	1
-elasticity	1
-two	1
-market	1
-create	1
-system	6
-.	7
-examination	1
-strike	1
-more	1
-that	2
-becomes	1
-under	1
-demand	4
-prices	2
-technologies	1
-with	1
-this	1
-wholesale	1
-robustness	1
-lead	1
-can	1
-and	13
-layer	2
-defined	1
-is	5
-price-elasticity	3
-it	1
-as	1
-reliability	1
-in	5
-need	1
-physical	1
-information	1
-assessing	1
-end	1
-storage	1
-generalized	2
-A	1
-'s	1
-price	2
-producers	1
-designed	1
-such	1
-The	1
-law	1
-response	1
-a	3
-lower	1
-retail	2
-consumers	2
-possibly	1
-analysis	1
-order	1
-As	2
-In	1
-the	18
-notion	1
+feedback,2
+trade,1
+proposes,1
+paper,1
+carefully,1
+layers,1
+ratio,2
+electricity,1
+highlights,1
+distributed,1
+to,7
+absence,1
+under,1
+real,2
+eventually,1
+increased,1
+framework,1
+increases,1
+volatility,4
+systematically,1
+optimally,1
+unstable,1
+architecture,2
+instability,1
+characterized,2
+generation,1
+direct,1
+relative,1
+likely,1
+economic,1
+pricing,2
+dynamics,1
+shown,2
+for,2
+clearing,1
+increase,2
+volatile,1
+closed,1
+between,3
+new,2
+advance,1
+be,1
+terms,1
+power,2
+This,1
+efficiency,1
+asymmetry,1
+modeling,1
+by,1
+on,1
+of,10
+could,1
+uncertainty,1
+s,2
+passing,1
+introduced,1
+control,1
+offs,1
+supply,1
+elasticity,4
+system,7
+market,1
+create,1
+two,1
+examination,1
+strike,1
+more,1
+that,2
+becomes,1
+demand,4
+prices,2
+technologies,1
+with,1
+this,1
+wholesale,1
+robustness,1
+lead,1
+can,1
+loop,1
+and,13
+maximal,2
+layer,2
+defined,1
+is,5
+it,1
+as,1
+reliability,1
+in,5
+need,1
+physical,1
+Real,1
+information,1
+assessing,1
+end,1
+storage,1
+generalized,2
+A,1
+price,5
+time,3
+producers,1
+designed,1
+such,1
+The,1
+law,1
+response,1
+a,3
+lower,1
+retail,2
+consumers,2
+possibly,1
+analysis,1
+order,1
+As,2
+In,1
+the,18
+notion,1

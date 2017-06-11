@@ -1,66 +1,61 @@
-
-and	2
-exists	2
-point	1
-is	1
-number	2
-Gaussian	1
-graph	1
-in	1
-ML	1
-find	1
-even	1
-instance	1
-We	2
-from	1
-probability	2
-for	1
-needed	1
-)	1
-exact	1
-MLE	2
-when	1
-,	3
-grids	1
-.	4
-to	3
-criterion	1
-observations	2
-which	1
-geometric	1
-first	1
-applied	1
-graphical	1
-treewidth	1
-degree	1
-that	1
-models	1
-This	1
-equals	1
-algebraic	1
-we	1
-elimination	1
-one	2
-likelihood	2
-present	1
-a	2
-on	1
-lower	1
-colored	1
-also	1
-of	4
-study	2
-allows	1
-maximum	2
-us	1
-An	1
-graphs	2
-estimator	1
-ensure	1
-bounds	1
-(	1
-the	7
-estimation	1
-with	2
-bipartite	1
-view	1
+and,2
+exists,2
+point,1
+is,1
+number,2
+Gaussian,1
+graph,1
+in,1
+find,1
+even,1
+instance,1
+We,2
+from,1
+probability,2
+for,1
+needed,1
+exact,1
+MLE,2
+when,1
+grids,1
+to,3
+criterion,1
+observations,2
+which,1
+geometric,1
+first,1
+applied,1
+graphical,1
+treewidth,1
+degree,1
+that,1
+models,1
+This,1
+equals,1
+algebraic,1
+we,1
+elimination,1
+one,2
+likelihood,2
+present,1
+a,2
+on,1
+lower,1
+colored,1
+also,1
+of,4
+study,2
+allows,1
+maximum,2
+us,1
+An,1
+graphs,2
+estimator,1
+ensure,1
+bounds,1
+ML,1
+the,7
+estimation,1
+with,2
+bipartite,1
+view,1

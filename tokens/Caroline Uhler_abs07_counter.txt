@@ -1,68 +1,65 @@
-
-and	3
-singleton-transitive	1
-upward-stable	1
-constructing	1
-show	1
-the	1
-is	3
-conditional	2
-we	4
-related	1
-MTP2	7
-characterize	1
-appropriate	1
-graph	1
-are	1
-in	1
-concentration	1
-ways	1
-distributions	4
-any	2
-We	1
-satisfying	1
-faithful	1
-log-linear	1
-prove	1
-)	1
-positive	1
-support	1
-give	1
-two	1
-.	4
-to	2
-(	1
-semigraphoid	1
-;	1
-analyze	1
-conditions	1
-discuss	2
-satisfy	1
-multivariate	1
-,	3
-which	3
-that	3
-discrete	1
-distribution	3
-by	1
-generated	1
-particular	2
-an	2
-totally	1
-properties	2
-condition	1
-a	2
-on	1
-parameters	1
-compositional	1
-of	5
-Finally	1
-factorization	1
-addition	1
-ensure	1
-independence	2
-In	2
-Gaussian	1
-model	1
-its	1
-order	1
+and,3
+the,1
+singleton,1
+constructing,1
+show,1
+is,3
+conditional,2
+related,1
+an,2
+characterize,1
+appropriate,1
+graph,1
+are,1
+in,1
+concentration,1
+Gaussian,1
+distributions,4
+any,2
+linear,1
+We,1
+satisfying,1
+faithful,1
+parameters,1
+prove,1
+addition,1
+positive,1
+support,1
+give,1
+two,1
+discuss,2
+to,2
+semigraphoid,1
+stable,1
+analyze,1
+conditions,1
+independence,2
+satisfy,1
+multivariate,1
+we,4
+which,3
+that,3
+discrete,1
+MTP,7
+distribution,3
+by,1
+generated,1
+particular,2
+totally,1
+properties,2
+condition,1
+log,1
+a,2
+on,1
+compositional,1
+of,5
+Finally,1
+factorization,1
+ways,1
+ensure,1
+In,2
+model,1
+transitive,1
+its,1
+order,1
+upward,1

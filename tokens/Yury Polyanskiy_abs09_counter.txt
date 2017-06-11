@@ -1,146 +1,139 @@
-
-chain	1
-show	1
-random	1
-paper	1
-Gaussian	1
-adding	1
-\to\infty	1
-$	28
-density	1
-(	10
-post-convolution	1
-,	6
-0	1
-only	1
-under	1
-has	1
-<	1
-ingredient	1
-means	1
-Explicit	1
-possible	1
-not	1
-X	5
-quantifies	1
-I-MMSE	1
-conditions	1
-reduces	1
-inequality	1
-t	3
-simplified	1
-where	1
-mandatory	1
-For	1
-additive	1
-Talagrand	1
-deconvolution	1
-we	1
-related	1
-bounds	3
-noise	2
-result	1
-close	1
-proofs	1
-special	1
-provided	2
-shown	2
-capacity	1
-inequalities	1
-for	4
-between	1
-;	5
-approach	1
-shows	1
-available	1
-be	1
--norm	1
-non-linear	1
-whose	1
-This	1
-leveraging	1
-processing	1
-W	6
-i.e	1
-strong	1
-by	1
-on	1
-constraint	1
-of	3
-pre-convolution	1
-connection	1
-suitable	1
-Kolmogorov-Smirnov	1
-key	1
-W\to	1
-variables	1
-\le	1
-F_I	2
-Y=X+Z	1
-order-optimal	1
-total	1
-tools	1
-from	1
-to	5
-support	1
-question	1
-.	10
-quadratic	1
-translate	1
->	1
-that	6
-These	1
-forming	1
-information-transportation	1
-Z	2
-with	3
-case	2
-distance	2
-Consider	1
-intuitive	1
-characterize	1
-this	2
-maximum	1
-cost	1
-Gaussian-specific	1
-couplings	1
-are	3
-and	5
-L_p	1
-is	6
-it	1
-real-valued	1
-To	1
-as	1
-itself	1
-in	2
-disjoint	1
-any	1
-if	2
-information	3
-mutual	1
-end	1
-lemma	1
-)	10
-which	1
-channel	3
-A	2
-independent	1
-'s	1
-I	5
-what	1
-variation	1
-bounded	1
-Y	4
-such	1
-Markov	1
-data	1
-a	3
-estimation	1
-observation	1
-whenever	1
-saturate	1
-It	1
-X\to	1
-the	9
-order	1
+chain,1
+show,1
+random,1
+paper,1
+convolution,2
+adding,1
+le,1
+density,1
+to,8
+only,1
+under,1
+has,1
+norm,1
+ingredient,1
+real,1
+infty,1
+non,1
+means,1
+Explicit,1
+L,1
+not,1
+X,7
+quantifies,1
+conditions,1
+reduces,1
+Smirnov,1
+specific,1
+p,1
+inequality,1
+t,3
+where,1
+mandatory,1
+For,1
+Talagrand,1
+deconvolution,1
+related,1
+bounds,3
+cost,1
+result,1
+close,1
+proofs,1
+special,1
+provided,2
+what,1
+capacity,1
+inequalities,1
+for,4
+between,1
+approach,1
+shows,1
+available,1
+be,1
+we,1
+noise,2
+transportation,1
+linear,1
+whose,1
+This,1
+leveraging,1
+processing,1
+W,7
+additive,1
+post,1
+strong,1
+by,1
+on,1
+constraint,1
+of,3
+connection,1
+suitable,1
+pre,1
+key,1
+variables,1
+simplified,1
+total,1
+tools,1
+from,1
+lemma,1
+support,1
+question,1
+quadratic,1
+translate,1
+that,6
+These,1
+forming,1
+Z,3
+with,3
+case,2
+distance,2
+valued,1
+Consider,1
+intuitive,1
+characterize,1
+this,2
+maximum,1
+whenever,1
+couplings,1
+are,3
+and,5
+Kolmogorov,1
+is,6
+it,1
+Gaussian,2
+To,1
+as,1
+itself,1
+in,2
+disjoint,1
+any,1
+if,2
+information,4
+mutual,1
+end,1
+F,2
+s,1
+which,1
+optimal,1
+channel,3
+A,2
+independent,1
+MMSE,1
+I,8
+shown,2
+variation,1
+possible,1
+bounded,1
+Y,5
+such,1
+Markov,1
+data,1
+a,3
+estimation,1
+e,1
+observation,1
+i,1
+saturate,1
+It,1
+the,9
+order,2

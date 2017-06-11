@@ -1,98 +1,99 @@
-
-lexicon	1
-semantic	2
-just	1
-results	1
-produced	1
-multi-parallel	1
-verbalizations	1
-human	1
-Crucially	1
-expressions	1
-alignment	1
-whose	1
-We	2
-latent	1
-technique	1
-,	7
-to	4
-input	1
-per-component	1
-good	1
-propose	1
-datasets	1
---	1
-knowledge-based	1
-method	1
-output	1
-mathematical	1
-employing	1
-methods	1
-For	1
-generation	2
-are	1
-our	3
-proofs	1
-techniques	1
-readability	1
-contained	1
-leverages	1
-dictionary	2
-realizations	1
-component	1
-judges	1
-Typically	1
-generate	1
-both	1
-language	2
-of	5
-commonly	1
-important	1
-automatically	1
-multiple-sequence	1
-via	1
-faithfulness	1
-supply	1
-one	1
-elementary	1
-basis	1
-system	3
-construct	1
-.	6
-corresponding	2
-on	1
-acquire	1
-with	1
-than	1
-semantics	1
-novel	1
-versions	1
-corpora	1
-example	1
-and	3
-is	1
-it	1
-in	3
-any	1
-dozen	1
-information	1
-rather	1
-that	2
-instead	1
-several	1
-rivaled	1
-used	3
-computer-generated	1
-multiple-pass	1
-mapping	1
-involving	1
-bioinformatics	1
-evaluations	1
-overall-output	1
-a	6
-labor-intensive	1
-natural	2
-algorithm	1
-An	1
-traditional	1
-the	4
+lexicon,1
+semantic,2
+just,1
+both,1
+results,1
+produced,1
+verbalizations,1
+human,1
+Crucially,1
+expressions,1
+alignment,1
+whose,1
+We,2
+based,1
+knowledge,1
+technique,1
+labor,1
+intensive,1
+to,4
+input,1
+good,1
+propose,1
+overall,1
+novel,1
+method,1
+output,2
+mathematical,1
+employing,1
+methods,1
+For,1
+sequence,1
+generation,2
+computer,1
+are,1
+pass,1
+our,3
+proofs,1
+techniques,1
+per,1
+contained,1
+leverages,1
+dictionary,2
+realizations,1
+component,2
+judges,1
+latent,1
+Typically,1
+generate,1
+on,1
+language,2
+of,5
+commonly,1
+involving,1
+automatically,1
+via,1
+faithfulness,1
+supply,1
+one,1
+elementary,1
+basis,1
+system,3
+construct,1
+readability,1
+corresponding,2
+that,2
+acquire,1
+with,1
+than,1
+semantics,1
+multi,1
+datasets,1
+versions,1
+corpora,1
+example,1
+and,3
+is,1
+it,1
+in,3
+any,1
+dozen,1
+information,1
+rather,1
+instead,1
+several,1
+rivaled,1
+used,3
+multiple,2
+mapping,1
+generated,1
+important,1
+bioinformatics,1
+evaluations,1
+parallel,1
+a,6
+natural,2
+algorithm,1
+An,1
+traditional,1
+the,4

@@ -1,4 +1,7 @@
 # MITprojects
+
+WORK IN PROGRESS! 
+
 Python implementation of a case study in Module 1 in MITProfessionalX's course "Data Science: Data to insights". 
 
 The case study is: "Module 1 - Making sense of unstructured data  Case Study". Case study is about doing our own analysis on MIT EECS
@@ -29,7 +32,25 @@ processing with the text you have instead.
 ## Run the script
 Clone the master branch and run it with e.g.:
 
-`python scrape.py`
+`python `
+
+import os;  os.chdir("/home/amarin/Dropbox/Courses/MIT/1.2 LDA - Finding Themes in Project Description/MITprojects")
+import os;  os.chdir("/home/kinkyboy/Dropbox/Courses/MIT/1.2 LDA - Finding Themes in Project Description/MITprojects")
+#import gather
+#abs_dict=gather.main(stop=2)
+import json
+with open('abs_dict.json') as abs_dict_file:    #import json from file
+    abs_dict = json.load(abs_dict_file)
+
+import scrape
+scrape.main(abs_dict)
+scrape.tokenize()
+
+
+## TODO
+Remove symbols from tokens
+
+
 
 This is the printed output: 
 

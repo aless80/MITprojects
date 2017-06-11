@@ -1,104 +1,90 @@
-
-similarity	1
-over	2
-refutes	1
-dynamic	2
-paper	1
-subquadratic	1
-$	16
-(	7
-show	2
-,	10
-better	1
-0	2
-Hypothesis	1
-under	1
-extensive	1
-Strong	1
-Exponential	1
-truly	1
-worst	1
-longest	1
-despite	1
-not	1
-Simple	1
-these	2
-common	1
-popular	1
-Moreover	1
-warping	1
-significantly	1
-some	1
-are	3
-for	4
-research	1
-between	1
-be	1
-we	3
-O	4
-address	1
-approximating	1
-central	1
-LCS	3
-of	9
-k	2
-programming	1
-length	1
-{	2
-or	1
-tasks	2
-upper	1
-Two	1
-Finally	1
-done	1
-sequences	3
-size	2
-given	1
-SETH	2
-two	3
-.	6
-time	6
->	2
-that	2
-Time	1
-known	1
-with	1
-case	1
-distance	1
-this	1
-bounds	1
-n	1
-subsequence	1
-can	1
-and	2
-constant	1
-computing	2
-\epsilon	2
-n^2	1
-an	3
-n^	2
-in	4
-any	1
-variety	1
-)	7
-alphabet	2
-amount	1
-also	1
-algorithms	2
-measures	2
-applications	1
-important	1
-The	1
-k-\epsilon	1
-DTWD	3
-2-\epsilon	1
-a	2
-algorithm	1
-computations	1
-no	1
-complexity	1
-solve	1
-In	1
-the	8
-}	2
-strings	2
+similarity,1
+over,2
+refutes,1
+dynamic,2
+paper,1
+subquadratic,1
+show,2
+better,1
+Hypothesis,1
+under,1
+extensive,1
+Strong,1
+Exponential,1
+truly,1
+worst,1
+longest,1
+despite,1
+not,1
+Simple,1
+these,2
+common,1
+popular,1
+Moreover,1
+warping,1
+significantly,1
+some,1
+are,3
+for,4
+research,1
+between,1
+be,1
+we,3
+O,4
+address,1
+approximating,1
+central,1
+LCS,3
+of,9
+k,3
+programming,1
+length,1
+or,1
+tasks,2
+upper,1
+Two,1
+Finally,1
+done,1
+sequences,3
+size,2
+given,1
+SETH,2
+two,3
+time,6
+that,2
+epsilon,4
+Time,1
+known,1
+with,1
+case,1
+distance,1
+this,1
+bounds,1
+n,4
+subsequence,1
+can,1
+and,2
+constant,1
+computing,2
+an,3
+in,4
+any,1
+variety,1
+alphabet,2
+amount,1
+also,1
+algorithms,2
+measures,2
+applications,1
+important,1
+The,1
+DTWD,3
+a,2
+algorithm,1
+computations,1
+no,1
+complexity,1
+solve,1
+In,1
+the,8
+strings,2

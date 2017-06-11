@@ -1,59 +1,57 @@
-
-and	1
-upper	1
-consider	1
-show	1
-moments	1
-is	1
-bound	3
-private	2
-an	1
-channels	1
-photon-number	1
-Finally	1
-through	1
-Combined	1
-private-capacity	1
-bosonic	2
-previous	1
-multiple-mode	1
-We	2
-derive	1
-capacity	2
-asymptotic	1
-for	1
-prove	1
-propagation	1
-,	4
-.	4
-to	1
-only	1
-low	1
-single-mode	3
-channel	3
-then	1
-we	2
-that	2
-equivalent	1
-requires	1
-obtain	1
-wiretap	2
-turbulence	1
-be	1
-with	1
-parallel	1
-matrix	1
-a	2
-on	1
-lower	2
-atmospheric	1
-multiple-spatial-mode	1
-of	2
-bounds	1
-noiseless	2
-applied	1
-can	1
-second	1
-hence	1
-the	7
-expression	1
+and,1
+upper,1
+consider,1
+show,1
+moments,1
+is,1
+bound,3
+private,3
+an,1
+channels,1
+single,3
+through,1
+Combined,1
+turbulence,1
+bosonic,2
+previous,1
+We,2
+derive,1
+capacity,3
+asymptotic,1
+for,1
+prove,1
+propagation,1
+to,1
+only,1
+low,1
+spatial,1
+channel,3
+can,1
+then,1
+we,2
+multiple,2
+that,2
+equivalent,1
+photon,1
+requires,1
+obtain,1
+wiretap,2
+number,1
+be,1
+with,1
+parallel,1
+matrix,1
+a,2
+on,1
+lower,2
+atmospheric,1
+Finally,1
+of,2
+bounds,1
+noiseless,2
+applied,1
+mode,5
+second,1
+hence,1
+the,7
+expression,1

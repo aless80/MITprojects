@@ -1,188 +1,162 @@
-
-fixed-angle	1
-developed	1
-relation	2
-disk	1
-find	3
-earlier	1
-We	4
-derive	1
-\Delta\log_	2
-$	28
-parameters	1
-baryonic	3
-(	9
-masses	7
-,	11
-decreases	1
-should	1
-V/\sigma	1
-to	2
-detected	1
-excluded	1
-8	1
-dust-corrected	1
-resolved	1
-Evolution	1
-good	1
-H	3
-between	1
-dark	1
-dyn	2
-using	1
-rotation	4
-structural	1
-treat	1
-sizes	1
-median	4
-M=-0.07	1
-specific	1
-Tully-Fisher	1
-yields	1
-reasonable	1
-Moreover	1
-fixed	2
-requirement	1
-=0.37	1
-For	1
-trend	2
-SFR	1
-observed	2
-radius	1
-are	2
-=2.1	2
-measure	1
-our	1
-estimated	1
-Kennicutt-Schmidt	1
-for	4
-multi-object	1
-measurements	1
-may	1
-critical	1
-assuming	1
-V,0	4
-;	1
-increasing	2
-SSFR	2
-inclination	1
-be	1
-we	5
-full	1
-This	1
-galaxies	6
-agreement	2
-stellar	1
-formation	1
-imaging	1
-M=0.04	1
-offset	1
-[	1
-/M_	2
-_	3
-settling	1
-comparison	2
-of	6
-study	1
-35	1
-times	1
-survey	1
-=0.34	1
-{	18
-R_E	3
-V/\sigma_	3
-there	1
-inclusion	1
-*	1
-within	1
-When	1
-indications	1
-Chabrier	1
-CANDELS	1
-MOSFIRE	1
-178	1
-\alpha	3
-RMS	2
-from	5
-kinematic	1
-initial	1
-star-forming	1
-.	12
-kinematics	2
-interpret	1
-fraction	1
-rates	1
-was	1
-is	2
-low	1
-function	1
-1/2	1
-abridged	1
-that	4
-baryon	1
-Salpeter	1
-gas	4
-observe	1
-with	6
-present	1
-^	1
-dex	4
-10	2
-S_	1
-this	1
-value	1
-matter	1
-spectroscopy	1
-HST/F160W	1
-SFRs	1
-scatter	1
-and	8
-z~2	1
-compare	1
-early-type	1
-0.5V_	1
-disfavors	1
-0.5	1
-them	1
-an	2
-sample	1
-Field	1
-as	1
-at	3
-have	2
-in	2
-2.2	1
-if	1
-%	1
-)	9
-^2	1
-IMF	2
-same	1
-also	2
-which	1
-instead	1
-=	1
-higher	2
-independent	1
-star	1
-opposite	1
-models	1
-^2+\sigma_	1
-derived	1
-reflect	1
-The	1
-]	1
-M_	2
-Furthermore	1
-a	7
-implies	1
-dynamical	2
-effective	1
-Deep	1
-\sigma_	2
-without	3
-mass	3
-At	1
-the	11
-}	18
-If	1
+developed,1
+relation,2
+Schmidt,1
+find,3
+earlier,1
+We,4
+derive,1
+parameters,1
+baryonic,3
+masses,7
+inclusion,1
+decreases,1
+should,1
+to,2
+detected,1
+HST,1
+Fisher,1
+resolved,1
+Evolution,1
+good,1
+H,3
+assuming,1
+dark,1
+dyn,2
+using,1
+rotation,4
+structural,1
+sizes,1
+median,4
+specific,1
+yields,1
+reasonable,1
+Moreover,1
+fixed,3
+requirement,1
+For,1
+our,1
+trend,2
+SFR,1
+observed,2
+radius,1
+are,2
+measure,1
+star,2
+estimated,1
+disk,1
+for,4
+Tully,1
+measurements,1
+may,1
+critical,1
+between,1
+increasing,2
+SSFR,2
+inclination,1
+be,1
+we,5
+full,1
+This,1
+derived,1
+galaxies,6
+agreement,2
+stellar,1
+S,1
+formation,1
+imaging,1
+offset,1
+interpret,1
+settling,1
+comparison,2
+of,6
+study,1
+times,1
+survey,1
+observe,1
+there,1
+FW,1
+within,1
+When,1
+indications,1
+Chabrier,1
+CANDELS,1
+MOSFIRE,1
+RMS,2
+from,5
+log,2
+kinematic,1
+initial,1
+kinematics,2
+low,1
+fraction,1
+Delta,2
+rates,1
+type,1
+is,2
+treat,1
+function,1
+excluded,1
+abridged,1
+that,4
+forming,1
+Salpeter,1
+gas,4
+R,3
+V,9
+with,6
+present,1
+dex,4
+multi,1
+this,1
+was,1
+value,1
+matter,1
+spectroscopy,1
+SFRs,1
+z,1
+scatter,1
+and,8
+compare,1
+disfavors,1
+them,1
+an,2
+sample,1
+Field,1
+as,1
+at,3
+have,2
+in,2
+if,1
+angle,1
+IMF,2
+Kennicutt,1
+same,1
+also,2
+which,1
+baryon,1
+instead,1
+higher,2
+independent,1
+E,3
+opposite,1
+models,1
+corrected,1
+object,1
+M,6
+reflect,1
+dust,1
+alpha,3
+The,1
+Furthermore,1
+a,7
+early,1
+implies,1
+dynamical,2
+effective,1
+Deep,1
+without,3
+mass,3
+At,1
+the,11
+sigma,7
+If,1

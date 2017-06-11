@@ -1,94 +1,93 @@
-
-consider	1
-developed	1
-dynamic	1
-paper	1
-questions	1
-semicontractive	1
-We	2
-graph	1
-,	7
-to	2
-uniqueness	1
-under	1
-policy	1
-nodes	1
-possible	1
-worst	1
-solution	1
-contexts	1
-investigate	1
-planning	1
-where	2
-predictive	1
-methods	1
-classical	1
-cost	1
-are	1
-existence	2
-transitions	1
-special	1
-subject	1
-for	1
-minimax	1
-state	1
-various	1
-between	1
-we	1
-recently	1
-theory	1
-control	1
-others	1
-path	2
-shortest	1
-of	10
-uncertainty	2
-programming	1
-nonnegative	1
-pursuit-evasion	1
-makes	1
-among	1
-reached	1
-use	2
-destination	1
-Problems	1
-.	5
-type	1
-abstract	1
-patterned	1
-Dijkstra-like	1
-arise	1
-that	1
-validity	1
-optimality	1
-with	2
-directed	1
-this	2
-equation	1
-iteration	1
-value	1
-arc	1
-Our	1
-and	5
-is	2
-in	3
-as	2
-minimum	1
-formulation	1
-guarantee	1
-paths	1
-lengths	1
-instance	1
-objective	1
-optimal	1
-models	1
-after	1
-problems	2
-the	8
-a	5
-algorithm	1
-well	1
-analysis	1
-algorithms	1
-In	1
-model	1
+consider,1
+developed,1
+dynamic,1
+paper,1
+questions,1
+existence,2
+We,2
+graph,1
+to,2
+uniqueness,1
+under,1
+policy,1
+nodes,1
+possible,1
+worst,1
+like,1
+solution,1
+contexts,1
+investigate,1
+planning,1
+where,2
+predictive,1
+methods,1
+classical,1
+cost,1
+are,1
+semicontractive,1
+transitions,1
+special,1
+subject,1
+for,1
+minimax,1
+state,1
+various,1
+between,1
+we,1
+recently,1
+theory,1
+control,1
+pursuit,1
+others,1
+path,2
+shortest,1
+of,10
+uncertainty,2
+programming,1
+nonnegative,1
+makes,1
+among,1
+reached,1
+use,2
+destination,1
+Problems,1
+type,1
+abstract,1
+patterned,1
+arise,1
+that,1
+validity,1
+optimality,1
+with,2
+directed,1
+this,2
+equation,1
+iteration,1
+value,1
+Dijkstra,1
+arc,1
+Our,1
+and,5
+is,2
+in,3
+as,2
+minimum,1
+formulation,1
+guarantee,1
+paths,1
+evasion,1
+lengths,1
+instance,1
+objective,1
+optimal,1
+models,1
+after,1
+problems,2
+the,8
+a,5
+algorithm,1
+well,1
+analysis,1
+algorithms,1
+In,1
+model,1

@@ -1,64 +1,58 @@
-
-and	2
-available	1
-freedom	2
-extra	1
-Studying	1
-over	1
-DOF	1
-it	1
-call	1
-channels	1
-single	1
-input-multiple	1
-numbers	1
-using	1
-decoding	1
-fading	2
-MIMO	1
-shown	2
-nonlinear	3
-dimensions	1
-for	1
-space	2
-)	3
-(	3
-,	3
-.	4
-to	1
-degrees	2
-systems	1
-between	2
-noncoherent	1
-input	2
-approach	2
-is	3
-channel	1
-A	1
-be	1
-them	1
-multiple	2
-relationship	1
-that	1
-In	1
-mapping	2
-new	1
-varying	1
-changing	1
-SIMO	1
-manifolds	1
-a	2
-We	1
-presented	1
-this	2
-of	5
-signal	2
-different	1
-communications	1
-algorithms	1
-time	1
-correlatively	1
-output	3
-the	6
-toward	1
-are	1
+and,2
+available,1
+freedom,2
+extra,1
+Studying,1
+over,1
+DOF,1
+it,1
+call,1
+channels,1
+single,1
+numbers,1
+using,1
+fading,2
+MIMO,1
+shown,2
+nonlinear,3
+dimensions,1
+for,1
+space,2
+decoding,1
+to,1
+degrees,2
+systems,1
+between,2
+noncoherent,1
+input,3
+approach,2
+is,3
+channel,1
+A,1
+be,1
+them,1
+multiple,3
+relationship,1
+that,1
+In,1
+mapping,2
+new,1
+varying,1
+changing,1
+SIMO,1
+manifolds,1
+a,2
+We,1
+presented,1
+this,2
+of,5
+signal,2
+different,1
+communications,1
+algorithms,1
+time,1
+correlatively,1
+output,3
+the,6
+toward,1
+are,1

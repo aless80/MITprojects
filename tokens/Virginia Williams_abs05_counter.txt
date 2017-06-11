@@ -1,129 +1,120 @@
-
-all	1
-show	1
-both	1
-results	4
-generalize	2
-solutions	1
-previous	1
-p\geq	1
-We	3
-$	6
-instance	1
-(	5
-winner	2
-guaranteed	1
-,	5
-to	2
-only	1
-other	1
-under	2
-match	2
-\sqrt	1
-possible	1
-every	1
-Random	1
-investigate	1
-popular	1
-where	1
-n/n	2
-set	2
-significantly	1
-For	1
-some	1
-\Omega	1
-even	1
-for	3
-competitions	1
-seeding	3
-between	1
-new	2
-;	1
-tournaments	1
-conditions	1
-?	1
-be	2
-we	2
-noise	1
-small	1
-by	2
-on	2
-of	2
-favorite	2
-players	1
-greatly	1
-{	2
-well-studied	1
-initial	1
-\ln	2
-win	1
-outcomes	1
-generative	1
-sports	1
-establish	1
-select	1
-given	1
-prove	1
-addition	1
-there	1
-question	1
-.	7
-their	1
-way	1
-:	1
-more	1
-generating	1
-relationship	1
-that	3
-sufficient	1
-Condorcet	1
-general	1
-had	1
-single-elimination	1
-work	2
-elections	1
-n	1
-will	1
-pairwise	2
-can	2
-Our	1
-problem	1
-outcome	1
-called	1
-SE	5
-and	5
-strengthen	1
-is	4
-tournament	8
-an	4
-player	5
-as	2
-in	3
-rig	1
-organizer	1
-information	1
-prior	2
-)	5
-fixing	1
-when	1
-also	2
-winners	1
-which	1
-adjusting	1
-A	2
-models	2
-generated	1
-such	1
-Model	1
-probabilistic	1
-a	4
-natural	1
-p=\Theta	1
-wins	2
-traditional	1
-\emph	1
-so	2
-In	1
-the	11
-}	2
-TFP	1
+all,1
+show,1
+both,1
+results,4
+generalize,2
+solutions,1
+previous,1
+We,3
+instance,1
+ln,2
+winner,2
+guaranteed,1
+to,2
+only,1
+other,1
+under,2
+match,2
+geq,1
+possible,1
+every,1
+Random,1
+p,2
+investigate,1
+popular,1
+where,1
+set,2
+significantly,1
+For,1
+some,1
+emph,1
+Theta,1
+even,1
+for,3
+competitions,1
+seeding,3
+between,1
+new,2
+tournaments,1
+conditions,1
+be,2
+we,2
+noise,1
+small,1
+by,2
+on,2
+of,2
+studied,1
+favorite,2
+players,1
+greatly,1
+initial,1
+win,1
+outcomes,1
+generative,1
+establish,1
+select,1
+given,1
+prove,1
+addition,1
+there,1
+question,1
+sports,1
+their,1
+way,1
+more,1
+generating,1
+relationship,1
+that,3
+sufficient,1
+Condorcet,1
+elimination,1
+general,1
+had,1
+work,2
+elections,1
+n,5
+will,1
+pairwise,2
+can,2
+Our,1
+problem,1
+outcome,1
+called,1
+SE,5
+and,5
+strengthen,1
+is,4
+tournament,8
+an,4
+player,5
+single,1
+in,3
+rig,1
+organizer,1
+as,2
+information,1
+prior,2
+fixing,1
+when,1
+sqrt,1
+also,2
+winners,1
+which,1
+Omega,1
+adjusting,1
+A,2
+models,2
+generated,1
+such,1
+Model,1
+probabilistic,1
+a,4
+natural,1
+wins,2
+well,1
+traditional,1
+so,2
+In,1
+the,11
+TFP,1

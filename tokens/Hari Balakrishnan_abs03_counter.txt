@@ -1,91 +1,85 @@
-
-incorporate	1
-show	1
-paper	1
-including	1
-incurring	1
-We	1
-implementation	1
-(	1
-,	8
-to	3
-achieve	1
-exports	1
-evaluate	1
-they	1
-using	1
-adaptive	2
-notified	1
-conditions	1
-benefit	1
-API	2
-architecture	1
-end-system	1
-module	1
-streaming	1
-design	1
-are	1
-our	1
-network	2
-TCP	2
-adapt	1
-provides	1
-new	1
-;	2
-evaluation	1
-integrated	1
-be	1
-we	1
-This	1
-control	1
-operating	1
-factored	1
-architectural	1
-congestion	2
-interface	2
-by	1
-of	4
-programming	1
-layered	1
-audio/video	1
-considerations	1
-into	1
-such	1
-management	1
-from	1
-system	1
-.	4
-describes	1
-overhead	1
-Congestion	1
-sharing	1
-CM	3
-that	3
-with	1
-behavior	2
-interactive	1
-and	9
-allows	1
-describe	2
-implementations	1
-an	2
-To	1
-as	1
-information	1
-)	1
-convenient	1
-able	1
-application	2
-functionality	1
-which	2
-flows	1
-much	1
-applications	3
-changing	1
-a	2
-All	1
-flow	1
-Manager	1
-without	1
-the	9
-audio	1
+and,9
+considerations,1
+they,1
+show,1
+programming,1
+into,1
+describe,2
+we,1
+module,1
+an,2
+To,1
+as,1
+paper,1
+design,1
+benefit,1
+flows,1
+using,1
+our,1
+incurring,1
+are,1
+information,1
+We,1
+management,1
+end,1
+network,2
+layered,1
+implementation,1
+convenient,1
+able,1
+system,2
+TCP,2
+to,3
+describes,1
+overhead,1
+allows,1
+provides,1
+Congestion,1
+new,1
+adaptive,2
+evaluation,1
+integrated,1
+achieve,1
+adapt,1
+be,1
+exports,1
+sharing,1
+incorporate,1
+which,2
+CM,3
+that,3
+This,1
+evaluate,1
+conditions,1
+factored,1
+much,1
+applications,3
+control,1
+from,1
+operating,1
+implementations,1
+architectural,1
+congestion,2
+interface,2
+changing,1
+including,1
+functionality,1
+with,1
+by,1
+a,2
+All,1
+streaming,1
+notified,1
+of,4
+flow,1
+such,1
+without,1
+Manager,1
+API,2
+architecture,1
+behavior,2
+video,1
+the,9
+audio,2
+application,2
+interactive,1

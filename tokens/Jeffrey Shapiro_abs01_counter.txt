@@ -1,29 +1,28 @@
-
-classical	1
-in	1
-quantum	1
-We	1
-capacity	1
-asymptotic	1
-for	1
-create	1
-.	1
-to	1
-entanglement-assisted	1
-formula	1
-distribution	1
-arXiv:1609.08592	1
-two-way	1
-use	1
-framework	1
-key	1
-[	1
-]	1
-the	2
-protocols	1
-noisy	1
-a	1
-region	1
-Gaussian	1
-coherent-attack	1
-security	1
+classical,1
+arXiv,1
+in,1
+quantum,1
+We,1
+capacity,1
+asymptotic,1
+for,1
+assisted,1
+two,1
+to,1
+attack,1
+way,1
+formula,1
+distribution,1
+use,1
+framework,1
+coherent,1
+key,1
+entanglement,1
+the,2
+protocols,1
+noisy,1
+a,1
+region,1
+Gaussian,1
+security,1
+create,1

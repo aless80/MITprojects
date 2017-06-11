@@ -1,15 +1,11 @@
-
-a	1
-We	1
-7/9	1
-for	1
-Algorithm	1
-give	1
--	1
-Maximum	1
-.	1
-Approximation	1
-Traveling	1
-the	1
-Salesman	1
-Problem	1
+a,1
+We,1
+Algorithm,1
+for,1
+give,1
+Maximum,1
+Approximation,1
+Traveling,1
+the,1
+Salesman,1
+Problem,1

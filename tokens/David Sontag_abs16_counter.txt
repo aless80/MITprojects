@@ -1,95 +1,90 @@
-
-semantic	1
-over	1
-both	1
-results	1
-existing	1
-morphology	1
-LSTM	2
-still	1
-whose	1
-We	1
-parameters	2
-(	4
-character	2
-,	11
-French	1
-languages	2
-to	2
-only	2
-rich	1
-baselines	1
-On	2
-Analysis	1
-word-level/morpheme-level	1
-despite	1
-Treebank	1
-fewer	2
-German	1
-output	1
-reveals	1
-word-level	1
-are	2
-short-term	1
-network	3
-for	1
-highway	1
-English	1
-modeling	1
-obtained	1
-on	3
-language	3
-many	1
-Arabic	1
-simple	1
-Predictions	1
-60	1
-orthographic	1
-given	1
-from	2
-long	1
-.	7
-memory	1
-Russian	1
-convolutional	1
-a	4
-that	3
-sufficient	1
-encode	1
-part	1
-with	3
-made	1
-word	1
-Czech	1
-of	2
-RNN-LM	1
-Our	1
-and	2
-is	3
-describe	1
-outperforms	1
-character-level	1
-at	1
-employs	1
-Penn	1
-again	1
-par	1
-%	1
-)	4
-suggest	1
-recurrent	1
-able	1
-composition	1
-inputs	2
-information	1
-state-of-the-art	1
-characters	2
-CNN	1
-representations	1
-The	1
-model	7
-relies	1
-neural	3
-Spanish	1
-the	8
-having	1
+recurrent,1
+semantic,1
+over,1
+both,1
+results,1
+existing,1
+morphology,1
+LSTM,2
+still,1
+whose,1
+We,1
+parameters,2
+character,3
+French,1
+languages,2
+to,2
+only,2
+rich,1
+baselines,1
+On,2
+Analysis,1
+despite,1
+term,1
+level,4
+Treebank,1
+fewer,2
+German,1
+output,1
+reveals,1
+art,1
+are,2
+network,3
+for,1
+state,1
+highway,1
+English,1
+modeling,1
+obtained,1
+on,3
+RNN,1
+language,3
+many,1
+Arabic,1
+simple,1
+Predictions,1
+orthographic,1
+given,1
+from,2
+long,1
+memory,1
+Russian,1
+convolutional,1
+morpheme,1
+that,3
+sufficient,1
+encode,1
+part,1
+with,3
+made,1
+word,3
+Czech,1
+of,3
+Our,1
+and,2
+is,3
+describe,1
+outperforms,1
+at,1
+employs,1
+Penn,1
+again,1
+par,1
+suggest,1
+LM,1
+able,1
+composition,1
+inputs,2
+information,1
+a,4
+characters,2
+CNN,1
+representations,1
+The,1
+model,7
+relies,1
+short,1
+neural,3
+Spanish,1
+the,9
+having,1

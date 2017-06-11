@@ -1,130 +1,122 @@
-
-abilities	1
-remarkable	1
-show	1
-both	1
-illusions	1
-four	1
-stored	1
-generalize	1
-human	1
-based	1
-proposed	1
-(	1
-,	9
-Here	1
-to	6
-only	1
-asymmetries	1
-achieve	1
-Both	1
-Intuitive	1
-Two	1
-fall	1
-report	1
-IPEs	1
-video-game	1
-judgments	3
-CNN-based	1
-experiments	1
-accuracy	1
-where	1
-mental	1
-people	3
-consistent	1
-outcomes	1
-are	3
-rigorous	1
-our	1
-memory-based	1
-network	1
-for	1
-ways	1
-Versions	1
-run	1
-judgment	1
-we	1
-recently	2
-degree	1
-nature	1
-understanding	1
-approaches	2
-by	1
-knowledge	1
-on	2
-perceptual	1
-concretely	1
-of	5
-levels	1
-situations	1
-or	1
-first	1
-Engines	1
-previously	1
-image	1
-scene	1
-predictions	1
-causal	1
-engines	1
-analogies	1
-Physics	1
-approximate	1
-been	2
-.	5
-:	1
-convolutional	1
-``	1
-that	5
-instantiated	2
-outputs	1
-but	1
-systematic	1
-with	1
-novel	1
-whether	1
-scenes	2
-quantitatively	1
-will	1
-classes	1
-can	3
-posit	1
-demonstrate	1
-super-human	1
-similar	2
-and	7
-do	1
-predict	2
-in	6
-encountered	1
-''	1
-raw	1
-as	2
-have	2
-simulations	1
-physical	4
-)	1
-latter	1
-complex	1
-which	2
-events	1
-simulation-based	2
-inputs	1
-blocks	1
-models	5
-running	1
-produce	1
-experiences	1
-architectures	1
-CNN	1
-such	1
-probabilistic	1
-stack	1
-a	2
-neural	1
-Humans	1
-algorithms	1
-qualitatively	1
-comparisons	1
-the	3
-physics	1
-make	2
+abilities,1
+remarkable,1
+show,1
+illusions,1
+four,1
+stored,1
+generalize,1
+human,2
+based,5
+proposed,1
+situations,1
+Here,1
+to,6
+only,1
+achieve,1
+Both,1
+Intuitive,1
+scene,1
+game,1
+fall,1
+report,1
+IPEs,1
+judgments,3
+experiments,1
+perceptual,1
+where,1
+mental,1
+people,3
+consistent,1
+video,1
+are,3
+rigorous,1
+our,1
+recently,2
+network,1
+for,1
+ways,1
+Versions,1
+asymmetries,1
+judgment,1
+we,1
+run,1
+degree,1
+nature,1
+understanding,1
+approaches,2
+super,1
+by,1
+knowledge,1
+both,1
+concretely,1
+of,5
+simulation,2
+levels,1
+or,1
+first,1
+Engines,1
+previously,1
+image,1
+Two,1
+outcomes,1
+causal,1
+engines,1
+analogies,1
+Physics,1
+approximate,1
+been,2
+memory,1
+convolutional,1
+that,5
+instantiated,2
+outputs,1
+but,1
+systematic,1
+with,1
+novel,1
+whether,1
+scenes,2
+quantitatively,1
+will,1
+classes,1
+can,3
+posit,1
+demonstrate,1
+similar,2
+and,7
+do,1
+predict,2
+in,6
+encountered,1
+raw,1
+as,2
+predictions,1
+have,2
+simulations,1
+physical,4
+make,2
+complex,1
+which,2
+events,1
+accuracy,1
+inputs,1
+blocks,1
+models,5
+running,1
+produce,1
+experiences,1
+architectures,1
+CNN,2
+such,1
+on,2
+probabilistic,1
+stack,1
+a,2
+neural,1
+Humans,1
+algorithms,1
+qualitatively,1
+comparisons,1
+the,3
+physics,1
+latter,1

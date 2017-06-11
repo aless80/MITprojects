@@ -1,140 +1,131 @@
-
-all	1
-consider	3
-show	2
-being	1
-over	1
-focus	1
-converge	1
-underlying	2
-decisions	5
-its	1
-previous	1
-whose	1
-We	7
-(	2
-,	19
-Here	1
-signals	1
-to	6
-finally	1
-under	3
-has	1
-equilibrium	1
-then	1
-greater	1
-rules	1
-possible	1
-obtain	1
-game	1
-world	3
-signal	2
-investigate	1
-each	3
-Moreover	1
-where	1
-maximize	1
-observes	1
-literature	1
-achieves	1
-depends	1
-individual	1
-design	1
-result	1
-assumption	1
-special	1
-maximizes	1
-fails	1
-for	5
-decision	6
-content	2
-state	5
-new	1
-conditions	1
-correct	5
-we	1
-K	4
-equals	1
-possibility	1
-explore	1
-Each	1
-extreme	1
-on	2
-about	1
-last	1
-of	18
-study	1
-studied	1
-equal	1
-prior	1
-receives	1
-distinction	1
-or	1
-first	1
-own	1
-probability	4
-K.	1
-private	3
-strategic	1
-agents	5
-learning	4
-impossible	2
-probabilities	1
-unknown	1
-there	1
-.	10
-their	2
-2	1
-forward	1
-:	1
-arises	1
-that	6
-immediate	1
-convergence	2
-case	3
-whether	2
-myopic	1
-value	3
-while	1
-making	1
-distribution	1
-and	3
-associated	1
-almost	1
-is	5
-sense	1
-it	2
-agent	3
-an	4
-exist	1
-have	1
-in	6
-any	4
-if	1
-sequentially	1
-binary	1
-different	1
-)	2
-make	1
-1	1
-also	1
-which	2
-Bayesian	1
-independent	1
-sure	1
-information	2
-who	2
-sequence	1
-collection	1
-involving	1
-bounded	2
-infinite	1
-The	1
-model	1
-predecessors	1
-a	5
-discounted	1
-rule	2
-the	22
-looking	1
-sum	1
+all,1
+consider,3
+show,2
+being,1
+over,1
+focus,1
+converge,1
+underlying,2
+decisions,5
+its,1
+previous,1
+whose,1
+We,7
+Here,1
+signals,1
+to,6
+finally,1
+under,3
+has,1
+equilibrium,1
+then,1
+greater,1
+rules,1
+possible,1
+obtain,1
+game,1
+world,3
+signal,2
+investigate,1
+each,3
+Moreover,1
+where,1
+maximize,1
+observes,1
+literature,1
+achieves,1
+depends,1
+individual,1
+design,1
+result,1
+special,1
+maximizes,1
+fails,1
+for,5
+decision,6
+content,2
+state,5
+new,1
+conditions,1
+correct,5
+we,1
+K,5
+equals,1
+possibility,1
+explore,1
+Each,1
+extreme,1
+on,2
+about,1
+last,1
+of,18
+study,1
+studied,1
+equal,1
+prior,1
+receives,1
+distinction,1
+or,1
+first,1
+own,1
+probability,4
+private,3
+strategic,1
+agents,5
+learning,4
+impossible,2
+probabilities,1
+unknown,1
+there,1
+their,2
+assumption,1
+forward,1
+arises,1
+that,6
+immediate,1
+convergence,2
+case,3
+whether,2
+myopic,1
+value,3
+while,1
+making,1
+distribution,1
+and,3
+associated,1
+almost,1
+is,5
+sense,1
+it,2
+agent,3
+an,4
+exist,1
+have,1
+in,6
+any,4
+if,1
+sequentially,1
+binary,1
+different,1
+make,1
+also,1
+which,2
+Bayesian,1
+independent,1
+sure,1
+information,2
+who,2
+sequence,1
+collection,1
+involving,1
+bounded,2
+infinite,1
+The,1
+model,1
+predecessors,1
+a,5
+discounted,1
+rule,2
+the,22
+looking,1
+sum,1

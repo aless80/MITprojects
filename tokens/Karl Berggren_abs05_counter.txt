@@ -1,155 +1,139 @@
-
-limited	1
-~590	1
-astronomical	1
-microwave-plasmon	1
-resolution	1
-meandered	1
-encoded	1
-speed	1
-guides	1
-based	1
-(	1
-temporal	2
-,	11
-Here	1
-resolving	1
-environment	1
-to	5
-only	1
-readout3-8	1
-SPD	1
-By	1
-286	1
-nanowires	1
-between	1
-scalable	2
-readout	1
-using	2
-difference	1
-transmission	1
-50	1
-arrivals	1
-across	1
-large	1
-arrays	2
-biological	1
-lines	1
-photon-detection	1
-ends	1
-193	1
-slowed	1
-individual	1
-are	1
-imager	2
-event	1
-scale	1
-space	1
-electromagnetic	1
-microwave	1
-current	1
-critical	1
-designing	1
-Detecting	1
-propagating	1
-approach	1
-integrated	1
-demonstrated	1
-arrival	1
-be	1
-we	2
-simultaneously	1
-ability	1
-ps	1
-19.7-mm-long	1
-processing	1
-voltages	1
-difficulty	1
-imaging	2
-address	1
-by	3
-on	1
-of	12
-area	1
-times	1
-absorption	1
-{	2
-high-resolution	1
-photons	2
-appropriately	1
-communication	1
-into	1
-plasmons	1
-down	1
-capable	1
-electronic	1
-signals	2
-light	1
-photon-sensitive	1
-*	1
-due	1
-.	7
-their	1
-2	1
-was	1
-naturally	1
-that	2
-continuous	1
-photon	2
-but	1
-pixels	1
-nanowire	6
-line	1
-with	2
-this	1
-local	1
-single	1
-recording	1
-while	1
-spectroscopy	1
-were	1
-problem	1
-~	1
-and	4
-outstanding	1
-Thus	1
-is	1
-Among	1
-an	1
-superconducting	2
-at	1
-have	1
-in	3
-SPDs1	1
-result	1
-information	1
-%	1
-presents	1
-)	1
-realizing	1
-high-bandwidth	1
-spatial	1
-single-photon	1
-'s	1
-m	2
-applications	1
-generated	1
-two	2
-demonstrating	1
-The	1
-\mu	2
-engineering	1
-a	7
-observation	1
-effective	1
-quantum-information	1
-detectors	1
-single-photon-detector	1
-performance2	1
-As	1
-so	1
-time	3
-position	1
-the	13
-}	2
-cryogenic	1
+limited,1
+SPDs,1
+bandwidth,1
+encoded,1
+speed,1
+guides,1
+based,1
+absorption,1
+temporal,2
+plasmons,1
+Here,1
+resolving,1
+environment,1
+to,5
+only,1
+SPD,1
+astronomical,1
+nanowires,1
+between,1
+scalable,2
+readout,2
+using,2
+difference,1
+transmission,1
+arrivals,1
+across,1
+large,1
+this,1
+biological,1
+lines,1
+ends,1
+detection,1
+slowed,1
+individual,1
+are,1
+quantum,1
+imager,2
+event,1
+recording,1
+scale,1
+space,1
+electromagnetic,1
+microwave,2
+current,1
+critical,1
+designing,1
+Detecting,1
+propagating,1
+approach,1
+integrated,1
+demonstrated,1
+arrival,1
+be,1
+we,2
+simultaneously,1
+ability,1
+ps,1
+processing,1
+voltages,1
+difficulty,1
+imaging,2
+address,1
+by,3
+on,1
+of,12
+capable,1
+times,1
+sensitive,1
+s,1
+photons,2
+appropriately,1
+communication,1
+into,1
+two,2
+down,1
+electronic,1
+signals,2
+area,1
+due,1
+long,1
+pixels,1
+their,1
+was,1
+naturally,1
+mm,1
+that,2
+continuous,1
+photon,6
+but,1
+nanowire,6
+line,1
+with,2
+arrays,2
+local,1
+engineering,1
+By,1
+mu,2
+while,1
+spectroscopy,1
+were,1
+problem,1
+result,1
+and,4
+outstanding,1
+Thus,1
+is,1
+Among,1
+superconducting,2
+an,1
+high,2
+single,3
+at,1
+have,1
+in,3
+meandered,1
+information,2
+presents,1
+realizing,1
+spatial,1
+performance,1
+detector,1
+m,2
+applications,1
+generated,1
+demonstrating,1
+The,1
+a,7
+observation,1
+effective,1
+light,1
+detectors,1
+As,1
+so,1
+plasmon,1
+time,3
+position,1
+the,13
+resolution,2
+cryogenic,1

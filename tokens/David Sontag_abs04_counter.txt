@@ -1,91 +1,90 @@
-
-unified	1
-interpretation	1
-held-out	1
-results	1
-including	1
-find	1
-synthetic	1
-We	3
-,	5
-to	4
-adoption	1
-decades	1
-compiled	1
-introduce	1
-using	1
-variants	1
-where	1
-enjoy	1
-the	6
-significantly	1
-approximation	2
-are	1
-learns	1
-network	1
-for	1
-space	2
-broad	1
-networks	2
-state	2
-sequential	1
-non-linear	1
-simultaneously	1
-linear	1
-real-world	1
-leveraging	1
-scalability	1
-likelihood	1
-by	2
-both	1
-of	2
-transition	1
-admit	1
-inference	1
-simple	1
-functional	1
-learning	2
-generative	2
-apply	1
-probabilistic	1
-structured	2
-been	1
-.	6
-variational	1
-form	1
-that	1
-emission	1
-posterior	2
-with	1
-versatility	1
-datasets	1
-intuitive	1
-learn	1
-Our	1
-distribution	1
-and	6
-deep	1
-an	1
-as	1
-have	2
-in	1
-distributions	1
-recurrent	1
-They	1
-widespread	1
-higher	1
-used	1
-models	4
-demonstrating	1
-data	1
-class	1
-efficiently	1
-a	5
-algorithm	3
-neural	2
-modeled	1
-Gaussian	1
-parameterized	1
-mimic	1
-model	1
-its	1
+unified,1
+interpretation,1
+results,1
+held,1
+including,1
+world,1
+find,1
+synthetic,1
+We,3
+to,4
+adoption,1
+decades,1
+real,1
+non,1
+compiled,1
+introduce,1
+using,1
+variants,1
+where,1
+enjoy,1
+the,6
+significantly,1
+approximation,2
+are,1
+out,1
+learns,1
+network,1
+for,1
+space,2
+broad,1
+networks,2
+state,2
+sequential,1
+simultaneously,1
+linear,2
+leveraging,1
+scalability,1
+likelihood,1
+by,2
+both,1
+of,2
+transition,1
+admit,1
+inference,1
+simple,1
+functional,1
+learning,2
+generative,2
+apply,1
+probabilistic,1
+structured,2
+been,1
+variational,1
+form,1
+that,1
+emission,1
+posterior,2
+with,1
+versatility,1
+datasets,1
+intuitive,1
+learn,1
+Our,1
+distribution,1
+and,6
+deep,1
+an,1
+as,1
+have,2
+in,1
+distributions,1
+recurrent,1
+They,1
+widespread,1
+higher,1
+used,1
+models,4
+demonstrating,1
+data,1
+class,1
+efficiently,1
+a,5
+algorithm,3
+neural,2
+modeled,1
+Gaussian,1
+parameterized,1
+mimic,1
+model,1
+its,1

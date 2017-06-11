@@ -1,90 +1,88 @@
-
-identify	1
-fidelity	1
-We	2
-,	5
-to	4
-heterogeneity	1
-broadly	1
-report	1
-areas	1
-timely	1
-identified	2
-thrusts	1
-specific	1
-this	3
-where	1
-challenges	2
-namely	1
-begun	1
-close	1
-even	1
-large	1
-scale	1
-for	1
-research	2
-new	3
-increasing	1
-be	2
-we	1
-ability	1
-leadership	1
-key	1
-address	1
-launch	1
-of	2
-study	1
-discussed	1
-exacale	1
-create	1
-software	1
-scales	1
-two-day	1
-one	1
-tools	1
-sheer	1
-support	1
-system	1
-.	4
-workshop	1
-proposal	1
-achieving	1
-Maintaining	1
-more	1
-proclivity	1
-that	1
-with	1
-must	2
-these	2
-proactively	1
-up	1
-while	1
-can	1
-growing	1
-toward	1
-and	5
-correctness	1
-simulations	1
-hardware	1
-at	1
-in	5
-productivity	1
-goal	1
-detail	1
-role	1
-which	1
-ramping	1
-play	1
-plans	1
-problems	1
-most	1
-significant	2
-HPC	1
-ideally	1
-a	2
-especially	1
-bugs	1
-face	1
-In	1
-the	6
-requires	1
+identify,1
+fidelity,1
+We,2
+to,4
+heterogeneity,1
+broadly,1
+report,1
+day,1
+areas,1
+timely,1
+identified,2
+thrusts,1
+specific,1
+this,3
+where,1
+challenges,2
+namely,1
+begun,1
+close,1
+even,1
+large,1
+scale,1
+for,1
+research,2
+new,3
+increasing,1
+be,2
+we,1
+ability,1
+leadership,1
+key,1
+address,1
+launch,1
+of,2
+study,1
+discussed,1
+exacale,1
+create,1
+software,1
+scales,1
+one,1
+tools,1
+sheer,1
+support,1
+system,1
+workshop,1
+proposal,1
+achieving,1
+Maintaining,1
+more,1
+proclivity,1
+that,1
+with,1
+must,2
+these,2
+proactively,1
+up,1
+while,1
+can,1
+growing,1
+toward,1
+and,5
+correctness,1
+simulations,1
+hardware,1
+at,1
+in,5
+productivity,1
+goal,1
+detail,1
+role,1
+which,1
+ramping,1
+play,1
+plans,1
+problems,1
+most,1
+two,1
+significant,2
+HPC,1
+ideally,1
+a,2
+especially,1
+bugs,1
+face,1
+In,1
+the,6
+requires,1

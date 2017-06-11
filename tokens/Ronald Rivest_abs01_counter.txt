@@ -1,164 +1,149 @@
-
-protocol	3
-show	1
-over	1
-leads	1
-including	1
-1+\delta	2
-sampled	1
-partially	1
-repetition	1
-based	2
-$	26
-also	1
-(	4
-,	22
-Here	1
-should	1
-to	12
-has	1
-cryptography	1
-0,1	1
-disagreement	2
-Alice	2
-P	2
-every	1
-new	1
-variants	1
-randomness	1
-We	1
-solves	1
-contexts	1
-settle	1
-output	3
-where	1
-subset	2
-questions	2
-Specifically	1
-approximation	1
-imply	1
-elements	1
-are	2
-close	1
-n	2
-out	1
-for	3
-rounding	1
-sketching	1
-Rivest	1
-access	1
-between	1
-\in	3
-shared	1
-we	4
-linear	1
-This	2
-respectively	1
-agreement	1
-answers	1
-[	2
-\delta/	1
-on	3
-about	1
-interaction	1
-universe	1
-study	1
-Though	1
-programming	1
-according	1
-players	2
-due	2
-Broder	1
-probability	4
-simple	1
-sampling	3
-well-known	1
-\neq	1
-least	1
-2\delta/	1
-total	1
-open	1
-Bob	2
-\delta	2
-given	3
-prove	1
-]	2
-question	2
-two	5
-been	1
-.	11
-their	2
-2	1
-call	1
-basic	1
-scheme	1
-``	2
-B	2
-that	5
-outputs	1
-correlated	3
-Kleinberg	1
-trying	1
-with	2
-Tardos	1
-distance	1
-this	4
-j	2
-bounds	2
-different	1
-i	2
-while	1
-of	2
-Our	1
-problem	2
-similar	1
-proof	2
-and	10
-give	1
-is	8
-formulation	1
-surprisingly	1
-an	2
-''	2
-say	2
-at	2
-have	1
-in	2
-constrained	1
-distributions	2
-any	2
-respective	1
-goal	1
-turn	1
-)	4
-studying	1
-same	1
-relaxations	1
-note	1
-tight	3
-which	1
-\subseteq	2
-several	2
-A	3
-used	1
-our	1
-problems	2
-Holenstein	1
-variation	1
-Q	2
-most	1
-The	1
-disagree	1
-parallel	1
-recent	1
-a	5
-task	1
-minimize	2
-required	3
-remain	1
-element	2
-without	1
-algorithms	2
-In	2
-the	8
-fact	1
+protocol,3
+show,1
+over,1
+leads,1
+including,1
+questions,2
+sampled,1
+partially,1
+repetition,1
+based,2
+also,1
+Here,1
+should,1
+to,12
+has,1
+cryptography,1
+disagreement,2
+Alice,2
+P,2
+every,1
+new,1
+variants,1
+subseteq,2
+randomness,1
+We,1
+solves,1
+contexts,1
+settle,1
+output,3
+where,1
+subset,2
+Specifically,1
+approximation,1
+imply,1
+elements,1
+are,2
+close,1
+n,2
+out,1
+for,3
+rounding,1
+sketching,1
+Rivest,1
+access,1
+between,1
+shared,1
+neq,1
+we,4
+linear,1
+This,2
+respectively,1
+agreement,1
+answers,1
+Bob,2
+on,3
+about,1
+interaction,1
+universe,1
+study,1
+Though,1
+programming,1
+according,1
+players,2
+due,2
+Broder,1
+probability,4
+simple,1
+sampling,3
+least,1
+total,1
+open,1
+given,3
+prove,1
+question,2
+two,5
+been,1
+their,2
+call,1
+basic,1
+scheme,1
+B,2
+that,5
+outputs,1
+correlated,3
+Kleinberg,1
+delta,6
+known,1
+trying,1
+with,2
+Tardos,1
+distance,1
+this,4
+j,2
+bounds,2
+different,1
+i,2
+while,1
+of,2
+Our,1
+problem,2
+similar,1
+proof,2
+and,10
+give,1
+is,8
+formulation,1
+surprisingly,1
+an,2
+say,2
+at,2
+have,1
+in,5
+constrained,1
+distributions,2
+any,2
+respective,1
+goal,1
+turn,1
+studying,1
+same,1
+relaxations,1
+note,1
+tight,3
+which,1
+several,2
+A,3
+used,1
+our,1
+problems,2
+Holenstein,1
+variation,1
+Q,2
+most,1
+The,1
+disagree,1
+parallel,1
+recent,1
+a,5
+task,1
+minimize,2
+required,3
+well,1
+remain,1
+element,2
+without,1
+algorithms,2
+In,2
+the,8
+fact,1

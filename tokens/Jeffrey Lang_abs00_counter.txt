@@ -1,107 +1,103 @@
-
-less	1
-developed	2
-over	1
-dynamic	1
-results	1
-existing	1
-through	1
-$	1
-(	1
-lateral	1
-distributed	2
-,	6
-capabilities	1
-to	4
-waterproof	2
-material	1
-using	1
-Experimental	1
-and	5
-necessary	1
-comprising	1
-this	1
-hydrodynamic	1
-characterized	1
-fish	1
-cost	1
-are	2
-surfaces	1
-shown	1
-for	2
-measurements	2
-per	1
-contained	1
-reconstruction	1
-;	1
-sensor	6
-vertical	1
-commercial	1
-CBPDMS	3
-pressure	4
-closed-cell	1
-advantages	1
-address	1
-carbon	1
-sensors	1
-50-500	1
-marine	3
-by	1
-improve	1
-on	2
-package	1
-of	5
-completely	1
-plunging	1
-range	1
-periodic	1
-black-doped-silicone	1
-control	2
-environments	1
-polynomial	1
-array	1
-use	1
-from	2
-piecewise	1
-.	5
-needed	1
-flexible	1
-was	3
-sensitivity	1
-Inspired	1
-Spatially-dense	1
-real-time	1
-line	1
-with	1
-than	1
-10	1
-arrays	3
-challenge	1
-Pascal	2
-conformal	1
-detailed	1
-describe	1
-To	1
-have	4
-in	3
-curved	1
-calibration	1
-provide	1
-5	1
-which	1
-performance	1
-foam	4
-applications	1
-significant	1
-The	1
-response	2
-a	3
-stimuli	1
-vehicles	1
-flow	3
-)	1
-velocity	1
-the	9
-sensing	1
-order	1
-near-field	1
+less,1
+developed,2
+over,1
+doped,1
+dynamic,1
+results,1
+existing,1
+through,1
+lateral,1
+distributed,2
+capabilities,1
+to,4
+black,1
+real,1
+closed,1
+waterproof,2
+material,1
+using,1
+Experimental,1
+and,5
+necessary,1
+comprising,1
+arrays,3
+hydrodynamic,1
+characterized,1
+fish,1
+cost,1
+are,2
+surfaces,1
+shown,1
+dense,1
+for,2
+measurements,2
+Pascal,2
+per,1
+cell,1
+contained,1
+reconstruction,1
+sensor,6
+vertical,1
+silicone,1
+commercial,1
+CBPDMS,3
+pressure,4
+completely,1
+advantages,1
+address,1
+carbon,1
+sensors,1
+marine,3
+by,1
+improve,1
+on,2
+Spatially,1
+package,1
+of,5
+plunging,1
+range,1
+periodic,1
+control,2
+environments,1
+polynomial,1
+array,1
+use,1
+from,2
+piecewise,1
+needed,1
+flexible,1
+was,3
+sensitivity,1
+Inspired,1
+line,1
+with,1
+than,1
+this,1
+challenge,1
+near,1
+conformal,1
+detailed,1
+describe,1
+To,1
+have,4
+in,3
+curved,1
+calibration,1
+provide,1
+field,1
+which,1
+performance,1
+foam,4
+applications,1
+significant,1
+The,1
+response,2
+a,3
+stimuli,1
+vehicles,1
+flow,3
+time,1
+velocity,1
+the,9
+sensing,1
+order,1

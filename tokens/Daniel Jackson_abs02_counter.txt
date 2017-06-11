@@ -1,51 +1,48 @@
-
-and	1
-associated	1
-show	1
-expanding	1
-is	3
-both	1
-cohomology	1
-number	1
-curves	1
-an	3
-are	1
-We	1
-birational	1
-for	1
-to	1
-there	1
-,	2
-.	4
-maps	1
-invariant	4
-constraints	1
-type	1
-arithmetic	1
-meromorphic	1
-we	1
-form	1
-that	2
-This	1
-When	1
-In	1
-expansion	1
-most	1
-surface	1
-one	2
-with	1
-case	1
-on	2
-implies	1
-exponential	1
-of	4
-curve	3
-equal	1
-severe	1
-classify	1
-components	1
-irreducible	1
-the	5
-genus	2
-two	1
-at	1
+and,1
+associated,1
+show,1
+expanding,1
+is,3
+both,1
+cohomology,1
+number,1
+curves,1
+an,3
+are,1
+We,1
+birational,1
+for,1
+to,1
+there,1
+two,1
+maps,1
+invariant,4
+constraints,1
+type,1
+arithmetic,1
+meromorphic,1
+we,1
+form,1
+that,2
+This,1
+When,1
+In,1
+expansion,1
+most,1
+surface,1
+one,2
+with,1
+case,1
+on,2
+implies,1
+exponential,1
+of,4
+curve,3
+equal,1
+severe,1
+classify,1
+components,1
+irreducible,1
+the,5
+genus,2
+at,1

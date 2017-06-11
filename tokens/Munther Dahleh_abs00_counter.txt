@@ -1,100 +1,97 @@
-
-neighbors	2
-all	1
-serving	1
-less	1
-obtain	1
-entity	4
-paper	1
-expressions	1
-impact	1
-derive	2
-electricity	4
-,	8
-to	4
-only	1
-under	3
-rational	1
-effects	3
-decide	1
-Simulations	1
-Further	1
-where	1
-subset	1
-the	13
-set	1
-maximize	2
-energy	1
-reduce	1
-observed	1
-second	1
-maximizes	1
-network	1
-for	3
-profit	3
-selected	1
-However	1
-provides	1
-perfect	1
-we	3
-This	1
-analyzes	1
-peer	3
-stage	3
-on	2
-exposing	1
-of	7
-resulting	1
-first	2
-load	1
-and	3
-statements	1
-game-theoretic	1
-such	2
-utility	2
-consuming	3
-from	1
-consumption	3
-discrimination	1
-.	8
-their	4
-which	1
-theoretical	1
-more	1
-complete	1
-disutility	1
-that	2
-demand	1
-prices	1
-than	2
-case	1
-this	1
-approximations	1
-single	1
-utility-maximizing	1
-is	1
-load-serving	1
-To	2
-as	3
-in	3
-information	2
-develop	1
-Users	1
-suggest	1
-two-stage	1
-'s	1
-users	3
-price	3
-sets	1
-user	1
-aggregate	1
-end	1
-response	1
-incurred	1
-a	5
-consumers	1
-well	1
-so	1
-In	1
-model	1
-incomplete	1
+neighbors,2
+all,1
+serving,2
+less,1
+obtain,1
+entity,4
+paper,1
+expressions,1
+impact,1
+derive,2
+electricity,4
+to,4
+only,1
+under,3
+rational,1
+game,1
+effects,3
+decide,1
+Simulations,1
+Further,1
+where,1
+subset,1
+the,13
+set,1
+energy,1
+reduce,1
+observed,1
+second,1
+theoretic,1
+maximizes,1
+network,1
+for,3
+profit,3
+selected,1
+However,1
+provides,1
+perfect,1
+we,3
+This,1
+analyzes,1
+peer,3
+stage,4
+on,2
+exposing,1
+of,7
+s,1
+resulting,1
+consumers,1
+load,2
+statements,1
+maximize,2
+such,2
+utility,3
+consuming,3
+from,1
+consumption,3
+discrimination,1
+two,1
+their,4
+theoretical,1
+more,1
+complete,1
+disutility,1
+that,2
+demand,1
+prices,1
+than,2
+case,1
+this,1
+approximations,1
+single,1
+and,3
+is,1
+To,2
+as,3
+in,3
+information,2
+develop,1
+Users,1
+suggest,1
+which,1
+users,3
+price,3
+sets,1
+user,1
+aggregate,1
+end,1
+response,1
+incurred,1
+a,5
+maximizing,1
+well,1
+so,1
+In,1
+model,1
+first,2
+incomplete,1

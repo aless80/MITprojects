@@ -1,93 +1,87 @@
-
-proposed	1
-entropy	1
-fidelity	1
-captured	1
-whose	1
-We	3
-(	3
-,	5
-texture	1
-to	4
-input	2
-diffusion	1
-propose	1
-scaling	1
-using	2
-matrices	2
-fields	2
-method	1
-solved	1
-OT	2
-where	1
-classical	1
-generation	1
-are	2
-convex	1
-quantum	4
-transport	2
-spectral	1
-tensor	3
-celebrated	1
-version	1
-between	2
-new	1
-approach	1
-Kantorovich	1
-be	1
-noise	1
-extend	1
-This	3
-imaging	1
-article	1
-on	1
-geometry	1
-of	9
-iterative	1
-PSD	2
-resulting	1
-Von-Neumann	1
-within	1
-corresponds	1
-.	6
-Sinkhorn	2
-illustrate	1
-positive	1
-Q-OT	1
-anisotropic	1
-synthesis	1
-``	1
-relaxed	1
-meshing	1
-usefulness	1
-semidefinite	1
-compute	1
-this	1
-optimization	1
-values	1
-can	1
-problem	2
-procedural	1
-and	2
-introduces	1
-is	2
-generalization	1
-an	1
-''	1
-formulation	2
-regularization	1
-)	3
-setting	1
-which	2
-optimal	1
-measures	2
-collection	1
-applications	1
-efficiently	1
-a	5
-PSD-valued	1
-barycenters	1
-algorithm	3
-quantum-entropic	1
-the	11
-notion	1
+proposed,1
+entropy,1
+fidelity,1
+captured,1
+whose,1
+We,3
+texture,1
+to,4
+input,2
+propose,1
+scaling,1
+using,2
+matrices,2
+fields,2
+method,1
+solved,1
+OT,3
+where,1
+classical,1
+generation,1
+are,2
+convex,1
+quantum,5
+transport,2
+spectral,1
+entropic,1
+tensor,3
+celebrated,1
+version,1
+between,2
+new,1
+approach,1
+Kantorovich,1
+be,1
+noise,1
+extend,1
+This,3
+imaging,1
+article,1
+on,1
+geometry,1
+of,9
+iterative,1
+PSD,3
+resulting,1
+within,1
+corresponds,1
+usefulness,1
+Sinkhorn,2
+illustrate,1
+positive,1
+anisotropic,1
+synthesis,1
+relaxed,1
+meshing,1
+diffusion,1
+semidefinite,1
+valued,1
+compute,1
+Neumann,1
+this,1
+Von,1
+optimization,1
+values,1
+can,1
+problem,2
+procedural,1
+and,2
+introduces,1
+is,2
+generalization,1
+an,1
+formulation,2
+regularization,1
+setting,1
+which,2
+optimal,1
+measures,2
+collection,1
+Q,1
+applications,1
+efficiently,1
+a,5
+barycenters,1
+algorithm,3
+the,11
+notion,1

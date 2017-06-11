@@ -1,175 +1,163 @@
-
-all	2
-just	1
-show	1
-`winner	1
-focus	1
-converge	1
-paper	1
-through	1
-computation	2
-alternative	1
-high-level	1
-networks	4
-We	5
-It	1
-$	16
-conclusions	2
-interesting	2
-winner	1
-distributed	2
-,	9
-to	7
-lets	1
-input	2
-analogous	1
-main	1
-real	1
-good	1
-familiar	1
-possible	1
-bound	2
-tradeoffs	1
-inhibition	2
-nearly	1
-competing	1
-not	1
-using	1
-randomness	1
-outperform	1
-leader	1
-circuits	1
-activity	1
-output	2
-\ge	1
-upper	1
-significantly	1
-plausible	1
-fires	1
-used	1
-perspective	1
-`winner-take-all	1
-indistinguishability	1
-spiking	1
-matching	1
-solving	2
-network	6
-for	4
-affects	1
-remain	1
-\theta	3
-inhibitors	4
-state	2
-investigation	1
-use	2
-between	1
-consisting	1
-compliment	1
-we	1
-algorithmic	1
-theory	1
-preserves	1
-O	4
-\log^	2
-derive	1
-biological	1
-on	2
-about	1
-contribution	1
-technical	1
-of	8
-biologically	2
-firing	2
-allows	1
-initiate	1
-(	6
-{	2
-relevant	1
-features	1
-probability	1
-into	1
-within	1
-number	2
-simplified	1
-refined	1
-rounds	2
-unit	1
-rely	1
-from	2
-silent	1
-WTA	4
-.	11
-way	1
-:	1
-abstract	1
-more	1
-corresponding	2
-that	2
-outputs	2
-naive	1
-but	1
-construction	1
-understand	1
-stochastic	1
-convergence	2
-line	1
-with	5
-capturing	1
-must	1
-this	2
-bounds	1
-us	2
-n	5
-aim	1
-while	2
-behavior	1
-Our	2
-problem	2
-gives	1
-study	1
-election	1
-and	8
-computing	1
-is	3
-1/\theta	2
-it	1
-an	1
-single	2
-neurons	3
-in	7
-\log\log	1
-any	2
-these	1
-constructions	1
-develop	1
-locality	1
-)	6
-make	1
-Neural	1
-how	1
-other	1
-arguments	1
-which	3
-suppress	1
-converged	1
-towards	1
-our	1
-time	2
-expectation	1
-important	1
-uses	1
-such	1
-model	2
-structure	1
-inhibitory	1
-a	14
-lower	2
-attempt	1
-'	2
-neural	4
-drive	1
-An	1
-complexity	1
-In	1
-the	8
-}	2
+all,3
+just,1
+show,1
+focus,1
+converge,1
+ge,1
+paper,1
+through,1
+computation,2
+alternative,1
+networks,4
+We,5
+derive,1
+conclusions,2
+interesting,2
+winner,3
+distributed,2
+to,7
+lets,1
+stochastic,1
+analogous,1
+main,1
+arguments,1
+real,1
+good,1
+familiar,1
+possible,1
+bound,2
+tradeoffs,1
+inhibition,2
+nearly,1
+competing,1
+not,1
+using,1
+randomness,1
+level,1
+outperform,1
+leader,1
+circuits,1
+activity,1
+output,2
+upper,1
+significantly,1
+plausible,1
+fires,1
+used,1
+perspective,1
+our,1
+indistinguishability,1
+spiking,1
+matching,1
+solving,2
+network,6
+for,4
+affects,1
+remain,1
+inhibitors,4
+state,2
+investigation,1
+use,2
+between,1
+theta,5
+consisting,1
+compliment,1
+we,1
+algorithmic,1
+theory,1
+preserves,1
+O,4
+biological,1
+log,4
+on,2
+about,1
+technical,1
+of,8
+biologically,2
+firing,2
+allows,1
+initiate,1
+contribution,1
+relevant,1
+features,1
+probability,1
+into,1
+within,1
+number,2
+simplified,1
+refined,1
+rounds,2
+unit,1
+rely,1
+from,2
+silent,1
+WTA,4
+way,1
+It,1
+abstract,1
+more,1
+corresponding,2
+that,2
+outputs,2
+naive,1
+but,1
+construction,1
+understand,1
+input,2
+convergence,2
+line,1
+with,5
+capturing,1
+must,1
+this,2
+bounds,1
+us,2
+n,5
+aim,1
+while,2
+behavior,1
+Our,2
+problem,2
+gives,1
+study,1
+election,1
+and,8
+computing,1
+is,3
+it,1
+an,1
+high,1
+single,2
+neurons,3
+in,7
+any,2
+these,1
+constructions,1
+develop,1
+locality,1
+make,1
+Neural,1
+how,1
+other,1
+take,1
+which,3
+suppress,1
+converged,1
+towards,1
+time,2
+expectation,1
+important,1
+uses,1
+such,1
+model,2
+structure,1
+inhibitory,1
+a,14
+lower,2
+attempt,1
+neural,4
+drive,1
+An,1
+complexity,1
+In,1
+the,8

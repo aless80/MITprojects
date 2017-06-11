@@ -1,129 +1,125 @@
-
-results	1
-efficient	1
-lasers	5
-data	1
-We	1
-based	1
-parameters	1
-absorption	6
-cavity	1
-sensitizer	1
-,	11
-Here	1
-to	4
-factor	1
-sensitized	1
-has	1
-maximal	1
-High-quality	1
-framework	1
-laser	2
-incoherent	1
-free-space	1
-agreement	1
-found	1
-optics	1
-lifted	1
-energy	2
-modified	1
-full	1
-design	1
-are	3
-wavelength	1
-for	3
-broadband	1
-However	1
-pump	3
-between	2
-compute	1
-net	1
-method	1
-contrast	1
-we	1
-non-linear	1
-linear	1
-pumping	1
-self-absorption	1
-desired	1
-key	1
-solar-pumped	4
-Recently	1
-equations	1
-by	1
-on	2
-limitation	1
-of	7
-enabling	1
-non-resonant	1
-converging	1
-exhibit	1
-communication	1
-Nd	1
-modulated	1
-modeling	1
-apply	1
-quality	1
-conventional	1
-paves	1
-transfer	2
-fast	1
-.	9
-low	2
-way	1
-micro-lasers	4
-:	1
-was	1
-theoretical	2
-therefore	1
-that	1
-emission	1
-gain	2
-solar	1
-YAG	1
-with	2
-present	1
-high-quality	2
-this	2
-work	1
-low-threshold	2
-value	1
-broadband-pumped	1
-record	1
-below	1
-Our	2
-interplay	1
-and	12
-modularizes	1
-is	6
-at	1
-in	3
-concentration	1
-formalism	1
-defines	1
-compared	1
-ingredients	1
-generic	1
-media	1
-Numerical	1
-radiation	2
-which	3
-optimal	3
-such	2
-components	1
-models	1
-robust	1
-revealed	1
-the	11
-a	2
-light	1
-It	1
-cascade	2
-complexity	1
-negligible	1
-experimental	1
-sensitizing	1
-quantitative	1
-model	1
-operate	1
-sensing	1
+results,1
+efficient,1
+lasers,9
+threshold,2
+data,1
+We,1
+based,1
+parameters,1
+absorption,7
+cavity,1
+sensitizer,1
+Here,1
+to,4
+factor,1
+sensitized,1
+has,1
+maximal,1
+non,2
+framework,1
+resonant,1
+compute,1
+incoherent,1
+micro,4
+found,1
+optics,1
+lifted,1
+energy,2
+design,1
+are,3
+wavelength,1
+for,3
+space,1
+broadband,2
+However,1
+pump,3
+between,2
+net,1
+method,1
+contrast,1
+we,1
+full,1
+linear,2
+pumping,1
+free,1
+agreement,1
+desired,1
+key,1
+Recently,1
+equations,1
+by,1
+on,2
+limitation,1
+of,7
+enabling,1
+experimental,1
+converging,1
+exhibit,1
+communication,1
+Nd,1
+modulated,1
+modeling,1
+apply,1
+quality,4
+conventional,1
+paves,1
+transfer,2
+fast,1
+low,4
+way,1
+was,1
+theoretical,2
+therefore,1
+that,1
+emission,1
+gain,2
+solar,5
+YAG,1
+with,2
+present,1
+laser,2
+this,2
+work,1
+modified,1
+value,1
+record,1
+below,1
+pumped,5
+Our,2
+interplay,1
+and,12
+modularizes,1
+is,6
+high,2
+at,1
+in,3
+concentration,1
+formalism,1
+defines,1
+compared,1
+ingredients,1
+generic,1
+media,1
+self,1
+Numerical,1
+radiation,2
+which,3
+optimal,3
+such,2
+components,1
+models,1
+robust,1
+revealed,1
+the,11
+a,2
+light,1
+It,1
+High,1
+cascade,2
+complexity,1
+negligible,1
+sensitizing,1
+quantitative,1
+model,1
+operate,1
+sensing,1

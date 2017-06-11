@@ -1,187 +1,168 @@
-
-precise	1
-consider	1
-less	1
-both	1
-results	1
-obtains	1
-via	2
-computation	3
-yet	1
-row	1
-We	5
-based	1
-$	42
-(	4
-solving	1
-distributed	2
-,	12
-to	5
-grow	1
-has	1
-local	1
-<	1
-real	1
-random	2
-motivated	1
-rules	2
-updates	1
-drawn	1
-not	1
-matrices	1
-\rho	1
-\tilde	2
-d	2
-solution	2
-Gx	1
-large	1
-underlying	1
-sparse	1
-each	1
-small	2
-x	2
-path	1
-where	3
-|	1
-weighted	1
-neighborhood	1
-additive	1
-series	1
-some	1
-global	1
-rate	1
-frequency	1
-radius	1
-result	1
-our	2
-spectral	1
-matrix	2
-for	4
-+	1
-definite	1
-access	1
-does	1
-shared	1
-linear	1
-G	6
-This	2
-equivalent	1
-component	2
-residual	1
-O	2
-deterministic	1
-depend	1
-\in	1
-equations	1
-by	2
-_	1
-on	3
-applications	1
-of	12
-context	1
-graph	2
-1-\|G\|_2	1
-{	5
-\|x\|_2	1
-tasks	3
-regardless	1
-|G_	1
-computes	1
-characterization	1
-into	1
-within	1
-x_i	3
-analyzing	2
-robust	1
-respect	1
-quickly	1
-approximating	1
-cloud	1
-size	1
-from	2
-asymptotic	1
-prove	2
-positive	1
-system	2
-specifically	1
-.	11
-reduction	1
-too	1
-analyze	1
-\epsilon	1
-opposed	1
-function	1
-a	8
-that	3
-R	1
-convergence	2
-with	2
-than	1
-present	1
-approximation	1
-b	2
-Neumann	1
-bounds	2
-n	2
-cost	1
-can	1
-Our	3
-entries	1
-z	2
-1/	1
-are	3
-and	6
-vector	1
-constant	1
-\mathbb	1
-e.g.	1
-is	9
-walks	1
-an	2
-single	1
-ij	2
-asynchronous	1
-performed	3
-file	1
-in	6
-concentration	1
-counting	1
-distributions	1
-any	1
-as	4
-if	1
-processors	1
-)	4
-when	2
-1	4
-dependent	1
-setting	1
-split	1
-which	6
-=	5
-A	1
-nonzero	1
-product	1
-derived	1
-update	5
-most	1
-significant	1
-such	1
-The	1
-probabilistic	2
-the	17
-structure	1
-relies	1
-algorithm	6
-requires	1
-well	1
-analysis	1
-provide	2
-edge	1
-^n	1
-time	2
-at	1
-Ax	1
-model	1
-}	5
-order	2
+precise,1
+consider,1
+less,1
+both,1
+results,1
+obtains,1
+via,2
+computation,3
+tilde,2
+yet,1
+row,1
+We,5
+based,1
+graph,2
+solving,1
+distributed,2
+to,5
+has,1
+local,1
+real,1
+random,2
+motivated,1
+rules,2
+updates,1
+drawn,1
+not,1
+matrices,1
+d,2
+solution,2
+Gx,1
+large,1
+underlying,1
+sparse,1
+each,1
+small,2
+x,6
+path,1
+where,3
+weighted,1
+neighborhood,1
+additive,1
+series,1
+some,1
+global,1
+rate,1
+frequency,1
+radius,1
+result,1
+our,2
+spectral,1
+matrix,2
+for,4
+definite,1
+access,1
+does,1
+shared,1
+linear,1
+G,8
+This,2
+equivalent,1
+component,2
+residual,1
+O,2
+deterministic,1
+depend,1
+approximating,1
+equations,1
+by,2
+on,3
+g,1
+applications,1
+of,12
+context,1
+mathbb,1
+tasks,3
+regardless,1
+significant,1
+computes,1
+characterization,1
+into,1
+within,1
+analyzing,2
+robust,1
+respect,1
+quickly,1
+cloud,1
+size,1
+from,2
+asymptotic,1
+prove,2
+positive,1
+system,2
+specifically,1
+grow,1
+reduction,1
+too,1
+analyze,1
+opposed,1
+function,1
+a,8
+that,3
+epsilon,1
+R,1
+convergence,2
+with,2
+than,1
+present,1
+approximation,1
+b,2
+Neumann,1
+bounds,2
+n,3
+cost,1
+can,1
+Our,3
+entries,1
+z,2
+are,3
+and,6
+vector,1
+constant,1
+is,9
+walks,1
+an,2
+single,1
+ij,2
+asynchronous,1
+performed,3
+file,1
+in,7
+concentration,1
+counting,1
+distributions,1
+any,1
+as,4
+if,1
+processors,1
+provide,2
+when,2
+dependent,1
+setting,1
+split,1
+which,6
+A,1
+nonzero,1
+product,1
+derived,1
+update,5
+most,1
+rho,1
+such,1
+The,1
+probabilistic,2
+the,17
+structure,1
+relies,1
+e,1
+algorithm,6
+i,3
+well,1
+analysis,1
+edge,1
+time,2
+at,1
+Ax,1
+model,1
+requires,1
+order,2

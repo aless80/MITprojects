@@ -1,143 +1,128 @@
-
-distances	1
-protocol	1
-over	1
-amplifier	1
-existing	1
-bandwidth	1
-2013	1
-Opt	1
-~500-fold	1
-21	1
-(	7
-photons	2
-,	6
-than	1
-to	7
-low-loss	1
-~50-fold	1
-2016	1
-achieve	1
-two-way	1
-Alice	2
-bit	1
-unique	1
-multiplexing	1
-loss	2
---	4
-collective	1
-dB	1
-50	1
-55	1
-source	1
-transmits	1
-achieved	1
-generation	1
-Rev	1
-SKE	1
-rate	4
-substantially	1
-by	1
-for	3
-broadband	1
-quantify	1
-per	3
-decoding	1
-experiment	1
-performs	1
-neither	1
-she	1
-be	1
-fiber	1
-FL-QKD	4
-This	1
-respectively	1
-equivalent	1
-photon-pair	1
-efficiency	1
-key	2
-from	1
-[	2
-high-gain	1
-Gbit/s	2
-many	1
-larger	1
-against	1
-propagation	1
-94	1
-receiver	1
-uses	1
-Floodlight	1
-Express	1
-secure	1
-into	1
-homodyne	1
-utilized	1
-improvements	1
-Bob	2
-use	1
-Phys	1
-area	1
-addition	1
-SKR	3
-system	1
-.	9
-sends	1
-rates	1
-bits	2
-that	3
-Eve	1
-optical	2
-injection	2
-with	1
-Essential	1
-protocols	1
-10	1
-012322	1
-quantum	1
-representing	1
-second	1
-attacks	1
-can	2
-of	3
-Our	1
-distribution	1
-enables	1
-and	7
-metropolitan	1
-is	4
-proof-of-concept	1
-thus	1
-an	1
-duration	1
-as	1
-employs	1
-in	2
-100	1
-radically	1
-compared	1
-)	7
-QKD	2
-1	2
-which	1
-channel	2
-A	1
-Mbit/s	3
-used	1
-'s	3
-modulation	3
-different	1
-state-of-the-art	1
-secret-key	3
-included	1
-]	2
-a	8
-mitigate	1
-intrusion	1
-light	2
-24550-24565	1
-It	1
-km	1
-without	1
-the	4
-paradigm	1
+distances,1
+concept,1
+protocol,1
+over,1
+amplifier,1
+existing,1
+bandwidth,1
+Opt,1
+representing,1
+photons,2
+than,1
+to,7
+achieve,1
+Alice,2
+bit,1
+unique,1
+multiplexing,1
+loss,3
+collective,1
+dB,1
+she,1
+art,1
+achieved,1
+generation,1
+Rev,1
+SKE,1
+fold,2
+rate,4
+Gbit,2
+duration,1
+for,3
+broadband,1
+quantify,1
+per,3
+decoding,1
+state,1
+experiment,1
+performs,1
+neither,1
+be,1
+fiber,1
+This,1
+respectively,1
+equivalent,1
+efficiency,1
+key,5
+from,1
+Bob,2
+by,1
+attacks,1
+many,1
+larger,1
+against,1
+propagation,1
+s,8
+receiver,1
+Floodlight,1
+Express,1
+secure,1
+into,1
+homodyne,1
+system,1
+included,1
+utilized,1
+improvements,1
+FL,4
+use,1
+Phys,1
+area,1
+addition,1
+SKR,3
+two,1
+sends,1
+secret,3
+rates,1
+low,1
+way,1
+bits,2
+Mbit,3
+that,3
+photon,1
+Eve,1
+optical,2
+gain,1
+injection,2
+with,1
+Essential,1
+protocols,1
+transmits,1
+second,1
+can,2
+of,5
+Our,1
+distribution,1
+enables,1
+proof,1
+and,7
+metropolitan,1
+is,4
+thus,1
+an,1
+high,1
+quantum,1
+as,1
+employs,1
+in,2
+radically,1
+compared,1
+QKD,6
+which,1
+channel,2
+A,1
+used,1
+modulation,3
+different,1
+uses,1
+pair,1
+source,1
+a,8
+mitigate,1
+intrusion,1
+light,2
+substantially,1
+It,1
+km,1
+without,1
+the,5
+paradigm,1

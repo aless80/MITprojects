@@ -1,96 +1,90 @@
-
-_ext	1
-_par	1
-210	1
-fabricated	1
-valuable	1
-before	1
-22	1
-(	6
-delays	1
-,	11
-GHz	2
-to	2
-RF	1
-de-embedding	1
-into	1
-scaling	1
-capacitances	2
-substrate	1
-parasitic	2
-\tau	3
-transistors	1
-For	1
-frequency	1
-are	1
-for	1
-current	1
-provides	1
-new	1
-be	1
-we	1
-sapphire	1
-estimate	1
-obtained	2
-on	1
-_int	1
-of	6
-allows	1
-length	1
-carrier	2
-{	3
-experimental	1
-transit	1
-directly	1
-total	1
-from	2
-addition	1
-intrinsic	3
-extrinsic	2
-field-effect	1
-.	5
-extraction	2
-way	1
-analyze	1
-structures	1
-is	1
-optimizing	1
-offer	1
-gain	1
-with	1
-this	1
-18	1
-while	1
-can	1
-behavior	1
-ex	2
-and	7
-graphene	1
-at	1
-GFETs	3
-in	1
-information	1
-nm	1
-)	6
-Cgd	3
-delay	3
-internal	1
-gate	2
-Cgs	3
-breakdown	1
-after	1
-letter	1
-wafer-scale	1
-device	1
-The	1
-cut-off	1
-data	1
-a	4
-fT	1
-i	2
-components	1
-In	2
-velocity	1
-the	11
-}	3
-external	1
+fabricated,1
+valuable,1
+before,1
+cut,1
+delays,1
+GHz,2
+to,2
+RF,1
+into,1
+de,1
+scaling,1
+capacitances,2
+substrate,1
+parasitic,2
+transistors,1
+For,1
+frequency,1
+are,1
+scale,1
+for,1
+current,1
+provides,1
+new,1
+be,1
+we,1
+sapphire,1
+estimate,1
+obtained,2
+on,1
+of,6
+allows,1
+length,1
+carrier,2
+embedding,1
+experimental,1
+transit,1
+directly,1
+total,1
+from,2
+addition,1
+intrinsic,3
+extrinsic,2
+extraction,2
+way,1
+analyze,1
+structures,1
+is,1
+optimizing,1
+offer,1
+gain,1
+off,1
+with,1
+this,1
+while,1
+can,1
+behavior,1
+ex,2
+and,7
+tau,3
+int,1
+graphene,1
+at,1
+GFETs,3
+in,1
+information,1
+par,1
+nm,1
+Cgd,3
+delay,3
+field,1
+internal,1
+gate,2
+Cgs,3
+breakdown,1
+after,1
+effect,1
+letter,1
+device,1
+The,1
+data,1
+a,4
+fT,1
+wafer,1
+i,2
+ext,1
+components,1
+In,2
+velocity,1
+the,11
+external,1

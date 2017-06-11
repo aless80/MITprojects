@@ -1,95 +1,80 @@
-
-consider	1
-show	1
-over	1
-results	1
-non-zero	1
-We	3
-(	8
-,	6
-signals	1
-to	2
-samples	1
-input	2
-has	1
-achieve	1
-Both	1
-showing	1
-k-sparse	2
-sampling	1
-Also	1
-signal	4
-discrete	1
-sparse	1
-where	1
-n/k	2
-Fast	2
-approximation	1
-are	1
-our	1
-\Omega	2
-even	1
-for	6
-/	1
-adaptive	1
-satisfy	1
-algorithmic	1
-complement	1
-O	2
-by	1
-improve	1
-of	3
-k	6
-o	2
-{	1
-first	1
-Transform	2
-one	1
-randomized	2
-use	1
-log	7
-*	2
-transform	2
-least	1
-.	6
-:	1
-assumes	1
-that	3
-exactly	1
--time	2
-known	1
-general	2
-coefficients	1
-must	1
-case	2
-this	1
-n	6
-problem	1
-property	1
-and	2
-computing	2
-is	3
-thus	1
-it	1
-an	1
-at	2
-n^	1
-allowed	1
-any	3
-if	2
-)	8
-1	1
-They	1
-optimal	2
-=	2
-n-dimensional	1
-most	1
-Fourier	5
-a	1
-algorithm	4
-An	2
-perform	1
-algorithms	2
-time	1
-the	11
-}	1
+and,2
+consider,1
+computing,2
+over,1
+thus,1
+Transform,2
+Fast,2
+an,1
+dimensional,1
+randomized,2
+zero,1
+at,2
+allowed,1
+our,1
+An,2
+any,3
+if,2
+one,1
+We,3
+log,7
+for,6
+perform,1
+show,1
+sampling,1
+transform,2
+least,1
+by,1
+signals,1
+to,2
+must,1
+algorithmic,1
+They,1
+it,1
+input,2
+adaptive,1
+has,1
+Omega,2
+is,3
+achieve,1
+satisfy,1
+Both,1
+non,1
+general,2
+samples,1
+that,3
+even,1
+complement,1
+exactly,1
+use,1
+O,2
+results,1
+most,1
+a,1
+optimal,2
+known,1
+Fourier,5
+problem,1
+coefficients,1
+improve,1
+case,2
+approximation,1
+property,1
+showing,1
+algorithm,4
+Also,1
+this,1
+of,3
+k,10
+o,2
+n,10
+discrete,1
+algorithms,2
+assumes,1
+sparse,3
+time,3
+the,11
+first,1
+where,1
+signal,4
+are,1

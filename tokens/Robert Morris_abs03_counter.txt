@@ -1,146 +1,133 @@
-
-represent	1
-all	1
-signatures	2
-over	1
-mission	1
-quarters	2
-statistical	1
-threshold	1
-transiting	3
-We	3
-ratio	1
-zone	1
-(	1
-,	6
-signals	3
-to	1
-population	1
-tests	1
-far	1
-results	1
-3402	1
-report	1
-strategic	1
-runs	1
-false-alarm	1
-signal	1
-identified	3
-fewer	1
-large	1
-detections	2
-yields	1
-small	1
-set	2
-periodicity	1
-detection	2
-rate	2
-full	1
-habitable	1
-are	2
-Interest	1
-specified	1
-targets	2
-adds	1
-for	7
-orbiting	1
-;	1
-be	1
-after	1
-Light	1
-stellar	1
-host	1
-excess	1
-by	1
-on	4
-search	5
-of	14
-against	2
-prior	1
-Kepler	3
-signature	1
-exceeds	1
-passing	1
-198,709	1
-grade	1
-17-quarter	1
-transit	9
-There	1
-primary	1
-one	1
-16,802	1
-total	2
-i.e.	1
-additional	2
-would	1
-Processing	1
-112,046	1
-least	1
-.	9
-their	1
-99.8	1
-stars	1
-criteria	1
-:	1
-Data	1
-final	2
-Pipeline	1
-that	2
-pipeline	1
-number	2
-removed	1
-with	1
-than	1
-present	1
-must	1
-observed	2
-iteratively	1
-high-quality	1
-17	2
-this	1
-was	1
-86,663	1
-well-established	1
-planet	4
-reliability	1
-three	2
-were	1
-and	3
-limb-darkened	1
-characteristics	1
-is	3
-statistic	1
-curves	1
-an	1
-high	1
-examine	1
-minimum	1
-at	1
-planets	2
-in	6
-17,230	1
-completeness	1
-recovery	2
-)	1
-signal-to-noise	1
-emphasis	2
-Objects	1
-which	3
-events	2
-A	1
-meets	1
-consistency	1
-includes	1
-weighed	1
-34,032	1
-fits	1
-%	1
-The	3
-comparison	1
-data	2
-the	11
-a	8
-implied	1
-searched	1
-model	2
-fitted	1
+represent,1
+all,1
+signatures,2
+over,1
+mission,1
+quarters,2
+statistical,1
+threshold,1
+transiting,3
+We,3
+ratio,1
+zone,1
+signals,3
+to,2
+population,1
+tests,1
+far,1
+results,1
+report,1
+strategic,1
+runs,1
+signal,2
+identified,3
+fewer,1
+large,1
+detections,2
+yields,1
+small,1
+quarter,1
+set,2
+periodicity,1
+detection,2
+rate,2
+noise,1
+habitable,1
+are,2
+Interest,1
+specified,1
+targets,2
+established,1
+adds,1
+for,7
+consistency,1
+orbiting,1
+be,1
+full,1
+Light,1
+stellar,1
+host,1
+excess,1
+by,1
+on,4
+search,5
+of,14
+against,2
+prior,1
+Kepler,3
+signature,1
+exceeds,1
+passing,1
+grade,1
+transit,9
+There,1
+primary,1
+one,1
+limb,1
+total,2
+quality,1
+additional,2
+would,1
+Processing,1
+three,2
+least,1
+their,1
+stars,1
+criteria,1
+iteratively,1
+Data,1
+final,2
+Pipeline,1
+that,2
+pipeline,1
+number,2
+removed,1
+with,1
+than,1
+present,1
+must,1
+observed,2
+this,1
+was,1
+planet,4
+reliability,1
+were,1
+and,3
+false,1
+characteristics,1
+is,3
+statistic,1
+curves,1
+an,1
+high,2
+examine,1
+minimum,1
+at,1
+planets,2
+in,6
+completeness,1
+recovery,2
+emphasis,2
+Objects,1
+which,3
+events,2
+A,1
+meets,1
+after,1
+includes,1
+weighed,1
+fits,1
+The,3
+comparison,1
+data,2
+the,11
+a,8
+e,1
+i,1
+alarm,1
+well,1
+darkened,1
+implied,1
+searched,1
+model,2
+fitted,1

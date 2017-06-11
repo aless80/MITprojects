@@ -1,152 +1,150 @@
-
-operations	1
-all	1
-code	2
-words	1
-chain	3
-show	2
-global	1
-performance	2
-paper	1
-relation	1
-We	2
-but	1
-knowledge	1
-,	14
-closely	1
-to	4
-only	2
-other	1
-capturing	1
-under	2
-stochastic	2
-has	1
-Unfortunately	1
-get	1
-very	1
-prefer	1
-practice	1
-While	1
-ones	1
-worst	1
-they	2
-instead	1
-not	2
-using	1
-processes	1
-always	3
-per-process	1
-solution	1
-large	1
-steps	2
-found	1
-subset	1
-our	1
-some	1
-individual	1
-are	3
-relates	1
-operation	2
-best	1
-for	2
-behave	1
-designing	2
-progress	5
-conditions	2
-be	1
-terms	1
-theory	1
-This	1
-commercial	2
-free	1
-if	2
-wait-free	7
-adversary	1
-between	1
-simpler	1
-on	1
-most	1
-of	11
-keep	1
-suggests	1
-resulting	1
-contribution	1
-Yet	1
-first	1
-probability	1
-simple	2
-obtaining	1
-number	2
-community	1
-system	2
-analyzing	1
-asymptotic	1
-guaranteeing	1
-approximate	1
-been	1
-.	11
-their	1
-treat	1
-way	1
-expected	1
-analyze	1
-until	1
-that	5
-Lock-free	1
-new	1
-an	1
-with	2
-completes	1
-those	1
-case	1
-main	1
-this	2
-will	2
-can	2
-behavior	1
-were	1
-Our	2
-problem	1
-and	3
-model	1
-stated	1
-is	4
-scheduler	1
-it	1
-general	2
-hardware	1
-To	1
-as	2
-in	7
-scheduling	1
-guarantee	1
-goal	1
-efficient	2
-make	2
-generally	1
-1	1
-complex	3
-which	1
-long-time	1
-finite	1
-programmers	2
-lock-	1
-concurrent	3
-bounded	1
-architectures	1
-Markov	1
-class	2
-lifting	1
-non-blocking	1
-a	13
-task	1
-attempt	1
-average	1
-required	1
-lock-free	6
-analysis	1
-algorithms	10
-In	1
-the	8
-typically	1
-fact	1
+operations,1
+all,1
+code,2
+they,2
+chain,3
+show,2
+global,1
+performance,2
+paper,1
+relation,1
+We,2
+knowledge,1
+completes,1
+closely,1
+to,4
+only,2
+other,1
+capturing,1
+under,2
+stochastic,2
+has,1
+non,1
+Unfortunately,1
+get,1
+very,1
+prefer,1
+practice,1
+While,1
+ones,1
+worst,1
+words,1
+new,1
+not,2
+using,1
+processes,1
+always,3
+solution,1
+large,1
+steps,2
+found,1
+subset,1
+our,1
+some,1
+individual,1
+are,3
+relates,1
+operation,2
+best,1
+for,2
+analyze,1
+per,1
+behave,1
+designing,2
+progress,5
+conditions,2
+be,1
+terms,1
+theory,1
+This,1
+commercial,2
+free,15
+if,2
+adversary,1
+between,1
+wait,7
+on,1
+concurrent,3
+of,11
+keep,1
+suggests,1
+resulting,1
+contribution,1
+Yet,1
+first,1
+probability,1
+simple,2
+obtaining,1
+number,2
+community,1
+system,2
+analyzing,1
+been,1
+asymptotic,1
+guaranteeing,1
+approximate,1
+long,1
+their,1
+treat,1
+way,1
+expected,1
+simpler,1
+until,1
+that,5
+but,1
+an,1
+with,2
+blocking,1
+those,1
+case,1
+main,1
+this,2
+will,2
+can,2
+behavior,1
+were,1
+Our,2
+problem,1
+and,3
+model,1
+stated,1
+process,1
+lock,7
+is,4
+scheduler,1
+it,1
+general,2
+hardware,1
+To,1
+as,2
+in,7
+scheduling,1
+guarantee,1
+goal,1
+efficient,2
+make,2
+generally,1
+complex,3
+which,1
+instead,1
+finite,1
+programmers,2
+In,1
+most,1
+bounded,1
+architectures,1
+Markov,1
+class,2
+lifting,1
+a,13
+task,1
+attempt,1
+Lock,1
+average,1
+required,1
+analysis,1
+algorithms,10
+time,1
+the,8
+typically,1
+fact,1

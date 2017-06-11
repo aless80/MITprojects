@@ -1,119 +1,117 @@
-
-code	1
-over	1
-paper	1
-per	1
-computation	1
-differentiation	1
-its	1
-ground	1
-We	2
-regarded	1
-solving	1
-,	6
-to	7
-achieve	1
-performance	1
-like	1
-In	1
-large	1
-magnitude	1
-common	1
-truth	1
-where	1
-vision	4
-mean	1
-mathematical	1
-computed	2
-intelligence	1
-comparable	1
-second	1
-are	2
-for	3
-synthetically	1
-Package	1
-squared	1
-artificial	1
-critical	1
-various	1
-tens	1
-integrated	1
-be	3
-we	1
-packaged	1
-hundreds	1
-explore	1
-convolutions	3
-on	2
-language	1
-package	1
-of	3
-allows	1
-according	1
-against	1
-tasks	1
-convolution	1
-into	1
-Their	1
-decrease	1
-long	1
-assessed	1
-allocated	1
-from	1
-data	1
-been	1
-.	8
-scenarios	1
-their	1
-Convolutions	1
-memory	1
-kilobytes	1
-efficacy	1
-real-time	1
-present	1
-must	1
-applied	1
-compute	1
-this	1
-official	1
-engineering	1
-quantitatively	1
-error	1
-continuously	1
-demonstrate	1
-problem	1
-and	6
-videos	1
-computing	1
-Efficient	1
-is	2
-an	2
-high	1
-as	2
-have	1
-in	6
-Manager	1
-elegance	1
-machine	4
-how	1
-other	1
-mathematics	1
-used	2
-n-dimensional	1
-numerical	1
-applications	3
-generated	1
-such	1
-measured	1
-efficiently	2
-All	1
-sets	1
-Results	1
-Julia	2
-accelerated	1
-contact	1
-fundamental	2
-time	2
-the	4
-physics	1
-order	1
+code,1
+over,1
+paper,1
+per,1
+computation,1
+differentiation,1
+its,1
+ground,1
+We,2
+regarded,1
+solving,1
+to,7
+achieve,1
+real,1
+performance,1
+like,1
+In,1
+large,1
+magnitude,1
+common,1
+truth,1
+where,1
+vision,4
+mean,1
+mathematical,1
+computed,2
+intelligence,1
+comparable,1
+second,1
+are,2
+for,3
+synthetically,1
+squared,1
+artificial,1
+critical,1
+various,1
+tens,1
+integrated,1
+be,3
+we,1
+packaged,1
+hundreds,1
+explore,1
+convolutions,3
+on,2
+language,1
+package,1
+of,3
+allows,1
+according,1
+against,1
+tasks,1
+convolution,1
+into,1
+dimensional,1
+Their,1
+decrease,1
+long,1
+assessed,1
+allocated,1
+from,1
+data,1
+been,1
+scenarios,1
+their,1
+Convolutions,1
+memory,1
+kilobytes,1
+efficacy,1
+present,1
+must,1
+applied,1
+compute,1
+this,1
+official,1
+as,2
+quantitatively,1
+n,1
+error,1
+continuously,1
+demonstrate,1
+problem,1
+and,6
+videos,1
+computing,1
+Efficient,1
+is,2
+an,2
+high,1
+engineering,1
+have,1
+in,6
+Manager,1
+elegance,1
+machine,4
+how,1
+other,1
+mathematics,1
+used,2
+Package,1
+numerical,1
+applications,3
+generated,1
+such,1
+measured,1
+efficiently,2
+All,1
+sets,1
+Results,1
+Julia,2
+accelerated,1
+contact,1
+fundamental,2
+time,3
+the,4
+physics,1
+order,1

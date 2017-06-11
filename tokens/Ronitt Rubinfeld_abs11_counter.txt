@@ -1,107 +1,97 @@
-
-all	1
-aforementioned	1
-obtain	3
-We	3
-$	12
-also	2
-graph	10
-,	12
-to	10
-k-1	1
-has	3
-local	8
-achieve	1
-then	1
-D	3
-2D	1
-reconstructors	1
-having	3
-list	2
-these	2
-testers	2
-where	1
-For	1
-testing	1
-some	1
-Except	1
-observed	1
-are	1
-our	1
-by	1
-matrix	2
-for	12
-access	2
-reconstruction	2
-between	1
-new	1
-Along	1
-method	1
-we	2
-extend	1
-This	1
-use	1
-provides	1
-i.e	1
-strong	1
-properties	4
-most	1
-of	8
-k	2
-allows	1
-tolerant	2
-connection	1
-(	3
-first	1
-diameter	4
-into	1
-one	1
-exploit	1
-given	2
-Brakerski	1
-.	9
-low	1
-way	1
--connectivity	3
-correction	1
-``	4
-that	2
-recursively	1
-adjacency	4
-corrected	3
-with	1
-present	1
-directed	1
-undirected	1
-this	2
-require	1
-us	1
-property	13
-and	5
-is	4
-an	2
-''	4
-as	1
-at	1
-in	2
-close	4
-if	1
-)	3
-acts	1
-instance	1
-which	3
-parameter	2
-A	1
-transforming	1
-parametrized	1
-connectivity	3
-the	19
-a	10
-algorithm	1
-roughly	1
-original	2
-graphs	2
-reconstructor	5
-oracle	4
-model	1
-notion	1
+all,1
+aforementioned,1
+obtain,3
+We,3
+also,2
+graph,10
+to,10
+has,3
+local,8
+achieve,1
+then,1
+D,4
+reconstructors,1
+reconstruction,2
+having,3
+list,2
+these,2
+testers,2
+where,1
+For,1
+testing,1
+some,1
+Except,1
+observed,1
+are,1
+our,1
+matrix,2
+for,12
+access,2
+provides,1
+between,1
+new,1
+Along,1
+method,1
+we,2
+extend,1
+This,1
+use,1
+strong,1
+by,1
+most,1
+of,8
+k,3
+allows,1
+tolerant,2
+connection,1
+first,1
+diameter,4
+into,1
+one,1
+exploit,1
+given,2
+Brakerski,1
+properties,4
+low,1
+way,1
+correction,1
+that,2
+recursively,1
+adjacency,4
+corrected,3
+with,1
+present,1
+directed,1
+undirected,1
+this,2
+require,1
+us,1
+property,13
+and,5
+is,4
+an,2
+as,1
+at,1
+in,2
+close,4
+if,1
+acts,1
+instance,1
+which,3
+parameter,2
+A,1
+transforming,1
+parametrized,1
+connectivity,6
+the,19
+a,10
+e,1
+algorithm,1
+i,1
+roughly,1
+original,2
+graphs,2
+reconstructor,5
+oracle,4
+model,1
+notion,1

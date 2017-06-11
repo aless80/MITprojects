@@ -1,129 +1,109 @@
-
--regular	1
-1+o	1
-consider	1
-show	2
-results	1
-bounded-degree	1
-We	2
-$	32
-graph	4
-,	3
-should	1
-0	1
-only	1
-belongs	1
-inspecting	1
-main	1
-local	2
-then	1
-above	1
-famous	1
-every	2
-Can	1
-decide	1
-using	1
-1+\epsilon	1
-prespecified	1
-like	1
-whether	1
-t	4
-sparse	1
-where	1
-requirement	1
-consistent	1
-deterministically	1
-are	1
-inspections	1
-even	1
-for	2
-analyze	1
-decision	1
-minimum-weight	1
-3	1
-version	1
-Let	1
-\log	2
-consisting	1
-?	1
-be	3
-we	4
-theory	1
-G	8
-expansion	3
-by	2
-Constructing	1
-of	11
-(	9
-{	3
-studies	1
-Given	1
-tasks	1
--vertex	2
-family	1
-number	1
-one	2
-Motivated	1
-would	1
-to	2
-construct	2
-.	8
-few	1
-2	1
-basic	1
-:	1
-\epsilon	1
->	1
-``	1
-subgraph	5
-that	2
-with	1
-^	2
-high	1
-has	2
-this	4
-tree	2
-n	1
-can	1
-following	1
-Our	1
-problem	1
-1/	2
-girth	1
-constant	2
-is	2
-an	1
-''	1
-To	2
-performed	1
-1-o	1
-in	4
-sharp	1
-spanning	3
-if	1
-different	1
-end	2
-)	9
-when	1
-same	1
-1	3
-randomization	1
-which	1
-several	1
-variant	1
-most	1
-edges	3
-connected	2
-allowing	1
-recent	1
-a	10
-task	1
-e	2
-'	3
-algorithm	1
-graphs	1
-edge	1
-algorithms	1
-the	5
-}	3
-\em	1
+consider,1
+show,2
+results,1
+We,2
+graph,4
+should,1
+to,2
+only,1
+belongs,1
+inspecting,1
+main,1
+local,2
+then,1
+famous,1
+every,2
+Can,1
+decide,1
+using,1
+prespecified,1
+like,1
+whether,1
+t,4
+sparse,1
+where,1
+em,1
+requirement,1
+weight,1
+consistent,1
+deterministically,1
+are,1
+inspections,1
+even,1
+G,8
+for,2
+decision,1
+version,1
+Let,1
+above,1
+consisting,1
+be,3
+we,4
+theory,1
+degree,1
+vertex,2
+expansion,3
+by,2
+Constructing,1
+of,11
+o,2
+regular,1
+bounded,1
+studies,1
+Given,1
+tasks,1
+family,1
+number,1
+one,2
+Motivated,1
+log,2
+would,1
+construct,2
+few,1
+basic,1
+analyze,1
+subgraph,5
+that,2
+epsilon,2
+with,1
+has,2
+this,4
+tree,2
+n,1
+can,1
+following,1
+Our,1
+problem,1
+girth,1
+constant,2
+is,2
+an,1
+high,1
+To,2
+minimum,1
+performed,1
+in,4
+sharp,1
+spanning,3
+if,1
+different,1
+end,2
+when,1
+same,1
+randomization,1
+which,1
+several,1
+variant,1
+most,1
+edges,3
+connected,2
+allowing,1
+recent,1
+a,10
+task,1
+e,2
+algorithm,1
+graphs,1
+edge,1
+algorithms,1
+the,5

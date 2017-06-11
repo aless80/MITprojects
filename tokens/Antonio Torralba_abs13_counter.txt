@@ -1,82 +1,80 @@
-
-and	1
-representation	2
-associated	2
-statistical	1
-often	1
-show	3
-predict	1
-train	1
-ambient	1
-comparable	1
-characteristic	1
-To	1
-as	1
-tasks	1
-video	1
-are	2
-learning	2
-in	1
-our	1
-sounds	2
-its	1
-recognition	1
-crashing	1
-Finally	1
-information	2
-We	2
-learns	2
-network	3
-for	1
-to	3
-,	7
-.	6
-unsupervised	1
-surroundings	1
-other	1
-evaluate	1
-finding	1
---	1
-several	1
-frame	1
-convolutional	1
-be	1
-we	3
-used	1
-conveys	2
-selective	1
-that	8
-models	1
-cars	1
-fast-moving	1
-methods	1
-process	1
-visual	1
-objects	3
-a	5
-waves	1
-supervisory	1
-The	1
-with	2
-is	1
-sound	3
-on	1
-about	2
-visualizations	1
-performance	1
-neural	1
-roar	1
-of	4
-signal	1
-work	1
-scenes	1
-through	2
-summary	1
-this	4
-units	1
-important	1
-can	1
-In	1
-demonstrate	1
-the	5
-state-of-the-art	1
+and,1
+representation,2
+associated,2
+statistical,1
+often,1
+show,3
+predict,1
+train,1
+ambient,1
+comparable,1
+characteristic,1
+To,1
+as,1
+tasks,1
+video,1
+are,2
+learning,2
+in,1
+our,1
+sounds,2
+its,1
+recognition,1
+crashing,1
+information,2
+We,2
+learns,2
+network,3
+for,1
+to,3
+art,1
+fast,1
+unsupervised,1
+surroundings,1
+state,1
+other,1
+evaluate,1
+finding,1
+performance,1
+several,1
+frame,1
+convolutional,1
+be,1
+we,3
+used,1
+conveys,2
+selective,1
+that,8
+models,1
+cars,1
+methods,1
+process,1
+visual,1
+objects,3
+moving,1
+a,5
+waves,1
+supervisory,1
+The,1
+with,2
+is,1
+sound,3
+on,1
+about,2
+visualizations,1
+Finally,1
+neural,1
+roar,1
+of,5
+signal,1
+work,1
+scenes,1
+through,2
+summary,1
+this,4
+units,1
+important,1
+can,1
+In,1
+demonstrate,1
+the,6

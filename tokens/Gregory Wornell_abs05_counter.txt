@@ -1,121 +1,116 @@
-
-less	1
-issued	1
-insight	1
-results	1
-adding	3
-We	1
-trade-off	1
-also	1
-(	2
-,	8
-to	4
-tail	2
-extends	1
-systems	1
-Using	1
-resources	1
-then	2
-good	1
-get	1
-early	1
-traffic	1
-they	1
-reduces	1
-concave	1
-arbitrary	1
-queues	1
-For	1
-dichotomy	1
-reduce	1
-achieves	1
-individual	1
-design	1
-result	1
-convex	1
-log-concave	1
-for	2
-increase	1
-waiting	1
-method	1
-variability	1
-we	2
-terms	1
-This	2
-queueing	1
-log-convex	1
-i.e	2
-earliest	1
-both	1
-log-concavity	1
-of	10
-creates	1
-fork-join	1
-helps	2
-load	1
-tasks	2
-probability	2
-number	1
-servers	2
-strategy	1
-latency-cost	1
-cloud	1
-log	2
-service	4
-due	1
-But	1
-.	11
-reduction	1
-gives	1
-an	3
-cost-efficient	1
-some	1
-understand	1
-copy	1
-assigning	1
-insights	1
-And	1
-these	1
-work	2
-maximum	1
-cost	2
-strategies	1
-distribution	3
-more	1
-are	1
-and	8
-compare	1
-computing	2
-is	6
-it	1
-general	2
-canceled	1
-as	2
-analysis	1
-in	6
-if	1
-latency	3
-different	1
-redundancy	7
-)	2
-that	2
-when	3
-delay	1
-how	1
-higher	2
-finish	1
-multiple	1
-combat	1
-may	1
-In	1
-generalizes	1
-response	1
-a	6
-task	3
-effective	2
-well	1
-redundant	2
-cancellation	1
-time	6
-the	10
-If	1
+less,1
+issued,1
+insight,1
+results,1
+trade,1
+adding,3
+We,1
+also,1
+to,4
+tail,2
+extends,1
+systems,1
+Using,1
+resources,1
+then,2
+good,1
+get,1
+early,1
+traffic,1
+they,1
+reduces,1
+concave,2
+arbitrary,1
+queues,1
+For,1
+dichotomy,1
+reduce,1
+achieves,1
+individual,1
+design,1
+result,1
+convex,2
+for,2
+increase,1
+waiting,1
+method,1
+variability,1
+we,2
+terms,1
+This,2
+queueing,1
+earliest,1
+both,1
+of,10
+creates,1
+helps,2
+load,1
+tasks,2
+probability,2
+number,1
+servers,2
+cloud,1
+log,5
+service,4
+due,1
+But,1
+strategy,1
+reduction,1
+gives,1
+fork,1
+an,3
+that,2
+some,1
+understand,1
+off,1
+copy,1
+assigning,1
+insights,1
+And,1
+join,1
+these,1
+work,2
+maximum,1
+cost,4
+strategies,1
+distribution,3
+more,1
+are,1
+and,8
+compare,1
+computing,2
+is,6
+it,1
+general,2
+canceled,1
+as,2
+analysis,1
+in,6
+if,1
+latency,4
+different,1
+redundancy,7
+efficient,1
+when,3
+delay,1
+how,1
+concavity,1
+higher,2
+finish,1
+multiple,1
+combat,1
+may,1
+In,1
+generalizes,1
+response,1
+a,6
+task,3
+e,2
+effective,2
+i,2
+well,1
+redundant,2
+cancellation,1
+time,6
+the,10
+If,1

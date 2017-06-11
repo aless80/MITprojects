@@ -1,51 +1,50 @@
-
-and	3
-strongly	1
-consider	1
-show	1
-is	1
-some	1
-involve	1
-randomized	1
-offer	1
-computing	1
-cases	1
-maximizes	1
-We	4
-for	2
-prove	1
-decision	1
-cumulative	1
-,	1
-.	4
-finally	1
-under	2
-policy	1
-performance	2
-finite	1
-can	1
-policies	1
-that	4
-measures	1
-NP-hard	2
-others	1
-Markov	1
-history-based	1
-exact	1
-improve	1
-a	2
-both	1
-processes	1
-constraint	1
-pseudopolynomial	1
-of	2
-approximation	1
-complexity	1
-algorithms	1
-either	1
-horizon	1
-variance	2
-the	5
-reward	2
-or	1
-mean	2
+and,3
+strongly,1
+consider,1
+show,1
+is,1
+hard,2
+some,1
+involve,1
+randomized,1
+offer,1
+computing,1
+cases,1
+maximizes,1
+We,4
+based,1
+for,2
+prove,1
+decision,1
+cumulative,1
+finally,1
+under,2
+policy,1
+performance,2
+finite,1
+can,1
+policies,1
+that,4
+measures,1
+NP,2
+others,1
+Markov,1
+exact,1
+improve,1
+a,2
+both,1
+processes,1
+constraint,1
+pseudopolynomial,1
+of,2
+approximation,1
+complexity,1
+history,1
+algorithms,1
+either,1
+horizon,1
+variance,2
+the,5
+reward,2
+or,1
+mean,2

@@ -1,50 +1,47 @@
-
-and	3
-precise	1
-emerging	1
-set	1
-addresses	1
-distances	1
-communication	1
-is	1
-promises	1
-an	1
-high	1
-bandwidth	1
-paper	1
-technology	1
-spectral	1
-large	1
-Ultra-wideband	1
-density	1
-)	1
-(	1
-system	1
-.	3
-platform	1
-rates	1
-prototype	1
-over	1
-available	1
-power	1
-that	1
-This	1
-drives	1
-wireless	1
-two	1
-using	1
-The	1
-unique	1
-data	1
-a	3
-challenges	2
-short	1
-constraint	1
-these	1
-of	2
-maximum	1
-discrete	1
-locationing	1
-transceivers	1
-UWB	2
-the	1
+and,3
+precise,1
+emerging,1
+set,1
+addresses,1
+distances,1
+communication,1
+is,1
+promises,1
+an,1
+high,1
+bandwidth,1
+paper,1
+wideband,1
+technology,1
+spectral,1
+large,1
+unique,1
+density,1
+system,1
+platform,1
+rates,1
+prototype,1
+over,1
+available,1
+power,1
+that,1
+This,1
+drives,1
+wireless,1
+two,1
+using,1
+The,1
+Ultra,1
+data,1
+a,3
+challenges,2
+short,1
+constraint,1
+these,1
+of,2
+maximum,1
+discrete,1
+locationing,1
+transceivers,1
+UWB,2
+the,1

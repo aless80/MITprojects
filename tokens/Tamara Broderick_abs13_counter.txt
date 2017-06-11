@@ -1,88 +1,82 @@
-
-accurate	1
-lack	1
-augments	1
-its	2
-We	2
-(	3
-point	1
-,	4
-to	2
-means	1
---	1
-across	1
-yields	1
-popular	1
-fixed	1
-the	4
-estimates	1
-approximation	1
-individual	1
-our	3
-theory	1
-for	4
-However	1
-Bayes	2
-approach	1
-method	3
-we	1
-linear	2
-deliver	1
-approximating	1
-by	2
-both	1
-about	1
-of	6
-uncertainty	2
-runtime	1
-major	1
-large-scale	1
-variables	4
-perturbing	1
-MFVB	4
-Variational	1
-estimate	1
-due	1
-fast	2
-.	6
-call	1
-variational	1
-families	2
-that	2
-Inspired	1
-covariance	2
-posterior	2
-underestimates	1
-known	1
-exponential	2
-this	1
-equation	1
-demonstrate	1
-and	3
-failing	1
-is	3
-it	1
-general	1
-Field	1
-in	1
-LRVB	1
-defines	1
-information	1
-develop	1
-)	3
-methodology	1
-accuracy	1
-simulated	1
-variable	1
-on	2
-data	2
-response	2
-Mean	1
-a	5
-sometimes	1
-well	1
-fixed-point	1
-severe	1
-sets	2
-model	3
-coherently	1
+and,3
+major,1
+sometimes,1
+point,2
+approximating,1
+is,3
+lack,1
+estimates,1
+it,1
+due,1
+approximation,1
+Field,1
+perturbing,1
+individual,1
+variable,1
+in,1
+augments,1
+MFVB,4
+LRVB,1
+Variational,1
+its,2
+defines,1
+information,1
+We,2
+scale,1
+develop,1
+both,1
+for,4
+estimate,1
+means,1
+However,1
+fast,2
+by,2
+to,2
+methodology,1
+call,1
+Bayes,2
+uncertainty,2
+variational,1
+approach,1
+method,3
+accuracy,1
+we,1
+families,2
+linear,2
+that,2
+our,3
+Inspired,1
+simulated,1
+deliver,1
+covariance,2
+posterior,2
+underestimates,1
+response,2
+known,1
+variables,4
+accurate,1
+general,1
+data,2
+model,3
+Mean,1
+a,5
+on,2
+about,1
+fixed,2
+exponential,2
+this,1
+of,6
+equation,1
+failing,1
+well,1
+across,1
+large,1
+severe,1
+yields,1
+theory,1
+sets,2
+popular,1
+demonstrate,1
+the,4
+runtime,1
+coherently,1

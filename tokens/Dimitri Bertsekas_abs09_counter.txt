@@ -1,119 +1,117 @@
-
-consider	1
-nonpositive	1
-converge	1
-Maitra	1
-known	1
-Borel	1
-transfinite	1
-yet	1
-issues	1
-We	4
-,	8
-to	4
-theorem	3
-policy	5
-stochastic	1
-motivated	2
-which	2
-number	1
-one-stage	3
-not	1
-condition	2
-spaces	1
-where	2
-upper	1
-bridging	1
-semicontinuous	1
-For	2
-our	1
-measurable	1
-zero	1
-cost	6
-are	2
-initialized	2
-stationary	1
-out	1
-by	3
-for	5
-Whittle	1
-difficulties	1
-above	1
-new	2
-circumvents	1
-method	4
-shows	1
-be	2
-we	1
-This	1
-undiscounted	2
-standard	1
-difficulty	1
-address	1
-universally	1
-carried	1
-of	8
-could	1
-allows	1
-nonnegative	3
-context	1
-mixed	2
-or	1
-and	9
-Sudderth	1
-iterations	1
-total	2
-establish	1
-use	2
-give	1
-.	10
-analyze	1
-'s	1
-function	5
-partly	2
-that	5
-convergence	4
-with	4
-present	1
-case	3
-showed	1
-this	1
-require	1
-iteration	9
-value	6
-can	2
-policies	2
-similar	1
-result	1
-control	1
-constant	1
-computing	1
-is	5
-it	2
-general	1
-manner	1
-have	1
-in	5
-when	1
-converges	1
-also	3
-measurability	1
-optimal	3
-difficult	1
-used	1
-multiple	1
-horizon	1
-models	3
-problems	2
-bounded	2
-infinite	1
-such	1
-The	2
-a	7
-lower	1
-discounted	1
-whenever	1
-It	1
-costs	3
-resembles	2
-the	16
+consider,1
+nonpositive,1
+converge,1
+Maitra,1
+known,1
+Borel,1
+transfinite,1
+yet,1
+issues,1
+We,4
+to,4
+theorem,3
+policy,5
+stochastic,1
+motivated,2
+which,2
+number,1
+not,1
+condition,2
+spaces,1
+where,2
+upper,1
+bridging,1
+semicontinuous,1
+For,2
+our,1
+measurable,1
+zero,1
+cost,6
+are,2
+initialized,2
+stationary,1
+out,1
+for,5
+Whittle,1
+difficulties,1
+above,1
+new,2
+circumvents,1
+method,4
+shows,1
+be,2
+we,1
+This,1
+undiscounted,2
+standard,1
+difficulty,1
+address,1
+universally,1
+stage,3
+carried,1
+of,8
+could,1
+allows,1
+nonnegative,3
+s,1
+context,1
+mixed,2
+or,1
+and,9
+Sudderth,1
+one,3
+iterations,1
+total,2
+establish,1
+use,2
+give,1
+by,3
+analyze,1
+function,5
+partly,2
+that,5
+convergence,4
+with,4
+present,1
+case,3
+showed,1
+this,1
+require,1
+iteration,9
+value,6
+can,2
+policies,2
+similar,1
+result,1
+control,1
+constant,1
+computing,1
+is,5
+it,2
+general,1
+manner,1
+have,1
+in,5
+when,1
+converges,1
+also,3
+measurability,1
+optimal,3
+difficult,1
+used,1
+multiple,1
+horizon,1
+models,3
+problems,2
+bounded,2
+infinite,1
+such,1
+The,2
+a,7
+lower,1
+discounted,1
+whenever,1
+It,1
+costs,3
+resembles,2
+the,16

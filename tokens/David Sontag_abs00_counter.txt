@@ -1,109 +1,105 @@
-
-all	2
-show	1
-both	1
-existing	1
-attempts	1
-aspect	1
-carefully	1
-follow	1
-its	1
-previous	1
-observational	3
-We	2
-latent	2
-(	1
-,	6
-to	3
-summarizing	1
-policy	1
-matches	1
-advances	1
-VAE	1
-methods	1
-effects	3
-not	1
-affect	1
-specific	1
-Learning	1
-significantly	1
-our	1
-direct	1
-individual	1
-measure	1
-patient	1
-makers	1
-even	1
-for	3
-space	1
-However	1
-access	1
-does	1
-method	2
-simultaneously	1
-importance	1
-focused	1
-based	1
-estimate	1
-noisy	1
-on	4
-state-of-the-art	1
-of	5
-study	1
-factors	1
-individual-level	1
-Autoencoders	1
-inference	1
-one	1
-robust	1
-Variational	1
-causal	4
-intervention	1
-from	2
-unknown	1
-there	1
-.	7
-more	1
-that	1
-modelling	1
-with	1
-than	1
-handling	1
-uncertain	1
-benchmarks	1
-growing	1
-Our	1
-problem	1
-outcome	1
-inferring	2
-and	4
-medication	1
-is	4
-measurement	1
-an	1
-as	1
-exist	1
-have	1
-in	1
-if	1
-)	1
-treatment	1
-build	1
-which	1
-A	1
-may	1
-effect	1
-most	2
-important	2
-designed	1
-variable	1
-such	1
-The	1
-proxies	2
-data	2
-structure	1
-recent	1
-a	2
-effective	1
-confounders	5
-the	7
+all,2
+show,1
+both,1
+existing,1
+attempts,1
+aspect,1
+carefully,1
+follow,1
+its,1
+previous,1
+observational,3
+We,2
+based,1
+to,3
+summarizing,1
+policy,1
+matches,1
+advances,1
+VAE,1
+methods,1
+effects,3
+not,1
+affect,1
+level,1
+specific,1
+Learning,1
+art,1
+significantly,1
+our,1
+direct,1
+individual,2
+measure,1
+patient,1
+makers,1
+even,1
+for,3
+space,1
+However,1
+access,1
+state,1
+does,1
+method,2
+simultaneously,1
+importance,1
+focused,1
+latent,2
+estimate,1
+noisy,1
+on,4
+of,6
+study,1
+factors,1
+Autoencoders,1
+inference,1
+one,1
+robust,1
+Variational,1
+causal,4
+intervention,1
+from,2
+unknown,1
+there,1
+more,1
+that,1
+modelling,1
+with,1
+than,1
+handling,1
+uncertain,1
+benchmarks,1
+growing,1
+Our,1
+problem,1
+outcome,1
+inferring,2
+and,4
+medication,1
+is,4
+measurement,1
+an,1
+as,1
+exist,1
+have,1
+in,1
+if,1
+treatment,1
+build,1
+which,1
+A,1
+may,1
+effect,1
+most,2
+important,2
+designed,1
+variable,1
+such,1
+The,1
+proxies,2
+data,2
+structure,1
+recent,1
+a,2
+effective,1
+confounders,5
+the,8

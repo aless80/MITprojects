@@ -1,121 +1,117 @@
-
-wavelengths	1
-pulsed	1
-desirable	1
-photonic	1
-filtering	1
-DCMs	1
-We	1
-DCM	2
-20	1
-$	2
-(	1
-technique	1
-,	5
-Spectrally	1
-to	2
-only	1
-phase-matching	1
-under	1
-customized	1
-downconversion	1
-biphotons	3
-incurs	1
-easily	1
-joint	1
-using	1
-loss	2
-Because	1
-Compared	1
-temperature-stabilized	1
-_4	1
-dB	2
-benefit	1
-equal-length	1
-significantly	1
-single-spatiotemporal-mode	1
-module	1
-achieves	1
-intensity	1
-2.8	1
-are	1
-insertion	2
-measurement	1
-quantum	2
-spectral	6
-for	1
-per	1
-heralded-state	1
-conditions	1
-method	1
-available	1
-be	1
-we	1
-fiber	2
-equivalent	1
-processing	1
-commercially	1
-from	1
-100	1
-standard	1
-by	1
-many	1
-inferred	1
-amount	1
-tasks	1
-characterization	1
-highly	1
-should	1
-custom-fabricated	1
-two	1
-.	5
-dispersion	3
-approach	1
-that	1
-99	1
-optical	1
-highest	1
-with	5
-wide	1
-characterize	1
-this	1
-employ	1
-crystal	1
-compensation	1
-can	1
-of	8
-spontaneous	1
-at	1
-and	2
-generate	1
-an	3
-high	3
-To	1
-purity	2
-in	3
-any	1
-periodically-poled	1
-information	1
-%	1
-fibers	1
-)	1
-range	1
-shorter	1
-extended	1
-KTiOPO	1
-much	1
-applications	1
-generated	1
-date	1
-unentangled	1
-efficiently	1
-a	5
-center	1
-resolution	2
-Gaussian	1
-km	1
-without	1
-time	1
-the	6
-parametric	1
-typical	1
+wavelengths,1
+spatiotemporal,1
+pulsed,1
+desirable,1
+fabricated,1
+photonic,1
+Compared,1
+DCMs,1
+range,1
+We,1
+DCM,2
+technique,1
+Spectrally,1
+to,2
+only,1
+under,1
+customized,1
+downconversion,1
+biphotons,3
+incurs,1
+easily,1
+joint,1
+using,1
+loss,2
+Because,1
+approach,1
+dB,2
+benefit,1
+mode,1
+significantly,1
+module,1
+achieves,1
+intensity,1
+are,1
+insertion,2
+measurement,1
+quantum,2
+matching,1
+spectral,6
+poled,1
+for,1
+per,1
+state,1
+conditions,1
+method,1
+available,1
+be,1
+we,1
+fiber,2
+equivalent,1
+processing,1
+commercially,1
+standard,1
+by,1
+periodically,1
+many,1
+inferred,1
+equal,1
+length,1
+tasks,1
+characterization,1
+highly,1
+date,1
+should,1
+from,1
+temperature,1
+two,1
+custom,1
+dispersion,3
+much,1
+heralded,1
+that,1
+optical,1
+highest,1
+with,5
+wide,1
+stabilized,1
+To,1
+this,1
+employ,1
+crystal,1
+compensation,1
+can,1
+of,8
+spontaneous,1
+purity,2
+and,2
+generate,1
+an,3
+high,3
+characterize,1
+single,1
+at,1
+in,3
+any,1
+information,1
+fibers,1
+amount,1
+shorter,1
+extended,1
+filtering,1
+KTiOPO,1
+applications,1
+generated,1
+phase,1
+unentangled,1
+efficiently,1
+a,5
+center,1
+parametric,1
+Gaussian,1
+km,1
+without,1
+time,1
+the,6
+resolution,2
+typical,1

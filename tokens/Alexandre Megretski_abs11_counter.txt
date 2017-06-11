@@ -1,17 +1,16 @@
-
-associated	1
-classical	1
-presented	1
-of	1
-minimax	1
-variations	1
-,	1
-.	1
-Lemma	1
-Kalman-Yakubovich-Popov	1
-are	1
-theorem	1
-the	2
-Several	1
-well	1
-as	1
+presented,1
+associated,1
+classical,1
+Kalman,1
+Yakubovich,1
+of,1
+minimax,1
+Popov,1
+variations,1
+Lemma,1
+as,1
+are,1
+theorem,1
+the,2
+Several,1
+well,1

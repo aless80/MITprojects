@@ -1,143 +1,136 @@
-
-all	1
-code	1
-feedback	2
-show	1
-despite	1
-Holevo	1
-performance	1
-Dolinar's	1
-We	4
-derive	1
-based	1
-$	4
-(	2
-,	8
-to	3
-only	1
-compelling	1
-Using	1
-achieve	1
-good	2
-viewpoint	1
-propose	1
-designing	2
-test	1
-updates	1
-joint-detection	1
-using	1
-now	1
---	2
-pure-loss	1
-either	1
-each	3
-sequence	1
-direct	4
--which	1
-detection	4
-rate	1
-design	1
-quantum	1
-multiple	1
-minimum-probability-of-error	1
-shown	1
-capacity	2
-for	1
-between	1
-drawn	1
-be	2
-we	1
-receivers	2
-This	1
-processing	2
-efficiency	1
-hypothesis	1
-i.e.	1
-infinitely-long	1
-by	3
-obtained	1
-on	1
-instant	1
-of	7
-study	1
-coherent-processing	2
-suggests	1
-receiver	9
-or	1
-first	1
-and	5
-probability	2
-communication	1
-within	2
-number	1
-one	2
-achievable	2
-from	1
-asymptotic	1
-would	1
-arbitrary	1
-two	1
-.	6
-analyze	1
-was	1
-achieving	1
-coherent-state	1
-re-interpret	1
-quantum-noise-limited	1
-N	1
-coherent	7
-optical	2
-benefits	1
-evidence	1
-with	4
-this	1
-require	1
-discriminating	1
--i.e.	1
-limit	2
-can	1
-error	2
-problem	1
-could	1
-control	1
-compare	1
-is	1
-it	1
-generalization	1
-general	1
-states	4
-as	3
-minimum	1
-at	2
-in	4
-any	1
-low-photon	1
-information	2
-mutual	1
-discriminate	2
-recursive	1
-no	1
-)	2
-alphabet	1
-latter	1
-that	4
-potential	1
-which	1
-Bayesian	1
-optimal	1
-regime	1
-channel	2
-'s	2
-optimizes	1
-binary	1
-modulation	1
-time	1
-M	1
-uses	1
-codeword	2
-such	1
-a	8
-natural	1
-binary-hypothesis	1
-Dolinar	3
-the	17
+limited,1
+all,1
+code,1
+feedback,2
+show,1
+Holevo,1
+performance,1
+We,4
+derive,1
+based,1
+infinitely,1
+to,3
+only,1
+compelling,1
+Using,1
+achieve,1
+good,2
+pure,1
+viewpoint,1
+propose,1
+designing,2
+joint,1
+updates,1
+despite,1
+using,1
+now,1
+loss,1
+either,1
+each,3
+sequence,1
+direct,4
+detection,5
+rate,1
+design,1
+quantum,2
+shown,1
+capacity,2
+for,1
+re,1
+state,1
+between,1
+drawn,1
+be,2
+we,1
+noise,1
+receivers,2
+This,1
+processing,4
+efficiency,1
+test,1
+hypothesis,2
+by,3
+interpret,1
+obtained,1
+on,1
+instant,1
+of,8
+study,1
+suggests,1
+s,3
+receiver,9
+or,1
+first,1
+and,5
+probability,3
+communication,1
+within,2
+number,1
+one,2
+achievable,2
+from,1
+asymptotic,1
+would,1
+arbitrary,1
+two,1
+long,1
+low,1
+analyze,1
+was,1
+achieving,1
+that,4
+photon,1
+N,1
+coherent,10
+optical,2
+benefits,1
+e,2
+evidence,1
+with,4
+this,1
+require,1
+discriminating,1
+limit,2
+can,1
+error,3
+problem,1
+could,1
+control,1
+compare,1
+is,1
+it,1
+generalization,1
+general,1
+states,4
+as,3
+minimum,2
+at,2
+in,4
+any,1
+regime,1
+binary,2
+mutual,1
+discriminate,2
+recursive,1
+no,1
+alphabet,1
+latter,1
+potential,1
+which,2
+Bayesian,1
+optimal,1
+channel,2
+multiple,1
+optimizes,1
+information,2
+modulation,1
+M,1
+uses,1
+codeword,2
+such,1
+a,8
+natural,1
+i,2
+time,1
+Dolinar,4
+the,17

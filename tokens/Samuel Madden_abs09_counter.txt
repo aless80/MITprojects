@@ -1,102 +1,100 @@
-
-proposed	1
-show	1
-being	1
-competitive	1
-years	1
-stored	1
-including	1
-query	1
-GraphLab	1
-We	1
-spite	1
-graph	8
-vertex-centric	2
-,	11
-increasingly	1
-systems	3
-column-oriented	1
-to	3
-combination	1
-very	1
-showing	1
-joins	1
-relational	4
-paper	1
-queries	2
-translated	1
-neighborhood	1
-often	2
-Specifically	1
-past	1
-analytics	6
-namely	1
-are	1
-for	2
-new	2
-evaluation	1
-be	1
-we	2
-processing	1
-popular	2
-analyses	1
-on	1
-of	5
-study	1
-iterative	1
-place	1
-or	1
-experimental	1
-first	1
-Graph	1
-two	1
-table	1
-from	1
-platform	1
-system	2
-been	1
-.	5
-start	1
-assumption	1
-collected	1
-scans	1
-that	4
-These	1
-becoming	1
-it	1
-with	1
-present	1
-Vertica	2
-this	1
-can	1
-more	1
-1-	1
-Giraph	1
-and	6
-is	3
-modern	1
-few	1
-an	1
-as	1
-in	4
-variety	1
-storage	1
-complex	1
-hop	1
-In	1
-running	1
-involving	1
-suited	1
-such	1
-data	1
-needed	1
-a	6
-deluge	1
-database	3
-SQL	1
-well	1
-analysis	2
-databases	1
-the	4
-typically	1
-having	1
+proposed,1
+show,1
+being,1
+competitive,1
+years,1
+stored,1
+including,1
+query,1
+GraphLab,1
+We,1
+spite,1
+graph,8
+increasingly,1
+systems,3
+to,3
+combination,1
+very,1
+showing,1
+joins,1
+relational,4
+paper,1
+queries,2
+translated,1
+neighborhood,1
+often,2
+Specifically,1
+past,1
+analytics,6
+namely,1
+are,1
+for,2
+new,2
+evaluation,1
+be,1
+we,2
+centric,2
+processing,1
+popular,2
+analyses,1
+on,1
+column,1
+of,5
+study,1
+iterative,1
+place,1
+or,1
+experimental,1
+first,1
+Graph,1
+two,1
+table,1
+from,1
+platform,1
+system,2
+been,1
+start,1
+assumption,1
+collected,1
+scans,1
+that,4
+These,1
+becoming,1
+it,1
+with,1
+present,1
+Vertica,2
+this,1
+can,1
+more,1
+Giraph,1
+and,6
+is,3
+modern,1
+few,1
+an,1
+as,1
+in,4
+variety,1
+storage,1
+oriented,1
+complex,1
+hop,1
+In,1
+vertex,2
+running,1
+involving,1
+suited,1
+such,1
+data,1
+needed,1
+a,6
+deluge,1
+database,3
+SQL,1
+well,1
+analysis,2
+databases,1
+the,4
+typically,1
+having,1

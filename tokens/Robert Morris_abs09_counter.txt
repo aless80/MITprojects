@@ -1,126 +1,114 @@
-
-planetary	3
-less	2
-being	1
-caused	1
-both	1
-2842	1
-mission	1
-years	2
-discovered	2
-130	1
-cuts	1
-fidelity	1
-Exoplanet	1
-We	3
-based	2
-candidate	2
-majority	1
-(	1
-,	6
-to	5
-candidates	6
-exoplanet	1
-tests	1
-good	1
-updates	1
-now	2
-bringing	1
-discuss	1
-Rearth	1
-easily	1
-populations	1
-accompanying	1
-false-positives	2
-twice	1
-Q1-Q12	1
-Carlo	1
-set	1
-series	1
-revised	1
-likely	1
-radius	1
-are	3
-Interest	1
-for	1
-flux	1
-3	1
-available	1
-be	1
-full	1
-however	1
-by	1
-on	1
-Monte	1
-parameters	1
-Chain	1
-receive	1
-of	10
-Kepler	3
-Through	1
-receives	1
-probability	1
-transit	1
-There	2
-number	2
-primarily	1
-NASA	1
-total	1
-The	2
-855	1
-additional	2
-there	1
-been	1
-3697	1
-2	1
-stars	1
-criteria	1
-doubling	1
-meeting	1
-more	1
-that	2
-instrumental	1
-posterior	1
-known	1
-with	2
-than	3
-applied	1
-high	1
-publicly	1
-systematics	1
-planet	1
-can	1
-1100	1
-Archive	1
-and	4
-1.5	1
-planets	1
-is	1
-sample	1
-bonafide	1
-at	1
-have	3
-in	1
-exclude	1
-distributions	1
-dozen	1
-binary	1
-provide	2
-suggest	1
-cumulative	2
-.	9
-Objects	1
-analogs	1
-A	1
-upon	1
-produce	1
-Markov	1
-data	2
-a	6
-algorithm	1
-roughly	1
-)	1
-Earth	2
-the	9
-catalogue	4
-eclipsing	1
+planetary,3
+less,2
+being,1
+caused,1
+mission,1
+years,2
+discovered,2
+cuts,1
+fidelity,1
+Exoplanet,1
+We,3
+based,2
+candidate,2
+to,5
+candidates,6
+exoplanet,1
+tests,1
+good,1
+updates,1
+now,2
+bringing,1
+discuss,1
+Rearth,1
+easily,1
+populations,1
+accompanying,1
+flux,1
+Carlo,1
+set,1
+series,1
+revised,1
+likely,1
+radius,1
+are,3
+Interest,1
+for,1
+twice,1
+catalogue,4
+available,1
+be,1
+full,1
+however,1
+by,1
+both,1
+Monte,1
+parameters,1
+Chain,1
+receive,1
+of,10
+Kepler,3
+Through,1
+receives,1
+probability,1
+transit,1
+There,2
+number,2
+primarily,1
+NASA,1
+total,1
+The,2
+additional,2
+there,1
+been,1
+stars,1
+criteria,1
+doubling,1
+meeting,1
+more,1
+that,2
+instrumental,1
+posterior,1
+known,1
+with,2
+than,3
+applied,1
+high,1
+publicly,1
+systematics,1
+planet,1
+can,1
+Archive,1
+and,4
+false,2
+planets,1
+is,1
+sample,1
+bonafide,1
+at,1
+have,3
+in,1
+exclude,1
+distributions,1
+dozen,1
+binary,1
+provide,2
+suggest,1
+cumulative,2
+majority,1
+Objects,1
+analogs,1
+A,1
+upon,1
+Q,2
+produce,1
+positives,2
+Markov,1
+on,1
+data,2
+a,6
+algorithm,1
+roughly,1
+Earth,2
+the,9
+eclipsing,1

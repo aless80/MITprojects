@@ -1,87 +1,84 @@
-
-feedback	3
-bandwidth	1
-We	2
-trade-off	3
-application	1
-,	6
-to	4
-only	1
-choose	1
-block-wise	1
-achieve	2
-them	1
-affected	1
-coding	1
-matters	1
-increases	1
-this	2
-each	1
-where	1
-constraints	1
-schemes	1
-packet	2
-streaming	1
-frequency	1
-in-order	2
-decoding	2
-between	1
-limitations	1
-be	1
-we	3
-simultaneously	1
-operating	1
-by	1
-on	5
-of	4
-study	1
-impose	1
-delay-sensitivity	1
-throughput	3
-point	1
-When	1
-one	2
-appropriate	1
-But	1
-total	1
-fast	1
-span	1
-source	1
-transfer	1
-there	1
-least	1
-.	7
-compromise	2
-that	1
-immediate	1
-it	1
-particular	1
-present	1
-these	1
-require	1
-can	2
-and	5
-file	1
-Depending	1
-is	2
-spectrum	1
-an	1
-To	1
-as	1
-at	1
-have	2
-in	2
-different	1
-delay	5
-how	1
-throughput-delay	1
-optimal	1
-Unlike	1
-upon	1
-metrics	1
-applications	1
-a	1
-traditional	1
-points	1
-the	8
-order	1
+and,5
+limitations,1
+least,1
+have,2
+Depending,1
+is,2
+When,1
+we,3
+packet,2
+trade,3
+streaming,1
+as,1
+frequency,1
+But,1
+file,1
+in,4
+simultaneously,1
+an,1
+total,1
+feedback,3
+We,2
+span,1
+how,1
+spectrum,1
+transfer,1
+there,1
+fast,1
+decoding,2
+delay,7
+to,4
+only,1
+compromise,2
+choose,1
+between,1
+optimal,1
+point,1
+sensitivity,1
+achieve,2
+can,2
+To,1
+be,1
+them,1
+affected,1
+Unlike,1
+that,1
+coding,1
+upon,1
+different,1
+immediate,1
+it,1
+metrics,1
+matters,1
+increases,1
+operating,1
+particular,1
+application,1
+wise,1
+appropriate,1
+one,2
+by,1
+present,1
+a,1
+on,5
+schemes,1
+off,3
+applications,1
+this,2
+of,4
+require,1
+impose,1
+bandwidth,1
+traditional,1
+these,1
+points,1
+throughput,4
+source,1
+each,1
+at,1
+study,1
+the,8
+where,1
+order,3
+block,1
+constraints,1

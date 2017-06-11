@@ -1,106 +1,101 @@
-
-limited	1
-spatiotemporal	1
-least	1
-cheap	1
-integer	1
-networks	2
-multiples	1
-previous	1
-3-dimensional	1
-slow	1
-$	2
-(	2
-,	5
-Here	1
-improvement	1
-to	6
-multicore	1
-overcome	1
-joint	1
-GPU	1
-matrices	1
-exploiting	1
-remove	1
-vector	1
-sparse	1
-constraints	1
-beneficial	1
-video	1
-are	1
-our	1
-special	1
-optimize	1
-for	1
-CPU	4
-access	1
-cache-aware	1
-approach	1
-be	1
-we	4
-extend	1
-volumetric	1
-scalability	1
-2-dimensional	1
-modeling	1
-by	2
-First	1
-improved	1
-constraint	1
-of	8
-throughput	1
--dimensional	1
-features	1
-image	1
-specifically	1
-maximize	1
-impractically	1
-size	1
-kernels	1
-utilization	1
-due	1
-been	1
-.	7
-low	1
-memory	2
-25-fold	1
-convolutional	2
-ceiling	1
-These	1
-relaxed	1
-but	2
-N	1
-ConvNets	2
-AVX	1
-case	2
-this	1
-Existing	1
-widths	1
-demonstrate	1
-and	6
-manually	1
-implementations	1
-hardware	2
-as	1
-Deep	1
-have	2
-in	2
-need	1
-compared	1
-)	2
-5	1
-performance	1
-Winograd-class	1
-Treating	1
-transforming	1
-state-of-the-art	1
-data	1
-a	2
-faster	1
-neural	1
-analysis	1
-hand-craft	1
-Second	1
-algorithms	2
-allow	1
-the	6
+limited,1
+spatiotemporal,1
+least,1
+cheap,1
+integer,1
+networks,2
+multiples,1
+previous,1
+volumetric,1
+slow,1
+cache,1
+Here,1
+improvement,1
+to,6
+multicore,1
+overcome,1
+joint,1
+GPU,1
+matrices,1
+exploiting,1
+remove,1
+vector,1
+sparse,1
+constraints,1
+beneficial,1
+art,1
+fold,1
+video,1
+are,1
+our,1
+special,1
+for,1
+CPU,4
+access,1
+state,1
+approach,1
+be,1
+we,4
+extend,1
+Winograd,1
+scalability,1
+modeling,1
+by,2
+First,1
+improved,1
+constraint,1
+widths,1
+throughput,1
+features,1
+image,1
+dimensional,3
+specifically,1
+maximize,1
+impractically,1
+size,1
+kernels,1
+utilization,1
+due,1
+been,1
+optimize,1
+low,1
+memory,2
+convolutional,2
+ceiling,1
+These,1
+relaxed,1
+but,2
+N,1
+ConvNets,2
+craft,1
+AVX,1
+case,2
+this,1
+Existing,1
+of,9
+demonstrate,1
+and,6
+manually,1
+implementations,1
+hardware,2
+as,1
+Deep,1
+have,2
+in,2
+need,1
+compared,1
+performance,1
+Treating,1
+transforming,1
+hand,1
+aware,1
+data,1
+class,1
+a,2
+faster,1
+neural,1
+analysis,1
+Second,1
+algorithms,2
+allow,1
+the,7

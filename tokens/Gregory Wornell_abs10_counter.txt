@@ -1,84 +1,82 @@
-
-and	2
-model	1
-there	1
-ordered	1
-consider	1
-stream	1
-independent	1
-Thus	1
-over	1
-each	1
-decoding	1
-number	1
-packet	4
-an	2
-channels	1
-streaming	1
-paper	1
-analyzing	1
-at	1
-in	1
-need	1
-multicasting	1
-instantaneous	1
-trade-offs	1
-feedback	1
-in-order	4
-trade-off	1
-span	1
-chain	1
-for	3
-source	1
-schemes	1
-strictly	1
-Depending	1
-use	1
-two	2
-,	3
-.	6
-to	5
-other	1
-provides	1
-which	1
-throughput	1
-increasing	1
-is	2
-channel	1
-inter-dependence	1
-be	2
-erasure	1
-may	1
-users	3
-that	1
-This	1
-propose	1
-between	1
-upon	1
-We	2
-delivery	2
-applications	2
-user	1
-different	1
-coding	1
-such	1
-Markov	1
-one	1
-with	1
-problem	1
-throughput-smoothness	1
-a	3
-on	1
-analyze	1
-framework	1
-these	1
-of	6
-packets	2
-redundant	1
-An	1
-points	1
-erasures	1
-can	1
-receiver	1
-the	8
-smoothness	1
+and,2
+model,1
+offs,1
+there,1
+ordered,1
+consider,1
+stream,1
+independent,1
+Thus,1
+over,1
+each,1
+coding,1
+number,1
+packet,4
+an,2
+channels,1
+streaming,1
+paper,1
+analyzing,1
+at,1
+in,5
+need,1
+multicasting,1
+decoding,1
+feedback,1
+We,2
+span,1
+chain,1
+for,3
+source,1
+schemes,1
+strictly,1
+Depending,1
+two,2
+instantaneous,1
+to,5
+other,1
+provides,1
+which,1
+throughput,2
+increasing,1
+is,2
+channel,1
+be,2
+erasure,1
+may,1
+users,3
+that,1
+This,1
+propose,1
+between,1
+upon,1
+use,1
+delivery,2
+applications,2
+user,1
+different,1
+trade,2
+such,1
+Markov,1
+one,1
+with,1
+problem,1
+a,3
+on,1
+analyze,1
+off,1
+framework,1
+these,1
+of,6
+packets,2
+dependence,1
+redundant,1
+An,1
+points,1
+erasures,1
+can,1
+receiver,1
+the,8
+inter,1
+order,4
+smoothness,2

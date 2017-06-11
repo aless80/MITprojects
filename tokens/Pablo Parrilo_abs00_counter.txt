@@ -1,83 +1,78 @@
-
-and	2
-compare	1
-CVX	2
-show	1
-existing	1
-is	2
-convex	1
-it	1
-highly	1
-relative	1
-MATLAB-based	1
-as	1
-entropy	2
-cone	2
-successive	1
-solvers	1
-operator	1
-our	4
-tools	1
-be	1
-these	1
-We	3
-optimization-based	1
-based	1
-matrix	2
-for	3
-Pad\'e	1
-)	2
-(	2
-problems	1
-,	6
-.	6
-symmetric	1
-to	4
-concavity	1
-Importantly	1
-treat	1
-way	1
-new	2
-include	1
-approach	2
-accurate	1
-function	1
-logarithm	3
-such	1
-parser	1
-rational	2
-that	2
-propose	1
-derived	1
-functions	2
-much	1
-construction	1
-exponential/relative	1
-key	1
-implementation	1
-using	1
-The	1
-an	1
-by	1
-involving	1
-especially	1
-a	1
-on	1
-semidefinite	1
-scheme	1
-in	1
-faster	1
-this	1
-of	3
-approximations	2
-inherit	1
-method	3
-large	1
-giving	1
-optimization	1
-can	1
-approximation	1
-Our	1
-the	8
-extends	1
-other	1
+and,2
+compare,1
+CVX,2
+show,1
+existing,1
+is,2
+convex,1
+it,1
+highly,1
+relative,2
+as,1
+entropy,2
+cone,2
+successive,1
+solvers,1
+operator,1
+our,4
+tools,1
+be,1
+We,3
+based,3
+matrix,2
+for,3
+giving,1
+much,1
+problems,1
+symmetric,1
+to,4
+concavity,1
+Importantly,1
+treat,1
+way,1
+new,2
+Pad,1
+include,1
+approach,2
+accurate,1
+MATLAB,1
+function,1
+logarithm,3
+such,1
+parser,1
+rational,2
+that,2
+propose,1
+in,1
+derived,1
+functions,2
+construction,1
+key,1
+implementation,1
+using,1
+The,1
+an,1
+by,1
+involving,1
+especially,1
+a,1
+on,1
+semidefinite,1
+scheme,1
+e,1
+faster,1
+exponential,1
+this,1
+of,3
+approximations,2
+inherit,1
+method,3
+large,1
+these,1
+optimization,2
+can,1
+approximation,1
+Our,1
+the,8
+extends,1
+other,1

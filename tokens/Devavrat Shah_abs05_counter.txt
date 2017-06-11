@@ -1,143 +1,135 @@
-
-all	1
-similarity	2
-over	2
-We	2
-$	10
-(	4
-,	13
-\log	1
-to	9
-other	1
-systems	2
-Despite	1
-has	2
-then	1
-string	1
-novel	1
-nearly	1
-optimal	1
-not	1
-items	4
-exploitation	1
-item	5
-steps	2
-either	1
-cosine-similarity	1
-each	5
-works	1
-where	2
-the	11
-maximize	1
-related	1
-achieves	1
-are	1
-recommendation	3
-our	1
-liking	1
-for	1
-space	1
-movie	1
-establishes	1
-between	1
-method	1
-common	1
-knowing	1
-be	2
-we	1
-after	1
-given	1
-standard	1
-step	2
-key	1
-address	1
-by	1
-on	1
-essentially	1
-determining	1
-k	2
-explore	2
-bandit	1
-distinction	1
-or	1
-filtering	3
-simple	1
-number	1
-one	1
-likes	1
-learning	2
-little	1
-from	1
-probabilities	1
-there	2
-two	1
-been	1
-.	8
-cosine	1
-recommend	1
-analyze	1
-type	1
-theoretical	2
-introducing	1
-``	1
-that	4
-share	1
-under	1
-gap	1
-main	1
-this	2
-work	1
-n	1
-cast	1
-exploration	1
-can	1
-of	11
-Our	1
-problem	1
-result	1
-and	5
-likable	1
-e.g.	1
-prevalence	1
-well	1
-is	2
-dislikes	1
-it	1
-watches	1
-an	3
-''	1
-as	1
-initial	1
-in	3
-again	1
-goal	1
-)	4
-same	1
-how	1
-recommended	3
-setting	1
-online	2
-performance	2
-development	1
-literature	2
-users	6
-collaborative	3
-time	4
-chance	1
-uses	1
-user	3
-The	2
-why	1
-types	2
-a	9
-especially	1
-algorithm	2
-assume	1
-m	1
-km	1
-without	1
-At	1
-In	1
-model	3
-consumes	1
-once	1
+all,1
+similarity,3
+over,2
+We,2
+to,9
+other,1
+systems,2
+Despite,1
+has,2
+then,1
+string,1
+novel,1
+nearly,1
+optimal,1
+not,1
+items,4
+exploitation,1
+item,5
+steps,2
+either,1
+each,5
+works,1
+where,2
+the,11
+maximize,1
+related,1
+achieves,1
+are,1
+recommendation,3
+our,1
+liking,1
+for,1
+space,1
+movie,1
+establishes,1
+between,1
+method,1
+common,1
+knowing,1
+be,2
+we,1
+after,1
+given,1
+standard,1
+step,2
+key,1
+address,1
+by,1
+on,1
+essentially,1
+g,1
+determining,1
+k,2
+explore,2
+bandit,1
+distinction,1
+or,1
+filtering,3
+simple,1
+number,1
+one,1
+likes,1
+learning,2
+little,1
+from,1
+log,1
+probabilities,1
+there,2
+two,1
+been,1
+cosine,2
+recommend,1
+analyze,1
+type,1
+theoretical,2
+introducing,1
+that,4
+share,1
+under,1
+gap,1
+main,1
+this,2
+work,1
+n,1
+cast,1
+exploration,1
+can,1
+of,11
+Our,1
+problem,1
+result,1
+and,5
+likable,1
+prevalence,1
+well,1
+is,2
+dislikes,1
+it,1
+watches,1
+an,3
+as,1
+initial,1
+in,3
+again,1
+goal,1
+same,1
+how,1
+recommended,3
+setting,1
+online,2
+performance,2
+development,1
+literature,2
+users,6
+collaborative,3
+time,4
+chance,1
+uses,1
+user,3
+The,2
+why,1
+types,2
+a,9
+e,1
+especially,1
+algorithm,2
+assume,1
+m,1
+km,1
+without,1
+At,1
+In,1
+model,3
+consumes,1
+once,1

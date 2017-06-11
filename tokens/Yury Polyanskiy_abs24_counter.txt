@@ -1,105 +1,98 @@
-
-code	3
-random	1
-produced	1
-paper	1
-Gaussian	2
--capacity-achieving	1
-$	4
-(	3
-,	1
-forms	1
-to	4
-Using	1
-non-random	1
-good	2
-sums	1
-Lipschitz	1
-not	1
-discrete	1
-output	4
-non-vanishing	1
-methods	1
-related	1
-isoperimetry	1
-measure	1
-close	1
-estimated	1
-out	1
-shown	5
-capacity	2
-enjoyed	1
-induced	1
-approach	2
-satisfy	1
-be	4
-equipartition	1
-This	1
-strong	1
-by	2
-obtained	1
-on	1
-essentially	1
-actual	1
-limits	1
-of	10
-turn	1
-studies	1
-or	1
-probability	1
-one	1
-precisely	1
-given	1
-from	1
-asymptotic	1
-codewords	1
-.	6
-process	1
--th	1
-quadratic	1
-AWGN	1
-is	5
-that	4
-outputs	1
-with	2
-exponential	1
-evaluated	1
-achieving	2
-values	1
-can	2
-error	1
-distribution	3
-property	2
-powers	1
-distinguished	1
-and	4
-memoryless	1
-\epsilon	1
-in	1
-it	2
-an	1
-randomly	1
-reliability	1
-properties	1
-at	2
-sense	1
-concentration	1
-functions	1
-codes	2
-)	3
-latter	1
-when	1
-also	1
-several	1
-Relying	1
-channel	4
-independent	1
-generated	1
-regular	1
-codeword	1
-The	2
-a	5
-It	1
-q	1
-fundamental	1
-the	11
+code,3
+random,2
+produced,1
+paper,1
+Gaussian,2
+enjoyed,1
+forms,1
+to,4
+th,1
+Using,1
+non,2
+good,2
+sums,1
+Lipschitz,1
+not,1
+discrete,1
+output,4
+methods,1
+related,1
+isoperimetry,1
+measure,1
+close,1
+estimated,1
+out,1
+shown,5
+capacity,3
+induced,1
+approach,2
+satisfy,1
+be,4
+equipartition,1
+This,1
+vanishing,1
+strong,1
+by,2
+obtained,1
+on,1
+essentially,1
+actual,1
+limits,1
+of,10
+turn,1
+studies,1
+or,1
+probability,1
+one,1
+precisely,1
+given,1
+from,1
+asymptotic,1
+codewords,1
+properties,1
+process,1
+quadratic,1
+AWGN,1
+achieving,3
+that,4
+outputs,1
+with,2
+exponential,1
+evaluated,1
+values,1
+can,2
+error,1
+distribution,3
+property,2
+powers,1
+distinguished,1
+and,4
+memoryless,1
+is,5
+in,1
+it,2
+an,1
+randomly,1
+reliability,1
+at,2
+sense,1
+concentration,1
+functions,1
+codes,2
+latter,1
+when,1
+also,1
+epsilon,1
+several,1
+Relying,1
+channel,4
+independent,1
+generated,1
+regular,1
+codeword,1
+The,2
+a,5
+It,1
+q,1
+fundamental,1
+the,11

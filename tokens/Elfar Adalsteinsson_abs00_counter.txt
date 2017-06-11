@@ -1,82 +1,78 @@
-
-and	2
-suggest	1
-captures	1
-proposed	1
-presence	1
-series	2
-image	1
-registration	1
-dynamic	1
-results	1
-frames	1
-an	1
-across	1
-substantial	1
-through	1
-in	4
-Forward	1
-message	1
-its	1
-alignment	1
-relatively	1
-utility	1
-We	3
-for	3
-HMM	1
-)	1
-(	1
-make	1
-in-utero	2
-only	1
-.	6
-to	3
-that	3
-assumption	1
-take	1
-between	1
-passing	1
-hidden	1
-has	1
-correct	1
-accuracy	1
-model	3
-segmentation	1
-corresponding	1
-advantage	1
-nature	1
-structure	1
-propagation	1
-showing	1
-use	1
-volumetric	1
-accurately	1
-by	1
-MRI	3
-dynamics	1
-consecutive	1
-robust	2
-Markov	2
-data	1
-deformations	3
-present	1
-a	2
-on	1
-account	1
-algorithm	1
-of	7
-Spatio-temporal	1
-analysis	1
-method	1
-motion	3
-unpredictable	1
-improves	1
-yields	1
-time	3
-small	1
-demonstrate	1
-the	11
-estimation	1
-requires	1
-temporal	4
-Our	1
+and,2
+suggest,1
+captures,1
+proposed,1
+presence,1
+series,2
+image,1
+registration,1
+dynamic,1
+results,1
+frames,1
+an,1
+across,1
+substantial,1
+through,1
+in,6
+Forward,1
+message,1
+its,1
+alignment,1
+relatively,1
+utility,1
+utero,2
+We,3
+for,3
+HMM,1
+data,1
+temporal,5
+that,3
+by,1
+to,3
+only,1
+assumption,1
+take,1
+between,1
+passing,1
+hidden,1
+has,1
+correct,1
+accuracy,1
+model,3
+segmentation,1
+corresponding,1
+advantage,1
+nature,1
+structure,1
+propagation,1
+showing,1
+use,1
+volumetric,1
+accurately,1
+MRI,3
+dynamics,1
+consecutive,1
+robust,2
+Markov,2
+Spatio,1
+deformations,3
+present,1
+a,2
+on,1
+account,1
+algorithm,1
+of,7
+analysis,1
+method,1
+motion,3
+unpredictable,1
+improves,1
+yields,1
+time,3
+small,1
+demonstrate,1
+the,11
+estimation,1
+requires,1
+make,1
+Our,1

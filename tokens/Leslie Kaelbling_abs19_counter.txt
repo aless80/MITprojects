@@ -1,73 +1,70 @@
-
-correct	1
-currently	1
-helper	1
-show	1
-process	1
-when	1
-is	4
-each	1
-player	1
-are	1
-human	4
-in	4
-apply	1
-theoretic	1
-Markov	2
-recognition	1
-techniques	1
-variables	1
-We	1
-scale	1
-based	1
-giving	1
-near-human	1
-decision	3
-solving	1
-able	1
-,	5
-construct	1
-.	5
-to	5
-state	1
-complex	1
-decomposition	1
-which	2
-performance	1
-Intention	1
-method	3
-difficult	1
-be	3
-used	1
-subtasks	1
-collaborative	2
-that	3
-assist	2
-helping	1
-game	3
-allowing	1
-characters	1
-described	1
-The	1
-level	1
-by	2
-a	5
-on	1
-processes	1
-task	2
-effective	1
-To	1
-many	1
-into	1
-performing	2
-allows	1
-subtask	1
-modelled	1
-infer	1
-more	1
-Experiments	1
-games	2
-can	3
-of	2
-the	8
-non-player	1
+correct,1
+currently,1
+helper,1
+show,1
+process,1
+when,1
+is,4
+each,1
+player,2
+are,1
+human,5
+in,4
+apply,1
+theoretic,1
+Markov,2
+recognition,1
+techniques,1
+variables,1
+We,1
+scale,1
+based,1
+giving,1
+decision,3
+solving,1
+able,1
+construct,1
+to,5
+state,1
+complex,1
+decomposition,1
+which,2
+performance,1
+Intention,1
+method,3
+difficult,1
+be,3
+non,1
+used,1
+subtasks,1
+collaborative,2
+that,3
+assist,2
+helping,1
+game,3
+allowing,1
+characters,1
+described,1
+The,1
+level,1
+by,2
+a,5
+on,1
+processes,1
+task,2
+effective,1
+To,1
+many,1
+into,1
+performing,2
+allows,1
+subtask,1
+modelled,1
+infer,1
+near,1
+Experiments,1
+games,2
+can,3
+of,2
+the,8
+more,1

@@ -1,116 +1,114 @@
-
-consider	1
-heavily	1
-text	1
-labels	1
-We	5
-depend	1
-density	1
-show	2
-,	5
-to	6
-input	1
-has	1
-mod-	1
-al-	1
-ically	1
-very	1
-showing	1
-rise	1
-bound	1
-test	1
-hierarchi-	1
-they	1
-variants	1
-partitions	1
-racy	1
-large	1
-common	1
-gorithm	1
-where	1
-predictive	1
-conditional	1
-past	1
-accu-	1
-static	1
-terms	1
-theoret-	1
-error	1
-both	2
-for	2
-eling	1
-approach	1
-simultaneously	1
-power	1
-respectively	1
-learn	1
-style	1
-although	1
-boosting	1
-easily-	1
-on	3
-multi-way	1
-language	1
-of	6
-vectors	1
-allows	1
-multi-class	1
-predictor	2
-separable	1
-classification	3
-number	1
-learning	2
-balanced	1
-next	1
-validate	1
-.	7
-expected	1
-analyze	1
-gives	1
-function	1
-that	4
-favorably	1
-train	1
-tive	1
-extend	1
-novel	1
-showed	1
-this	1
-favors	1
-work	1
-tree	2
-baselines	1
-can	1
-cal	1
-Our	1
-property	1
-and	8
-compare	1
-remained	1
-it	2
-an	1
-objec-	1
-at	1
-in	1
-provide	1
-feature	1
-how	2
-empirically	1
-which	1
-objective	1
-node	1
-optimizes	1
-models	1
-running	1
-such	1
-The	1
-data	1
-structure	3
-a	5
-estimation	1
-algorithm	2
-perform	1
-hierarchical	1
-time	2
-representation	1
-the	9
+consider,1
+heavily,1
+text,1
+labels,1
+hierarchi,1
+We,5
+depend,1
+density,1
+show,2
+theoret,1
+to,6
+input,1
+has,1
+baselines,1
+ically,1
+very,1
+showing,1
+rise,1
+bound,1
+objective,1
+objec,1
+variants,1
+partitions,1
+easily,1
+racy,1
+large,1
+common,1
+gorithm,1
+where,1
+predictive,1
+conditional,1
+past,1
+accu,1
+static,1
+terms,1
+error,1
+both,2
+for,2
+eling,1
+approach,1
+simultaneously,1
+power,1
+respectively,1
+learn,1
+style,1
+although,1
+boosting,1
+on,3
+language,1
+of,6
+vectors,1
+allows,1
+estimation,1
+predictor,2
+separable,1
+classification,3
+number,1
+learning,2
+balanced,1
+validate,1
+they,1
+next,1
+way,1
+expected,1
+analyze,1
+gives,1
+function,1
+that,4
+favorably,1
+al,1
+hierarchical,1
+tive,1
+extend,1
+multi,2
+novel,1
+showed,1
+this,1
+favors,1
+work,1
+tree,2
+can,1
+cal,1
+Our,1
+property,1
+and,8
+compare,1
+remained,1
+it,2
+an,1
+at,1
+in,1
+mod,1
+provide,1
+feature,1
+how,2
+empirically,1
+which,1
+test,1
+node,1
+optimizes,1
+models,1
+running,1
+such,1
+The,1
+data,1
+class,1
+structure,3
+a,5
+algorithm,2
+perform,1
+train,1
+time,2
+representation,1
+the,9

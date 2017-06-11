@@ -1,107 +1,104 @@
-
-exploits	1
-captures	1
-obtain	1
-existing	1
-experiments	1
-through	1
-its	1
-previous	1
-Recently	1
-,	14
-to	3
-easy	1
-has	2
-decomposability	1
-propose	1
-While	1
-procedures	1
-nor	2
-occurring	1
-easily	1
-solves	1
-signal	1
-solution	2
-solved	1
-submodular	4
-Moreover	1
-vision	1
-sequence	1
-segmentation	1
-approximation	1
-computer	1
-our	4
-best	1
-for	3
-discrete	3
-does	1
-reconstruction	1
-new	1
-neither	1
-method	5
-contrast	1
-be	1
-we	2
-minimization	3
-This	1
-processing	1
-component	1
-approaches	1
-key	1
-become	1
-both	1
-benefits	1
-of	6
-implement	1
-tasks	1
-inference	1
-parallelize	1
-image	1
-two	1
-submodularity	1
-learning	2
-illustrate	1
-tuning	1
-there	1
-approximate	1
-.	8
-therefore	1
-naturally	1
-that	3
-continuous	2
-an	1
-Consequently	1
-impractical	1
-evident	1
-optimization	1
-can	1
-concepts	1
-problem	3
-and	6
-challenging	1
-is	6
-formulation	1
-it	3
-general	1
-as	1
-in	2
-need	2
-cumbersome	1
-any	1
-functions	2
-efficient	1
-formulations	1
-thresholded	1
-machine	1
-widely	1
-optimal	1
-parameter	1
-A	1
-problems	1
-applications	1
-on	1
-a	4
-especially	1
-reflections	1
-In	2
-the	4
+exploits,1
+captures,1
+obtain,1
+existing,1
+experiments,1
+through,1
+its,1
+previous,1
+Recently,1
+to,3
+easy,1
+has,2
+decomposability,1
+propose,1
+While,1
+procedures,1
+nor,2
+occurring,1
+easily,1
+solves,1
+signal,1
+solution,2
+solved,1
+submodular,4
+Moreover,1
+vision,1
+sequence,1
+segmentation,1
+approximation,1
+computer,1
+our,4
+best,1
+for,3
+discrete,3
+does,1
+reconstruction,1
+new,1
+neither,1
+method,5
+contrast,1
+be,1
+we,2
+minimization,3
+This,1
+processing,1
+component,1
+approaches,1
+key,1
+become,1
+both,1
+benefits,1
+of,6
+implement,1
+tasks,1
+inference,1
+parallelize,1
+image,1
+two,1
+submodularity,1
+learning,2
+illustrate,1
+tuning,1
+there,1
+approximate,1
+therefore,1
+naturally,1
+that,3
+continuous,2
+an,1
+Consequently,1
+impractical,1
+evident,1
+optimization,1
+can,1
+concepts,1
+problem,3
+and,6
+challenging,1
+is,6
+in,2
+it,3
+general,1
+as,1
+formulation,1
+need,2
+cumbersome,1
+any,1
+functions,2
+efficient,1
+formulations,1
+thresholded,1
+machine,1
+widely,1
+optimal,1
+parameter,1
+A,1
+problems,1
+applications,1
+on,1
+a,4
+especially,1
+reflections,1
+In,2
+the,4

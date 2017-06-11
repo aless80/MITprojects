@@ -1,118 +1,103 @@
-
-all	1
-Restricted	1
-both	1
-focus	1
-assigned	1
-We	1
-$	12
-(	2
-,	13
-better	1
-to	6
-4	2
-main	1
-which	3
-matches	1
-Maximum	1
-results	1
-integrality	3
-every	1
-item	2
-each	1
-upper	1
-set	1
-Since	1
-approximation	2
-our	2
-best	2
-Budgeted	2
-0.828	1
-for	3
-3	2
-be	2
-we	3
-sold	1
-understanding	1
-relaxation	1
-from	1
-configuration	2
-improve	2
-restrictions	1
--2\approx	1
-goods	1
-indivisible	1
-of	7
-study	1
-players	3
-graph	1
-{	7
-2\sqrt	1
-revenue	1
-bound	1
-Finally	1
-maximize	1
-polynomial	1
-Allocation	2
-i.e.	1
-prove	2
-strictly	1
-.	4
-2	2
-6	1
-collected	1
-:	1
-direction	1
-selling	1
-corresponding	1
-that	2
-gap	3
-known	3
-cases	1
-general	1
-with	1
-than	1
-hardness	1
-case	1
-has	1
-this	1
-budget	2
-value	1
-n	1
-can	2
-following	1
-problem	5
-and	4
-\frac	3
-m	1
-is	3
-it	1
-an	2
-ii	1
-player	1
-at	1
-have	2
-in	3
-roundings	1
-any	1
-provide	1
-MBA	1
-same	2
-also	1
-5	1
-LP	3
-separate	1
-assignment	1
-In	1
-most	1
-such	1
-on	1
-a	2
-natural	1
-i	1
-stronger	1
-)	2
-algorithms	1
-time	1
-the	18
-}	7
+all,1
+Restricted,1
+both,1
+focus,1
+assigned,1
+sqrt,1
+We,1
+graph,1
+better,1
+to,6
+main,1
+which,3
+matches,1
+Maximum,1
+results,1
+integrality,3
+every,1
+item,2
+each,1
+upper,1
+set,1
+Since,1
+approximation,2
+our,2
+best,2
+Budgeted,2
+for,3
+be,2
+we,3
+sold,1
+understanding,1
+relaxation,1
+configuration,2
+improve,2
+restrictions,1
+goods,1
+indivisible,1
+of,7
+study,1
+players,3
+revenue,1
+bound,1
+Finally,1
+maximize,1
+polynomial,1
+Allocation,2
+from,1
+prove,2
+strictly,1
+collected,1
+direction,1
+selling,1
+corresponding,1
+that,2
+gap,3
+known,3
+e,1
+cases,1
+general,1
+with,1
+than,1
+hardness,1
+case,1
+has,1
+this,1
+budget,2
+value,1
+n,1
+can,2
+following,1
+problem,5
+and,4
+m,1
+is,3
+it,1
+an,2
+ii,1
+player,1
+approx,1
+at,1
+have,2
+in,3
+roundings,1
+any,1
+provide,1
+MBA,1
+same,2
+also,1
+LP,3
+frac,3
+separate,1
+assignment,1
+In,1
+most,1
+such,1
+on,1
+a,2
+natural,1
+i,2
+stronger,1
+algorithms,1
+time,1
+the,18

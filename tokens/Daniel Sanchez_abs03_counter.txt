@@ -1,80 +1,69 @@
-
-and	3
-scanning	1
-via	1
-1-x	1
-quasiparticle	1
-is	1
-surface	3
-an	1
-states	3
-arc	1
-identify	1
-atomic	1
-0.66	1
-in	1
-first-principles	1
-our	1
-Te	2
-scattering	2
-theoretically	1
-addition	1
-result	1
-interconnectivity	1
-We	2
-visualize	1
-based	1
-$	12
-for	2
-spectro-microscopy	1
-)	2
-(	2
-nature	1
-interference	2
-,	2
-topological	1
-.	4
-to	1
-experiment	1
-combine	1
-properties	1
-which	1
-signature	1
-material	1
-theory	1
-reveal	1
-Mo	2
-of	4
-unusual	1
-understanding	1
-bulk	1
-band	1
-electron	1
-Fermi	1
-W	2
-Our	1
-type-II	1
-{	4
-_	4
-topology	2
-a	1
-on	2
-Weyl	1
-reveals	2
-In	1
-this	1
-}	4
-0.34	1
-_2	2
-simulation	2
-patterns	1
-experimental	1
-behavior	1
-time	1
-x	1
-the	9
-tunneling	1
-resolution	1
-essential	1
-semimetal	1
-first	1
+and,3
+scanning,1
+via,1
+reveals,2
+quasiparticle,1
+is,1
+principles,1
+surface,3
+an,1
+states,3
+arc,1
+identify,1
+atomic,1
+in,1
+our,1
+signature,1
+Te,2
+scattering,2
+theoretically,1
+result,1
+interconnectivity,1
+We,2
+visualize,1
+based,1
+for,2
+addition,1
+nature,1
+interference,2
+topological,1
+to,1
+experiment,1
+combine,1
+which,1
+type,1
+material,1
+theory,1
+reveal,1
+Mo,2
+In,1
+unusual,1
+understanding,1
+II,1
+band,1
+electron,1
+Fermi,1
+W,2
+Our,1
+properties,1
+topology,2
+a,1
+on,2
+Weyl,1
+spectro,1
+bulk,1
+of,4
+this,1
+microscopy,1
+simulation,2
+patterns,1
+experimental,1
+behavior,1
+time,1
+x,2
+the,9
+tunneling,1
+resolution,1
+essential,1
+semimetal,1
+first,2

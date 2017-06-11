@@ -1,109 +1,99 @@
-
-paper	1
-CMOS	1
-(	3
-,	8
-presents	1
-to	3
-only	1
-factor	1
-8	1
-has	1
-scalable	1
-0.94nJ/pixel	1
-using	1
-multiplexed	1
-2x	2
-fewer	1
-vector	1
-each	1
-accuracy	1
-methods	1
-accelerator	1
-energy	1
-detection	2
-cost	1
-are	1
-images	1
-58.6mW	1
-implemented	1
-HD	1
-even	1
-detect	2
-for	3
-1920x1080	1
-body	1
-be	1
-simultaneously	1
-disabling	1
-This	1
-objects	1
-address	1
-by	1
-of	4
-quantization	1
-throughput	1
-or	1
-computational	1
-projection	1
-classification	6
-three	1
-size	1
-consuming	1
-engines	2
-basis	1
-two	3
-.	6
-reduction	2
-memory	1
-programmable	1
-:	1
-is	2
-more	1
-33x	1
-tested	1
-rigid	1
-real-time	1
-with	1
-than	2
-65nm	1
-while	1
-classes	2
-can	2
-60fps	1
-and	3
-30fps	1
-process	1
-deformable	2
-chip	2
-1168	1
-high	2
-at	1
-in	1
-DPM	1
-technology	1
-any	1
-pruning	2
-different	1
-)	3
-storage	1
-feature	1
-parts	4
-With	2
-higher	1
-used	1
-models	2
-15x	1
-object	2
-GOPS/W	1
-off-chip	1
-changing	1
-The	2
-a	2
-energy-efficient	1
-It	1
-traditional	1
-complexity	1
-without	1
-time	1
-the	5
+paper,1
+CMOS,1
+disabling,1
+presents,1
+to,3
+only,1
+factor,1
+has,1
+pixel,1
+real,1
+scalable,1
+using,1
+multiplexed,1
+fewer,1
+vector,1
+each,1
+x,5
+higher,1
+methods,1
+accelerator,1
+energy,2
+detection,2
+cost,1
+are,1
+images,1
+implemented,1
+HD,1
+even,1
+detect,2
+for,3
+body,1
+be,1
+simultaneously,1
+This,1
+objects,1
+W,1
+address,1
+by,1
+of,4
+quantization,1
+throughput,1
+or,1
+computational,1
+projection,1
+classification,6
+two,3
+size,1
+consuming,1
+engines,2
+basis,1
+three,1
+reduction,2
+memory,1
+programmable,1
+is,2
+more,1
+GOPS,1
+tested,1
+mW,1
+rigid,1
+with,1
+than,2
+while,1
+classes,2
+can,2
+and,3
+nJ,1
+process,1
+deformable,2
+chip,3
+high,2
+at,1
+in,1
+DPM,1
+technology,1
+any,1
+pruning,2
+different,1
+nm,1
+efficient,1
+storage,1
+feature,1
+parts,4
+fps,2
+With,2
+accuracy,1
+used,1
+models,2
+object,2
+changing,1
+The,2
+a,2
+off,1
+It,1
+traditional,1
+complexity,1
+without,1
+time,2
+the,5

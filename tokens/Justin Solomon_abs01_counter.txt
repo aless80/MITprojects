@@ -1,104 +1,106 @@
-
-distances	2
-over	2
-paper	1
-alternative	1
-ground	1
-We	2
-derive	1
-graph	3
-,	5
-signals	1
-to	7
-uniqueness	1
-On	1
-shipment	1
-means	1
-express	1
-;	2
-these	1
-small	1
-become	1
-domain	2
-elegant	1
-further	1
-matching	1
-transport	2
-techniques	1
-nonzero	1
-entropic	2
-network	1
-for	2
-discrete	1
-affects	1
-expressed	1
-provides	1
-between	2
-geometric	1
-minimal	1
-be	1
-we	1
-transportation	3
-linear	1
-second-order	1
-explore	1
-improve	1
-on	2
-language	1
-of	5
-ensure	1
-expense	1
-quadratically-regularized	1
-Regularization	1
-tasks	1
-probability	1
-supply	1
-exploit	1
-theoretically	1
-Newton-type	1
-.	6
-needed	1
-quadratic	1
-structure	2
-analyze	1
-but	1
-demand	1
-convergence	1
-easily-implemented	1
-with	1
-case	1
-distance	1
-this	2
-employ	1
-minimum-cost	1
-optimization	2
-can	1
-behavior	1
-problem	1
-characterizing	1
-and	1
-challenging	1
-is	1
-an	1
-as	1
-dual	1
-in	3
-Optimal	1
-distributions	1
-regime	1
-regularization	4
-how	1
-used	1
-problems	2
-flows	1
-state-of-the-art	1
-involving	1
-lifting	1
-matrix	1
-a	5
-algorithm	1
-flow	1
-points	1
-In	1
-the	7
-typically	1
+distances,2
+over,2
+paper,1
+alternative,1
+ground,1
+We,2
+derive,1
+graph,3
+signals,1
+to,7
+uniqueness,1
+On,1
+shipment,1
+means,1
+express,1
+easily,1
+Newton,1
+these,1
+small,1
+become,1
+domain,2
+art,1
+regularized,1
+second,1
+cost,1
+further,1
+implemented,1
+matching,1
+transport,2
+techniques,1
+nonzero,1
+entropic,2
+network,1
+for,2
+discrete,1
+affects,1
+expressed,1
+state,1
+provides,1
+between,2
+geometric,1
+minimal,1
+be,1
+we,1
+transportation,3
+linear,1
+explore,1
+improve,1
+on,2
+language,1
+of,6
+ensure,1
+quadratically,1
+expense,1
+Regularization,1
+tasks,1
+probability,1
+supply,1
+exploit,1
+theoretically,1
+needed,1
+quadratic,1
+structure,2
+analyze,1
+type,1
+but,1
+demand,1
+convergence,1
+with,1
+case,1
+distance,1
+elegant,1
+this,2
+employ,1
+optimization,2
+can,1
+behavior,1
+problem,1
+characterizing,1
+and,1
+challenging,1
+is,1
+an,1
+as,1
+minimum,1
+dual,1
+in,3
+Optimal,1
+distributions,1
+regime,1
+regularization,4
+how,1
+used,1
+problems,2
+flows,1
+involving,1
+lifting,1
+matrix,1
+a,5
+algorithm,1
+flow,1
+points,1
+In,1
+the,8
+typically,1
+order,1

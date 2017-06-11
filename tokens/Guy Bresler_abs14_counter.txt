@@ -1,57 +1,55 @@
-
-and	1
-constant	3
-significant	1
-characterization	1
-problem	1
-is	2
-within	1
-approximates	1
-an	1
-paper	2
-through	1
-result	1
-alternative	1
-Etkin	1
-insight	1
-by	1
-capacity	4
-deterministic	4
-interference	1
-,	5
-.	5
-regions	1
-to	2
-therefore	1
-provides	1
-finding	2
-main	1
-universal	1
-channel	7
-gives	1
-Tse	1
-explores	1
-Additionally	1
-that	2
-This	1
-uniformly	1
-differing	1
-two-user	1
-gap	1
-lens	1
-recent	1
-The	2
-model	2
-simpler	1
-a	3
-natural	1
-derivation	1
-of	7
-Thus	1
-Gaussian	4
-error	1
-far	1
-the	13
-Wang	1
-reduced	1
-towards	1
+and,1
+constant,3
+significant,1
+characterization,1
+problem,1
+is,2
+within,1
+approximates,1
+an,1
+paper,2
+through,1
+result,1
+alternative,1
+Etkin,1
+insight,1
+capacity,4
+deterministic,4
+interference,1
+two,1
+by,1
+regions,1
+to,2
+therefore,1
+provides,1
+finding,2
+main,1
+universal,1
+channel,7
+gives,1
+Tse,1
+explores,1
+Additionally,1
+that,2
+This,1
+uniformly,1
+differing,1
+gap,1
+lens,1
+user,1
+recent,1
+The,2
+model,2
+simpler,1
+a,3
+natural,1
+derivation,1
+of,7
+Thus,1
+Gaussian,4
+error,1
+far,1
+the,13
+Wang,1
+reduced,1
+towards,1

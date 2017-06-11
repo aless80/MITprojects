@@ -1,107 +1,98 @@
-
-arbitrarily	1
-particularly	1
-over	1
-random	1
-results	2
-discovered	1
-paper	1
-existence	1
-whose	1
-$	12
-(	6
-,	7
-0	1
-only	2
-has	1
-nearly	2
-using	1
-low-tech	1
-and	3
-small	1
--space	1
-our	1
-\Omega	2
-tensor	1
-for	2
-N-dimensional	1
-since	1
-However	1
-include	1
-subspaces	4
-approach	1
-we	2
-extend	1
-Characteristic	1
-complement	1
-error-correcting	1
-by	1
-search	1
-of	4
-allows	1
-\ell_1	1
-products	1
-neighbor	1
-hence	1
-N^a	1
--dimensional	1
-exhibit	1
-computational	1
-features	1
-use	1
-to	2
-contains	1
-been	1
-.	5
-not-quite-suitable	1
-2	1
-distortions	1
-scheme	1
-bits	1
->	1
-``	2
-\ell_1^N	1
-that	1
-N	2
-Euclidean	3
-known	1
-with	1
-present	1
-made	1
-this	1
-work	1
-while	1
-were	1
-Our	1
-non-constructive	1
-high-dimensional	1
-nearest	1
-almost	1
-is	1
-yielding	1
-''	2
-any	1
-proofs	1
-compressive	1
-)	6
-1	1
-other	1
-which	2
-reals	1
-simplicity	1
-'s	1
-problems	1
-applications	1
-codes	1
-such	1
-probabilistic	1
-the	3
-recent	1
-a	2
-It	1
-1970	1
-Guruswami-Lee-Wigderson	1
-In	1
-subsequently	1
-sensing	1
-dimension	1
+particularly,1
+Wigderson,1
+over,1
+random,1
+results,2
+discovered,1
+paper,1
+existence,1
+whose,1
+ell,2
+to,2
+only,2
+has,1
+non,1
+nearly,2
+not,1
+using,1
+correcting,1
+small,1
+tensor,1
+Guruswami,1
+proofs,1
+Lee,1
+for,2
+space,1
+since,1
+However,1
+include,1
+subspaces,4
+approach,1
+we,2
+extend,1
+Characteristic,1
+complement,1
+were,1
+quite,1
+constructive,1
+by,1
+search,1
+of,4
+allows,1
+s,1
+products,1
+neighbor,1
+hence,1
+suitable,1
+arbitrarily,1
+exhibit,1
+computational,1
+features,1
+dimensional,3
+use,1
+contains,1
+been,1
+low,1
+distortions,1
+scheme,1
+bits,1
+that,1
+N,5
+Euclidean,3
+known,1
+with,1
+present,1
+made,1
+this,1
+work,1
+while,1
+error,1
+Our,1
+and,3
+nearest,1
+almost,1
+is,1
+yielding,1
+high,1
+our,1
+any,1
+codes,1
+compressive,1
+other,1
+which,2
+reals,1
+Omega,2
+simplicity,1
+problems,1
+applications,1
+such,1
+probabilistic,1
+the,3
+recent,1
+a,3
+It,1
+tech,1
+In,1
+subsequently,1
+sensing,1
+dimension,1

@@ -1,70 +1,68 @@
-
-and	3
-the	4
-methods	1
-formulate	1
-mislocalizations	1
-problem	2
-results	1
-an	1
-detection	2
-as	1
-are	1
-in	1
-constrained	1
-remedying	1
-challenging	1
-We	2
-discriminative	1
-for	1
-informative	1
-data	1
-cope	1
-submodular	1
-.	4
-examples	1
-to	1
-positive	1
-finding	1
-increasing	1
-approach	1
-minimal	1
-dataset	1
-,	1
-that	3
-propose	1
-object	2
-nurtures	1
-given	1
-Together	1
-weakly-supervised	1
-state-of-the-art	1
-visual	1
-negative	1
-demand	1
-The	1
-on	1
-with	1
-class	1
-a	3
-discovered	1
-training	1
-weakly	1
-benefits	1
-lead	1
-VOC	1
-these	1
-of	4
-prominence	1
-PASCAL	1
-supervision	1
-patterns	1
-labeled	1
-optimization	1
-can	1
-characteristic	1
-growing	1
-demonstrate	1
-identifies	1
-automatically	1
-configurations	2
+and,3
+the,5
+art,1
+methods,1
+formulate,1
+mislocalizations,1
+problem,2
+results,1
+an,1
+detection,2
+as,1
+are,1
+in,1
+constrained,1
+remedying,1
+challenging,1
+We,2
+discriminative,1
+for,1
+informative,1
+data,1
+cope,1
+submodular,1
+examples,1
+to,1
+state,1
+positive,1
+finding,1
+increasing,1
+approach,1
+minimal,1
+dataset,1
+that,3
+propose,1
+object,2
+nurtures,1
+given,1
+Together,1
+visual,1
+negative,1
+demand,1
+The,1
+on,1
+with,1
+class,1
+a,3
+discovered,1
+training,1
+weakly,2
+benefits,1
+lead,1
+VOC,1
+these,1
+of,5
+prominence,1
+PASCAL,1
+supervision,1
+patterns,1
+labeled,1
+optimization,1
+supervised,1
+can,1
+characteristic,1
+growing,1
+demonstrate,1
+identifies,1
+automatically,1
+configurations,2

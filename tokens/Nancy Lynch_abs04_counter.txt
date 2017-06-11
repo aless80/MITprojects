@@ -1,165 +1,147 @@
-
-operations	1
-all	1
-protocol	1
-consider	2
-show	2
-developed	1
-over	2
-focus	1
-paper	2
-atomic	2
-gossip	2
-\log_2	2
-MWSR	1
-one	1
-whose	1
-We	6
-based	1
-$	26
-(	10
-distributed	1
-,	7
-to	2
-total	3
-has	1
-then	1
-erasure	1
-point-to-point	1
-results	1
-replication	1
-2	5
-every	2
-not	1
-multi-writer	1
-execution	2
-several	1
-follows	1
-applicable	1
-server	4
-arbitrary	1
-where	3
-|	4
-Previous	1
-set	1
-fair	1
-sends	1
-uses	1
-cost	7
-are	2
-operation	1
-emulating	1
-techniques	1
-even	1
-N-f+2	1
-N-f+1	1
-invoked	1
-N-f+\nu^*-1	1
-single-reader	1
-sum	1
-|\mathcal	4
-does	1
-shared	4
-;	1
-method	1
-we	2
-\log_	2
-use	1
-base	1
-emulation	2
-active	1
-come	1
-universally	1
-on	4
-about	1
-of	16
-total-storage	1
-o	1
-bounded	1
-{	15
-or	1
-\nu^*	2
-encoding	1
-information-theoretic	1
-coding	1
-number	3
-servers	2
-phase	1
-smaller	1
-message	1
-.	12
-\mathcal	1
-from	1
-|-o	2
-system	2
-least	2
-by	3
-assumption	1
-structure	1
-terminates	1
-memory	4
-f+1	1
-define	1
-implements	1
-that	5
--	1
-N	4
-understand	1
-V	7
-iii	1
-than	1
-present	1
-logarithm	1
-ii	1
-f	1
-this	2
-require	1
-bounds	2
-value	1
-values	1
-can	1
-Our	2
-and	2
-\frac	3
-links	1
-is	8
-it	1
-an	5
-states	1
-as	2
-minimum	1
-asynchronous	2
-at	4
-in	3
-if	2
-information	1
-no	1
-)	9
-non-failing	1
-make	1
-storage	8
-write	2
-client	1
-take	1
-finite	1
-parameter	1
-A	5
-literature	1
-most	1
-connected	1
-variable	1
-The	2
-data	1
-passing	1
-incurred	1
-a	5
-lower	3
-algorithm	7
-i	1
-\log_2|\mathcal	2
-costs	2
-algorithms	3
-In	1
-failures	1
-the	18
-}	15
+operations,1
+all,1
+protocol,1
+consider,2
+show,2
+developed,1
+over,2
+focus,1
+paper,2
+atomic,2
+gossip,2
+MWSR,1
+one,1
+whose,1
+We,6
+based,1
+point,2
+distributed,1
+to,3
+has,1
+then,1
+erasure,1
+results,1
+replication,1
+every,2
+mathcal,7
+not,1
+execution,2
+several,1
+follows,1
+applicable,1
+server,4
+arbitrary,1
+where,3
+Previous,1
+set,1
+fair,1
+sends,1
+uses,1
+cost,7
+are,2
+operation,1
+emulating,1
+theoretic,1
+techniques,1
+even,1
+invoked,1
+sum,1
+does,1
+reader,1
+it,1
+shared,4
+method,1
+we,2
+base,1
+emulation,2
+active,1
+come,1
+universally,1
+on,4
+about,1
+of,16
+o,3
+bounded,1
+passing,1
+or,1
+writer,1
+encoding,1
+coding,1
+number,3
+servers,2
+phase,1
+smaller,1
+message,1
+total,4
+use,1
+from,1
+log,6
+system,2
+least,2
+by,3
+assumption,1
+structure,1
+terminates,1
+memory,4
+define,1
+implements,1
+that,5
+N,7
+understand,1
+V,7
+iii,1
+than,1
+present,1
+logarithm,1
+ii,1
+multi,1
+f,5
+this,2
+require,1
+bounds,2
+value,1
+values,1
+can,1
+Our,2
+and,2
+links,1
+is,8
+non,1
+an,5
+states,1
+single,1
+minimum,1
+asynchronous,2
+at,4
+in,3
+as,2
+if,2
+information,2
+no,1
+make,1
+storage,9
+write,2
+client,1
+take,1
+finite,1
+parameter,1
+nu,3
+A,5
+literature,1
+frac,3
+most,1
+connected,1
+variable,1
+The,2
+data,1
+incurred,1
+a,5
+lower,3
+algorithm,7
+i,1
+failing,1
+costs,2
+algorithms,3
+In,1
+failures,1
+the,18

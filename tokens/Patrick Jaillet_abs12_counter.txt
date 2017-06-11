@@ -1,88 +1,87 @@
-
-consider	1
-history-dependent	1
-results	1
-experiments	1
-through	1
-help	1
-impact	1
-We	1
-graph	1
-Leveraging	1
-,	5
-to	2
-only	1
-stochastic	1
-directed	1
-lack	1
-risk	1
-introduce	1
-finding	1
-intervals	1
-where	1
-mean	2
-weighted	1
-some	1
-cost	1
-are	1
-network	1
-Singapore	1
-optimization	1
-routing	1
-approach	1
-we	3
-run	1
-general-purpose	1
-by	1
-on	3
-benefits	1
-of	5
-counterpart	1
-road	1
-probability	1
-robust	3
-strategy	2
-illustrate	1
-confidence	1
-statistics	1
-from	1
-spending	1
-quantile	1
-approximate	1
-.	4
-more	1
-known	1
-with	1
-than	1
-distributionally	1
-compute	1
-budget	1
-arc	2
-problem	1
-and	1
-is	1
-an	2
-To	2
-as	1
-in	1
-distributions	2
-any	1
-absolute	1
-information	1
-develop	1
-when	1
-field	1
-objective	1
-optimal	2
-deviation	1
-numerical	1
-such	1
-data	1
-recent	1
-a	4
-prescribed	1
-mitigate	1
-algorithm	1
-minimize	1
-costs	1
-the	12
+consider,1
+lack,1
+results,1
+experiments,1
+through,1
+help,1
+impact,1
+We,1
+graph,1
+Leveraging,1
+to,2
+only,1
+stochastic,1
+directed,1
+risk,1
+dependent,1
+introduce,1
+objective,1
+intervals,1
+where,1
+mean,2
+weighted,1
+some,1
+cost,1
+are,1
+network,1
+Singapore,1
+optimization,1
+routing,1
+approach,1
+we,3
+run,1
+by,1
+on,3
+benefits,1
+of,5
+counterpart,1
+road,1
+probability,1
+robust,3
+illustrate,1
+confidence,1
+statistics,1
+from,1
+spending,1
+quantile,1
+approximate,1
+strategy,2
+more,1
+known,1
+general,1
+with,1
+than,1
+distributionally,1
+compute,1
+budget,1
+arc,2
+problem,1
+history,1
+and,1
+is,1
+an,2
+To,2
+as,1
+in,1
+distributions,2
+any,1
+absolute,1
+information,1
+develop,1
+when,1
+field,1
+finding,1
+optimal,2
+deviation,1
+numerical,1
+purpose,1
+such,1
+data,1
+recent,1
+a,4
+prescribed,1
+mitigate,1
+algorithm,1
+minimize,1
+costs,1
+the,12

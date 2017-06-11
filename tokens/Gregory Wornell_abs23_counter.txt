@@ -1,108 +1,102 @@
-
-over	1
-illustrated	1
-sources	1
-underlying	1
-consists	1
-degraded	2
-contributions	1
-functionally	1
-conditionally	1
-We	3
-,	5
-reversely	1
-source	5
-input	1
-achieve	1
-propose	1
-maximized	1
-joint	1
-balancing	1
-legitimate	1
---	1
-communicates	1
-establishing	1
-discrete	2
-optimally	1
-where	1
-upper	1
-observes	1
-rate	1
-are	3
-established	1
-shown	1
-capacity	4
-for	1
-access	2
-version	1
-between	1
-shared	1
-approach	1
-public	1
-terms	1
-This	1
-terminals	3
-key	1
-from	1
-by	1
-on	1
-sender	1
-eavesdropper	3
-of	7
-study	1
-studied	1
-receiver	3
-When	1
-bound	1
-channels	2
-Finally	1
-sequences	1
-establish	2
-given	1
-additive	1
-to	3
-sequence	1
-two	1
-.	9
-secret	1
-generating	2
-that	1
-These	1
-outputs	1
-optimality	1
-case	2
-equivocation	1
-this	1
-setup	1
-bounds	2
-problem	1
-and	9
-memoryless	2
-is	5
-it	1
-codebooks	1
-have	2
-in	2
-source-channel	1
-discussion	1
-when	5
-detail	1
-also	3
-coincide	1
-channel	7
-independent	2
-separate	1
-keys	1
-secret-key	3
-additionally	1
-The	1
-parallel	1
-a	6
-lower	2
-correlated	1
-wiretap	2
-Gaussian	2
-tradeoff	1
-components	2
-In	1
-the	28
+over,1
+illustrated,1
+sources,1
+underlying,1
+consists,1
+degraded,2
+contributions,1
+functionally,1
+conditionally,1
+We,3
+reversely,1
+to,3
+input,1
+achieve,1
+propose,1
+maximized,1
+joint,1
+balancing,1
+legitimate,1
+communicates,1
+establishing,1
+discrete,2
+optimally,1
+where,1
+upper,1
+observes,1
+rate,1
+are,3
+established,1
+shown,1
+capacity,4
+for,1
+access,2
+version,1
+between,1
+shared,1
+approach,1
+public,1
+terms,1
+This,1
+terminals,3
+key,4
+from,1
+by,1
+on,1
+sender,1
+eavesdropper,3
+of,7
+study,1
+studied,1
+receiver,3
+When,1
+bound,1
+channels,2
+Finally,1
+sequences,1
+establish,2
+given,1
+additive,1
+source,6
+sequence,1
+two,1
+secret,4
+generating,2
+that,1
+These,1
+outputs,1
+optimality,1
+case,2
+equivocation,1
+this,1
+setup,1
+bounds,2
+problem,1
+and,9
+memoryless,2
+is,5
+it,1
+codebooks,1
+have,2
+in,2
+discussion,1
+when,5
+detail,1
+also,3
+coincide,1
+channel,8
+independent,2
+separate,1
+keys,1
+additionally,1
+The,1
+parallel,1
+a,6
+lower,2
+correlated,1
+wiretap,2
+Gaussian,2
+tradeoff,1
+components,2
+In,1
+the,28

@@ -1,164 +1,161 @@
-
-proposed	1
-show	2
-random	1
-obtain	1
-bounded-degree	1
-identify	1
-networks	4
-sampled	1
-We	2
-coloring	1
-how	1
-graph	2
-,	11
-to	5
-stochastic	1
-might	1
-On	3
-intractable	1
-H	1
-possible	1
-possibly	1
-ones	1
-closely	1
-not	1
-2	1
-;	4
-structural	1
-Barabasi-Albert	1
-large	1
-sparsity	1
-either	1
-sparse	1
-contain	1
-small	1
-including	2
-fixed	1
-side	3
-sequence	1
-H-subgraphs	1
-Specifically	1
-well-observed	1
-strongest	1
-design	1
-are	1
-provided	1
-what	1
-one-subdivisions	1
-network	2
-for	6
-currently	1
-research	1
-3	1
-Molloy-Reed	1
-induced	1
-common	1
-measuring	1
-be	1
-we	6
-algorithmic	1
-linear	1
-degree	2
-cliques	1
-This	2
-real-world	3
-expansion	6
-setups	1
-host	1
-become	1
-configuration	1
-by	2
-on	1
-tractable	1
-many	3
-study	1
-Chung-Lu	1
-practical	1
-efficiently	1
-(	6
-or	1
-block	1
-perturbed	1
-features	1
-previously	2
-number	3
-computing	1
-apply	1
-centrality	1
-tools	1
-clustering	1
-strong	1
-prove	1
-probabilities	1
-give	1
-.	8
-much	1
-low	1
-corpus	1
-analyze	1
-theoretical	1
-more	1
-``	2
-enable	1
-that	5
-sufficient	1
-fastest-known	1
-Kleinberg	1
-related	1
-evidence	1
-with	3
-than	1
-achieves	1
-:	1
-formalization	1
-aims	1
-can	1
-of	12
-following	1
-property	1
-result	2
-and	7
-do	1
-is	2
-thus	1
-general	1
-''	2
-characterize	1
-have	2
-in	3
-counting	1
-distributions	1
-graphs	5
-)	6
-H-homomorphisms	1
-1	1
-also	1
-high	1
-complex	2
-which	2
-solve	1
-several	1
-used	2
-treedepth	1
-models	2
-measures	1
-problems	2
-variation	1
-bounded	6
-data	1
-the	17
-w.h.p.	1
-a	5
-prescribed	1
-algorithm	1
-framework	1
-analysis	2
-efficient	1
-algorithms	2
-experimental	1
-allow	1
-model	5
-typical	1
-notion	1
-heavy-tailed	1
+proposed,1
+show,2
+random,1
+obtain,1
+identify,1
+networks,4
+sampled,1
+We,2
+coloring,1
+how,1
+graph,2
+to,5
+stochastic,1
+might,1
+real,3
+On,3
+intractable,1
+H,3
+possible,1
+possibly,1
+ones,1
+fastest,1
+closely,1
+not,1
+world,3
+structural,1
+homomorphisms,1
+Chung,1
+h,1
+large,1
+p,1
+either,1
+sparse,1
+contain,1
+small,1
+including,2
+fixed,1
+side,3
+heavy,1
+Molloy,1
+sequence,1
+do,1
+Specifically,1
+observed,1
+strongest,1
+design,1
+are,1
+provided,1
+what,1
+network,2
+for,6
+sparsity,1
+currently,1
+research,1
+Reed,1
+induced,1
+common,1
+measuring,1
+be,1
+we,6
+algorithmic,1
+linear,1
+degree,3
+cliques,1
+This,2
+expansion,6
+setups,1
+host,1
+become,1
+configuration,1
+by,2
+on,1
+tractable,1
+of,12
+study,1
+practical,1
+w,1
+tailed,1
+or,1
+block,1
+perturbed,1
+features,1
+previously,2
+number,3
+one,1
+subgraphs,1
+computing,1
+apply,1
+tools,1
+clustering,1
+strong,1
+prove,1
+probabilities,1
+give,1
+centrality,1
+much,1
+low,1
+corpus,1
+analyze,1
+theoretical,1
+more,1
+enable,1
+that,5
+sufficient,1
+Kleinberg,1
+related,1
+known,1
+evidence,1
+with,3
+than,1
+achieves,1
+formalization,1
+aims,1
+can,1
+many,3
+following,1
+property,1
+result,2
+and,7
+Barabasi,1
+is,2
+thus,1
+general,1
+high,1
+characterize,1
+Lu,1
+have,2
+in,3
+counting,1
+distributions,1
+efficient,1
+Albert,1
+also,1
+complex,2
+which,2
+solve,1
+several,1
+used,2
+treedepth,1
+models,2
+measures,1
+problems,2
+variation,1
+bounded,7
+data,1
+the,17
+efficiently,1
+a,5
+prescribed,1
+algorithm,1
+framework,1
+well,1
+analysis,2
+graphs,5
+subdivisions,1
+algorithms,2
+experimental,1
+allow,1
+model,5
+notion,1
+typical,1

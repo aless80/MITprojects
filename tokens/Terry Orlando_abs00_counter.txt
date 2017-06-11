@@ -1,95 +1,87 @@
-
-proximity	1
-report	1
-shape	1
-pulses	2
-We	1
-density	1
-(	1
-,	7
-environment	1
-to	6
-quasiparticles	1
-threefold	1
-systems	1
-stochastic	1
-evolution	2
-not	1
-processes	1
-investigate	1
-erroneous	1
-methods	1
-sequence	1
-energy	1
-reduce	2
-comparable	1
-deterministically	1
-are	1
-quantum	1
-close	1
-techniques	1
-errors	2
-for	1
-However	1
-approach	1
-correct	1
-variability	1
-we	3
-noise	2
-Dynamical	1
-complementary	1
-qubits	1
-pumping	1
-unwanted	1
-relaxation	2
-by	2
-improve	1
-reverse	1
-of	3
-commonly	1
-times	1
-resulting	1
-context	1
-implement	1
-and	1
-reversing	1
-quasiparticle	1
-number	1
-reducing	1
-use	1
-.	6
-reduction	2
-:	1
-coherence	2
-environmental	1
-coherent	1
-irreversible	1
-applying	1
-this	1
-work	1
-superconducting	1
-dephasing	1
-can	1
-error	1
-unpaired	1
-enhancement	1
-control	2
-dynamically	1
-as	1
-in	6
-%	1
-)	1
-They	1
-instead	1
-used	1
-driven	1
-designed	1
-suppression	1
-70	1
-device	1
-such	2
-qubit	2
-a	5
-electrons	1
-In	2
-the	6
+proximity,1
+report,1
+shape,1
+pulses,2
+We,1
+density,1
+environment,1
+to,6
+quasiparticles,1
+threefold,1
+systems,1
+stochastic,1
+evolution,2
+not,1
+processes,1
+investigate,1
+erroneous,1
+methods,1
+sequence,1
+energy,1
+reduce,2
+we,3
+deterministically,1
+are,1
+quantum,1
+close,1
+techniques,1
+errors,2
+for,1
+However,1
+approach,1
+correct,1
+variability,1
+comparable,1
+noise,2
+Dynamical,1
+complementary,1
+qubits,1
+pumping,1
+unwanted,1
+relaxation,2
+by,2
+improve,1
+reverse,1
+of,3
+commonly,1
+times,1
+resulting,1
+context,1
+implement,1
+and,1
+reversing,1
+quasiparticle,1
+number,1
+reducing,1
+use,1
+reduction,2
+coherence,2
+environmental,1
+coherent,1
+irreversible,1
+applying,1
+this,1
+work,1
+superconducting,1
+dephasing,1
+can,1
+error,1
+unpaired,1
+enhancement,1
+control,2
+dynamically,1
+as,1
+in,6
+They,1
+instead,1
+used,1
+driven,1
+designed,1
+suppression,1
+device,1
+such,2
+qubit,2
+a,5
+electrons,1
+In,2
+the,6

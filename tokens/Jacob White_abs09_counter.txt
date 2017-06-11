@@ -1,142 +1,131 @@
-
-all	1
-code	1
-just	1
-over	1
-particular	1
-efficient	1
-integrands	1
-its	1
-We	1
-$	8
-how	1
-implementation	2
-(	2
-technique	3
-,	11
-improvement	1
-to	5
-systems	1
-Taylor2003	1
-has	1
-4-dimensional	1
-achieve	1
-Duffy	1
-3-n	1
-disparate	1
-obtaining	1
-showing	1
-aggregation	1
-open-source	1
-presented	1
---	1
-evaluation	1
-large	1
-contrast	1
-integrals	3
-analytical	1
-reduced	1
-schemes	1
-often	2
-BEM	3
-reduce	1
-result	1
-our	1
-boundary-element	1
-for	4
-broad	1
-Duffy1982	1
-integral-evaluation	1
-between	1
-;	2
-computer-algebra	1
-method	2
-scuff-em	1
-common	1
-available	1
-be	2
-we	2
-efficiency	1
-nonsingular	1
-by	4
-Taylor	1
-many	2
-allows	1
-practical	1
-addition	1
-domains	1
-{	4
-software	1
-computational	1
-family	1
-integral	2
-number	1
-one	1
-closed-form	1
-solvers	1
-given	1
-from	1
-handled	1
-distinct	1
-two	1
-.	4
-needed	1
-approach	1
-treat	1
-was	1
-final	1
-4-n	1
-generalizing	1
-automated	1
-cases	1
-present	1
-case	1
-common-triangle	1
-this	1
-type	1
-originally	1
-single	1
-n	1
-those	1
-can	1
-of	14
-Our	1
-and	3
-is	2
-formulation	1
-generalization	1
-To	1
-as	2
-n=3	1
-in	5
-triangles	1
-if	1
-different	1
-triangle-product	1
-)	2
-same	2
-also	1
-which	1
-multiple	1
-singular	1
-may	1
-numerical	2
-\cite	2
-significant	2
-date	1
-such	1
-class	1
-types	2
-electromagnetism	1
-a	8
-algorithm	1
-arising	1
-required	1
-vertices	1
-generic	1
-\emph	2
-In	1
-the	13
-integrand	1
-}	4
-dimension	2
+all,1
+code,1
+just,1
+over,1
+particular,1
+integrands,1
+its,1
+We,1
+how,1
+implementation,2
+technique,3
+improvement,1
+to,5
+systems,1
+has,1
+achieve,1
+Duffy,2
+triangle,2
+disparate,1
+obtaining,1
+showing,1
+aggregation,1
+presented,1
+evaluation,2
+large,1
+common,2
+integrals,3
+analytical,1
+reduced,1
+em,1
+schemes,1
+often,2
+BEM,3
+reduce,1
+emph,2
+computer,1
+result,1
+our,1
+n,4
+for,4
+broad,1
+algebra,1
+closed,1
+between,1
+boundary,1
+approach,1
+method,2
+contrast,1
+available,1
+be,2
+we,2
+efficiency,1
+nonsingular,1
+by,4
+Taylor,2
+of,14
+allows,1
+practical,1
+addition,1
+domains,1
+software,1
+computational,1
+family,1
+integral,3
+number,1
+one,1
+dimensional,1
+solvers,1
+open,1
+given,1
+from,1
+handled,1
+source,1
+distinct,1
+two,1
+needed,1
+treat,1
+was,1
+cite,2
+form,1
+generalizing,1
+automated,1
+cases,1
+present,1
+case,1
+this,1
+type,1
+originally,1
+single,1
+final,1
+those,1
+can,1
+many,2
+Our,1
+and,3
+is,2
+formulation,1
+generalization,1
+To,1
+as,2
+in,5
+triangles,1
+if,1
+different,1
+scuff,1
+generic,1
+same,2
+also,1
+which,1
+product,1
+multiple,1
+singular,1
+may,1
+numerical,2
+significant,2
+date,1
+such,1
+class,1
+types,2
+electromagnetism,1
+a,8
+algorithm,1
+required,1
+vertices,1
+element,1
+efficient,1
+In,1
+the,13
+integrand,1
+arising,1
+dimension,2

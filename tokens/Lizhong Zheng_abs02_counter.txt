@@ -1,71 +1,68 @@
-
-and	3
-maximal	1
-learn	2
-then	1
-simple	1
-in	3
-bound	1
-an	1
-achieves	1
-To	1
-paper	1
-formulation	2
-alternative	1
-vanish	1
-correlation	1
-their	1
-out	1
-We	1
-procedure	1
-for	1
-how	1
-likelihood	2
-equivalence	1
-squared	1
-,	4
-suboptimal	1
-.	4
-to	5
-coefficients	1
-forces	1
-input	1
-Gaussian	1
-This	1
-coefficient	2
-be	1
-we	2
-used	1
-linear	1
-that	1
-models	2
-equivalent	1
-processing	2
-divergence	2
-but	1
-algebraic	1
-a	2
-performance	1
-using	1
-strong	1
-data	2
-finite	1
-present	1
-contraction	3
-delineate	1
-loss	1
-analyze	1
-regime	2
-this	2
-of	2
-prove	1
-solution	1
-discrete	1
-KL	2
-these	1
-admit	1
-inequality	2
-can	1
-In	1
-the	8
-turns	1
+and,3
+maximal,1
+then,1
+simple,1
+in,3
+bound,1
+an,1
+achieves,1
+To,1
+paper,1
+formulation,2
+alternative,1
+vanish,1
+correlation,1
+their,1
+out,1
+We,1
+procedure,1
+for,1
+how,1
+likelihood,2
+equivalence,1
+squared,1
+suboptimal,1
+to,5
+coefficients,1
+forces,1
+input,1
+Gaussian,1
+This,1
+coefficient,2
+be,1
+we,2
+used,1
+linear,1
+that,1
+models,2
+equivalent,1
+processing,2
+divergence,2
+but,1
+algebraic,1
+a,2
+performance,1
+using,1
+strong,1
+data,2
+finite,1
+present,1
+contraction,3
+delineate,1
+loss,1
+analyze,1
+regime,2
+In,1
+this,2
+of,2
+prove,1
+solution,1
+discrete,1
+KL,2
+these,1
+admit,1
+inequality,2
+can,1
+learn,2
+the,8
+turns,1

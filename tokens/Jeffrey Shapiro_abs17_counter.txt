@@ -1,114 +1,112 @@
-
-protocol	1
-results	1
-existing	1
-through	1
-satellite-to-ground	1
-avenue	1
-25	1
-We	1
-(	4
-point	1
-,	4
-to	4
-detected	1
-photon-starved	1
-under	1
-achieve	1
-photon-reception-rate	1
-loss	2
-conditions	1
-collective	1
-communications	2
-security	1
-one-bit-per-photon	1
-afforded	1
-classical	1
-PPM-QKD	1
-design	1
-enhancement	1
-quantum	2
-continuous-variable	1
-beyond	1
-2.5	1
-established	1
-capacity	1
-for	2
-measurements	1
-long-haul	1
-per	1
-new	1
-approach	1
-we	1
-fiber	1
-whose	1
-equivalent	1
-processing	1
-key	2
-post	1
-by	2
-on	1
-limits	1
-attacks	1
-of	2
-against	1
-throughput	1
-conveniently	1
-or	2
-decoy-state	1
-high-dimensional	1
-significant	1
-encoding	2
-achievable	1
-8.0	1
-puts	1
-.	4
-their	2
-rates	1
-fiber-optic	2
-bits	1
-enable	1
-that	2
-These	1
-Inspired	1
-photon	1
-with	1
-protocols	1
-novel	1
-up	1
-employ	1
-limit	1
-demonstrate	1
-distribution	1
-long-distance	1
-and	2
-associated	1
-links	1
-is	1
-thus	1
-high	1
-performed	1
-in	1
-binary	1
-4.0	1
-)	4
-realizing	1
-PPM	1
-QKD	1
-also	1
-channel	1
-Mbit/s	2
-most	1
-secret-key	1
-demonstrating	1
-entanglement	1
-The	1
-satellite-based	1
-a	4
-especially	1
-pulse-position-modulation	1
-km	1
-high-throughput	1
-fundamental	1
-the	3
-first	1
+protocol,1
+results,1
+existing,1
+through,1
+reception,1
+avenue,1
+ground,1
+whose,1
+We,1
+based,1
+point,1
+to,5
+detected,1
+under,1
+achieve,1
+haul,1
+bit,1
+loss,2
+approach,1
+collective,1
+communications,2
+security,1
+afforded,1
+classical,1
+pulse,1
+rate,1
+design,1
+enhancement,1
+quantum,2
+beyond,1
+established,1
+capacity,1
+for,2
+measurements,1
+per,2
+state,1
+new,1
+conditions,1
+we,1
+fiber,3
+equivalent,1
+processing,1
+key,3
+post,1
+by,2
+on,1
+limits,1
+attacks,1
+of,2
+against,1
+s,2
+throughput,2
+conveniently,1
+or,2
+first,1
+significant,1
+encoding,2
+one,1
+dimensional,1
+variable,1
+achievable,1
+puts,1
+long,2
+their,2
+secret,1
+rates,1
+bits,1
+Mbit,2
+enable,1
+that,2
+These,1
+Inspired,1
+continuous,1
+photon,4
+with,1
+protocols,1
+distance,1
+novel,1
+up,1
+employ,1
+limit,1
+demonstrate,1
+distribution,1
+and,2
+associated,1
+links,1
+is,1
+thus,1
+high,3
+performed,1
+in,1
+binary,1
+decoy,1
+realizing,1
+PPM,2
+QKD,2
+also,1
+channel,1
+satellite,2
+fundamental,1
+optic,2
+modulation,1
+most,1
+demonstrating,1
+entanglement,1
+The,1
+a,4
+especially,1
+km,1
+starved,1
+position,1
+the,3

@@ -1,169 +1,155 @@
-
-walking	1
-just	1
-show	1
-is	1
-when	1
-accurate	1
-random	2
-obtain	1
-underlying	1
-graph	1
-networks	1
-We	3
-group	1
-$	12
-density	7
-(	4
-walked-based	1
-distributed	2
-,	11
-to	7
-\left	1
-complex	1
-helps	1
-factor	1
-has	1
-\pm	1
-worse	1
-matches	1
-Many	1
-collide	1
-results	1
-grid	3
-nearly	1
-anonymous	1
-not	1
-using	1
-discuss	1
-encounter	3
-\tilde	1
-enemy	1
-d	2
---	1
-these	1
-steps	1
-each	1
-multiplicative	1
-inherent	1
-Pra05	2
-shed	1
-From	2
-often	1
-bump	1
-estimates	1
-are	1
-our	2
-beyond	1
-happens	1
-shown	1
-network	1
-for	1
-local\	1
-1/\delta	1
-\log	2
-new	1
-sensor	1
-measuring	1
-mixing\	1
-we	1
-extend	1
-O	1
-provides	1
-dependencies	3
-biological	1
-estimate	3
-understanding	1
-by	4
-on	2
-technical	1
-of	6
-study	1
-social	2
-1/d\epsilon	1
-{	2
-estimation	4
-nearby	1
-via	1
-probability	1
-\right	1
-into	1
-within	1
-colony	1
-bound	2
-ants	3
-sampling	2
-agents	3
-insects	1
-tools	1
-[	4
-size	1
-properties	1
-from	2
-probabilities	1
-been	1
-.	9
-their	2
-rates	3
-d\epsilon^2	1
-Gor99	1
-ranging	1
-more	2
-that	3
-Despite	1
-task	1
-repeatedly	1
-with	2
-population	2
-ant	1
-this	2
-work	1
-theoretical	1
-employ	1
-can	2
-light	1
-Our	1
-Ada90	1
-robot	1
-appraisal	1
-perspective	3
-and	4
-\frac	1
-recognize	1
-\epsilon	1
-walks	1
-locations	1
-GPT93	1
-general	1
-randomly	1
-collision	1
-1-\delta	1
-in	4
-species	1
-relatively	1
-strength	2
-)	4
-able	1
-1	1
-how	1
-other	3
-higher	1
-multiple	1
-may	1
-swarms	1
-what	1
-allocation	1
-applications	2
-]	4
-a	6
-independently	1
-tracking	1
-quorum	1
-}	2
-required	1
-It	1
-analysis	1
-graphs	1
-the	9
-sensing	1
-fact	1
+walking,1
+just,1
+show,1
+insects,1
+when,1
+accurate,1
+random,2
+obtain,1
+not,1
+underlying,1
+tilde,1
+networks,1
+We,3
+group,1
+density,7
+graph,1
+distributed,2
+to,7
+complex,1
+helps,1
+factor,1
+has,1
+local,1
+worse,1
+matches,1
+Many,1
+collide,1
+results,1
+grid,3
+nearly,1
+anonymous,1
+GPT,1
+using,1
+multiple,1
+discuss,1
+encounter,3
+enemy,1
+Pra,2
+d,4
+these,1
+steps,1
+each,1
+multiplicative,1
+inherent,1
+shed,1
+right,1
+From,2
+often,1
+bump,1
+estimates,1
+perspective,3
+our,2
+beyond,1
+happens,1
+shown,1
+network,1
+for,1
+provides,1
+new,1
+sensor,1
+measuring,1
+we,1
+extend,1
+O,1
+understanding,1
+dependencies,3
+biological,1
+based,1
+estimate,3
+by,4
+on,2
+technical,1
+of,6
+study,1
+social,2
+estimation,4
+nearby,1
+via,1
+probability,1
+into,1
+within,1
+colony,1
+bound,2
+ants,3
+sampling,2
+agents,3
+Ada,1
+mixing,1
+tools,1
+size,1
+from,2
+log,2
+probabilities,1
+been,1
+properties,1
+their,2
+rates,3
+ranging,1
+pm,1
+that,3
+epsilon,3
+Despite,1
+task,1
+repeatedly,1
+delta,2
+with,2
+population,2
+ant,1
+this,2
+work,1
+theoretical,1
+employ,1
+can,2
+swarms,1
+Our,1
+more,2
+appraisal,1
+are,1
+and,4
+recognize,1
+is,1
+walks,1
+locations,1
+robot,1
+general,1
+randomly,1
+collision,1
+walked,1
+in,4
+species,1
+Gor,1
+strength,2
+able,1
+how,1
+other,3
+relatively,1
+higher,1
+frac,1
+may,1
+what,1
+allocation,1
+applications,2
+a,6
+independently,1
+tracking,1
+quorum,1
+light,1
+required,1
+It,1
+analysis,1
+graphs,1
+the,9
+sensing,1
+fact,1
+left,1

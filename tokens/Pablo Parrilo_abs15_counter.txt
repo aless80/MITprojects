@@ -1,138 +1,125 @@
-
-consider	1
-show	2
-hierarchy	2
-paper	1
-We	1
-$	4
-interesting	1
-affine	1
-,	8
-only	1
-has	2
-LP	2
-showing	1
-express	1
-psd	9
-ceil	1
-P	4
-d	1
-sizes	1
-yields	1
-sparse	1
-small	1
-Lasserre/sum-of-squares	1
-monomials	1
-^d_+	1
-smaller	1
-Since	1
-are	1
-our	1
-by	1
-slice	1
-inequalities	1
-for	2
-2^n	1
-simplest	1
-sum-of-squares	2
-construction	2
-contrast	1
-we	5
-linear	3
-standard	1
-S	1
-i.e	1
-P.	1
-between	1
-logarithmic	2
-on	1
-essentially	1
-polytope	3
-of	18
-study	2
-programming	1
-regular	7
-exponentially	1
-(	4
-{	2
-or	1
-first	2
-N-gon	2
-Given	1
-projection	1
-symmetry	2
-number	1
-one	3
-Finally	1
-equivariant	8
-least	1
-iterations	1
-respect	1
-polygons	2
-size	5
-i.e.	1
-certificate	1
-prove	1
-positive	2
-construct	1
-.	8
-N/4	1
-2n-1	1
-gives	1
-relies	1
-families	1
-N.	1
-that	7
-exactly	1
-plane	1
-gap	1
-lift	7
-with	2
-than	1
-those	1
-must	2
-semidefinite	2
-exponential	1
-this	2
-as	1
-can	3
-Our	1
-2^n-gon	3
-example	1
-at	1
-and	2
-\mathbf	1
-symmetries	1
-\mathbb	1
-played	1
-is	2
-thus	1
-an	5
-say	1
-cone	1
-have	3
-in	5
-any	2
-if	1
-)	4
-formulations	1
-lifts	6
-role	1
-which	2
-finding	1
-optimal	1
-polytopes	1
-extended	1
-important	1
-uses	1
-N	1
-a	6
-}	2
-One	1
-facet-defining	1
-R	1
-^n	1
-In	2
-the	16
-requires	1
-If	1
+consider,1
+show,2
+hierarchy,2
+paper,1
+We,1
+interesting,1
+affine,1
+only,1
+gon,5
+has,2
+defining,1
+LP,2
+showing,1
+express,1
+psd,9
+ceil,1
+P,5
+d,2
+sizes,1
+yields,1
+sparse,1
+small,1
+monomials,1
+smaller,1
+Since,1
+are,1
+our,1
+slice,1
+inequalities,1
+for,2
+sum,3
+simplest,1
+construction,2
+squares,3
+contrast,1
+we,5
+linear,3
+standard,1
+S,1
+between,1
+logarithmic,2
+on,1
+essentially,1
+polytope,3
+of,21
+study,2
+programming,1
+facet,1
+regular,7
+exponentially,1
+or,1
+first,2
+mathbb,1
+Given,1
+mathbf,1
+projection,1
+symmetry,2
+number,1
+one,3
+Finally,1
+equivariant,8
+least,1
+iterations,1
+respect,1
+polygons,2
+size,5
+certificate,1
+prove,1
+positive,2
+construct,1
+by,1
+gives,1
+relies,1
+families,1
+that,7
+exactly,1
+plane,1
+N,5
+Lasserre,1
+lift,7
+with,2
+than,1
+those,1
+must,2
+semidefinite,2
+exponential,1
+this,2
+as,1
+n,6
+can,3
+Our,1
+example,1
+at,1
+and,2
+symmetries,1
+played,1
+is,2
+thus,1
+an,5
+say,1
+cone,1
+have,3
+in,5
+any,2
+if,1
+formulations,1
+lifts,6
+role,1
+which,2
+finding,1
+optimal,1
+polytopes,1
+extended,1
+important,1
+uses,1
+gap,1
+a,6
+e,2
+i,2
+One,1
+R,1
+In,2
+the,16
+requires,1
+If,1

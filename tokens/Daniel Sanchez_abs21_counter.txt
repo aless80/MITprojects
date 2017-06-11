@@ -1,87 +1,81 @@
-
-Sb2Te3	1
-insulators	1
-two-dimensional	1
-results	1
-identify	1
-heterostructures	1
-(	1
-,	1
-opportunities	1
-platform	1
-Dirac	5
-\pi	1
-Integrating	1
-bands	1
-report	1
-using	1
-chemical-vapor-deposition	1
-possess	1
-Here	1
-are	1
-transport	1
-interacting	1
-for	1
-confirm	1
-measurements	1
-new	1
-dominate	1
-we	1
-by	1
-dry	1
-on	1
-of	6
-route	1
-practical	1
-interesting	1
-{	1
-experimental	1
-coexistence	1
-topological	2
-electronic	1
-properties	1
-to	1
-distinct	1
-transfer	1
-two	2
-.	6
-fermions	2
-graphene-TI	2
-exploring	1
-with	1
-twist	1
-these	1
-tunable	1
-behavior	1
-and	3
-low-energy	1
-graphene	2
-surface	1
-states	2
-single	1
-in	3
-film	1
-physical	1
-grown	1
-creates	1
-different	1
-angle	1
-)	1
-suggest	1
-potential	1
-which	1
-TI	1
-massless	1
-prepared	1
-ARPES	1
-device	1
-The	2
-heterostructure	2
-fabrication	1
-a	4
-graphene-Sb2Te3	1
-physics	1
-Graphene	1
-materials	1
-the	4
-}	1
+and,3
+suggest,1
+insulators,1
+prepared,1
+graphene,5
+coexistence,1
+surface,1
+dimensional,1
+report,1
+single,1
+identify,1
+opportunities,1
+in,3
+heterostructures,1
+pi,1
+electronic,1
+platform,1
+film,1
+physical,1
+grown,1
+practical,1
+by,1
+angle,1
+interacting,1
+for,1
+confirm,1
+distinct,1
+interesting,1
+measurements,1
+two,3
+topological,2
+fabrication,1
+chemical,1
+to,1
+potential,1
+fermions,2
+which,1
+TI,3
+new,1
+massless,1
+energy,1
+low,1
+exploring,1
+we,1
+Dirac,5
+dominate,1
+Integrating,1
+bands,1
+results,1
+dry,1
+SbTe,2
+deposition,1
+device,1
+using,1
+The,2
+heterostructure,2
+with,1
+properties,1
+possess,1
+a,4
+on,1
+twist,1
+vapor,1
+these,1
+of,6
+Graphene,1
+transport,1
+ARPES,1
+tunable,1
+different,1
+creates,1
+states,2
+materials,1
+behavior,1
+transfer,1
+the,4
+Here,1
+physics,1
+route,1
+experimental,1
+are,1

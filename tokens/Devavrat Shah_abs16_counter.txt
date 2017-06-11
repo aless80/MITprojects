@@ -1,163 +1,158 @@
-
-opinions	1
-interpretation	1
-consider	1
-rating	1
-over	2
-global	1
-obtain	1
-Laplacian	1
-leads	1
-paper	2
-its	1
-We	1
-based	1
-chosen	1
-graph	3
-aggregating	2
-,	14
-Bradley-Terry-Luce	1
-to	8
-those	1
-samples	2
-under	1
-discovering	1
-has	4
-probabilities	1
-identical	1
-ranking	3
-random	2
-`scores	1
-very	1
-propose	1
-aggregation	1
-number	2
-nearly	1
-they	1
-outcomes	1
-finite	1
-settings	1
-turns	1
-Rank	2
-item	1
-each	3
-popular	1
-stationary	1
-subset	1
-When	1
-randomly	1
-learn	1
-intensity	1
-are	2
-our	1
-estimated	1
-out	1
-spectral	1
-gamers	1
-for	6
-Multinomial	1
-score	3
-MNL	2
-between	3
-;	1
-be	2
-we	3
-terms	1
-equivalent	1
-error	1
-understanding	1
-objects	5
-by	2
-pair-wise	5
-on	3
-e.g	3
-items	2
-study	1
-iterative	1
-dependence	1
-players	1
-(	6
-BTL	3
-or	2
-probability	2
-marginal	1
-obtaining	1
-bound	1
-rank	1
-walk	2
-order-optimal	1
-long	1
-positive	1
-from	1
-addition	1
-assumed	1
-strictly	1
-question	1
-system	1
-been	1
-.	12
-call	1
-interest	2
-rates	1
-:	1
-efficacy	1
-comparison	2
-it	1
-particular	1
-an	4
-with	2
-present	1
-high	1
-main	1
-determines	1
-To	1
-this	4
-depends	1
-of	18
-social	1
-and	3
-deciding	1
-associated	1
-is	4
-MSR	1
-Centrality	2
-sample	1
-player	1
-in	2
-if	1
-sell	1
-compared	2
-)	6
-that	1
-chess	1
-which	5
-online	1
-finding	1
-subject	1
-Logit	1
-product	1
-'s	2
-transactions	1
-object	3
-collection	1
-most	1
-scores	2
-pair	1
-The	2
-gap	1
-probabilistic	1
-model	4
-structure	1
-preferences	1
-a	8
-natural	1
-'	1
-algorithm	4
-required	1
-well	1
-TrueSkill	1
-edge	1
-time	1
-comparisons	4
-the	23
-In	4
+opinions,1
+interpretation,1
+consider,1
+rating,1
+over,2
+global,1
+obtain,1
+Laplacian,1
+leads,1
+paper,2
+its,1
+We,1
+based,1
+chosen,1
+graph,3
+aggregating,2
+to,8
+those,1
+samples,2
+under,1
+discovering,1
+has,4
+probabilities,1
+identical,1
+ranking,3
+random,2
+very,1
+propose,1
+Terry,1
+aggregation,1
+number,2
+nearly,1
+they,1
+determines,1
+outcomes,1
+finite,1
+settings,1
+turns,1
+Rank,2
+Bradley,1
+item,1
+each,3
+popular,1
+stationary,1
+subset,1
+When,1
+randomly,1
+learn,1
+intensity,1
+are,2
+our,1
+estimated,1
+out,1
+spectral,1
+gamers,1
+for,6
+Multinomial,1
+score,3
+MNL,2
+between,3
+be,2
+we,3
+terms,1
+equivalent,1
+error,1
+understanding,1
+objects,5
+by,2
+on,3
+g,3
+Luce,1
+items,2
+study,1
+iterative,1
+dependence,1
+players,1
+s,2
+social,1
+BTL,3
+or,2
+probability,2
+marginal,1
+obtaining,1
+bound,1
+rank,1
+walk,2
+long,1
+positive,1
+from,1
+addition,1
+assumed,1
+strictly,1
+question,1
+system,1
+been,1
+call,1
+interest,2
+time,1
+rates,1
+efficacy,1
+comparison,2
+it,1
+particular,1
+e,3
+an,4
+with,2
+present,1
+high,1
+main,1
+wise,5
+To,1
+this,4
+depends,1
+of,18
+and,3
+deciding,1
+associated,1
+is,4
+MSR,1
+Centrality,2
+sample,1
+player,1
+in,2
+if,1
+sell,1
+compared,2
+that,1
+chess,1
+which,5
+online,1
+finding,1
+optimal,1
+subject,1
+Logit,1
+product,1
+transactions,1
+object,3
+collection,1
+most,1
+scores,3
+pair,6
+The,2
+gap,1
+probabilistic,1
+model,4
+structure,1
+preferences,1
+a,8
+natural,1
+algorithm,4
+required,1
+well,1
+TrueSkill,1
+edge,1
+In,4
+comparisons,4
+the,23
+order,1

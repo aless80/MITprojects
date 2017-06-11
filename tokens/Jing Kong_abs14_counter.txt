@@ -1,85 +1,80 @@
-
-and	4
-enhances	1
-layer	3
-would	1
-significantly	1
-membranes	4
-Efficient	1
-is	2
-Due	1
-an	2
-graphene	3
-substantially	1
-single	2
-experiments	1
-bare	1
-have	1
-such	1
-electromechanical	2
-factor	1
-quality	1
-adding	1
-or	1
-system	1
-resonators	2
-their	1
-)	1
-(	1
-aluminium	1
-show	1
-hybrid	1
-,	3
-Here	1
-.	6
-to	6
-add	1
-metallized	1
-electrical	1
-superior	1
-optoelectromechanical	1
-membrane	2
-conductive	1
-many	1
-SiN	3
-nitride	1
-However	1
-we	1
-coated	1
-exceptional	1
-micromembranes	1
-decreasing	1
-weak	1
-compare	1
-results	1
-centerpiece	1
-affecting	1
-optical	2
-found	1
-optomechanical	1
-The	1
-exciting	1
-with	1
-properties	3
-dielectric	3
-a	3
-on	1
-perfectly	1
-coupling	5
-micromembrane	2
-be	1
-of	7
-equal	1
-devices	1
-without	1
-silicon	1
-rather	1
-electrostatic	1
-mass	1
-capacitive	3
-mechanical	3
-become	1
-the	5
-facilitate	1
-that	1
-Our	1
+and,4
+enhances,1
+layer,3
+would,1
+significantly,1
+membranes,4
+Efficient,1
+is,2
+Due,1
+an,2
+graphene,3
+substantially,1
+single,2
+experiments,1
+bare,1
+have,1
+such,1
+electromechanical,2
+factor,1
+quality,1
+adding,1
+or,1
+resonators,2
+their,1
+rather,1
+capacitive,3
+aluminium,1
+show,1
+hybrid,1
+system,1
+Here,1
+to,6
+add,1
+metallized,1
+electrical,1
+superior,1
+optoelectromechanical,1
+membrane,2
+conductive,1
+many,1
+SiN,3
+nitride,1
+However,1
+we,1
+coated,1
+exceptional,1
+micromembranes,1
+decreasing,1
+weak,1
+compare,1
+results,1
+centerpiece,1
+affecting,1
+optical,2
+found,1
+optomechanical,1
+The,1
+exciting,1
+with,1
+properties,3
+dielectric,3
+a,3
+on,1
+perfectly,1
+coupling,5
+micromembrane,2
+be,1
+of,7
+equal,1
+devices,1
+without,1
+silicon,1
+electrostatic,1
+mass,1
+mechanical,3
+become,1
+the,5
+facilitate,1
+that,1
+Our,1

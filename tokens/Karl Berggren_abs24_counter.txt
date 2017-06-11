@@ -1,156 +1,142 @@
-
-manifold	1
-being	1
-over	1
-resonant	1
-bandwidth	1
-including	1
-alternative	1
-its	3
-application	1
-energies	1
-absorption	1
-technique	1
-,	10
-Here	1
-to	3
-only	1
-systems	2
-Although	1
-employed	1
-has	1
-By	1
-straightforward	1
-means	1
-frequencies	1
-120	1
-fingerprint	1
-not	1
-using	2
-inversion	1
-level	1
-h	3
-discrete	1
-magnitude	1
-contain	1
-through	1
-fixed	1
-where	1
-smaller	1
-energy	2
-successfully	1
-surmounting	1
-manifests	1
-frequency	5
-are	1
-quantum	1
-E	2
-avoided	1
-plays	1
-driving	5
-broad	1
-interference	1
-near	1
-artificial	2
-Spectroscopic	1
-may	1
-energy-level	2
-provides	1
-diamonds	1
-conditions	1
-limitations	1
-be	1
-we	2
-behavior	1
-This	1
-atoms	1
-separation	1
-fulfill	1
-100	1
-universally	1
-obtained	1
-amplitude	1
-of	12
-dependence	1
-range	1
-resulting	1
-(	1
-\Delta	2
-via	1
-features	1
-scales	1
-harmonic	2
-analyzing	1
-GHz	2
-determine	1
-gigahertz	1
-manipulate	1
-\times	1
-conventional	1
-from	2
-Conventionally	1
-crossings	1
-0.01	1
-single	1
-system	2
-been	1
-.	8
-approach	3
-``	1
-molecules	1
-that	2
-becomes	1
-serve	1
-emission	1
-atom	3
-with	2
-than	1
-population	1
-10	1
-this	1
-sweeps	1
-states	1
-spectroscopy	2
-determining	1
-demonstrate	1
-Planck	1
-and	8
-constant	1
-challenging	1
-0.1	1
-is	5
-spectrum	3
-superconducting	1
-an	1
-''	1
-characterize	1
-as	1
-itself	1
-at	1
-in	5
-\nu	2
-orders	1
-physical	1
-information	1
-varied	1
-variety	1
-)	1
-for	1
-field	3
-role	1
-many	1
-=	1
-'s	4
-probed	2
-these	1
-The	2
-extremely	1
-response	1
-structure	1
-a	14
-natural	1
-whereby	2
-spectra	1
-patterns	1
-fundamental	1
-the	13
+manifold,1
+being,1
+over,1
+resonant,1
+bandwidth,1
+including,1
+alternative,1
+its,3
+field,3
+energies,1
+absorption,1
+technique,1
+Here,1
+to,3
+only,1
+systems,2
+Although,1
+employed,1
+has,1
+By,1
+straightforward,1
+means,1
+frequencies,1
+fingerprint,1
+not,1
+using,2
+inversion,1
+level,3
+conditions,1
+discrete,1
+magnitude,1
+h,3
+through,1
+fixed,1
+where,1
+smaller,1
+energy,4
+successfully,1
+surmounting,1
+manifests,1
+frequency,5
+are,1
+quantum,1
+avoided,1
+plays,1
+driving,5
+broad,1
+interference,1
+artificial,2
+Spectroscopic,1
+may,1
+amplitude,1
+provides,1
+diamonds,1
+approach,3
+limitations,1
+be,1
+we,2
+behavior,1
+This,1
+contain,1
+atoms,1
+separation,1
+fulfill,1
+gigahertz,1
+universally,1
+obtained,1
+of,12
+dependence,1
+times,1
+range,1
+resulting,1
+via,1
+features,1
+scales,1
+harmonic,2
+analyzing,1
+GHz,2
+determine,1
+manipulate,1
+conventional,1
+from,2
+Conventionally,1
+crossings,1
+single,1
+system,2
+been,1
+Delta,2
+molecules,1
+that,2
+becomes,1
+serve,1
+emission,1
+atom,3
+with,2
+than,1
+population,1
+this,1
+sweeps,1
+near,1
+spectroscopy,2
+determining,1
+demonstrate,1
+Planck,1
+and,8
+constant,1
+challenging,1
+is,5
+spectrum,3
+superconducting,1
+an,1
+states,1
+characterize,1
+as,1
+itself,1
+at,1
+in,5
+orders,1
+physical,1
+information,1
+varied,1
+variety,1
+s,4
+for,1
+application,1
+role,1
+many,1
+nu,2
+E,2
+probed,2
+these,1
+The,2
+extremely,1
+response,1
+structure,1
+a,14
+natural,1
+whereby,2
+spectra,1
+patterns,1
+fundamental,1
+the,13

@@ -1,132 +1,128 @@
-
-consider	1
-show	1
-when	1
-over	1
-random	1
-dynamic	1
-leads	1
-paper	1
-deadline	1
-cooperative	1
-decisions	1
-before	1
-We	4
-,	8
-to	2
-tail	2
-systems	1
-under	1
-has	1
-endogenous	1
-then	1
-which	3
-provider	1
-framework	1
-Self-interested	1
-is	4
-loss	1
-processes	1
-spikes	2
-resource	3
-In	1
-fully	1
-architecture	1
-each	2
-inherent	1
-stationary	2
-schemes	1
-achieved	1
-cost	2
-are	1
-anarchy	1
-exit	1
-rational	1
-between	1
-induced	1
-we	1
-This	1
-update	1
-met	1
-although	1
-by	1
-rare	1
-origins	1
-efficiency	3
-of	8
-undesirable	1
-horizon	1
-load	2
-probability	1
-corresponds	1
-smaller	1
-agents	3
-total	2
-market	5
-statistics	1
-consumption	2
-there	1
-system	1
-.	8
-their	2
-interest	1
-scheme	1
-dynamically	1
-``	1
-arises	1
-corresponding	1
-that	4
-cooperate	1
-non-cooperative	2
-demand	4
-known	1
-with	1
-this	1
-characteristic	1
-constraint	1
-robustness	1
-as	1
-posit	1
-can	1
-many	1
-following	1
-distribution	1
-and	6
-compare	1
-On	1
-process	2
-abstract	1
-thus	1
-optimizing	1
-an	3
-''	1
-examine	1
-at	1
-in	7
-scheduling	2
-risk	1
-lie	1
-oligopolistic	1
-requirements	1
--	2
-how	1
-other	2
-widely	1
-finite	1
-higher	2
-may	1
-price	1
-time	1
-different	1
-hand	1
-applications	1
-important	1
-architectures	1
-aggregate	2
-such	1
-a	8
-monopolistic	1
-tradeoff	1
-enter	1
-the	16
-individual's	1
+consider,1
+show,1
+Self,1
+random,1
+dynamic,1
+leads,1
+paper,1
+deadline,1
+cooperative,3
+decisions,1
+before,1
+We,4
+to,2
+tail,2
+other,2
+systems,1
+under,1
+has,1
+over,1
+then,1
+non,2
+which,3
+provider,1
+framework,1
+is,4
+loss,1
+processes,1
+spikes,2
+resource,3
+In,1
+fully,1
+architecture,1
+each,2
+inherent,1
+stationary,2
+schemes,1
+achieved,1
+individual,1
+are,1
+anarchy,1
+exit,1
+rational,1
+between,1
+induced,1
+we,1
+This,1
+update,1
+met,1
+although,1
+by,1
+rare,1
+origins,1
+efficiency,3
+of,8
+s,1
+undesirable,1
+horizon,1
+load,2
+probability,1
+corresponds,1
+smaller,1
+agents,3
+total,2
+market,5
+statistics,1
+consumption,2
+there,1
+system,1
+their,2
+interest,1
+scheme,1
+dynamically,1
+optimizing,1
+arises,1
+corresponding,1
+that,4
+cooperate,1
+demand,4
+known,1
+with,1
+this,1
+characteristic,1
+constraint,1
+robustness,1
+as,1
+endogenous,1
+posit,1
+cost,2
+can,1
+many,1
+following,1
+distribution,1
+and,6
+compare,1
+On,1
+process,2
+abstract,1
+thus,1
+an,3
+examine,1
+at,1
+in,7
+scheduling,2
+risk,1
+lie,1
+different,1
+requirements,1
+when,1
+how,1
+interested,1
+widely,1
+finite,1
+higher,2
+may,1
+price,1
+time,1
+oligopolistic,1
+hand,1
+applications,1
+important,1
+architectures,1
+aggregate,2
+such,1
+a,8
+monopolistic,1
+tradeoff,1
+enter,1
+the,16

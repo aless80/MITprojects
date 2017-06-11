@@ -1,75 +1,73 @@
-
-and	1
-compare	1
-learning	1
-when	1
-is	1
-share	1
-domain	1
-Q-learning	1
-experimentally	1
-as	1
-been	1
-agents	2
-are	2
-have	1
-in	2
-Policy	1
-apply	1
-cooperative	2
-optimum	1
-alternative	1
-value-based	1
-payoff	1
-policy-search	1
-We	1
-for	2
-simulated	1
-provide	1
-that	1
-reinforcement-learning	1
-,	5
-same	1
-.	5
-to	4
-only	1
-those	1
-which	1
-games	3
-effectiveness	1
-local	1
-method	2
-equilibrium	1
-gradient-based	1
-a	3
-we	1
-reasonable	1
-state	1
-observable	3
-but	1
-distributed	1
-methods	2
-game	1
-environments	1
-they	1
-such	1
-variants	1
-Nash	1
-structure	1
-partially	2
-applied	1
-both	2
-search	1
-soccer	1
-this	2
-of	4
-completely	1
-paper	1
-algorithms	1
-Cooperative	1
-In	1
-small	1
-demonstrate	1
-the	4
-notion	1
-Value-based	1
+and,1
+compare,1
+have,1
+distributed,1
+is,1
+share,1
+domain,1
+environments,1
+as,1
+been,1
+agents,2
+are,2
+learning,3
+in,2
+Policy,1
+apply,1
+cooperative,2
+optimum,1
+alternative,1
+payoff,1
+We,1
+based,3
+for,2
+provide,1
+that,1
+when,1
+state,1
+same,1
+experimentally,1
+to,4
+only,1
+those,1
+which,1
+policy,1
+games,3
+effectiveness,1
+local,1
+method,2
+equilibrium,1
+a,3
+we,1
+reasonable,1
+observable,3
+simulated,1
+Value,1
+Q,1
+game,1
+but,1
+they,1
+such,1
+variants,1
+Nash,1
+methods,2
+structure,1
+partially,2
+applied,1
+both,2
+search,2
+soccer,1
+this,2
+of,4
+completely,1
+reinforcement,1
+gradient,1
+paper,1
+algorithms,1
+Cooperative,1
+In,1
+small,1
+demonstrate,1
+the,4
+value,1
+notion,1

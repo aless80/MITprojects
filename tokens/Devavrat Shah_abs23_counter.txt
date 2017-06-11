@@ -1,123 +1,119 @@
-
-neighbors	1
-all	1
-communities	9
-human	1
-cuts	1
-networks	9
-We	3
-based	4
-graph	1
-,	5
-to	5
-only	1
-other	1
-Using	1
-nodes	2
-finer	1
-real	1
-propose	1
-often	1
-they	1
-not	2
-using	1
-resolve	1
-brain	1
-these	1
-common	2
-biological	1
-smaller	1
-methods	3
-connect	1
-fail	1
-More	1
-spectral	3
-detect	2
-dense	2
-network	5
-for	2
-find	2
-does	1
-various	1
-approach	1
-contrast	1
-knowing	1
-we	2
-detecting	1
-properties	1
-on	1
-of	8
-context	1
-(	2
-importantly	1
-finds	1
-leader-follower	4
-relevant	1
-possessing	1
-within	1
-number	3
-community	7
-Also	1
-because	2
-.	8
-leaders	1
-clustering	3
-from	3
-prove	1
-centrality	1
-their	1
-expected	2
-ranging	1
-naturally	2
-that	3
-exactly	1
-Facebook	1
-differentiate	1
-input	1
-detects	1
-with	1
-than	1
-novel	1
-this	1
-require	1
-single	1
-will	1
-can	2
-learn	2
-demonstrate	1
-called	1
-are	1
-and	2
-is	2
-beforehand	1
-it	3
-an	3
-as	5
-manner	1
-have	1
-in	10
-any	1
-different	1
-)	2
-able	1
-internal	3
-followers	1
-which	3
-effectiveness	1
-fMRI	1
-social	3
-upon	2
-Traditional	1
-connectivity	1
-uses	1
-such	4
-The	1
-structure	9
-a	4
-natural	2
-algorithm	6
-loyal	1
-without	1
-the	16
-notion	1
-external	2
+neighbors,1
+all,1
+communities,9
+human,1
+cuts,1
+networks,9
+We,3
+based,4
+graph,1
+to,5
+only,1
+other,1
+Using,1
+nodes,2
+finer,1
+real,1
+propose,1
+often,1
+they,1
+not,2
+using,1
+resolve,1
+brain,1
+these,1
+common,2
+biological,1
+smaller,1
+methods,3
+connect,1
+fail,1
+More,1
+spectral,3
+detect,2
+dense,2
+network,5
+for,2
+find,2
+does,1
+various,1
+approach,1
+leader,4
+contrast,1
+knowing,1
+we,2
+detecting,1
+properties,1
+on,1
+of,8
+context,1
+social,3
+importantly,1
+finds,1
+relevant,1
+possessing,1
+within,1
+number,3
+community,7
+Also,1
+follower,4
+because,2
+leaders,1
+clustering,3
+from,3
+prove,1
+centrality,1
+their,1
+expected,2
+ranging,1
+naturally,2
+that,3
+exactly,1
+Facebook,1
+differentiate,1
+input,1
+detects,1
+with,1
+than,1
+novel,1
+this,1
+require,1
+single,1
+will,1
+can,2
+learn,2
+demonstrate,1
+called,1
+are,1
+and,2
+is,2
+beforehand,1
+it,3
+an,3
+as,5
+manner,1
+have,1
+in,10
+any,1
+different,1
+able,1
+internal,3
+followers,1
+which,3
+effectiveness,1
+fMRI,1
+upon,2
+Traditional,1
+connectivity,1
+uses,1
+such,4
+The,1
+structure,9
+a,4
+natural,2
+algorithm,6
+loyal,1
+without,1
+the,16
+notion,1
+external,2

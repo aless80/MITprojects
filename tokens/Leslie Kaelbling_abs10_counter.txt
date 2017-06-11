@@ -1,126 +1,125 @@
-
-show	2
-existing	1
-cooperative	1
-coordination	1
-We	3
-(	2
-,	14
-opportunities	1
-environment	1
-to	5
-systems	1
-has	1
-intractable	1
-increased	1
-processes	2
-methods	1
-framework	1
-While	1
-balancing	1
-not	1
-using	1
-execution	1
-partially	1
-appropriate	1
-solved	1
-Dec-POMDPs	3
-team	1
-where	2
-mean	1
-significantly	1
-some	1
-direct	1
-cost	2
-are	4
-specified	1
-optimize	1
-for	4
-decision	2
-research	1
-state	1
-shared	1
-sensor	2
-contrast	1
-limitations	1
-be	1
-behavior	1
-real-world	1
-given	1
-by	1
-on	2
-about	1
-Decentralized	1
-of	6
-uncertainty	2
-or	1
-and	5
-decentralized	1
-presence	1
-communication	2
-whatever	1
-outcomes	1
-synthesize	1
-agents	3
-multi-robot	1
-synthesizing	1
-size	1
-use	3
-proceed	1
-three	1
-.	5
-their	1
-type	1
-function	2
-that	5
-observable	1
-but	1
-cooperate	1
-planner	1
-signaling	1
-particular	1
-present	1
-must	2
-Dec-POMDP	1
-this	2
-variations	1
-single	1
-while	1
-can	4
-policies	2
-problem	3
-specialized	1
-control	2
-generate	1
-fashion	1
-describe	2
-share	1
-it	1
-general	3
-as	2
-in	6
-information	2
-)	2
-how	1
-other	1
-objective	1
-so	1
-macro-actions	1
-models	1
-class	1
-problems	1
-allocation	1
-most	1
-warehouse	1
-Markov	1
-probabilistic	1
-model	2
-recent	1
-a	10
-task	2
-off	1
-practically	1
-solve	1
-the	5
-reward	1
-typically	1
+show,2
+actions,1
+existing,1
+cooperative,1
+using,1
+coordination,1
+We,3
+opportunities,1
+environment,1
+to,5
+systems,1
+has,1
+real,1
+intractable,1
+increased,1
+processes,2
+methods,1
+framework,1
+While,1
+balancing,1
+not,1
+world,1
+execution,1
+partially,1
+appropriate,1
+solved,1
+team,1
+where,2
+mean,1
+significantly,1
+some,1
+direct,1
+cost,2
+are,4
+specified,1
+for,4
+POMDP,1
+decision,2
+research,1
+state,1
+shared,1
+sensor,2
+contrast,1
+limitations,1
+be,1
+behavior,1
+given,1
+by,1
+on,2
+about,1
+Decentralized,1
+of,6
+uncertainty,2
+or,1
+and,5
+decentralized,1
+presence,1
+communication,2
+whatever,1
+outcomes,1
+synthesize,1
+agents,3
+synthesizing,1
+size,1
+use,3
+proceed,1
+three,1
+optimize,1
+their,1
+type,1
+function,2
+that,5
+observable,1
+but,1
+cooperate,1
+planner,1
+signaling,1
+particular,1
+Dec,4
+present,1
+must,2
+multi,1
+this,2
+variations,1
+single,1
+POMDPs,3
+while,1
+can,4
+policies,2
+problem,3
+specialized,1
+control,2
+generate,1
+fashion,1
+describe,2
+share,1
+it,1
+general,3
+as,2
+in,6
+information,2
+how,1
+other,1
+objective,1
+so,1
+models,1
+class,1
+problems,1
+allocation,1
+most,1
+warehouse,1
+Markov,1
+probabilistic,1
+model,2
+recent,1
+a,10
+task,2
+off,1
+practically,1
+macro,1
+robot,1
+solve,1
+the,5
+reward,1
+typically,1

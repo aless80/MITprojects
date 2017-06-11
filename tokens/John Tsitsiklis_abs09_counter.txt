@@ -1,88 +1,83 @@
-
-slope	2
-consider	1
-results	1
-scalar	1
-welfare	2
-We	3
-inverse	5
-ratio	1
-(	1
-,	8
-to	3
-equilibrium	3
-possible	1
-oligopolists	1
-loss	1
-suppliers	2
-output	1
-where	2
-achieved	1
-bounds	1
-namely	1
-choosing	1
-convex	2
-optimum	1
-appear	1
-for	3
-profit	2
-between	1
-supplier	1
-we	1
-terms	1
-efficiency	2
-by	1
-on	3
-of	9
-economics	1
-resulting	1
-social	3
-or	1
-Cournot	5
-bound	2
-Also	1
-maximize	1
-total	1
-establish	2
-market	1
-from	1
-equilibria	1
-.	5
-their	1
-function	4
-that	1
-quantities	1
-but	1
-demand	5
-case	2
-maximum	1
-Our	1
-similar	1
-and	1
-compare	1
-oligopoly	1
-is	1
-single	1
-at	2
-in	2
-collude	1
-functions	1
-)	1
-nontrivial	1
-monopolistic	1
-several	1
-parameter	1
-literature	1
-multiple	2
-who	1
-derived	1
-the	18
-tighter	1
-a	7
-lower	2
-maximizing	1
-average	1
-provide	1
-compete	1
-quantitative	1
-model	1
+slope,2
+and,1
+compare,1
+that,1
+consider,1
+namely,1
+oligopoly,1
+Cournot,5
+is,1
+convex,2
+bound,2
+bounds,1
+Also,1
+scalar,1
+at,2
+choosing,1
+welfare,2
+terms,1
+total,1
+establish,2
+market,1
+collude,1
+We,3
+inverse,5
+from,1
+appear,1
+for,3
+their,1
+profit,2
+optimum,1
+achieved,1
+functions,1
+equilibria,1
+by,1
+to,3
+nontrivial,1
+tighter,1
+monopolistic,1
+between,1
+supplier,1
+resulting,1
+several,1
+parameter,1
+equilibrium,3
+function,4
+case,2
+maximize,1
+literature,1
+multiple,2
+loss,1
+quantities,1
+who,1
+derived,1
+possible,1
+but,1
+results,1
+efficiency,2
+oligopolists,1
+demand,5
+ratio,1
+model,1
+single,1
+a,7
+on,3
+lower,2
+quantitative,1
+in,2
+maximizing,1
+we,1
+of,9
+suppliers,2
+economics,1
+maximum,1
+or,1
+provide,1
+compete,1
+social,3
+output,1
+the,18
+similar,1
+where,2
+average,1
+Our,1

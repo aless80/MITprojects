@@ -1,121 +1,116 @@
-
-code	2
-show	1
-over	3
-both	1
-obtain	1
-degraded	3
-networks	4
-We	2
-based	1
-also	1
-single-transmitter	1
-(	1
-,	9
-presents	1
-source	5
-only	1
-Using	1
-erasure	2
-lack	2
-decomposability	1
-dependent	1
-results	1
-framework	1
-While	1
-not	2
-several	1
-like	1
-issue	1
-common	1
-fields	1
-inputs	2
-some	1
-operates	1
-challenges	1
-design	1
-examples	1
-our	1
-canonical	4
-capacity	1
-network	6
-for	7
-blurs	1
-access	4
-between	2
-approach	1
-unifying	1
-be	2
-we	4
-noise	2
-linear	3
-This	1
-separation	6
-demonstrate	1
-noisy	2
-on	3
-of	12
-study	1
-allows	1
-argue	1
-whole	1
-or	1
-major	1
-point	1
-simple	2
-into	2
-coding	6
-channels	3
-establish	1
-to	3
-subnetworks	1
-.	9
-source-network	1
-that	7
-but	1
-broadcast	3
-failure	1
-optimality	2
-with	1
-than	1
-robustness	1
-us	1
-Our	1
-are	1
-and	13
-modules	1
-is	4
-linearity	2
-it	1
-examine	2
-re-establish	1
-in	2
-source-channel	1
-decomposing	1
-codes	4
-)	1
-holds	1
-when	2
-regions	1
-field	1
-sufficiency	1
-optimal	2
-finite	2
-channel	5
-economy	1
-independent	1
-multiple	4
-may	2
-predicated	1
-constructions	1
-Slepian-Wolf	1
-The	2
-a	3
-delineation	1
-effective	1
-Thus	1
-rather	1
-the	15
-operate	1
-single-receiver	1
-fact	2
+code,2
+show,1
+over,3
+both,1
+obtain,1
+degraded,3
+networks,4
+We,2
+based,1
+also,1
+presents,1
+to,3
+only,1
+Using,1
+erasure,2
+lack,2
+decomposability,1
+dependent,1
+decomposing,1
+results,1
+framework,1
+While,1
+Wolf,1
+not,2
+transmitter,1
+several,1
+like,1
+issue,1
+common,1
+fields,1
+inputs,2
+some,1
+operates,1
+challenges,1
+design,1
+examples,1
+our,1
+canonical,4
+capacity,1
+network,7
+for,7
+blurs,1
+access,4
+re,1
+between,2
+approach,1
+unifying,1
+be,2
+we,4
+noise,2
+linear,3
+This,1
+separation,6
+demonstrate,1
+noisy,2
+on,3
+of,12
+study,1
+allows,1
+receiver,1
+argue,1
+whole,1
+or,1
+major,1
+point,1
+simple,2
+into,2
+coding,6
+channels,3
+establish,2
+source,7
+subnetworks,1
+that,7
+but,1
+broadcast,3
+failure,1
+optimality,2
+with,1
+than,1
+robustness,1
+single,2
+us,1
+Our,1
+are,1
+and,13
+modules,1
+is,4
+linearity,2
+it,1
+examine,2
+in,2
+Slepian,1
+codes,4
+rather,1
+holds,1
+when,2
+regions,1
+field,1
+sufficiency,1
+optimal,2
+finite,2
+channel,6
+economy,1
+independent,1
+multiple,4
+may,2
+predicated,1
+constructions,1
+The,2
+a,3
+delineation,1
+effective,1
+Thus,1
+the,15
+operate,1
+fact,2

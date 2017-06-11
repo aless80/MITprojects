@@ -1,129 +1,122 @@
-
-all	1
-show	2
-true	1
-developed	1
-random	3
-yet-unproven	1
-attempts	1
-entropy	5
-EPI	10
-find	1
-We	2
-redefined	1
-monotonicity	1
-$	14
-(	7
-,	7
-0	1
-e^	1
-theorem	1
-analogous	2
-has	1
-case	1
-\boxplus_\eta	1
-analogy	1
-bosonic	1
-Many	1
-crux	1
-framework	1
-X	5
-discuss	1
-scaled	1
-leave	1
-discrete	8
-inequality	1
-arbitrary	1
-mean	2
-deduce	1
-quantum	1
-our	3
-proofs	1
-special	1
-entropic	1
-capacity	1
-Johnson	1
-for	3
-restricted	1
-version	3
-conjectured	1
-geometric	2
-we	4
-power	3
-aforesaid	1
-\in	1
-central	1
-of	13
-Entropy	1
-{	1
-Even	1
-among	1
-variables	3
-\eta	1
-variable	1
-Finally	1
-EPnI	1
-open	1
-given	1
-from	1
-to	3
-addition	1
-two	1
-been	1
-.	8
-assumes	2
-relationship	1
-that	3
-continuous	1
-construction	1
-with	6
-Lieb	1
-made	1
-this	2
-work	1
-maximum	1
-limit	1
-distribution	2
-Shannon	3
-proof	1
-and	3
-associated	1
-defined	1
-is	4
-ultra-log-concave	1
-an	3
-as	2
-discrete-variable	4
-have	2
-in	4
-distributions	3
-develop	1
-form	2
-)	7
-holds	1
-when	1
-1	1
-role	2
-which	3
-H	2
-Yu	1
-'s	4
-axiomatic	1
-though	1
-who	1
-most	1
-Inequality	1
-Y	2
-ULC	1
-The	2
-class	1
-recent	1
-a	9
-natural	3
-Gaussian	2
-Photon-number	1
-partially-successful	1
-In	1
-the	13
-}	1
-channels	1
+all,1
+show,2
+developed,1
+random,3
+attempts,1
+entropy,5
+EPI,10
+find,1
+We,2
+redefined,1
+monotonicity,1
+true,1
+to,3
+theorem,1
+analogous,2
+has,1
+case,1
+analogy,1
+bosonic,1
+Many,1
+crux,1
+framework,1
+X,5
+discuss,1
+channels,1
+concave,1
+leave,1
+discrete,12
+inequality,1
+arbitrary,1
+mean,2
+deduce,1
+quantum,1
+our,3
+proofs,1
+special,1
+entropic,1
+capacity,1
+power,3
+for,3
+restricted,1
+yet,1
+version,3
+conjectured,1
+boxplus,1
+geometric,2
+we,4
+Johnson,1
+aforesaid,1
+central,1
+unproven,1
+Photon,1
+of,13
+s,4
+eta,2
+Entropy,1
+Even,1
+among,1
+variables,3
+number,1
+scaled,1
+variable,5
+Finally,1
+EPnI,1
+open,1
+given,1
+from,1
+log,1
+addition,1
+two,1
+been,1
+assumes,2
+relationship,1
+that,3
+successful,1
+continuous,1
+construction,1
+e,1
+with,6
+partially,1
+Lieb,1
+made,1
+this,2
+work,1
+maximum,1
+limit,1
+distribution,2
+ultra,1
+Shannon,3
+proof,1
+and,3
+associated,1
+defined,1
+is,4
+an,3
+as,2
+have,2
+in,5
+distributions,3
+develop,1
+form,2
+holds,1
+when,1
+role,2
+which,3
+H,2
+Yu,1
+axiomatic,1
+though,1
+who,1
+most,1
+Inequality,1
+Y,2
+ULC,1
+The,2
+class,1
+recent,1
+a,9
+natural,3
+Gaussian,2
+In,1
+the,13

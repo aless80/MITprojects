@@ -1,125 +1,104 @@
-
-\sqrt	2
-rest	1
-relation	4
-go	1
-existence	1
-contributions	1
-dilation	1
-We	3
-depend	1
-$	12
-(	3
-,	3
-to	5
-other	1
-has	1
-<	1
-momentum	1
-Dirac	2
-'	2
-P	5
-not	1
-m_j	1
-\sum_j	1
-Lorentz	1
-manifestly	2
-found	1
-where	2
-|	3
-For	1
-\bf	5
-frame	2
-some	1
-relative	1
-are	2
-quantum	1
-for	3
-\over	1
-+	1
-However	1
-expressed	1
-\omega	1
-approach	2
-occurs	1
-be	1
-we	1
-associate	1
-|^2	2
-separation	1
-[	1
-on	1
-of	5
-allows	1
-previously	1
-{	8
-~	1
-and	3
-M^*	3
-simple	1
-many-particle	2
-M^*c^2	1
-one	1
-determine	1
-apply	1
-total	1
-establish	1
-from	1
-discussed	1
-kinematic	3
-covariant	2
-transform	1
-been	1
-.	7
-energy	2
-define	1
-form	2
-that	2
-composite	1
-c^2	2
-general	1
-with	1
-potential	1
-\beta_j	1
-modified	1
-^2+c^2|	1
-will	1
-can	2
-Our	1
->	1
-result	1
-mechanics	1
-\Phi	2
-associated	1
-relativistic	1
-is	3
-an	1
-as	1
-have	1
-in	4
-deBroglie	1
-)	3
-^2	1
-able	1
-energy-momentum	3
-interested	1
-which	1
-=	1
-literature	1
-models	1
-M	1
-effect	1
-moving	2
-The	1
-]	1
-the	14
-\hbar	1
-a	8
-center	1
-noncovariant	1
-required	1
-mass	3
-time	1
-model	2
-}	8
-prefactor	1
+over,1
+rest,1
+relation,4
+go,1
+existence,1
+contributions,1
+dilation,1
+We,3
+depend,1
+to,5
+other,1
+has,1
+momentum,4
+Dirac,2
+P,5
+not,1
+particle,2
+Lorentz,1
+manifestly,2
+found,1
+where,2
+For,1
+energy,5
+some,1
+we,1
+relative,1
+are,2
+quantum,1
+for,3
+sum,1
+However,1
+expressed,1
+approach,2
+occurs,1
+be,1
+bf,5
+associate,1
+separation,1
+on,1
+c,4
+many,2
+allows,1
+previously,1
+hbar,1
+and,3
+simple,1
+one,1
+determine,1
+apply,1
+total,1
+establish,1
+from,1
+discussed,1
+kinematic,3
+covariant,2
+transform,1
+been,1
+frame,2
+define,1
+form,2
+that,2
+composite,1
+an,1
+with,1
+potential,1
+j,3
+modified,1
+will,1
+can,2
+of,5
+Our,1
+result,1
+mechanics,1
+associated,1
+relativistic,1
+is,3
+general,1
+as,1
+have,1
+in,4
+Phi,2
+deBroglie,1
+able,1
+sqrt,2
+interested,1
+which,1
+literature,1
+models,1
+M,5
+effect,1
+beta,1
+moving,2
+The,1
+omega,1
+the,14
+a,8
+center,1
+noncovariant,1
+required,1
+m,1
+mass,3
+time,1
+model,2
+prefactor,1

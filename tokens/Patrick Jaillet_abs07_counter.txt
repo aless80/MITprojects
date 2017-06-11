@@ -1,160 +1,156 @@
-
-heuristics	1
-all	2
-particularly	1
-show	3
-results	1
-paper	1
-computation	1
-We	7
-calculate	1
-(	1
-concerned	1
-technique	1
-,	7
-to	7
-bays	1
-combine	1
-easy	1
-unrealistic	1
-extensive	1
-remaining	1
-columns	1
-On	1
-appointment	1
-two-stage	1
-focus	1
-While	1
-compute	1
-sampling	2
-reasonably	2
-solution	2
-specific	1
-further	2
-where	1
-ports	1
-Before	1
-subset	1
-upper	1
-CRP	3
-retrieve	1
-sequence	1
-relocations	3
-hard	1
-Relocation	1
-approximation	1
-are	2
-our	4
-optimum	2
-for	1
-This	1
-method	2
-be	2
-we	2
-medium-size	1
-initially	2
-error	1
-small	2
-by	1
-improve	1
-on	5
-search	2
-applications	1
-of	16
-study	2
-simulation	1
-practical	1
-due	1
-finds	2
-first	1
-simple	1
-within	2
-number	4
-system	1
-instances	3
-frame	1
-minimizes	1
-given	3
-asymptotic	1
-unknown	1
-approximate	1
-fast	3
-.	14
-needed	1
-assumption	2
-expected	1
-analyze	1
-theoretical	1
-containers	6
-``	1
-relaxing	1
-that	9
-distribution	1
-gap	2
-stochastic	1
-known	3
-Problem	1
-lower-bound	1
-with	4
-nodes	1
-present	1
-observed	1
-sheds	1
-prune	1
-intuitive	1
-this	3
-bounds	2
-optimization	1
-limit	1
-can	1
-behavior	1
-many	1
-Our	1
-problem	3
-result	1
-and	11
-Container	1
-respecting	1
-certain	1
-is	8
-an	2
-''	1
-as	1
-at	1
-in	3
-average-case	1
-moves	1
-pruning	1
-information	1
-)	1
-A*	3
-converges	1
-also	1
-which	1
-finding	1
-solve	1
-grows	1
-used	1
-time	3
-upon	1
-most	1
-such	1
-The	1
-probabilistic	1
-a	9
-lower	1
-algorithm	3
-assume	2
-light	1
-later	1
-well	1
-analysis	2
-order	5
-perform	1
-without	1
-algorithms	1
-In	1
-the	21
-NP-hard	1
-retrieval	5
-incomplete	1
+heuristics,1
+all,2
+particularly,1
+show,3
+results,1
+paper,1
+computation,1
+We,7
+calculate,1
+unrealistic,1
+concerned,1
+technique,1
+to,7
+bays,1
+combine,1
+easy,1
+stochastic,1
+extensive,1
+remaining,1
+columns,1
+On,1
+appointment,1
+focus,1
+While,1
+compute,1
+sampling,2
+reasonably,2
+solution,2
+specific,1
+further,2
+where,1
+ports,1
+Before,1
+subset,1
+upper,1
+CRP,3
+retrieve,1
+sequence,1
+relocations,3
+hard,2
+Relocation,1
+approximation,1
+are,2
+our,4
+optimum,2
+for,1
+This,1
+method,2
+be,2
+we,2
+bound,1
+initially,2
+error,1
+small,2
+by,1
+improve,1
+on,5
+search,2
+applications,1
+of,16
+study,2
+simulation,1
+practical,1
+due,1
+finds,2
+first,1
+simple,1
+within,2
+number,4
+system,1
+instances,3
+frame,1
+minimizes,1
+stage,1
+size,1
+given,3
+asymptotic,1
+unknown,1
+approximate,1
+fast,3
+needed,1
+assumption,2
+NP,1
+analyze,1
+theoretical,1
+containers,6
+medium,1
+relaxing,1
+that,9
+distribution,1
+gap,2
+expected,1
+known,3
+Problem,1
+with,4
+nodes,1
+present,1
+case,1
+observed,1
+sheds,1
+prune,1
+intuitive,1
+this,3
+bounds,2
+optimization,1
+limit,1
+can,1
+behavior,1
+many,1
+Our,1
+problem,3
+result,1
+and,11
+Container,1
+respecting,1
+certain,1
+is,8
+an,2
+as,1
+at,1
+in,3
+moves,1
+pruning,1
+information,1
+perform,1
+converges,1
+also,1
+which,1
+finding,1
+solve,1
+grows,1
+A,3
+used,1
+time,3
+upon,1
+most,1
+two,1
+such,1
+The,1
+probabilistic,1
+a,9
+lower,2
+algorithm,3
+assume,2
+light,1
+average,1
+later,1
+well,1
+analysis,2
+order,5
+without,1
+algorithms,1
+In,1
+the,21
+retrieval,5
+incomplete,1

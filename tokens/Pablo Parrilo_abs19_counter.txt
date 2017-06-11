@@ -1,61 +1,56 @@
-
-and	2
-set	1
-point	1
-explicit	1
-is	1
-in	1
-it	1
-an	1
-matrices	2
-as	2
-minimum	1
-cone	1
-have	1
-convex	3
-spectrahedral	3
-unit	1
-size	1
-are	3
-affine	1
-We	2
-from	1
-$	6
-no	1
-)	2
-(	2
-there	1
-show	1
-,	5
-.	4
-that	2
-n\times	1
-smaller	1
-polar	1
-determinant	1
-sense	1
-description	1
-orthogonal	1
-hull	2
-subspace	1
-i.e	1
-intersection	1
-with	2
-a	2
-both	1
-semidefinite	2
-representations	2
-these	1
-of	10
-study	1
-programming	1
-n	3
-thought	1
-SO	2
-doubly	1
-positive	1
-Our	1
-the	6
-its	1
-bodies	1
-view	1
+and,2
+set,1
+point,1
+explicit,1
+is,1
+in,1
+it,1
+an,1
+as,2
+minimum,1
+cone,1
+have,1
+convex,3
+times,1
+spectrahedral,3
+unit,1
+size,1
+are,3
+affine,1
+We,2
+from,1
+no,1
+matrices,2
+there,1
+show,1
+its,1
+that,2
+smaller,1
+polar,1
+determinant,1
+sense,1
+description,1
+orthogonal,1
+hull,2
+subspace,1
+representations,2
+intersection,1
+with,2
+a,2
+both,1
+semidefinite,2
+e,1
+i,1
+of,10
+study,1
+programming,1
+n,4
+thought,1
+these,1
+SO,2
+doubly,1
+positive,1
+Our,1
+the,6
+bodies,1
+view,1

@@ -1,83 +1,78 @@
-
-and	4
-represent	2
-size-biasing	1
-via	1
-particularly	1
-family	1
-show	1
-process	8
-marginal	2
-is	2
-CRM	1
-we	4
-nonparametric	5
-general	1
-as	1
-conjugate	4
-further	1
-our	1
-the	7
-with	1
-based	1
-We	4
-CRMs	3
-draws	1
-calculate	1
-for	7
-to	4
-posteriors	1
-priors	4
-sequence	1
-,	3
-.	7
-coupled	1
-how	3
--and	1
-which	1
-Bayesian	5
-marginals	1
-Along	1
-CRM-based	1
-approach	1
-prime	1
-Motivated	1
-full	1
-families	1
-way	1
-straightforward	1
-that	2
-models	3
-deliver	1
-odds	1
-This	1
-introduce	1
-beta	1
-construction	1
-Poisson	2
-representation	2
-using	1
-likelihood	2
-by	1
-specify	1
-a	9
-on	1
-finite	2
-representations	2
-exponential	5
---	1
-of	6
-recipes	1
-prove	1
-allows	1
-us	1
-prior	2
-gamma	3
-allow	1
-Bernoulli	1
-demonstrate	2
-likelihoods	3
-size-biased	2
-automatic	1
-notion	1
-call	2
+and,5
+represent,2
+via,1
+particularly,1
+family,1
+show,1
+process,8
+marginal,2
+is,2
+conjugate,4
+we,4
+nonparametric,5
+general,1
+as,1
+using,1
+further,1
+our,1
+with,1
+biasing,1
+CRM,2
+We,4
+CRMs,3
+based,2
+calculate,1
+for,7
+to,4
+posteriors,1
+priors,4
+sequence,1
+the,7
+coupled,1
+how,3
+likelihood,2
+call,2
+which,1
+Bayesian,5
+marginals,1
+Along,1
+finite,2
+approach,1
+prime,1
+Motivated,1
+full,1
+families,1
+way,1
+straightforward,1
+that,2
+models,3
+deliver,1
+odds,1
+This,1
+introduce,1
+beta,1
+construction,1
+size,3
+Poisson,2
+representation,2
+draws,1
+biased,2
+by,1
+specify,1
+a,9
+on,1
+representations,2
+exponential,5
+of,6
+recipes,1
+prove,1
+allows,1
+us,1
+prior,2
+allow,1
+Bernoulli,1
+demonstrate,2
+likelihoods,3
+automatic,1
+notion,1
+gamma,3

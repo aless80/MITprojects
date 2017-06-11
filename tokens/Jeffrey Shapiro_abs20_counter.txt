@@ -1,112 +1,110 @@
-
-proposed	1
-Hong-Ou-Mandel	1
-97.8	1
-through	2
-using	1
-long-postulated	1
-photon-efficient	1
-We	1
-violate	1
-candidate	1
-,	5
-Here	1
-to	5
-has	1
-integer	1
-biphoton	2
-resource	1
-S-parameters	1
-separately	1
-communications	2
-inequality	1
-visibilities	1
-further	1
-where	1
-domain	1
-energy	1
-observed	2
-frequency	2
-quantum	2
-continuous-variable	1
-96.5	1
-witness	1
-qudit	1
-by	1
-capacity	2
-for	2
-state	1
-provides	1
-minimal	1
-limitations	1
-we	1
-full	1
-simultaneously	1
-nature	1
-This	1
-processing	1
-Our	1
-comb	2
-observing	1
-periodically	1
-both	1
-Clauser-Horne-Shimony-Holt	1
-of	1
-simultaneous	1
-makes	1
-exhibited	1
-first	1
-high-dimensional	5
-secure	1
-encoding	1
-coding	1
-energy-time-polarization	1
-entanglement	4
-harness	1
-resilience	1
-revival	1
-platform	1
-been	1
-.	7
-visibility	1
-with	3
-Bell	1
-19	1
-up	3
-Franson	1
-while	1
-error	1
-Quantum	1
-demonstrate	1
-time-bins	2
-and	3
-is	4
-it	1
-an	1
-high	1
-hyperentanglement	2
-at	1
-in	2
-information	1
-%	2
-efficient	1
-recurrent	1
-energy-time	2
-2.76	1
-ideal	1
-potential	1
-10.95	1
-generalized	1
-which	1
-channel	1
-towards	2
-revivals	1
-The	2
-data	1
-a	3
-deviations	1
-or	1
-ultimate	1
-fundamental	1
-time	1
-the	6
+proposed,1
+through,2
+using,1
+We,1
+violate,1
+candidate,1
+Here,1
+to,5
+postulated,1
+has,1
+integer,1
+Ou,1
+biphoton,2
+resource,1
+qudit,1
+communications,2
+inequality,1
+visibilities,1
+where,1
+domain,1
+energy,4
+observed,2
+frequency,2
+Mandel,1
+quantum,2
+further,1
+witness,1
+separately,1
+capacity,2
+for,2
+Holt,1
+state,1
+provides,1
+minimal,1
+limitations,1
+we,1
+full,1
+simultaneously,1
+nature,1
+This,1
+processing,1
+Clauser,1
+S,1
+Our,1
+comb,2
+observing,1
+periodically,1
+both,1
+parameters,1
+of,1
+simultaneous,1
+makes,1
+exhibited,1
+first,1
+Hong,1
+secure,1
+encoding,1
+coding,1
+dimensional,5
+revivals,1
+harness,1
+been,1
+resilience,1
+revival,1
+platform,1
+long,1
+by,1
+Shimony,1
+continuous,1
+photon,1
+visibility,1
+with,3
+Bell,1
+up,3
+Franson,1
+while,1
+error,1
+Quantum,1
+demonstrate,1
+and,3
+is,4
+it,1
+an,1
+high,6
+hyperentanglement,2
+at,1
+in,2
+information,1
+efficient,2
+recurrent,1
+polarization,1
+ideal,1
+potential,1
+generalized,1
+which,1
+channel,1
+towards,2
+entanglement,4
+variable,1
+The,2
+data,1
+a,3
+Horne,1
+deviations,1
+or,1
+ultimate,1
+fundamental,1
+time,6
+the,6
+bins,2

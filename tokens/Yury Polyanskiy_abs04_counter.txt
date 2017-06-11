@@ -1,98 +1,88 @@
-
-precise	1
-concept	1
-partial	1
-less	1
-being	1
-paper	1
-relation	1
-We	1
-$	8
-(	4
-original	1
-,	4
-forms	1
-stochastic	1
-defining	1
-inequality	1
-strengthened	1
-Sobolev	1
-radius	1
--divergence	1
-special	1
-spectral	1
-shown	1
-matrix	1
-for	3
-\chi^2	1
-symmetric	3
-This	1
-dominated	1
-between	1
-wner	1
-be	1
-we	1
-noise	1
-terms	3
-theory	1
-originated	1
-equivalent	1
-divergence	1
-by	3
-logarithmic	1
-noisy	2
-comparison	1
-of	9
-PSD	1
-{	1
-studies	1
-or	1
-via	1
-simple	1
-channels	3
-Finally	1
-given	1
-additive	1
-question	1
-.	6
-basic	1
-Furthermore	1
-more	1
-``	1
-that	1
-Kullback-Leibler	1
-broadcast	1
-domination	2
-V	2
-case	1
-characterizations	1
-whether	1
-can	1
-and	2
-give	1
-defined	1
-is	3
-in	5
-it	1
-''	2
-minimum	1
-o	1
-sense	1
-information	2
-mutual	1
-develop	1
-)	4
-criterion	2
-L\	1
-channel	6
-Dirichlet	1
-The	2
-network	1
-a	6
-implies	1
--ary	1
-q	1
-entry	1
-the	7
-}	1
-order	1
+precise,1
+concept,1
+partial,1
+less,1
+being,1
+paper,1
+relation,1
+Kullback,1
+We,1
+forms,1
+stochastic,1
+defining,1
+L,1
+inequality,1
+strengthened,1
+ary,1
+noise,1
+radius,1
+special,1
+spectral,1
+shown,1
+network,1
+for,3
+symmetric,3
+This,1
+dominated,1
+between,1
+wner,1
+be,1
+we,1
+Sobolev,1
+terms,3
+theory,1
+originated,1
+equivalent,1
+divergence,2
+Leibler,1
+by,3
+logarithmic,1
+noisy,2
+comparison,1
+of,9
+PSD,1
+studies,1
+or,1
+via,1
+simple,1
+channels,3
+Finally,1
+given,1
+additive,1
+chi,1
+question,1
+basic,1
+Furthermore,1
+more,1
+that,1
+broadcast,1
+domination,2
+V,2
+case,1
+characterizations,1
+whether,1
+can,1
+and,2
+give,1
+defined,1
+is,3
+in,5
+it,1
+minimum,1
+o,1
+sense,1
+information,2
+mutual,1
+develop,1
+criterion,2
+channel,6
+Dirichlet,1
+The,2
+matrix,1
+a,6
+implies,1
+original,1
+q,1
+entry,1
+the,7
+order,1

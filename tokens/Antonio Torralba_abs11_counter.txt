@@ -1,77 +1,78 @@
-
-and	3
-tasks	1
-semantic	2
-classification	2
-list	1
-on	1
-describe	1
-data-hungry	1
-environments	1
-dataset	1
-as	1
-at	2
-learning	1
-in	1
-art	1
-near-human	1
-its	1
-recognition	2
-Convolutional	1
-initiatives	1
-repository	1
-million	1
-provide	1
-high-coverage	1
-Neural	1
-high-diversity	1
-,	5
-Here	1
-.	4
-machine	1
-to	2
-state	1
-offers	1
-types	1
-quasi-exhaustive	1
-Using	1
-has	1
-With	1
-photographs	1
-we	2
-rise	1
-an	1
-Places	2
-Database	2
-problems	1
-object	1
-reach	1
-multi-million-item	1
-scene	4
-ecosystem	1
-visual	1
-exemplars	1
-progress	1
-such	1
-The	1
-encountered	1
-with	1
-categories	1
-baseline	1
-a	2
-10	1
-intractable	1
-impressive	1
-world	1
-currently	1
-of	6
-enabled	1
-comprising	1
-guide	1
-labeled	1
-future	1
-algorithms	1
-performances	1
-attributes	1
-the	5
-Networks	1
+and,3
+tasks,1
+semantic,2
+learning,1
+classification,2
+list,1
+describe,1
+scene,4
+environments,1
+dataset,1
+high,2
+as,1
+at,2
+human,1
+in,1
+art,1
+its,1
+recognition,2
+Convolutional,1
+initiatives,1
+repository,1
+provide,1
+with,1
+Neural,1
+labeled,1
+Here,1
+comprising,1
+machine,1
+to,2
+quasi,1
+offers,1
+types,1
+Using,1
+exhaustive,1
+has,1
+With,1
+photographs,1
+we,2
+rise,1
+diversity,1
+Places,2
+Database,2
+problems,1
+million,2
+reach,1
+ecosystem,1
+visual,1
+state,1
+exemplars,1
+coverage,1
+progress,1
+such,1
+The,1
+encountered,1
+data,1
+categories,1
+baseline,1
+a,2
+on,1
+multi,1
+intractable,1
+impressive,1
+world,1
+currently,1
+of,6
+enabled,1
+hungry,1
+object,1
+guide,1
+item,1
+near,1
+future,1
+algorithms,1
+performances,1
+an,1
+attributes,1
+the,5
+Networks,1

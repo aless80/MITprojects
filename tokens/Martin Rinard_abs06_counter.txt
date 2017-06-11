@@ -1,113 +1,113 @@
-
-Presburger	1
-desirable	1
-results	1
-paper	1
-including	1
-Typestate	1
-Arithmetic	1
-relationships	1
-whose	1
-We	2
-trade-off	1
-,	6
-presents	1
-to	1
-program	1
-systems	1
-has	1
-satisfiability	3
-fragment	1
-cardinalities	3
-quest	1
-polynomial-time	2
-In	1
-fields	1
-this	1
-generalize	1
-constraints	6
-subset	1
-foundation	1
-library	1
-result	1
-expressive	1
-nondeterministic	1
-for	5
-expressed	1
-imperative	1
-between	2
-quantifier-free	1
-new	2
-fragments	1
-correct	1
-be	2
-we	2
-power	1
-interfaces	1
-stateful	1
-objects	1
-demonstrate	1
-represented	1
-by	1
-on	3
-of	11
-Abstract	1
-ensure	1
-identify	2
-first	1
-typestates	1
-symbolic	1
-one	1
-Finally	1
-disjointness	1
-reducing	1
-use	1
-Motivated	1
-relations	1
-.	8
-their	3
-typestate	1
-:	1
-naturally	1
-that	1
-serve	1
-cardinality	3
-with	4
-these	1
-classes	1
-can	3
-many	1
-Our	1
-problem	1
-more	1
-subclasses	1
-study	1
-and	10
-constant	1
-give	2
-is	1
-as	3
-properties	2
-entailment	1
-Algebra	1
-efficient	2
-concerns	1
-resulting	1
-several	2
-elements	1
-initialization	1
-object	1
-problems	1
-applications	1
-class	1
-a	7
-algorithm	2
-programs	1
-polynomial-space	1
-analysis	1
-complexity	2
-Boolean	1
-algorithms	1
-sets	7
-the	3
-NP-hard	1
+Presburger,1
+desirable,1
+results,1
+trade,1
+paper,1
+including,1
+Typestate,1
+Arithmetic,1
+relationships,1
+whose,1
+We,2
+presents,1
+to,1
+program,1
+systems,1
+has,1
+satisfiability,3
+fragment,1
+cardinalities,3
+quest,1
+quantifier,1
+In,1
+fields,1
+this,1
+generalize,1
+constraints,6
+subset,1
+foundation,1
+hard,1
+library,1
+result,1
+expressive,1
+nondeterministic,1
+for,5
+space,1
+expressed,1
+imperative,1
+between,2
+new,2
+fragments,1
+correct,1
+be,2
+we,2
+power,1
+interfaces,1
+free,1
+stateful,1
+objects,1
+demonstrate,1
+represented,1
+by,1
+on,3
+of,11
+Abstract,1
+ensure,1
+identify,2
+first,1
+typestates,1
+symbolic,1
+one,1
+Finally,1
+disjointness,1
+polynomial,3
+reducing,1
+use,1
+Motivated,1
+relations,1
+properties,2
+their,3
+typestate,1
+NP,1
+naturally,1
+that,1
+serve,1
+cardinality,3
+with,4
+these,1
+classes,1
+can,3
+many,1
+Our,1
+problem,1
+sets,7
+subclasses,1
+study,1
+and,10
+constant,1
+give,2
+is,1
+as,3
+entailment,1
+Algebra,1
+efficient,2
+concerns,1
+resulting,1
+several,2
+elements,1
+initialization,1
+object,1
+problems,1
+applications,1
+class,1
+a,7
+off,1
+algorithm,2
+programs,1
+analysis,1
+more,1
+complexity,2
+Boolean,1
+algorithms,1
+time,2
+the,3

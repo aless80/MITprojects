@@ -1,137 +1,128 @@
-
-visible-wavelength	1
-show	1
-5\times10^	1
-focus	2
-previous	1
-25	1
-We	1
-$	8
-field	1
-,	8
-to	6
-systems	1
-Additionally	1
-grating	3
-micron-scale	1
-<	1
-spatially-selective	1
-lobe	1
-beams	1
-couple	1
-dielectric	2
-imposed	1
-level	1
---	1
-free-space	1
--4	1
--6	1
-quick	1
-optics	1
-diffraction-limited	1
-characterized	1
-view	1
-relative	2
-intensity	3
-design	2
-are	1
-quantum	1
-10s	1
-single-mode	1
-impurity	1
-100s	1
-3	1
-10^	1
-routing	1
-;	1
-waveguide	1
-integrated	1
-contrast	1
-be	1
-we	2
-processing	1
-weak	1
-approaches	1
-objects	1
-extent	1
-along	1
-observing	1
-by	1
-on	1
-of	6
-region	2
-density	1
-allows	1
-sidelobes	1
-{	2
-or	1
-characterization	1
-requiring	1
-one	1
-down	1
-index-contrast	1
-planar-fabricated	1
-\times	1
-from	8
-waveguides	1
-spots	1
-.	4
-approach	1
-low	1
-that	2
-forming	1
-but	1
-optical	2
-with	1
-present	1
-applied	1
-distance	1
-microns	2
-main	1
-intuitive	1
-these	1
-work	1
-up	1
-devices	3
-limit	1
-Our	1
-similar	1
-purity	1
-and	6
-addressing	1
-well	1
-chip	1
-surface	1
-high	1
-characterize	1
-as	1
-at	2
-in	8
-any	1
-information	1
-\lambda=674	1
-angle	1
-nm	1
-generally	1
-polarization	1
-application	1
-benefitting	1
-which	1
-performance	1
-finite	1
-With	1
-trapped-ion	1
-may	1
-designed	1
-such	1
-focal	1
-a	4
-deviations	1
-center	1
-light	1
-diffraction	1
-Gaussian	1
-parallelism	1
-the	14
-}	2
-dimension	1
+limited,1
+show,1
+focus,2
+previous,1
+We,1
+field,1
+to,6
+micron,1
+systems,1
+Additionally,1
+grating,3
+main,1
+lobe,1
+beams,1
+couple,1
+fabricated,1
+dielectric,2
+imposed,1
+level,1
+approach,1
+mode,1
+quick,1
+optics,1
+characterized,1
+view,1
+relative,2
+intensity,3
+design,2
+are,1
+quantum,1
+wavelength,1
+index,1
+scale,1
+impurity,1
+space,1
+routing,1
+waveguide,1
+integrated,1
+contrast,2
+be,1
+we,2
+processing,1
+weak,1
+free,1
+approaches,1
+selective,1
+extent,1
+along,1
+observing,1
+by,1
+on,1
+of,6
+region,2
+density,1
+allows,1
+times,2
+s,2
+objects,1
+sidelobes,1
+or,1
+lambda,1
+spatially,1
+characterization,1
+requiring,1
+planar,1
+one,1
+down,1
+visible,1
+from,8
+waveguides,1
+spots,1
+low,1
+that,2
+forming,1
+but,1
+optical,2
+with,1
+present,1
+applied,1
+distance,1
+microns,2
+intuitive,1
+these,1
+work,1
+up,1
+devices,3
+limit,1
+Our,1
+similar,1
+purity,1
+and,6
+addressing,1
+diffraction,2
+chip,1
+surface,1
+high,1
+characterize,1
+single,1
+at,2
+in,8
+any,1
+as,1
+information,1
+angle,1
+nm,1
+trapped,1
+generally,1
+polarization,1
+application,1
+benefitting,1
+which,1
+performance,1
+finite,1
+With,1
+may,1
+ion,1
+designed,1
+such,1
+focal,1
+a,4
+deviations,1
+center,1
+light,1
+well,1
+Gaussian,1
+parallelism,1
+the,14
+dimension,1

@@ -1,76 +1,73 @@
-
-and	2
-spherical	1
-code	1
-associated	1
-exists	1
-developed	1
-into	1
-coding	1
-attains	1
-It	1
-Lattice	1
-rate	1
-minimum	1
-same	1
-have	1
-using	1
-further	1
-.	5
-result	1
-shown	3
-capacity	3
-exponent	1
-for	3
-how	1
-)	1
-(	1
-mean-square	1
-there	1
-when	1
-transform	1
-been	2
-decoding	1
-to	2
-randomization	1
-critical	1
-rates	1
-above	1
-geometric	1
-white	1
-AWGN	4
-was	1
-is	2
-channel	8
-A	1
-,	2
-noise	2
-that	3
-This	1
-explanation	1
-In	1
-but	1
-it	1
-scaling	2
-operating	1
-rate-dependent	1
-particular	1
-additive	2
-with	1
-below	1
-a	4
-such	1
-has	1
-this	1
-of	6
-coincides	1
-Gaussian	1
-events	1
-geometry	1
-accomplished	1
-achieve	1
-error	3
-the	12
-typical	1
-modulo-lattice	3
-at	1
+and,2
+spherical,1
+square,1
+modulo,3
+exists,1
+additive,2
+developed,1
+into,1
+code,1
+coding,1
+attains,1
+It,1
+Lattice,1
+rate,2
+minimum,1
+same,1
+have,1
+such,1
+dependent,1
+further,1
+result,1
+shown,3
+capacity,3
+exponent,1
+for,3
+lattice,3
+there,1
+when,1
+transform,1
+been,2
+decoding,1
+to,2
+randomization,1
+critical,1
+rates,1
+above,1
+geometric,1
+white,1
+AWGN,4
+was,1
+is,2
+channel,8
+A,1
+noise,2
+that,3
+This,1
+explanation,1
+In,1
+but,1
+it,1
+scaling,2
+how,1
+operating,1
+particular,1
+using,1
+associated,1
+with,1
+below,1
+a,4
+has,1
+this,1
+of,6
+coincides,1
+Gaussian,1
+events,1
+geometry,1
+accomplished,1
+achieve,1
+error,3
+at,1
+the,12
+typical,1
+mean,1

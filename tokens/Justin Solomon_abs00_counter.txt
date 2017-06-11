@@ -1,146 +1,145 @@
-
-all	1
-particularly	1
-aggregating	1
-over	1
-both	1
-sources	1
-via	1
-poorly	1
-knowledge	1
-produces	1
-distributed	2
-,	13
-demonstrate	1
-to	5
-only	1
-differently	1
-samples	1
-input	5
-finer	1
-summarizes	1
-far	1
-scalable	1
-Improving	1
-identically	1
-not	1
-apart	1
-method	2
-each	1
-inherent	1
-large-scale	1
-communication-efficient	1
-streaming	1
-individual	1
-are	1
-our	2
-principled	1
-transport	1
-even	1
-network	1
-for	3
-measurements	1
-However	1
-best	1
-affecting	1
-sensor	1
-across	2
-be	3
-we	3
-arbitrary	1
-tracks	1
-Our	2
-sensors	1
-problem	1
-on	4
-geometry	1
-of	8
-needing	1
-practical	1
-Conversely	1
-or	1
-first	1
-discretize	1
-discretization	2
-tasks	1
-inference	3
-probability	1
-scales	1
-reasons	1
-Finally	1
-directly	1
-Wasserstein	2
-quality	1
-estimate	2
-from	2
-source	1
-approximate	1
-.	11
-their	2
-way	1
-:	2
-nonstationary	1
-that	2
-These	1
-becomes	1
-differences	1
-but	1
-tracking	1
-present	2
-subsets	2
-sphere	1
-this	1
-bounds	1
-placed	1
-while	1
-can	2
-situation	1
-distribution	1
-barycenter	7
-and	4
-challenging	1
-computing	2
-respecting	1
-is	7
-it	1
-To	1
-single	1
-itself	1
-in	3
-need	1
-distributions	6
-as	3
-different	1
-computationally	1
-provide	1
-when	1
-also	1
-other	1
-split	1
-Bayesian	2
-optimal	1
-effectiveness	1
-Efficiently	1
-continuous	1
-may	1
-measures	2
-collection	1
-semi-discrete	1
-lens	1
-optimized	1
-fuse	1
-moving	1
-robust	1
-The	1
-data	4
-parallel	1
-a	8
-task	2
-advantageous	1
-algorithm	3
-well	1
-One	1
-time	1
-the	14
-operate	1
-requires	1
+all,1
+particularly,1
+aggregating,1
+over,1
+both,1
+sources,1
+via,1
+poorly,1
+knowledge,1
+produces,1
+distributed,2
+demonstrate,1
+to,5
+only,1
+differently,1
+samples,1
+input,5
+finer,1
+summarizes,1
+far,1
+scalable,1
+Improving,1
+identically,1
+not,1
+apart,1
+semi,1
+method,2
+large,1
+discrete,1
+each,1
+inherent,1
+streaming,1
+individual,1
+are,1
+our,2
+principled,1
+transport,1
+even,1
+scale,1
+network,1
+for,3
+measurements,1
+However,1
+best,1
+affecting,1
+sensor,1
+across,2
+be,3
+we,3
+arbitrary,1
+tracks,1
+Our,2
+sensors,1
+problem,1
+on,4
+geometry,1
+of,8
+needing,1
+practical,1
+Conversely,1
+or,1
+first,1
+discretize,1
+discretization,2
+tasks,1
+inference,3
+probability,1
+scales,1
+reasons,1
+communication,1
+Finally,1
+directly,1
+Wasserstein,2
+quality,1
+estimate,2
+from,2
+source,1
+approximate,1
+their,2
+way,1
+nonstationary,1
+that,2
+These,1
+becomes,1
+differences,1
+but,1
+tracking,1
+present,2
+subsets,2
+sphere,1
+this,1
+bounds,1
+placed,1
+while,1
+can,2
+situation,1
+distribution,1
+barycenter,7
+and,4
+challenging,1
+computing,2
+respecting,1
+is,7
+it,1
+To,1
+single,1
+itself,1
+in,3
+need,1
+distributions,6
+as,3
+different,1
+computationally,1
+efficient,1
+when,1
+also,1
+other,1
+split,1
+Bayesian,2
+optimal,1
+effectiveness,1
+Efficiently,1
+continuous,1
+may,1
+measures,2
+collection,1
+lens,1
+optimized,1
+fuse,1
+moving,1
+robust,1
+The,1
+data,4
+parallel,1
+a,8
+task,2
+advantageous,1
+algorithm,3
+well,1
+One,1
+provide,1
+time,1
+the,14
+operate,1
+requires,1

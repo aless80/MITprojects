@@ -1,175 +1,157 @@
-
-selection	4
-consider	2
-show	1
-results	1
-existing	1
-\leq	1
-paper	1
-identify	1
-solutions	1
-threshold	2
-fineness	1
-find	1
-two-dimensional	1
-We	3
-trade-off	1
-group	1
-$	38
-how	2
-(	15
-treasure	1
-,	15
-to	6
-setting	1
-\cdot	1
-By	1
-achieve	1
-then	2
-within	1
-D	7
-straightforward	1
-propose	1
-2^	1
-bound	3
-collaboratively	1
-optimal	1
-not	1
-Because	1
-each	1
-biological	1
-where	2
-Feinerman	2
-upper	1
-1/2^\ell	1
-For	1
-+D	1
-searching	1
-achieves	1
-located	1
-likely	1
-measure	1
-et	2
-\Omega	2
-\cal	5
-for	7
-+	3
-crucial	1
-speed-up	4
-per	1
-2-o	1
-pressures	1
-3	1
-\log	8
-between	1
-new	3
-\omega	1
-D^	1
-available	1
-we	4
-measures	1
-algorithmic	1
-nature	1
-use	1
-O	3
-standard	1
-selective	1
-found	1
-[	2
-by	3
-comparison	1
-search	1
-<	1
-of	9
-study	2
-probabilities	2
-important	1
-describing	1
-{	9
-argue	1
-first	1
-origin	1
-probability	1
-asymptotically	1
-number	1
-gap	1
-agents	3
-.	13
-\in	1
-given	1
-from	1
-prove	1
-addition	1
-unknown	1
-there	1
-due	1
-least	1
-strategy	1
-memory	1
-expected	1
-bits	1
-metric	4
-more	1
-tight	1
-D^2/n	2
-that	6
-\chi	5
-it	1
-sizable	1
-particular	2
-with	2
-distance	1
-b	2
-target	3
-this	6
-require	1
-bounds	1
-n	3
-behavior	1
-problem	4
-similar	1
-inspired	1
-and	2
-defined	1
-is	9
-in	6
-al	2
-agent	2
-high	1
-as	1
-at	2
-arise	1
-moves	1
-species	1
-if	1
-)	15
-studying	1
--	1
-detail	1
-1	4
-also	1
-improves	1
-which	2
-performance	1
-=	2
-showing	1
-A	5
-used	1
-our	2
-time	2
-ANTS	1
-sub-exponential	1
-plane	1
-\ell	4
-Hence	1
-such	1
-near-optimal	1
-]	2
-a	12
-lower	2
-algorithm	1
-complexity	4
-In	4
-the	15
-}	9
-\em	2
+selection,4
+consider,2
+show,1
+results,1
+trade,1
+paper,1
+identify,1
+solutions,1
+threshold,2
+fineness,1
+speed,4
+find,1
+We,3
+group,1
+ell,5
+how,2
+treasure,1
+to,6
+setting,1
+By,1
+achieve,1
+then,2
+within,1
+D,11
+straightforward,1
+propose,1
+showing,1
+bound,3
+collaboratively,1
+optimal,2
+not,1
+existing,1
+Because,1
+cdot,1
+each,1
+biological,1
+where,2
+Feinerman,2
+upper,1
+For,1
+searching,1
+up,4
+achieves,1
+located,1
+likely,1
+measure,1
+et,2
+describing,1
+sub,1
+for,7
+crucial,1
+per,1
+pressures,1
+between,1
+new,3
+available,1
+we,4
+measures,1
+algorithmic,1
+nature,1
+given,1
+O,3
+standard,1
+leq,1
+selective,1
+found,1
+by,3
+comparison,1
+search,1
+of,9
+inspired,1
+o,1
+probabilities,2
+important,1
+unknown,1
+argue,1
+first,1
+origin,1
+em,2
+probability,1
+asymptotically,1
+number,1
+two,1
+dimensional,1
+agents,3
+use,1
+from,1
+log,8
+prove,1
+addition,1
+chi,5
+there,1
+due,1
+least,1
+strategy,1
+memory,1
+expected,1
+bits,1
+metric,4
+more,1
+tight,1
+that,6
+it,1
+sizable,1
+particular,2
+with,2
+distance,1
+b,2
+target,3
+exponential,1
+this,6
+require,1
+bounds,1
+n,5
+near,1
+behavior,1
+cal,5
+problem,4
+similar,1
+study,2
+and,2
+defined,1
+is,9
+in,7
+al,2
+agent,2
+high,1
+as,1
+at,2
+arise,1
+moves,1
+species,1
+if,1
+studying,1
+detail,1
+also,1
+improves,1
+which,2
+performance,1
+Omega,2
+A,5
+used,1
+our,2
+time,2
+ANTS,1
+plane,1
+Hence,1
+such,1
+gap,1
+omega,1
+a,12
+lower,2
+off,1
+algorithm,1
+complexity,4
+In,4
+the,15

@@ -1,133 +1,132 @@
-
-semantic	3
-increasingly	1
-labels	2
-paper	1
-alternative	1
-keyphrases	3
-find	2
-outperforms	1
-We	1
-latent	2
-,	7
-presents	1
-to	5
-summarizing	1
-clusters	1
-hidden	1
-real	1
-good	1
-joint	2
-increases	1
-they	1
-using	1
-semantically	2
-free-text	1
-underlying	1
-domain	1
-set	1
-often	1
-encourages	1
-some	1
-topics	1
-growth	1
-are	4
-substantially	1
-our	1
-implemented	1
-by	2
-abundant	1
-expert	1
-review	1
-content	1
-new	1
-;	1
-approach	1
-method	1
-be	1
-we	1
-missing	1
-This	1
-leveraging	1
-however	1
-pros/cons	1
-approaches	1
-demonstrate	1
-Multiple	1
-properties	5
-noisy	2
-of	7
-unannotated	1
-enabling	1
-or	1
-keyphrase	2
-relevant	1
-inference	2
-into	1
-system	1
-texts	1
-evaluations	1
-clustering	1
-use	1
-salient	1
-annotated	1
-single	1
-due	1
-.	9
-their	1
-Such	1
-:	1
-annotations	5
-that	2
-These	1
-becoming	1
-dramatic	1
-representative	1
-authors	2
-with	4
-especially	1
-unlike	1
-effectively	1
-robustness	1
-bargain	1
-value	1
-reviews	2
-learn	1
-Our	1
-property	1
-inferring	1
-and	4
-predict	1
-semi-structured	1
-is	3
-denote	1
-topic	1
-To	1
-as	2
-in	1
-linked	1
-different	1
-documents	3
-same	1
-which	2
-online	1
-Bayesian	1
-paraphrase	2
-product	1
-multiple	2
-user-generated	1
-may	2
-lay	1
-aggregate	1
-such	2
-The	1
-meaningful	1
-model	3
-structure	2
-recent	1
-a	6
-for	2
-correlate	1
-One	1
-hierarchical	1
-the	12
+semantic,3
+increasingly,1
+text,1
+labels,2
+paper,1
+alternative,1
+abundant,1
+find,2
+outperforms,1
+We,1
+latent,2
+presents,1
+to,5
+summarizing,1
+clusters,1
+hidden,1
+real,1
+good,1
+joint,2
+increases,1
+they,1
+using,1
+semi,1
+underlying,1
+domain,1
+set,1
+often,1
+encourages,1
+some,1
+topics,1
+growth,1
+are,4
+substantially,1
+our,1
+implemented,1
+keyphrases,3
+expert,1
+review,1
+pros,1
+content,1
+new,1
+semantically,2
+approach,1
+method,1
+be,1
+we,1
+missing,1
+This,1
+leveraging,1
+however,1
+free,1
+approaches,1
+demonstrate,1
+Multiple,1
+properties,5
+noisy,2
+of,7
+unannotated,1
+enabling,1
+or,1
+user,1
+relevant,1
+inference,2
+into,1
+system,1
+texts,1
+evaluations,1
+clustering,1
+use,1
+salient,1
+annotated,1
+structured,1
+single,1
+due,1
+by,2
+their,1
+Such,1
+annotations,5
+that,2
+These,1
+becoming,1
+dramatic,1
+representative,1
+authors,2
+with,4
+especially,1
+unlike,1
+effectively,1
+robustness,1
+bargain,1
+value,1
+reviews,2
+learn,1
+Our,1
+property,1
+inferring,1
+and,4
+cons,1
+predict,1
+is,3
+denote,1
+topic,1
+To,1
+as,2
+in,1
+linked,1
+different,1
+documents,3
+same,1
+which,2
+online,1
+Bayesian,1
+paraphrase,2
+product,1
+multiple,2
+may,2
+generated,1
+lay,1
+aggregate,1
+such,2
+The,1
+meaningful,1
+model,3
+structure,2
+recent,1
+a,6
+for,2
+correlate,1
+One,1
+hierarchical,1
+the,12
+keyphrase,2

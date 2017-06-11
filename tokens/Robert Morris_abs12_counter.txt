@@ -1,123 +1,111 @@
-
-all	1
-cellular	1
-both	1
-activated	1
-results	1
-extensively	1
-mathematicians	1
-paper	1
-statistical	1
-threshold	1
-occupation	1
-We	1
-$	2
-termed	1
-(	2
-deterministic	1
-,	18
-to	1
-only	1
-theorem	1
-complements	1
-Griffeath	1
-Smith	3
-every	1
-they	1
-years	1
-Aizenman	1
-Uzzell	2
-specific	1
-Balister	1
-configurations	1
-significantly	1
-connections	1
-are	1
-close	1
-special	1
-dimensions	1
-'	3
-sites	2
-`bootstrap	1
-critical	2
-Lebowitz	1
-be	1
-we	1
-recently	1
-This	2
-monotone	1
-however	1
-supercritical	1
-by	3
-Mountford	1
-on	2
-of	7
-study	1
-studied	2
-{	1
-or	1
-first	1
-family	1
-into	1
-two-state	1
-two	1
-`infected	1
-determine	1
-van	1
-`universality	1
-three	1
-been	1
-.	5
-automata	1
-infected	1
-physicists	1
-was	1
-subcritical	2
-naturally	1
-complete	1
-that	1
-These	1
-cases	1
-Z	1
-showed	1
-this	1
-work	1
-bounds	1
-classes	1
-can	1
-Gravner	1
-strengthens	1
-examples	1
-and	11
-model	1
-\mathbb	1
-certain	1
-general	1
-as	1
-have	2
-in	3
-Hulshof	1
-)	2
-^2	1
-setting	1
-which	2
-several	1
-Bollob\'as	3
-percolation	3
-models	3
-who	1
-includes	1
-Enter	1
-such	1
-class	1
-recent	2
-for	2
-partitioned	1
-physics	1
-bootstrap	1
-Przykucki	1
-In	1
-the	4
-nearby	1
-}	1
-order	1
+all,1
+cellular,1
+both,1
+activated,1
+results,1
+extensively,1
+mathematicians,1
+paper,1
+statistical,1
+threshold,1
+occupation,1
+We,1
+Mountford,1
+termed,1
+deterministic,1
+to,1
+only,1
+theorem,1
+complements,1
+Smith,3
+every,1
+they,1
+years,1
+Aizenman,1
+Uzzell,2
+specific,1
+Balister,1
+configurations,1
+significantly,1
+connections,1
+are,1
+close,1
+special,1
+dimensions,1
+for,2
+sites,2
+state,1
+critical,2
+Lebowitz,1
+be,1
+we,1
+recently,1
+This,2
+monotone,1
+however,1
+supercritical,1
+by,3
+on,2
+of,7
+study,1
+studied,2
+or,1
+first,1
+mathbb,1
+family,1
+into,1
+Griffeath,1
+three,1
+determine,1
+Bollob,3
+van,1
+two,2
+been,1
+automata,1
+infected,2
+physicists,1
+was,1
+subcritical,2
+naturally,1
+complete,1
+that,1
+These,1
+cases,1
+Z,1
+showed,1
+this,1
+work,1
+bounds,1
+classes,1
+can,1
+Gravner,1
+strengthens,1
+examples,1
+and,11
+model,1
+certain,1
+general,1
+as,4
+have,2
+in,3
+Hulshof,1
+setting,1
+which,2
+universality,1
+several,1
+percolation,3
+models,3
+who,1
+includes,1
+Enter,1
+such,1
+class,1
+recent,2
+partitioned,1
+bootstrap,2
+Przykucki,1
+In,1
+the,4
+nearby,1
+physics,1
+order,1

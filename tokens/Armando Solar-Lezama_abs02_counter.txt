@@ -1,101 +1,97 @@
-
-semantic	1
-both	1
-results	1
-bring	1
-paper	1
-Synthesis	2
-devoted	1
-$	2
-candidate	1
-implementation	1
-(	2
-,	5
-presents	1
-platform	1
-SyGuS	2
-T	1
-background	1
-new	1
-using	2
-categories	1
-grammar	1
-bit-vectors	1
-Competition	1
-specifies	1
-set	2
-evaluating	1
-SyGuS-Comp	1
-competition	1
-accelerate	1
-year	1
-techniques	1
-for	2
-research	1
-SyGuS-IF	1
-formula	1
-be	1
-we	1
-theory	3
-G	1
-This	2
-SMT-LIB	1
-analyses	1
-\varphi	1
-by	4
-on	2
-language	1
-constraint	2
-of	9
-programming	1
-facilitate	1
-computational	1
-logical	1
-one	2
-solvers	1
-given	2
-to	2
-top	1
-SyGuS-Comp'16	1
-two	1
-.	6
-Such	1
-synthesis	2
-formally	1
-that	2
-Syntax-Guided	2
-effort	1
-f	1
-this	1
-can	1
-benchmarks	1
-problem	2
-providing	1
-examples	1
-and	5
-defined	1
-is	3
-in	2
-implementations	1
-an	2
-allowed	1
-different	1
-built	1
-syntactic	1
-)	2
-which	1
-finding	1
-development	1
-meets	1
-added	1
-'s	1
-track	2
-comprehensive	1
-The	1
-a	10
-together	1
-efficient	1
-In	1
-the	5
-strings	1
-consisted	1
+semantic,1
+LIB,1
+both,1
+results,1
+bring,1
+paper,1
+Synthesis,2
+devoted,1
+candidate,1
+implementation,1
+presents,1
+platform,1
+SyGuS,5
+T,1
+background,1
+new,1
+using,2
+bit,1
+categories,1
+grammar,1
+Guided,2
+Competition,1
+specifies,1
+set,2
+evaluating,1
+competition,1
+examples,1
+year,1
+techniques,1
+for,2
+research,1
+formula,1
+be,1
+we,1
+theory,3
+G,1
+This,2
+analyses,1
+by,4
+on,2
+language,1
+constraint,2
+of,9
+vectors,1
+programming,1
+s,1
+facilitate,1
+computational,1
+SMT,1
+logical,1
+one,2
+solvers,1
+given,2
+to,2
+Comp,2
+top,1
+two,1
+varphi,1
+Such,1
+synthesis,2
+formally,1
+that,2
+effort,1
+f,1
+this,1
+Syntax,2
+can,1
+benchmarks,1
+problem,2
+providing,1
+accelerate,1
+and,5
+defined,1
+is,3
+in,2
+implementations,1
+an,2
+allowed,1
+different,1
+built,1
+syntactic,1
+efficient,1
+which,1
+finding,1
+development,1
+meets,1
+added,1
+track,2
+comprehensive,1
+The,1
+IF,1
+a,10
+together,1
+In,1
+the,5
+strings,1
+consisted,1

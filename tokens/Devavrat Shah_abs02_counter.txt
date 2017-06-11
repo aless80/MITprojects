@@ -1,85 +1,84 @@
-
-and	7
-bridge	1
-weighted	2
-methods	1
-classification	1
-lines	1
-image	3
-patch-based	4
-nonparametric	2
-existing	2
-globally	1
-label	1
-segmentations	1
-are	1
-arise	1
-work	2
-between	1
-as	1
-guarantee	1
-We	2
-derive	1
-patches	3
-for	4
-majority	2
-there	1
-when	1
-,	4
-been	1
-.	5
-to	3
-fuses	1
-relies	1
-consistent	1
-Despite	1
-performance	1
-has	1
-local	3
-theoretical	2
-development	1
-model	2
-segmentation	5
-inferring	1
-theory	1
-that	1
-property	1
-Many	1
-under	1
-use	1
-gap	1
-by	1
-nearest-neighbor	2
-approaches	1
-imagery	1
-no	1
-new	4
-modeling	1
-cases	1
-probabilistic	1
-why	1
-special	1
-iterates	1
-a	5
-on	3
-providing	1
-natural	1
-algorithm	2
-success	1
-these	2
-of	3
-medical	1
-popularity	1
-well	1
-empirical	1
-analysis	1
-this	1
-merging	1
-produce	1
-algorithms	1
-how	2
-Our	1
-the	3
-voting	2
-similar	1
-nearby	1
+and,7
+nearest,2
+weighted,2
+methods,1
+classification,1
+bridge,1
+lines,1
+image,3
+nonparametric,2
+existing,2
+globally,1
+label,1
+segmentations,1
+are,1
+arise,1
+work,2
+between,1
+as,1
+guarantee,1
+We,2
+derive,1
+based,4
+patches,3
+for,4
+majority,2
+there,1
+when,1
+been,1
+by,1
+to,3
+fuses,1
+relies,1
+consistent,1
+Despite,1
+performance,1
+has,1
+local,3
+theoretical,2
+development,1
+model,2
+segmentation,5
+inferring,1
+theory,1
+that,1
+property,1
+Many,1
+under,1
+use,1
+gap,1
+how,2
+approaches,1
+imagery,1
+no,1
+new,4
+modeling,1
+cases,1
+probabilistic,1
+why,1
+special,1
+iterates,1
+a,5
+on,3
+providing,1
+natural,1
+algorithm,2
+success,1
+these,2
+of,3
+medical,1
+popularity,1
+well,1
+empirical,1
+analysis,1
+patch,4
+this,1
+merging,1
+produce,1
+algorithms,1
+neighbor,2
+Our,1
+the,3
+voting,2
+similar,1
+nearby,1

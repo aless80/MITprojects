@@ -1,106 +1,99 @@
-
-all	1
-being	1
-developed	1
-over	2
-probe	1
-plagued	1
-We	1
-20	1
-situations	1
-,	6
-Here	1
-improvement	1
-environment	1
-to	3
-entanglement-enhanced	1
-returned	1
-loss	2
-background	1
-not	1
-experimentally	1
-realize	1
-severely	1
-dB	2
-yields	1
-essential	1
-schemes	1
-classical	2
-be	1
-sensitivity	1
-fragility	1
-are	2
-measurement	1
-quantum	4
-optimum	1
-for	3
-per	1
-resilient	1
-inevitably	1
-we	1
-noise	2
-processing	1
-delivering	1
-advantages	1
-Our	1
-ratio	1
-by	2
-limits	1
-of	1
-could	1
-diminished	1
-practical	2
-suggests	1
-utility	1
-enhancements	1
-Nonclassical	1
-system	1
-.	6
-scenarios	1
-their	2
-scheme	1
-energy	1
-quantum-sensing	1
-that	2
-These	1
-but	1
-degrade	1
-nonclassicality	1
-than	1
-sample	1
-exception	1
-14	1
-entanglement-breaking	1
-employ	1
-light	1
-demonstrate	1
-result	1
-and	2
-almost	1
-is	1
-an	2
-states	2
-in	3
-technology	1
-if	1
-information	1
-%	1
-metrology	1
-same	1
-signal-to-noise	1
-which	1
-destroy	1
-probed	1
-Exploiting	1
-nonclassical	1
-75	1
-entanglement	1
-the	4
-a	2
-advantageous	1
-optics-based	1
-interval	1
-stronger	1
-without	1
-decoherence	2
-sensing	1
+all,1
+being,1
+developed,1
+over,2
+probe,1
+plagued,1
+We,1
+based,1
+situations,1
+Here,1
+improvement,1
+environment,1
+to,4
+returned,1
+loss,2
+background,1
+not,1
+experimentally,1
+realize,1
+severely,1
+signal,1
+dB,2
+yields,1
+optics,1
+essential,1
+schemes,1
+classical,2
+be,1
+sensitivity,1
+fragility,1
+are,2
+enhanced,1
+measurement,1
+quantum,5
+optimum,1
+for,3
+per,1
+resilient,1
+inevitably,1
+we,1
+noise,3
+processing,1
+delivering,1
+advantages,1
+Our,1
+ratio,1
+by,2
+limits,1
+of,1
+could,1
+diminished,1
+practical,2
+suggests,1
+utility,1
+enhancements,1
+Nonclassical,1
+system,1
+scenarios,1
+their,2
+scheme,1
+energy,1
+that,2
+These,1
+but,1
+degrade,1
+nonclassicality,1
+than,1
+sample,1
+exception,1
+employ,1
+demonstrate,1
+result,1
+and,2
+almost,1
+is,1
+an,2
+states,2
+in,3
+technology,1
+if,1
+information,1
+metrology,1
+breaking,1
+same,1
+which,1
+destroy,1
+probed,1
+Exploiting,1
+nonclassical,1
+entanglement,3
+the,4
+a,2
+advantageous,1
+light,1
+interval,1
+stronger,1
+without,1
+decoherence,2
+sensing,2

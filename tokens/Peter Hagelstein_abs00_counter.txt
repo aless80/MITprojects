@@ -1,116 +1,113 @@
-
-consider	1
-kinetic	1
-based	1
-energies	2
-dynamical	1
-had	1
-,	6
-lattice	4
-absence	1
-degrees	1
-systems	2
-has	1
-excited	1
-momentum	1
-Dirac	2
-possible	1
-not	1
-boost	1
-Lorentz	1
-respond	1
-the	17
-because	1
-Since	1
-some	1
-condensed	2
-past	1
-nuclei	1
-are	1
-separating	1
-appear	1
-for	2
-nuclear	6
-footing	1
-This	2
-state	2
-new	4
-approach	1
-be	1
-we	4
-terms	1
-initially	1
-of	9
-difficulty	1
-separation	1
-Motivated	1
-by	1
-change	1
-obtained	1
-on	2
-about	3
-freedom	1
-changes	1
-think	1
-comes	1
-within	2
-many-particle	1
-system	1
-anomalies	1
-throughout	1
-from	1
-to	7
-addition	1
-there	1
-due	2
-been	1
-.	7
-observations	1
-expected	1
-that	1
-composite	3
-with	1
-coupling	1
-relative	2
-this	1
-will	1
-matter	2
-states	2
-many	1
-result	2
-and	4
-associated	1
-relativistic	1
-it	1
-an	1
-couples	1
-as	3
-have	1
-in	7
-formalism	1
-different	3
-perhaps	2
-Hamiltonian	2
-ideas	1
-same	1
-how	1
-which	3
-used	1
-description	2
-excitation	1
-may	1
-effect	1
-applications	1
-such	1
-response	1
-recent	1
-a	8
-center	2
-described	1
-adopt	1
-or	1
-provide	1
-mass	4
-fundamental	2
-In	3
-model	2
+consider,1
+kinetic,1
+based,1
+energies,2
+dynamical,1
+had,1
+lattice,4
+absence,1
+degrees,1
+systems,2
+has,1
+excited,1
+momentum,1
+Dirac,2
+possible,1
+not,1
+particle,1
+boost,1
+Lorentz,1
+respond,1
+the,17
+because,1
+Since,1
+some,1
+condensed,2
+past,1
+nuclei,1
+are,1
+separating,1
+appear,1
+for,2
+nuclear,6
+footing,1
+This,2
+state,2
+new,4
+approach,1
+be,1
+we,4
+terms,1
+initially,1
+of,9
+difficulty,1
+separation,1
+Motivated,1
+by,1
+change,1
+obtained,1
+on,2
+about,3
+freedom,1
+changes,1
+think,1
+comes,1
+within,2
+system,1
+anomalies,1
+throughout,1
+from,1
+to,7
+addition,1
+there,1
+due,2
+been,1
+observations,1
+expected,1
+that,1
+composite,3
+with,1
+coupling,1
+relative,2
+this,1
+will,1
+matter,2
+states,2
+many,2
+result,2
+and,4
+associated,1
+relativistic,1
+it,1
+an,1
+couples,1
+as,3
+have,1
+in,7
+formalism,1
+different,3
+perhaps,2
+Hamiltonian,2
+ideas,1
+same,1
+how,1
+which,3
+used,1
+description,2
+excitation,1
+may,1
+effect,1
+applications,1
+such,1
+response,1
+recent,1
+a,8
+center,2
+described,1
+adopt,1
+or,1
+provide,1
+mass,4
+fundamental,2
+In,3
+model,2

@@ -1,149 +1,144 @@
-
-limited	1
-incoherently-radiating	1
-consider	1
-show	1
-over	1
-matches	1
-Helstrom	1
-sources	2
-two-source	1
-paper	1
-spaced	1
-its	1
-We	3
-physically-realizable	1
--a	1
-knowledge	1
-tight	1
-photons	1
-,	11
-to	3
-under	1
-identical	2
-mode-resolved	1
-orthogonal	1
-on-axis	1
-evaluate	2
-bound	6
-Chernoff	5
-they	1
-using	2
-symmetrically	1
-continuum	1
-In	2
---	2
-signal	1
-either	1
-where	1
-photon-detection	1
-For	1
-achieves	1
-second	1
-are	2
-sight	1
-measurement	2
-quantum	4
-our	1
-off-axis	1
-ourselves	1
-for	2
-quantify	1
-integration	2
-sub-optimal	1
-closely	1
-be	3
-we	3
-This	1
-infinitely	1
-shot-noise	1
-hypothesis	3
-separation	1
-along	1
-by	3
-on	2
-of	9
-studied	1
-prior	1
-exponentially	1
-receiver	3
-first	1
-followed	1
-probability	3
-point	2
-number	1
-one	1
-Finally	1
-achievable	3
-array	1
-total	1
-angular	1
-aperture	1
-given	1
-classical	2
-source	2
-assumed	2
-structured	2
-two	2
-unspecified	1
-.	8
-time-resolved	1
-camera	1
-realization	1
-collected	1
-:	1
-was	1
-field	1
-that	4
-quantum-noise-limited	1
-exactly	1
-photon	1
-gap	1
-taken	1
-tasked	1
-optical	1
-separates	1
-line	1
-with	6
-determining	1
-this	3
-evaluated	1
-limit	1
-three	1
-error	3
-problem	3
-and	5
-give	2
-explicit	1
-is	5
-an	5
-high	1
-minimum	1
-in	2
-any	1
-regime	1
-one-source	1
-same	1
-located	1
-ideal	1
-other	1
--and	1
-which	1
-spatial	1
-performance	1
-detector	1
-many	1
-who	1
-plane	1
-focal	1
-a	3
-lower	1
-modes	1
-pixels	1
-1973	1
-hypotheses	1
-infinitesimally-tiny	1
-quasi-monochromatic	1
-time	2
-the	23
-words	1
+limited,2
+spaced,1
+consider,1
+show,1
+over,1
+Helstrom,1
+sources,2
+paper,1
+incoherently,1
+shot,1
+its,1
+We,3
+knowledge,1
+tight,1
+photons,1
+to,3
+quasi,1
+infinitesimally,1
+under,1
+identical,2
+orthogonal,1
+matches,1
+evaluate,2
+bound,6
+Chernoff,5
+they,1
+performance,1
+using,2
+symmetrically,1
+continuum,1
+In,2
+signal,1
+either,1
+where,1
+monochromatic,1
+For,1
+physically,1
+achieves,1
+second,1
+are,2
+sight,1
+measurement,2
+quantum,5
+our,1
+ourselves,1
+sub,1
+for,2
+quantify,1
+integration,2
+closely,1
+mode,1
+be,3
+we,3
+noise,2
+This,1
+infinitely,1
+hypothesis,3
+separation,1
+along,1
+by,3
+on,3
+realizable,1
+of,9
+studied,1
+prior,1
+exponentially,1
+receiver,3
+first,1
+followed,1
+probability,3
+point,2
+number,1
+one,2
+Finally,1
+tiny,1
+achievable,3
+array,1
+total,1
+angular,1
+aperture,1
+given,1
+classical,2
+source,4
+assumed,2
+structured,2
+two,3
+unspecified,1
+pixels,1
+camera,1
+realization,1
+collected,1
+was,1
+field,1
+that,4
+exactly,1
+photon,2
+gap,1
+taken,1
+tasked,1
+optical,1
+separates,1
+line,1
+with,6
+detection,1
+determining,1
+this,3
+evaluated,1
+limit,1
+three,1
+error,3
+problem,3
+and,6
+resolved,2
+give,2
+is,5
+an,5
+high,1
+minimum,1
+in,2
+any,1
+axis,2
+same,1
+located,1
+ideal,1
+other,1
+which,1
+spatial,1
+optimal,1
+detector,1
+regime,1
+who,1
+plane,1
+focal,1
+a,4
+lower,1
+off,1
+modes,1
+radiating,1
+many,1
+explicit,1
+hypotheses,1
+time,3
+the,23
+words,1

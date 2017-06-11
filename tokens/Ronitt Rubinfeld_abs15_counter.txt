@@ -1,115 +1,93 @@
-
-1/\eps	1
-constant-factor	1
-\sqrt	4
-query	1
-its	2
-\eps	1
-We	3
-$	22
-\ifnum\plusminus=1	1
-(	10
-technique	1
-,	5
-to	1
-/\log	1
-\cdot	1
-factor	1
-D	1
-matches	1
-showing	1
-\longrightarrow	1
-\pm1\	2
-\bitset^n	1
-sampling	1
-\	2
-=	2
-Sensitivity	1
-performing	1
-Influence	1
-discrete	1
-queries	1
-multiplicative	1
-For	1
-\else	1
-approximates	1
-approximation	1
-\poly	1
-our	1
-\Omega	4
-for	2
-\log	2
-?	1
-we	2
-terms	1
-monotone	1
-O	2
-approximating	1
-by	2
-on	2
-about	1
-of	11
-study	1
-dependence	1
-hence	1
-{	17
-simple	1
-within	1
-bound	2
-one	1
-randomized	1
-total	1
-[	7
-\mnote	1
-prove	1
-.	5
-:	3
-function	2
-that	2
-\to	1
-general	1
-present	1
-f	9
-this	1
-n	9
-\bitset	1
-problem	2
-1\pm	1
-and	1
-\frac	4
-give	1
-almost	1
-is	2
-influence	2
-denote	1
-say	1
-something	1
-in	1
-any	1
-functions	2
-%	3
-)	11
-holds	1
-1	1
-also	1
-which	3
-optimal	1
-\fi	1
-fundamental	1
-I	7
-Average	1
-measures	1
-such	1
-The	1
-]	7
-a	7
-lower	2
-algorithm	4
-n/\log	1
-complexity	2
-Boolean	1
-^n	1
-the	5
-Total	1
-}	16
-\em	2
+plusminus,1
+query,1
+its,2
+We,3
+technique,1
+to,2
+factor,2
+D,1
+matches,1
+showing,1
+sampling,1
+cdot,1
+Sensitivity,1
+performing,1
+Influence,1
+discrete,1
+queries,1
+multiplicative,1
+em,2
+For,1
+approximates,1
+approximation,1
+our,1
+for,2
+we,2
+terms,1
+monotone,1
+O,2
+bitset,2
+longrightarrow,1
+approximating,1
+by,2
+on,2
+about,1
+of,11
+study,1
+dependence,1
+hence,1
+simple,1
+within,1
+bound,2
+poly,1
+one,1
+randomized,1
+such,1
+total,1
+log,4
+prove,1
+pm,3
+function,2
+that,2
+else,1
+general,1
+present,1
+f,9
+this,1
+n,12
+ifnum,1
+problem,2
+and,1
+constant,1
+give,1
+almost,1
+is,2
+influence,2
+denote,1
+say,1
+something,1
+in,1
+any,1
+functions,2
+holds,1
+sqrt,4
+also,1
+which,3
+mnote,1
+optimal,1
+Omega,4
+frac,4
+I,7
+Average,1
+measures,1
+fi,1
+The,1
+a,7
+lower,2
+algorithm,4
+eps,2
+complexity,2
+Boolean,1
+fundamental,1
+the,5
+Total,1

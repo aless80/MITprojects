@@ -1,95 +1,81 @@
-
--times	1
-random	1
-n\log	1
-leads	1
-transforms	1
-cuts	2
-find	1
-previous	1
-whose	1
-We	2
-cut	3
-graph	5
-solving	1
-,	3
-to	4
-3/2	2
-conquer	1
-sparsest	1
-sqrt	1
-using	1
---	2
-Rao	1
-t	2
-1+epsilon	1
-related	1
-techniques	1
-for	2
-new	1
-approach	1
-we	2
-run	1
-This	1
-O	7
-improve	1
-on	3
-of	1
-s	2
-(	8
-{	3
--edge	1
-divide	1
-into	1
-within	1
-corresponds	1
-sampling	1
-randomized	1
-log	1
-near-linear-time	1
-approximate	1
-approximately	3
-.	6
-way	1
-that	2
-construction	1
--time	2
-m^	1
-producing	1
-this	1
-mn	1
-maximum	2
-value	1
-n	4
-can	2
-similar	1
-example	1
-and	3
-have	1
-give	1
-m	1
-n^2	1
-an	3
-involve	1
-as	1
-minimum	2
-n^	1
-in	5
-any	1
-)	8
-same	2
-A	1
-'s	1
-In	2
-problems	1
-flows	1
-a	6
-algorithm	3
-flow	2
-vertices	2
-graphs	1
-Goldberg	1
-time	3
-the	5
-}	3
-original	2
+and,3
+approximate,1
+give,1
+cuts,2
+flow,2
+into,1
+random,1
+corresponds,1
+related,1
+sampling,1
+involve,1
+randomized,1
+as,1
+minimum,2
+transforms,1
+have,1
+in,5
+leads,1
+times,1
+any,1
+techniques,1
+whose,1
+We,2
+cut,3
+divide,1
+log,2
+for,2
+graph,5
+solving,1
+s,3
+approximately,3
+find,1
+to,4
+way,1
+example,1
+new,1
+previous,1
+approach,1
+maximum,2
+t,2
+A,1
+we,2
+within,1
+run,1
+linear,1
+that,2
+This,1
+epsilon,1
+In,2
+problems,1
+flows,1
+construction,1
+conquer,1
+O,7
+same,2
+using,1
+an,3
+producing,1
+improve,1
+a,6
+on,3
+algorithm,3
+Rao,1
+this,1
+of,1
+mn,1
+m,2
+vertices,2
+value,1
+n,7
+sqrt,1
+graphs,1
+near,1
+edge,1
+Goldberg,1
+can,2
+time,6
+the,5
+similar,1
+original,2
+sparsest,1

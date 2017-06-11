@@ -1,71 +1,68 @@
-
-and	2
-message-wise	1
-feedback	2
-step	1
-encoding	1
-is	5
-asymptotically	1
-number	1
-one	1
-bounding	1
-single	1
-achievable	2
-rate-exponent	1
-message	1
-decoding	2
-establish	2
-as	1
-given	1
-codes	4
-based	1
-$	2
-for	6
-also	1
-technique	1
-when	1
-,	3
-.	5
-to	4
-another	1
-inner	2
-way	1
-expected	2
-performance	3
-scheme	1
-bits	1
-match	1
-A	1
-a	2
-used	2
-time	2
-completely	1
-protection	2
-\ell	1
-groups	1
-new	1
-variable	3
-outer	2
-The	3
-with	3
-problem	2
-case	1
-on	2
-finite	1
-unequal	2
-characterize	1
-considered	1
-of	4
-region	1
-vectors	1
-bounds	3
-bit-wise	1
-An	1
-necessary	1
-solved	1
-length	4
-erasures	1
-error	2
-the	8
-fixed	2
-block	4
+and,2
+feedback,2
+step,1
+encoding,1
+is,5
+asymptotically,1
+number,1
+outer,2
+bounding,1
+rate,1
+achievable,2
+message,2
+establish,2
+bit,1
+as,1
+given,1
+codes,4
+based,1
+exponent,1
+ell,1
+also,1
+technique,1
+when,1
+decoding,2
+to,4
+another,1
+inner,2
+way,1
+expected,2
+performance,3
+scheme,1
+bits,1
+match,1
+A,1
+a,2
+used,2
+time,2
+completely,1
+protection,2
+groups,1
+new,1
+variable,3
+wise,2
+The,3
+one,1
+with,3
+problem,2
+single,1
+case,1
+on,2
+finite,1
+unequal,2
+for,6
+characterize,1
+considered,1
+of,4
+region,1
+vectors,1
+bounds,3
+An,1
+necessary,1
+solved,1
+length,4
+erasures,1
+error,2
+the,8
+fixed,2
+block,4

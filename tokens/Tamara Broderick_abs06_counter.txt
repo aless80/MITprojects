@@ -1,141 +1,132 @@
-
-represent	1
-consider	1
-show	1
-random	2
-desirable	2
-results	1
-existing	2
-paper	1
-including	1
-networks	4
-adding	1
-We	3
-graph	3
-,	7
-exhibits	1
-to	4
-2015	1
-scaling	1
-framework	2
-increases	1
-they	1
-not	1
-using	1
-necessary	1
-yield	1
-sparsity	1
-continue	1
-biological	1
-Network	1
-Since	1
-Fox	1
-observed	1
-see	1
-individual	1
-instantiating	1
-measure	2
-by	1
-appear	1
-for	5
-However	1
-models	6
-individuals	1
-(	3
-new	2
-;	2
-contrast	1
-pioneering	1
-be	2
-we	2
-degree	1
-complementary	1
-respectively	1
-atoms	2
-real-life	1
-members	1
-modeling	1
-properties	2
-suggest	1
-both	1
-interpretations	1
-of	12
-studied	1
-completely	1
-social	1
-passing	1
-among	1
-number	1
-dataset	1
-enumerate	1
-generative	1
-power-law	1
-size	2
-clustering	1
-asymptotic	2
-simulated	1
-there	1
-two	1
-been	2
-.	8
-2	1
-interest	3
-time	1
-more	1
-that	5
-detail	1
-accurately	1
-particular	1
-than	1
-frequently	1
-datasets	1
-developing	1
-this	3
-work	1
-can	1
-behavior	3
-growing	1
-distribution	1
-and	8
-model	1
-is	3
-it	1
-general	1
-as	7
-have	2
-in	5
-some	1
-these	1
-develop	1
-)	3
-studying	1
-feature	1
-power	3
-instance	1
-empirically	1
-other	1
-online	1
-Caron	1
-several	1
-may	1
-measures	1
-allocation	1
-applications	2
-such	3
-law	1
-data	4
-grow	1
-types	2
-network	3
-a	6
-outline	1
-considered	1
-well	1
-One	1
-rather	1
-1	1
-In	1
-the	8
-joining	1
-having	1
-laws	2
+represent,1
+consider,1
+show,1
+random,2
+desirable,2
+results,1
+existing,2
+paper,1
+including,1
+networks,4
+adding,1
+We,3
+graph,3
+exhibits,1
+to,4
+real,1
+scaling,1
+framework,2
+increases,1
+they,1
+not,1
+using,1
+necessary,1
+yield,1
+sparsity,1
+continue,1
+biological,1
+Network,1
+Since,1
+Fox,1
+observed,1
+see,1
+individual,1
+instantiating,1
+measure,2
+appear,1
+for,5
+However,1
+models,6
+individuals,1
+new,2
+contrast,1
+pioneering,1
+be,2
+we,2
+degree,1
+complementary,1
+respectively,1
+atoms,2
+completely,1
+members,1
+modeling,1
+properties,2
+suggest,1
+both,1
+interpretations,1
+of,12
+studied,1
+social,1
+passing,1
+among,1
+number,1
+dataset,1
+enumerate,1
+generative,1
+size,2
+clustering,1
+asymptotic,2
+simulated,1
+there,1
+two,1
+been,2
+by,1
+interest,3
+time,1
+more,1
+life,1
+that,5
+detail,1
+accurately,1
+particular,1
+than,1
+frequently,1
+datasets,1
+developing,1
+this,3
+work,1
+can,1
+behavior,3
+growing,1
+distribution,1
+and,8
+model,1
+is,3
+it,1
+general,1
+as,7
+have,2
+in,5
+some,1
+these,1
+develop,1
+rather,1
+studying,1
+feature,1
+power,4
+instance,1
+empirically,1
+other,1
+online,1
+Caron,1
+several,1
+may,1
+measures,1
+allocation,1
+applications,2
+such,3
+law,2
+data,4
+grow,1
+types,2
+network,3
+a,6
+outline,1
+considered,1
+well,1
+One,1
+In,1
+the,8
+joining,1
+having,1
+laws,2

@@ -1,99 +1,85 @@
-
-gates	1
-062305	1
-photonic	1
-atomic	1
-fidelity	1
-projection	1
-V-system	1
-(	4
-photons	1
-,	11
-to	2
-Using	1
-has	1
-2010	1
-XPM	2
-using	2
-Shapiro	1
-043823	1
-always	1
-preclude	1
-large	1
-sufficiently	1
-J.	2
-mode	1
-small	1
-accompanied	1
-accumulation	1
-Previous	1
-illuminate	1
-conditional	2
-Rev	2
-measurement	1
-quantum	2
-81	1
-special	1
-nonzero	1
-principal-mode	1
-nonlinear	1
-for	2
-space	1
-fidelity-degrading	2
-;	1
-principal	1
-we	1
-noise	1
-qubits	1
-departures	1
-[	1
-from	1
-analyses	1
-by	2
-both	1
-shift	1
-~\pi	1
-H.	1
-control	1
-cross-phase	1
-exploit	1
-causal	1
-Phys	2
-.	7
-treat	1
-medium	1
-that	3
-present	1
-made	1
-target	1
-of	2
-and	2
-rad	1
-\phi-phase	1
-is	2
-an	2
-high	1
-in	1
-\phi	1
-Gea-Banacloche	1
-)	4
-suggest	1
-when	1
-field	1
-setting	1
-gate	3
-Hilbert	1
-cascadable	1
-A	2
-modulation	1
-effect	1
-73	1
-phase	2
-The	1
-]	1
-model	1
-multimode	1
-a	4
-Zeno	1
-2006	1
-the	4
+and,2
+gates,1
+rad,1
+illuminate,1
+projection,1
+from,1
+principal,2
+is,2
+conditional,2
+Rev,2
+we,1
+photonic,1
+an,2
+high,1
+exploit,1
+medium,1
+atomic,1
+in,1
+quantum,2
+fidelity,3
+causal,1
+special,1
+Gea,1
+nonzero,1
+nonlinear,1
+Phys,2
+system,1
+for,2
+field,1
+suggest,1
+photons,1
+when,1
+cross,1
+the,4
+The,1
+modulation,1
+degrading,2
+setting,1
+treat,1
+Using,1
+pi,1
+Banacloche,1
+Hilbert,1
+cascadable,1
+A,2
+gate,3
+phi,2
+noise,1
+to,2
+XPM,2
+that,3
+qubits,1
+H,1
+J,2
+measurement,1
+effect,1
+control,1
+made,1
+departures,1
+V,1
+phase,4
+using,2
+analyses,1
+by,2
+present,1
+multimode,1
+a,4
+Shapiro,1
+has,1
+target,1
+Zeno,1
+always,1
+of,2
+preclude,1
+space,1
+large,1
+sufficiently,1
+mode,2
+shift,1
+small,1
+accompanied,1
+model,1
+both,1
+accumulation,1
+Previous,1

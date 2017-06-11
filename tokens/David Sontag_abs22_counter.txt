@@ -1,78 +1,75 @@
-
-and	3
-because	1
-useful	1
-bounds	1
-Efficient	1
-text	1
-is	1
-both	1
-results	1
-implementations	1
-,	3
-topic	2
-assumptions	1
-exist	1
-are	2
-have	3
-in	1
-comparable	1
-inference	2
-practical	2
-best	1
-Topic	1
-robust	1
-dimensionality	1
-based	1
-exploratory	1
-to	3
-provide	2
-likelihood	1
-MCMC	1
-produces	1
-approximate	1
-been	2
-.	6
-Most	1
-reduction	1
-magnitude	1
-objective	2
-violations	1
-guarantees	1
-method	1
-we	1
-running	1
-inefficient	1
-that	3
-models	1
-but	2
-approaches	1
-no	1
-they	2
-not	2
-Recently	1
-The	1
-an	1
-data	1
-the	1
-present	1
-faster	1
-a	2
-on	1
-for	2
-algorithm	2
-this	2
-of	2
-corpora	1
-maximum	1
-analysis	1
-large	1
-these	1
-while	1
-paper	1
-algorithms	3
-In	1
-provable	3
-model	3
-introduced	1
-orders	1
+and,3
+because,1
+useful,1
+produces,1
+Efficient,1
+text,1
+is,1
+both,1
+results,1
+implementations,1
+bounds,1
+topic,2
+assumptions,1
+exist,1
+are,2
+have,3
+in,1
+comparable,1
+inference,2
+practical,2
+best,1
+Topic,1
+robust,1
+dimensionality,1
+based,1
+exploratory,1
+to,3
+provide,2
+likelihood,1
+MCMC,1
+approximate,1
+been,2
+orders,1
+Most,1
+reduction,1
+magnitude,1
+objective,2
+violations,1
+guarantees,1
+method,1
+we,1
+running,1
+inefficient,1
+that,3
+models,1
+but,2
+approaches,1
+no,1
+they,2
+not,2
+Recently,1
+The,1
+an,1
+data,1
+the,1
+present,1
+faster,1
+a,2
+on,1
+for,2
+algorithm,2
+this,2
+of,2
+corpora,1
+maximum,1
+analysis,1
+large,1
+these,1
+while,1
+paper,1
+algorithms,3
+In,1
+provable,3
+model,3
+introduced,1

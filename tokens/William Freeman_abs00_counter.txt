@@ -1,173 +1,146 @@
-
-AGN	7
-signatures	1
-extents	1
-feedback	2
-luminosities	1
-years	1
-quench	1
-including	1
-find	1
-galaxy	2
-help	1
-We	2
-ratio	1
-$	10
-(	1
-,	13
-either	1
-to	5
-only	1
-slits	1
-1.8\	1
-Using	1
-main	1
-do	1
-Evolution	1
-Outflows	1
-very	1
-showing	1
-Analysis	1
-ionized	1
-they	3
-not	2
-2	2
-mass-loading	1
-NII	1
-fully	1
-velocities	1
-SFR	1
-across	1
-detected	4
--1	2
-common	1
-small	1
-\mathrm	1
-sequence	1
-trend	1
-km	1
-energy	1
-likely	2
-are	3
-our	1
-MOSDEF	4
-and/or	2
-for	1
-factors	1
-selected	1
--10^	1
-Eight	1
-10^	1
-suggesting	1
-Line	1
-\sim	3
-\halpha	1
-be	2
-we	1
-300	1
-1-5	1
-galaxies	3
-OIII	1
-stellar	2
-host	3
-moderate-luminosity	1
-[	2
-by	1
-X-ray	1
-19\	1
-\hbeta	1
-outflows	6
-of	11
-study	1
-larger	1
-range	1
-survey	1
-insufficient	1
-{	5
-SDSS	1
-or	2
-first	1
-spatially	1
-scales	1
-star-forming	1
-MOSFIRE	2
-67	1
-along	1
-little	1
-from	4
-their	1
-positive	1
-two	1
-.	10
-indicate	1
-outflow	2
-rates	1
-observations	1
-formation	1
-more	1
-kpc	1
-both	1
-sufficient	1
-gas	2
-emission	1
-with	2
-^	1
-13	2
-indicates	1
-these	1
-while	1
-erg	1
-photoionized	1
-z	2
-similar	2
-BPT	1
-and	3
-blueshifted	1
-is	2
-it	1
-evidence	1
-sample	4
-Field	1
-as	1
-at	2
-have	3
-in	7
-quasars	1
-spanning	1
-regulate	1
-relatively	1
-%	2
-AGN-driven	2
-)	1
-44	1
-that	4
-11.0	1
-s	1
-2.5	1
-spatial	1
-optically	1
-extended	1
-star	1
-s^	1
-though	1
-may	1
-IR	1
-uniformly	1
-much	1
-diagram	1
-detect	1
-bolometric	1
-The	3
-on	1
-]	2
-a	2
-lines	1
-drive	1
-Deep	1
-46	1
-mass	2
-diagnostics	1
-the	17
-1000	1
-}	5
-outflowing	1
+AGN,9
+signatures,1
+extents,1
+feedback,2
+luminosities,1
+years,1
+quench,1
+including,1
+find,1
+galaxy,2
+help,1
+We,2
+loading,1
+ratio,1
+much,1
+to,5
+detected,4
+slits,1
+Using,1
+main,1
+do,1
+Evolution,1
+Outflows,1
+very,1
+showing,1
+Analysis,1
+ionized,1
+they,3
+not,2
+X,1
+NII,1
+luminosity,1
+velocities,1
+SFR,1
+kpc,1
+diagram,1
+common,1
+fully,1
+small,1
+sequence,1
+trend,1
+energy,1
+halpha,1
+are,3
+our,1
+MOSDEF,4
+detect,1
+for,1
+factors,1
+selected,1
+Eight,1
+suggesting,1
+Line,1
+moderate,1
+across,1
+either,1
+be,2
+we,1
+galaxies,3
+OIII,1
+stellar,2
+host,3
+formation,1
+along,1
+by,1
+both,1
+z,2
+outflows,6
+of,11
+study,1
+larger,1
+range,1
+survey,1
+insufficient,1
+SDSS,1
+or,4
+first,1
+spatially,1
+scales,1
+MOSFIRE,2
+little,1
+from,4
+their,1
+positive,1
+two,1
+indicate,1
+outflow,2
+rates,1
+observations,1
+more,1
+only,1
+on,1
+forming,1
+sufficient,1
+gas,2
+emission,1
+with,2
+indicates,1
+these,1
+likely,2
+while,1
+erg,1
+photoionized,1
+Deep,1
+hbeta,1
+similar,2
+BPT,1
+and,5
+blueshifted,1
+is,2
+it,1
+evidence,1
+sample,4
+Field,1
+as,1
+at,2
+have,3
+in,7
+quasars,1
+spanning,1
+regulate,1
+ray,1
+that,4
+s,2
+spatial,1
+relatively,1
+sim,3
+optically,1
+extended,1
+star,2
+though,1
+may,1
+IR,1
+uniformly,1
+driven,2
+bolometric,1
+The,3
+a,2
+lines,1
+drive,1
+km,1
+mass,3
+diagnostics,1
+the,17
+outflowing,1
+mathrm,1

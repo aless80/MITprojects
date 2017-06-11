@@ -1,80 +1,79 @@
-
-and	1
-heuristics	4
-methods	1
-computing	1
-is	1
-formulation	1
-solve	1
-rank	1
-an	2
-states	1
-as	2
-planning	1
-through	1
-learning	4
-in	2
-International	1
-plan	1
-regression	2
-Our	1
-features	1
-heuristic	3
-We	1
-best-first	1
-for	2
-ordering	1
-temporal	1
-interactions	1
-squared	1
-,	4
-.	6
-to	1
-Planning	1
-which	1
-outperform	1
-show	1
-performance	1
-ordinary	2
-induced	1
-frame	1
-more	1
-learned	2
-However	1
-we	3
-'s	1
-Additionally	1
-than	1
-that	2
-approximate	1
-problems	1
-greedy	1
-by	1
-Prior	1
-domain-specific	1
-indicative	1
-introduce	1
-instead	1
-using	1
-framed	1
-new	1
-the	4
-recent	1
-a	6
-on	1
-search	1
-planner	1
-capture	1
-of	2
-work	1
-Thus	1
-Competition	1
-investigate	1
-experiments	1
-resulting	1
-error	1
-RankSVM	2
-problem	2
-both	1
-original	1
-mean	1
+and,1
+heuristics,4
+domain,1
+methods,1
+computing,1
+is,1
+formulation,1
+solve,1
+rank,1
+framed,1
+states,1
+as,2
+planning,1
+through,1
+learning,4
+in,2
+International,1
+plan,1
+regression,2
+best,1
+features,1
+Our,1
+heuristic,3
+We,1
+both,1
+for,2
+ordering,1
+temporal,1
+interactions,1
+squared,1
+However,1
+by,1
+to,1
+Planning,1
+which,1
+outperform,1
+show,1
+performance,1
+ordinary,2
+induced,1
+frame,1
+more,1
+learned,2
+we,3
+Additionally,1
+than,1
+that,2
+approximate,1
+s,1
+problems,1
+greedy,1
+Prior,1
+indicative,1
+introduce,1
+instead,1
+using,1
+an,2
+new,1
+the,4
+recent,1
+a,6
+on,1
+search,1
+planner,1
+capture,1
+of,2
+work,1
+Thus,1
+Competition,1
+specific,1
+investigate,1
+experiments,1
+resulting,1
+error,1
+RankSVM,2
+problem,2
+mean,1
+original,1
+first,1

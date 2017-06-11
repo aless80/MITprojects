@@ -1,90 +1,88 @@
-
-less	1
-stability	1
-existence	1
-We	3
-,	11
-Krause's	1
-better	1
-to	5
-under	2
-clusters	4
-equilibrium	1
-real	1
-introduce	1
-number	2
-every	1
-difference	1
-represents	1
-continuum	2
-solution	1
-large	2
-common	1
-each	2
-set	1
-multi-agent	2
-some	1
-related	1
-intensity	1
-dynamics	2
-for	1
-attracted	1
-between	2
-conditions	1
-we	2
-by	2
-on	2
-of	9
-study	1
-opinion	1
-suitable	1
-simple	1
-bound	2
-Finally	1
-agents	4
-proportional	1
-establish	1
-from	1
-asymptotic	1
-prove	2
-system	5
-.	5
-:	1
-sharing	1
-that	1
-stable	1
-accurately	1
-but	1
-understand	1
-continuous-time	1
-convergence	2
-with	3
-than	1
-distance	2
-To	1
-this	1
-value	4
-behavior	2
-continuously	1
-and	3
-is	1
-it	1
-agent	1
-an	1
-cluster	1
-at	1
-in	1
-provide	1
-holds	1
-1	1
-other	1
-finite	1
-variant	1
-differing	1
-involving	1
-model	2
-a	14
-lower	2
-the	10
-notion	1
-non-trivial	1
+less,1
+stability,1
+existence,1
+trivial,1
+We,3
+better,1
+to,5
+stable,1
+clusters,4
+equilibrium,1
+real,1
+non,1
+introduce,1
+number,2
+every,1
+difference,1
+represents,1
+continuum,2
+solution,1
+large,2
+common,1
+each,2
+set,1
+some,1
+related,1
+intensity,1
+dynamics,2
+for,1
+attracted,1
+between,2
+conditions,1
+we,2
+by,2
+on,2
+of,9
+study,1
+s,1
+opinion,1
+suitable,1
+simple,1
+bound,2
+Finally,1
+agents,4
+proportional,1
+establish,1
+from,1
+asymptotic,1
+prove,2
+system,5
+sharing,1
+that,1
+under,2
+accurately,1
+but,1
+understand,1
+convergence,2
+with,3
+than,1
+distance,2
+multi,2
+To,1
+this,1
+value,4
+behavior,2
+continuously,1
+and,3
+is,1
+it,1
+agent,3
+an,1
+cluster,1
+at,1
+in,1
+provide,1
+holds,1
+Krause,1
+other,1
+finite,1
+continuous,1
+variant,1
+differing,1
+involving,1
+model,2
+a,14
+lower,2
+time,1
+the,10
+notion,1

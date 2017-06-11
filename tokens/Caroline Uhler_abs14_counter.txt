@@ -1,73 +1,68 @@
-
-and	5
-upper	1
-concept	1
-faithfulness	2
-strong-faithfulness	3
-be	1
-is	1
-estimators	1
-Lower	1
-bounds	1
-log-linear	1
-are	4
-learning	1
-existence	1
-respect	1
-distributions	1
-computed	1
-ensures	1
-strength	1
-describing	1
-for	5
-)	1
-(	1
-,	2
-.	6
-procedures	1
-to	2
-various	1
-association	3
-parameterizations	1
-instead	1
-parameter	1
-consistent	2
-satisfy	1
-building	1
-graphical	1
-do	1
-that	1
-models	2
-quantified	1
-sufficient	1
-measures	2
-uniformly	2
-different	2
-Graphs	1
-Hypergraphs	1
-important	1
-not	2
-hypergraph	2
-The	2
-representing	1
-distribution	2
-structure	1
-a	4
-search	1
-enables	1
-in	1
-Strong-faithfulness	1
-considered	1
-of	9
-statistical	1
-with	2
-leading	1
-discrete	2
-hierarchical	1
-can	1
-concepts	2
-the	4
-introduced	1
-parametric	1
-strong-	1
-proportions	1
+and,5
+upper,1
+concept,1
+faithfulness,6
+statistical,1
+be,1
+is,1
+estimators,1
+Lower,1
+bounds,1
+are,4
+learning,1
+existence,1
+respect,1
+distributions,1
+computed,1
+ensures,1
+strength,1
+describing,1
+log,1
+for,5
+with,2
+procedures,1
+to,2
+various,1
+association,3
+parameterizations,1
+instead,1
+Strong,1
+parameter,1
+consistent,2
+satisfy,1
+building,1
+graphical,1
+linear,1
+do,1
+that,1
+models,2
+quantified,1
+sufficient,1
+measures,2
+uniformly,2
+different,2
+Graphs,1
+Hypergraphs,1
+important,1
+not,2
+hypergraph,2
+The,2
+strong,4
+representing,1
+distribution,2
+structure,1
+a,4
+search,1
+enables,1
+in,1
+considered,1
+of,9
+leading,1
+discrete,2
+hierarchical,1
+can,1
+concepts,2
+the,4
+introduced,1
+parametric,1
+proportions,1

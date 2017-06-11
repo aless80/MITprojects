@@ -1,109 +1,106 @@
-
-source/destination	1
-feedback	1
-proposed	1
-paper	1
-through	1
-consists	1
-guides	1
-We	2
-(	3
-distributed	1
-,	8
-REconfigurable	1
-to	3
-formulation	1
-propositions	1
-nodes	1
-then	1
-novel	1
-coordinating	1
-inter-flow	1
-Control	2
-realistic	1
-architecture	1
-allocations	1
-where	1
-configurations	1
-PhysIcally	1
-PCP	2
-deemed	1
-static	1
-our	1
-networked	1
-network	3
-for	2
-routing	2
-between	2
-potential-based	1
-we	1
-This	1
-reconfigure	1
-configuration	1
-INformation	1
-pairs	1
-via	1
-of	1
-route	1
-according	1
-simulation	1
-ensure	1
-communication/sensing	1
-routes	1
-control	2
-regulates	1
-Swarm	1
-maximize	1
-quality	2
-instantiation	1
-objectives	1
-.	7
-dynamically	1
-generating	1
-that	1
-under	1
-commands	3
-wireless	2
-with	1
-intra-flow	1
-INSPIRE	1
-this	1
-decouples	1
-demonstrate	2
-and	6
-Information	1
-is	1
-describe	1
-agent	1
-an	2
-high	1
-as	1
-in	1
-physical	1
-information	4
-needs	1
-)	3
-hybrid	1
-Plane	2
-which	3
-regime	1
-reconfigured	1
-towards	2
-Route	1
-act	1
-robots	3
-driven	1
-applications	1
-robotic	3
-The	3
-ICP	3
-Sensing	1
-a	5
-mobile	1
-flow	3
-In	1
-position	1
-the	2
-Physical	1
-sensing	2
-evenly	1
+feedback,1
+proposed,1
+paper,1
+through,1
+consists,1
+guides,1
+We,2
+based,1
+distributed,1
+REconfigurable,1
+source,1
+potential,1
+formulation,1
+propositions,1
+nodes,1
+then,1
+coordinating,1
+Control,2
+realistic,1
+architecture,1
+allocations,1
+inter,1
+where,1
+configurations,1
+PhysIcally,1
+PCP,2
+deemed,1
+static,1
+our,1
+networked,1
+network,3
+for,2
+routing,2
+between,2
+we,1
+This,1
+reconfigure,1
+configuration,1
+INformation,1
+pairs,1
+via,1
+of,1
+route,1
+according,1
+simulation,1
+ensure,1
+act,1
+routes,1
+control,2
+regulates,1
+communication,1
+Swarm,1
+maximize,1
+quality,2
+instantiation,1
+to,3
+objectives,1
+destination,1
+dynamically,1
+generating,1
+that,1
+under,1
+commands,3
+wireless,2
+with,1
+novel,1
+INSPIRE,1
+this,1
+decouples,1
+demonstrate,2
+and,6
+Information,1
+is,1
+describe,1
+agent,1
+an,2
+high,1
+as,1
+in,1
+intra,1
+physical,1
+information,4
+needs,1
+hybrid,1
+Plane,2
+which,3
+regime,1
+reconfigured,1
+towards,2
+Route,1
+robots,3
+driven,1
+applications,1
+robotic,3
+The,3
+ICP,3
+Sensing,1
+a,5
+mobile,1
+flow,5
+In,1
+position,1
+the,2
+Physical,1
+sensing,3
+evenly,1

@@ -1,99 +1,97 @@
-
-consider	1
-less	1
-Bloch-Siegert	2
-rotated	2
-splitting	1
-two-level	6
-find	1
-We	3
-energies	1
-producing	1
-,	6
-to	3
-systems	1
-under	1
-transformation	1
-not	1
-using	1
-highly	1
-level	2
-identified	1
-each	1
-where	2
-energy	4
-are	2
-what	1
-appear	1
-for	2
-resonances	3
-However	1
-between	2
-conditions	1
-splittings	2
-be	3
-terms	1
-theory	1
-exchange	2
-obtained	2
-both	1
-about	1
-of	2
-transition	1
-leading	1
-resonance	1
-simple	1
-two-state	1
-one	1
-anticrossings	1
-use	1
-perturbation	1
-would	2
-transfer	2
-there	1
-system	6
-.	6
-much	1
-shifted	1
-that	2
-operators	1
-with	4
-than	1
-present	1
-absent	1
-Hamiltonian	1
-oscillator	4
-spin-boson	3
-excited	1
-can	1
-were	1
-similar	1
-and	6
-unitary	1
-associated	3
-coupled	1
-is	4
-generalization	1
-an	2
-as	1
-at	2
-degenerate	1
-in	6
-shift	2
-occur	1
-if	1
-different	1
-responsible	1
-same	1
-other	2
-which	2
-excitation	2
-models	1
-effect	1
-two	1
-The	1
-the	16
-a	6
-accounted	1
-At	1
-model	3
+consider,1
+less,1
+rotated,2
+splitting,1
+find,1
+We,3
+energies,1
+with,4
+boson,3
+to,3
+systems,1
+under,1
+transformation,1
+not,1
+using,1
+highly,1
+level,8
+identified,1
+each,1
+where,2
+energy,4
+are,2
+what,1
+appear,1
+for,2
+resonances,3
+Siegert,2
+However,1
+state,1
+between,2
+conditions,1
+splittings,2
+be,3
+terms,1
+theory,1
+exchange,2
+Bloch,2
+obtained,2
+both,1
+about,1
+of,2
+transition,1
+leading,1
+spin,3
+resonance,1
+simple,1
+one,1
+anticrossings,1
+use,1
+perturbation,1
+would,2
+transfer,2
+there,1
+system,6
+much,1
+shifted,1
+that,2
+operators,1
+producing,1
+than,1
+present,1
+absent,1
+Hamiltonian,1
+oscillator,4
+excited,1
+can,1
+were,1
+similar,1
+and,6
+unitary,1
+associated,3
+coupled,1
+is,4
+generalization,1
+an,2
+as,1
+at,2
+degenerate,1
+in,6
+shift,2
+occur,1
+if,1
+different,1
+responsible,1
+same,1
+other,2
+which,2
+excitation,2
+models,1
+effect,1
+two,8
+The,1
+the,16
+a,6
+accounted,1
+At,1
+model,3

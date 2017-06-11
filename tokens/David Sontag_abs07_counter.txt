@@ -1,121 +1,115 @@
-
-over	1
-results	1
-years	1
-133	1
-relevant	1
-LSTM	1
-avenue	1
-networks	2
-Short-Term	1
-onset	1
-We	4
-longitudinal	1
-Disparate	1
-(	1
-onsets	1
-,	4
-signals	1
-to	3
-rich	1
-input	1
-administrative	1
-tests	2
-risk	1
-evaluate	1
-using	1
-areas	1
-approach	1
-common	1
-logistic	1
-outperform	1
-significantly	1
-prediction	2
-Long	1
-our	1
-network	1
-for	3
-measurements	1
-find	1
-state	1
-health	1
-new	1
-conditions	1
-available	1
-we	1
-patient	2
-multi-task	1
-given	1
-298K	1
-approaches	1
-based	2
-by	1
-on	3
-of	8
-suggests	1
-benefited	1
-features	1
-stratification	1
-representation-based	1
-one	1
-learning	2
-little	1
-from	2
-data	4
-two	1
-.	6
-clinical	1
-time	1
-more	1
-convolutional	1
-that	4
-train	1
-8	1
-particular	1
-believe	1
-with	2
-novel	1
-this	2
-18	1
-work	1
-patients	1
-can	1
-learn	1
-solely	1
-and	2
-compare	1
-predict	1
-in	4
-raw	3
-as	1
-have	1
-Memory	1
-regression	1
-cohort	1
-baseline	1
-perform	1
-recurrent	1
-machine	1
-take	1
-widely	1
-several	1
-hand-engineered	1
-'s	1
-models	1
-In	1
-derived	1
-lab	3
-preprocessing	1
-representations	1
-measured	1
-a	6
-task	1
-clinically	1
-neural	3
-well	1
-disease	2
-)	1
-healthcare	1
-claims	1
-the	3
-order	1
+over,1
+results,1
+years,1
+relevant,1
+LSTM,1
+avenue,1
+networks,2
+machine,1
+We,4
+longitudinal,1
+Disparate,1
+onsets,1
+signals,1
+to,3
+rich,1
+input,1
+administrative,1
+tests,2
+risk,1
+evaluate,1
+engineered,1
+using,1
+areas,1
+In,1
+approach,1
+common,1
+logistic,1
+outperform,1
+significantly,1
+prediction,2
+Long,1
+our,1
+network,1
+for,3
+measurements,1
+find,1
+state,1
+health,1
+new,1
+conditions,1
+available,1
+Term,1
+Short,1
+patient,2
+K,1
+given,1
+approaches,1
+based,3
+by,1
+on,3
+of,8
+suggests,1
+s,1
+benefited,1
+features,1
+stratification,1
+one,1
+learning,2
+little,1
+from,2
+data,4
+two,1
+clinical,1
+more,1
+convolutional,1
+that,4
+train,1
+particular,1
+believe,1
+with,2
+multi,1
+novel,1
+this,2
+work,1
+patients,1
+can,1
+learn,1
+solely,1
+and,2
+compare,1
+predict,1
+in,4
+raw,3
+as,1
+have,1
+Memory,1
+regression,1
+cohort,1
+baseline,1
+perform,1
+recurrent,1
+onset,1
+take,1
+widely,1
+several,1
+models,1
+healthcare,1
+derived,1
+lab,3
+hand,1
+preprocessing,1
+representation,1
+representations,1
+measured,1
+a,6
+task,2
+clinically,1
+neural,3
+we,1
+well,1
+disease,2
+time,1
+claims,1
+the,3
+order,1

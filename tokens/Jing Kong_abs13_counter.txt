@@ -1,125 +1,119 @@
-
-probe	1
-report	1
-pulses	1
-atomic	1
-analogue	1
-Interactions	1
-energies	1
-(	1
-,	10
-Here	1
-to	1
-quasiparticles	1
-systems	1
-By	1
-indicating	1
-them	1
-pump-probe	1
-Monolayer	1
-novel	1
-effects	1
-not	1
-using	1
-unique	1
-reveal	1
-densities	1
-with	3
-large	1
-monolayer	1
-identify	1
-where	1
-accessible	1
-valleys	1
-energy	1
-direct	1
-many-body	1
-are	3
-redshifts	1
-beyond	1
-transport	1
-addition	1
-broadband	1
-measurements	1
-However	1
-between	1
-new	1
-increasing	1
-be	1
-we	3
-degree	1
-interactions	2
-atoms	1
-formation	1
-MoS2	1
-by	1
-created	1
-freedom	1
-transition	1
-biexcitonic	1
-excitons	4
-meV	2
-present	1
-among	1
-presence	1
-semiconductors	1
-dichalcogenides	1
-bound	1
-two	3
-60	1
-Their	1
-TMD	1
-conventional	1
-from	3
-distinct	1
-system	1
-.	8
-their	1
-molecular	1
-biexcitons	5
-helicities	1
-These	1
-binding	1
-acquire	1
-optical	1
-known	1
-constituent	1
-spin	1
-those	1
-pseudospin	1
-valley	2
-applying	1
-TMDs	1
-determined	1
-pairwise	1
-can	2
-spectroscopy	1
-of	7
-result	1
-and	5
-intervalley	3
-states	1
-as	1
-properties	2
-at	1
-have	1
-in	5
-species	1
-orbital	1
-different	2
-no	1
-)	1
-exciton	2
-40	1
-also	1
-which	3
-resembling	1
-biexciton	1
-a	3
-observation	1
-metal	1
-traditional	1
-In	1
-ultrafast	1
-the	7
-comprise	1
+MoS,1
+probe,2
+report,1
+pulses,1
+atomic,1
+analogue,1
+Interactions,1
+energies,1
+with,3
+Here,1
+to,1
+quasiparticles,1
+systems,1
+By,1
+indicating,1
+them,1
+Monolayer,1
+novel,1
+effects,1
+not,1
+using,1
+unique,1
+reveal,1
+densities,1
+large,1
+monolayer,1
+identify,1
+where,1
+accessible,1
+valleys,1
+energy,1
+direct,1
+are,3
+redshifts,1
+beyond,1
+transport,1
+addition,1
+broadband,1
+measurements,1
+However,1
+pump,1
+between,1
+new,1
+increasing,1
+body,1
+be,1
+we,3
+degree,1
+interactions,2
+atoms,1
+formation,1
+properties,2
+created,1
+freedom,1
+transition,1
+biexcitonic,1
+excitons,4
+meV,2
+among,1
+presence,1
+semiconductors,1
+dichalcogenides,1
+bound,1
+two,3
+Their,1
+TMD,1
+conventional,1
+from,3
+distinct,1
+system,1
+by,1
+their,1
+pairwise,1
+molecular,1
+biexcitons,5
+helicities,1
+These,1
+binding,1
+acquire,1
+optical,1
+known,1
+constituent,1
+spin,1
+present,1
+pseudospin,1
+valley,2
+applying,1
+TMDs,1
+determined,1
+those,1
+can,2
+spectroscopy,1
+of,7
+result,1
+and,5
+intervalley,3
+states,1
+as,1
+at,1
+have,1
+in,5
+species,1
+orbital,1
+different,2
+no,1
+exciton,2
+also,1
+which,3
+resembling,1
+many,1
+biexciton,1
+a,3
+observation,1
+metal,1
+traditional,1
+In,1
+ultrafast,1
+the,7
+comprise,1

@@ -1,77 +1,76 @@
-
-and	6
-measuring	1
-useful	1
-characterization	1
-communication	1
-is	2
-both	1
-light	1
-system	1
-detection	1
-characterize	1
-single	1
-individual	1
-design	1
-at	1
-have	1
-in	2
-quantum	1
-dead-time	1
-four-element	1
-are	1
-25	1
-statistics	1
-based	1
-1550	1
-for	1
-source	1
-photons	1
-photon-counting	1
-,	4
-.	4
-to	3
-described	1
-between	1
-performance	1
-detector	5
-was	1
-photon-number-resolving	1
-demonstrated	2
-A	1
-be	1
-used	1
-low-flux	1
-counting	1
-This	1
-photon	3
-high-speed	2
-sub-30-ps	1
-applications	2
-non-pulsed	1
-nanowire	1
-The	1
-comparison	1
-measured	1
-fabrication	1
-Furthermore	1
-nm	1
-a	3
-on	1
-mitigate	1
-sources	1
-this	1
-of	3
-efficiency	1
-presented	1
-arrival	1
-superconducting	1
-theoretical	1
-testing	1
-can	1
-time	1
-making	1
-the	4
-%	1
-resolution	1
-effects	1
+and,6
+measuring,1
+pulsed,1
+useful,1
+characterization,1
+communication,1
+is,2
+testing,1
+detection,1
+number,1
+light,1
+described,1
+four,1
+characterize,1
+superconducting,1
+individual,1
+design,1
+at,1
+have,1
+in,2
+arrival,1
+counting,2
+speed,2
+are,1
+ps,1
+statistics,1
+based,1
+sub,1
+for,1
+source,1
+photons,1
+system,1
+to,3
+high,2
+low,1
+between,1
+performance,1
+detector,5
+was,1
+Furthermore,1
+demonstrated,2
+A,1
+be,1
+non,1
+used,1
+both,1
+This,1
+photon,5
+applications,2
+dead,1
+nanowire,1
+The,1
+comparison,1
+measured,1
+fabrication,1
+nm,1
+a,3
+on,1
+mitigate,1
+theoretical,1
+sources,1
+this,1
+of,3
+efficiency,1
+presented,1
+resolving,1
+single,1
+element,1
+flux,1
+quantum,1
+can,1
+time,2
+making,1
+the,4
+resolution,1
+effects,1

@@ -1,101 +1,97 @@
-
-show	1
-global	1
-existing	1
-experiments	1
-proximal	1
-its	2
-superior	1
-We	1
-(	1
-solving	1
-distributed	2
-,	7
-Using	1
-has	1
-local	3
-updates	1
-they	1
-steps	1
-common	1
-each	2
-where	1
-computation	1
-estimates	1
-rate	3
-proximal-gradient	1
-convex	1
-our	2
-techniques	1
-network	2
-for	3
-per	1
-between	1
-method	4
-we	1
-component	1
-others	1
-estimate	1
-by	2
-topology	1
-of	8
-k	1
-time-varying	1
-suitable	1
-via	1
-communication	3
-number	1
-private	1
-agents	1
-operator	1
-1/k	1
-rounds	1
-methods	1
-distinct	1
-objectives	1
-.	5
-iteratively	1
-function	1
-optimizing	2
-that	1
-but	1
-favorable	1
-convergence	2
-with	2
-than	1
-present	1
-nondifferentiable	1
-this	2
-iteration	1
-differentiable	1
-problem	1
-and	2
-is	4
-share	1
-agent	2
-an	1
-minimum	1
-at	1
-have	1
-in	2
-exchanging	1
-acceleration	1
-functions	1
-verified	1
-)	1
-converges	1
-also	1
-which	3
-objective	2
-multiple	1
-numerical	1
-Nesterov-type	1
-The	2
-structure	1
-a	4
-faster	1
-effective	1
-average	1
-components	1
-In	1
-the	10
+show,1
+Nesterov,1
+global,1
+existing,1
+experiments,1
+proximal,2
+its,2
+superior,1
+We,1
+solving,1
+distributed,2
+Using,1
+has,1
+local,3
+updates,1
+they,1
+steps,1
+common,1
+each,2
+where,1
+computation,1
+estimates,1
+rate,3
+convex,1
+our,2
+techniques,1
+network,2
+for,3
+gradient,1
+per,1
+between,1
+method,4
+we,1
+numerical,1
+component,1
+others,1
+estimate,1
+by,2
+topology,1
+of,8
+k,2
+suitable,1
+via,1
+communication,3
+number,1
+private,1
+agents,1
+operator,1
+rounds,1
+methods,1
+distinct,1
+objectives,1
+iteratively,1
+type,1
+function,1
+optimizing,2
+that,1
+but,1
+favorable,1
+varying,1
+convergence,2
+with,2
+than,1
+present,1
+nondifferentiable,1
+this,2
+iteration,1
+differentiable,1
+problem,1
+and,2
+is,4
+share,1
+agent,2
+an,1
+minimum,1
+at,1
+have,1
+in,2
+exchanging,1
+acceleration,1
+functions,1
+verified,1
+converges,1
+also,1
+which,3
+objective,2
+multiple,1
+In,1
+The,2
+structure,1
+a,4
+faster,1
+effective,1
+average,1
+components,1
+time,1
+the,10

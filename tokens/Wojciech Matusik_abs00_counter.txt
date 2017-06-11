@@ -1,141 +1,131 @@
-
-limited	1
-all	1
-luminance	1
-show	1
-over	1
-desirable	1
-results	1
-competitive	1
-solutions	1
-consists	1
-speed	6
-networks	2
-layers	1
-We	2
-based	2
-$	8
-(	3
-,	9
-Here	1
-signals	1
-to	3
-input	1
-x5	1
-combination	1
-propose	1
-view-rendering	1
-fastest	1
-they	1
-2M	1
-dataset	1
-exploiting	1
-specific	1
-this	1
-fully	2
-x12	1
-higher	1
-view	1
-art	3
-generation	1
-second	1
-are	1
-images	1
-our	3
-Results	1
-3D	1
-large	1
-by	1
-network	2
-for	4
-That	1
-However	1
-content	1
-state	3
-ren	2
-reconstruction	2
-between	1
-denoted	1
-x24	1
-approach	2
-we	2
-processing	3
-Single-image-based	1
-VGG	1
-however	1
-approaches	1
-generate	1
-_	4
-improve	1
-on	2
-x2.5	1
-of	10
-times	4
-{	4
-studies	1
-DeepView	4
-first	1
-one	2
-resolutions	1
-has	1
-use	2
-stereoscopic	2
-consumption	2
-addition	1
-chrominance	1
-two	1
-.	15
-their	1
-much	1
-compromise	1
-memory	2
-FCN	3
-convolutional	2
-optimizing	1
-both	3
-with	3
-but	1
-subjective	1
-train	1
-producing	1
-present	2
-Latest	1
-handling	1
-pre-trained	1
-these	1
-evaluated	1
-promising	1
-dec	2
-called	1
-decoupled	1
-and	10
-is	5
-an	1
-To	2
-as	3
-different	1
-compared	1
-)	3
-that	1
-forces	1
-spatial	2
-objective	1
-accuracy	5
-generates	1
-problems	1
-SIVG	3
-important	1
-connected	1
-architectures	2
-CNN	1
-The	2
-a	4
-lower	2
-faster	2
-neural	1
-}	4
-well	1
-remedy	1
-In	1
-the	8
-resolution	1
+limited,1
+all,1
+luminance,1
+show,1
+over,1
+desirable,1
+results,1
+competitive,1
+solutions,1
+consists,1
+speed,6
+networks,2
+layers,1
+We,2
+based,3
+with,3
+Here,1
+signals,1
+to,3
+input,1
+has,1
+D,1
+combination,1
+propose,1
+remedy,1
+fastest,1
+they,1
+dataset,1
+exploiting,1
+specific,1
+these,1
+fully,2
+x,4
+higher,1
+view,2
+art,3
+generation,1
+second,1
+are,1
+images,1
+our,3
+large,1
+network,2
+for,4
+That,1
+However,1
+content,1
+state,3
+ren,2
+reconstruction,2
+between,1
+denoted,1
+approach,2
+we,2
+processing,3
+M,1
+VGG,1
+however,1
+approaches,1
+generate,1
+improve,1
+on,2
+of,10
+times,4
+studies,1
+DeepView,4
+first,1
+pre,1
+image,1
+one,2
+rendering,1
+trained,1
+resolutions,1
+use,2
+stereoscopic,2
+consumption,2
+addition,1
+chrominance,1
+two,1
+by,1
+their,1
+much,1
+compromise,1
+memory,2
+FCN,3
+convolutional,2
+optimizing,1
+both,3
+but,1
+subjective,1
+train,1
+producing,1
+present,2
+Latest,1
+handling,1
+this,1
+evaluated,1
+promising,1
+dec,2
+called,1
+decoupled,1
+and,10
+is,5
+an,1
+To,2
+as,3
+different,1
+compared,1
+that,1
+forces,1
+spatial,2
+objective,1
+accuracy,5
+generates,1
+problems,1
+SIVG,3
+important,1
+connected,1
+architectures,2
+CNN,1
+The,2
+a,4
+lower,2
+faster,2
+neural,1
+well,1
+Results,1
+Single,1
+In,1
+the,8
+resolution,1

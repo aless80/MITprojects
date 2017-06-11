@@ -1,59 +1,55 @@
-
-and	4
-domain	1
-on	1
-show	1
-is	2
-describe	1
-an	4
-Modular-E.	1
-in	2
-.	3
-reasoning	1
-epistemic	1
-PEC	2
-Calculus	1
-information	1
-We	2
-ASP	1
-for	1
-also	1
-)	1
-(	1
-,	3
-causal	1
-to	1
-semantics	1
-which	2
-constitute	1
-has	1
-terms	1
-complete	1
-that	2
-given	1
-variant	1
-style	2
-EC	3
-possible	2
-evolutions	1
-implementation	1
-syntax	1
-probabilistic	1
-EFEC	1
-present	1
-sound	1
-worlds	1
-about	1
-builds	1
-language	2
-this	1
-of	6
-It	1
-Its	1
-extension	1
-narrative	1
-action	2
-sense	1
-the	3
-similar	1
-Event	1
+and,4
+domain,1
+on,1
+show,1
+is,2
+describe,1
+syntax,1
+constitute,1
+in,2
+terms,1
+reasoning,1
+epistemic,1
+PEC,2
+Calculus,1
+information,1
+We,2
+ASP,1
+for,1
+Modular,1
+implementation,1
+causal,1
+to,1
+semantics,1
+which,2
+has,1
+E,1
+complete,1
+that,2
+given,1
+variant,1
+style,2
+EC,3
+possible,2
+evolutions,1
+an,4
+probabilistic,1
+EFEC,1
+present,1
+sound,1
+worlds,1
+about,1
+builds,1
+language,2
+this,1
+of,6
+also,1
+It,1
+Its,1
+extension,1
+narrative,1
+action,2
+sense,1
+the,3
+similar,1
+Event,1

@@ -1,65 +1,65 @@
-
-and	4
-selection	1
-methods	1
-scales	1
-simple	1
-is	2
-both	1
-number	1
-nonparametric	1
-,	8
-intuitively	1
-underlying	1
-are	1
-need	1
-clustering	2
-We	1
-from	1
-asymptotic	1
-for	1
-categorical	1
-data	2
-formulations	1
-feature	1
-.	4
-to	2
-handles	1
-CRAFT	2
-compares	1
-specify	1
-objective	1
-clusters	1
-parameter	1
-priori	1
-minimal	1
-real	1
-tuning	1
-assorted	1
-models	1
-favorably	1
-derived	1
-functions	1
-framework	2
-posterior	1
-datasets	1
-numeric	1
-i.e.	1
-The	2
-on	1
-with	2
-implement	1
-present	1
-log	1
-a	2
-MAP-based	1
-obviates	1
-algorithm	1
-nicely	1
-of	2
-appealing	1
-resulting	1
-the	3
-cluster-specific	1
-requires	1
-other	1
+and,4
+selection,1
+methods,1
+scales,1
+simple,1
+is,2
+both,1
+number,1
+nonparametric,1
+cluster,1
+underlying,1
+are,1
+need,1
+clustering,2
+We,1
+from,1
+asymptotic,1
+for,1
+categorical,1
+data,2
+formulations,1
+feature,1
+to,2
+handles,1
+CRAFT,2
+compares,1
+specify,1
+objective,1
+clusters,1
+parameter,1
+priori,1
+minimal,1
+real,1
+tuning,1
+assorted,1
+models,1
+favorably,1
+derived,1
+functions,1
+framework,2
+posterior,1
+datasets,1
+numeric,1
+based,1
+The,2
+on,1
+with,2
+implement,1
+present,1
+log,1
+a,2
+MAP,1
+obviates,1
+e,1
+algorithm,1
+intuitively,1
+i,1
+of,2
+specific,1
+nicely,1
+appealing,1
+resulting,1
+the,3
+requires,1
+other,1

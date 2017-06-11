@@ -1,123 +1,121 @@
-
-all	1
-show	3
-results	1
-find	1
-before	1
-TAT	3
-increase	1
-We	2
-III-V	1
-how	1
-(	4
-,	5
-to	5
-tail	1
-decreased	1
-has	2
-local	1
-around	1
-combination	1
-band	1
-increases	1
-Dit	1
-ON	2
-densities	1
-always	1
-applicable	1
-separately	1
-common	1
-transistors	1
-where	1
-art	1
-Since	1
-positioned	1
-are	2
-leakage	2
-dominates	1
-for	3
-assisted	1
-current	6
-state	1
-between	1
-contributes	1
-trap	2
-be	3
-we	1
-obscures	1
-Urbach	1
-interface	1
-path	1
-strong	1
-by	2
-on	1
-of	6
-study	1
-density	2
-dependence	1
-times	1
-turn	2
-subthreshold	1
-swing	1
-Shockley-Read-Hall	1
-and	3
-major	1
-Assisted	1
-sharpness	1
-increased	1
-Unless	1
-temperature	2
-top	1
-.	6
-calculations	1
-structures	1
-initiated	1
-that	3
-with	1
-observable	1
-Tunneling	2
-effort	1
-also	1
-determines	1
-room	2
-tunnel	1
-double	1
-modified	1
-40-100	1
-can	1
-Our	1
-tunneling	1
-steep	2
-region	1
-detailed	1
-Band	2
-is	1
-BTBT	4
-it	1
-surface	1
-To	1
-at	2
-in	2
-formalism	1
-any	1
-source-channel	1
-compared	1
-enhancing	1
-provide	1
-mechanism	1
-clearly	1
-field	3
-gate	3
-With	1
-electric	2
-effect	1
-edges	1
-Trap	1
-intrinsic	1
-a	3
-traps	2
-)	4
-phonon	1
-materials	1
-the	20
-order	1
+all,1
+show,3
+results,1
+find,1
+before,1
+TAT,3
+increase,1
+We,2
+field,3
+with,1
+source,1
+tail,1
+decreased,1
+has,2
+local,1
+around,1
+combination,1
+band,1
+increases,1
+Dit,1
+ON,2
+densities,1
+always,1
+applicable,1
+separately,1
+common,1
+transistors,1
+where,1
+art,1
+Since,1
+positioned,1
+are,2
+leakage,2
+dominates,1
+for,3
+assisted,1
+current,6
+state,1
+between,1
+contributes,1
+trap,2
+be,3
+we,1
+obscures,1
+Shockley,1
+Urbach,1
+interface,1
+path,1
+strong,1
+by,2
+on,1
+of,6
+study,1
+density,2
+dependence,1
+times,1
+turn,2
+subthreshold,1
+swing,1
+and,3
+major,1
+Assisted,1
+sharpness,1
+III,1
+Unless,1
+temperature,2
+to,5
+top,1
+calculations,1
+structures,1
+enhancing,1
+that,3
+observable,1
+V,1
+Tunneling,2
+effort,1
+also,1
+determines,1
+room,2
+tunnel,1
+double,1
+modified,1
+can,1
+Our,1
+tunneling,1
+steep,2
+region,1
+detailed,1
+Band,2
+is,1
+BTBT,4
+it,1
+surface,1
+To,1
+at,2
+in,2
+formalism,1
+any,1
+increased,1
+compared,1
+initiated,1
+provide,1
+mechanism,1
+clearly,1
+how,1
+gate,3
+With,1
+Hall,1
+channel,1
+electric,2
+effect,1
+edges,1
+Trap,1
+intrinsic,1
+a,3
+traps,2
+Read,1
+phonon,1
+materials,1
+the,20
+order,1

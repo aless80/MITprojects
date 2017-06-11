@@ -1,128 +1,124 @@
-
-magnetization	1
-show	1
-semimetals	4
-magnetic	3
-results	1
-Topological	1
-discovered	1
-paper	1
-including	2
-its	1
-whose	1
-$	6
-(	2
-,	11
-topological	3
-to	3
-absence	1
-Although	1
-nodes	1
-momentum	1
-rise	1
-engineered	1
-band	1
-effects	1
-not	1
-half-metal	1
-inversion	2
-In	1
-_2	3
-Ge	1
-predicted	1
-identify	1
-semimetal	3
-we	1
-are	2
-first-principles	1
-for	1
-frontier	1
-state	1
-can	1
-be	1
-condensed	1
-recently	1
-X=Si	1
-nodal-line	1
-from	1
-properties	1
-time-reversal	1
-Weyl	4
-ferromagnetic	1
-applications	1
-of	6
-anomalous	1
-space	1
-TaAs	2
-or	1
-experimental	1
-first	1
-exotic	1
-exhibit	1
-features	1
-inclusion	1
-K.	1
-monolayers	1
-next	1
-open	2
-unusual	1
-i.e.	1
-distinct	1
-nodal	2
-three	1
-.	6
-calculations	1
-realization	1
-expected	1
-was	1
-gives	1
-function	1
-direction	1
-only	1
-controlled	1
-that	1
-but	1
-Sn	1
-line	1
-with	1
-than	1
-high	1
-Co	3
-room	1
-this	1
-science	1
-matter	1
-remain	1
-temperatures	3
-Our	2
-and	3
-locations	1
-states	1
-as	2
-at	2
-in	5
-door	1
-spin-orbit	2
-TiX	3
-)	2
-suggest	1
-breaking	3
-also	1
-potential	1
-They	1
-Hall	1
-higher	1
-350	1
-counterparts	1
-Curie	1
-such	1
-The	1
-structure	1
-a	1
-elusive	1
-coupling	2
-compounds	2
-lines	1
-materials	2
-TSMs	2
-the	11
+magnetization,1
+show,1
+magnetic,3
+results,1
+Topological,1
+discovered,1
+paper,1
+including,2
+its,1
+whose,1
+semimetals,4
+topological,3
+to,3
+absence,1
+Although,1
+nodes,1
+momentum,1
+rise,1
+engineered,1
+band,1
+effects,1
+reversal,1
+half,1
+not,1
+X,1
+inversion,2
+In,1
+Ge,1
+predicted,1
+identify,1
+semimetal,3
+condensed,1
+are,2
+for,1
+frontier,1
+state,1
+can,1
+be,1
+we,1
+recently,1
+K,1
+properties,1
+Weyl,4
+ferromagnetic,1
+applications,1
+of,6
+anomalous,1
+space,1
+TaAs,2
+spin,2
+or,1
+experimental,1
+first,2
+exotic,1
+exhibit,1
+features,1
+inclusion,1
+monolayers,1
+open,2
+unusual,1
+from,1
+distinct,1
+nodal,3
+three,1
+next,1
+calculations,1
+realization,1
+expected,1
+was,1
+gives,1
+function,1
+direction,1
+only,1
+controlled,1
+that,1
+but,1
+principles,1
+Si,1
+Sn,1
+e,1
+line,2
+with,1
+than,1
+high,1
+Co,3
+room,1
+this,1
+science,1
+matter,1
+remain,1
+temperatures,3
+Our,2
+and,3
+lines,1
+locations,1
+states,1
+as,2
+at,2
+in,5
+door,1
+TiX,3
+suggest,1
+breaking,3
+also,1
+potential,1
+They,1
+Hall,1
+higher,1
+TSMs,2
+counterparts,1
+Curie,1
+such,1
+The,1
+structure,1
+a,1
+elusive,1
+coupling,2
+i,1
+compounds,2
+metal,1
+orbit,2
+materials,2
+time,1
+the,11

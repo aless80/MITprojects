@@ -1,96 +1,91 @@
-
-show	1
-results	1
-existence	1
-Recently	1
-high-binding	1
-(	1
-point	1
-,	2
-topological	3
-to	1
-absence	1
-location	1
-has	1
-Dirac	1
-around	1
-complemented	1
-Fermi	2
-report	1
-level	2
-energy	3
-700	1
-direct	1
-our	1
-by	1
-for	1
-measurements	1
-below	1
-negates	1
-research	1
-attracted	1
-state	2
-critical	1
-provides	1
-we	1
-spectroscopy	1
-possibility	2
-superconductivity	2
-Our	2
-properties	1
-superconductor	1
-on	1
-search	1
-of	9
-study	1
-spin-polarized	2
-spin-resolved	2
-meV	1
-spin	2
-high-resolution	1
-experimental	2
-first	1
-detailed	1
-presence	1
-Here	1
-noncentrosymmetric	2
-electronic	1
-due	1
-.	6
-interest	1
-calculations	1
-that	1
-photon	1
-principles	1
-systematic	1
-with	1
-considerable	1
-polarized	1
-hosting	1
-will	1
-information	1
-near	1
-future	1
-behavior	1
-demonstrate	1
-guide	1
-and	3
-surface	5
-states	3
-superconducting	1
-at	3
-in	2
-angle-resolved	1
-)	1
-temperature-dependent	1
-normal	1
-ARPES	3
-such	1
-The	2
-a	3
-observation	1
-higher-binding	1
-materials	1
-BiPd	3
-the	11
-photoemission	1
+show,1
+results,1
+existence,1
+Recently,1
+spin,6
+presence,1
+topological,3
+to,1
+absence,1
+location,1
+has,1
+resolved,3
+Dirac,1
+around,1
+complemented,1
+dependent,1
+Fermi,2
+report,1
+level,2
+energy,3
+direct,1
+our,1
+for,1
+measurements,1
+below,1
+negates,1
+research,1
+attracted,1
+state,2
+critical,1
+provides,1
+we,1
+spectroscopy,1
+possibility,2
+superconductivity,2
+Our,2
+properties,1
+superconductor,1
+on,1
+search,1
+of,9
+study,1
+meV,1
+experimental,2
+first,1
+detailed,1
+point,1
+Here,1
+noncentrosymmetric,2
+electronic,1
+temperature,1
+due,1
+by,1
+interest,1
+calculations,1
+that,1
+photon,1
+principles,1
+systematic,1
+with,1
+considerable,1
+states,3
+polarized,3
+hosting,1
+will,1
+near,1
+future,1
+behavior,1
+demonstrate,1
+guide,1
+and,3
+binding,2
+surface,5
+high,2
+superconducting,1
+at,3
+in,2
+information,1
+angle,1
+higher,1
+normal,1
+ARPES,3
+such,1
+The,2
+a,3
+observation,1
+resolution,1
+materials,1
+BiPd,3
+the,11
+photoemission,1

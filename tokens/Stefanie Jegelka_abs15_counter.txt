@@ -1,95 +1,88 @@
-
-GP-UCB	2
-both	1
-tasks	1
-We	2
-Recently	1
-(	1
-,	5
-to	2
-offers	1
-extensive	1
-has	1
-GP	1
-effects	1
---	1
-approach	1
-Process	1
-popular	1
-vision	1
-regret	1
-argmax	1
-empirical	1
-connections	1
-understood	1
-trading	1
-close	1
-for	1
-selected	1
-expressed	1
-adaptive	1
-evaluation	1
-be	2
-we	1
-This	1
-advantages	1
-Our	1
-estimate	1
-by	1
-on	2
-of	6
-study	1
-exploitation	1
-prior	1
-range	1
-usually	1
-automatically	1
-via	1
-robotics	1
-rising	1
-directly	1
-moreover	1
-.	5
-establish	1
-adaptively	1
-illustrate	1
-tuning	1
-unknown	1
-there	1
-been	1
-strategy	3
-interest	1
-criteria	1
-:	1
-theoretical	1
-function	2
-that	1
-with	1
-this	2
-robustness	1
-bounds	1
-optimization	3
-exploration	1
-can	1
-strategies	1
-and	7
-an	4
-as	3
-assumptions	1
-in	2
-practical	1
-needs	1
-no	1
-)	1
-Bayesian	1
-performance	1
-parameter	1
-uses	1
-demonstrating	1
-a	2
-off	1
-well	1
-Gaussian	1
-GP-PI	2
-tradeoff	1
-the	7
+both,1
+via,1
+We,2
+Recently,1
+to,2
+offers,1
+extensive,1
+has,1
+GP,5
+effects,1
+approach,1
+Process,1
+popular,1
+vision,1
+regret,1
+argmax,1
+empirical,1
+connections,1
+understood,1
+trading,1
+close,1
+for,1
+selected,1
+expressed,1
+adaptive,1
+PI,2
+evaluation,1
+be,2
+we,1
+This,1
+advantages,1
+Our,1
+estimate,1
+by,1
+on,2
+of,6
+study,1
+exploitation,1
+prior,1
+range,1
+usually,1
+automatically,1
+tasks,1
+robotics,1
+rising,1
+directly,1
+moreover,1
+establish,1
+adaptively,1
+illustrate,1
+tuning,1
+unknown,1
+there,1
+been,1
+strategy,3
+interest,1
+criteria,1
+theoretical,1
+function,2
+that,1
+with,1
+this,2
+robustness,1
+bounds,1
+optimization,3
+exploration,1
+can,1
+strategies,1
+and,7
+an,4
+as,3
+assumptions,1
+in,2
+practical,1
+needs,1
+no,1
+UCB,2
+Bayesian,1
+performance,1
+parameter,1
+uses,1
+demonstrating,1
+a,2
+off,1
+well,1
+Gaussian,1
+tradeoff,1
+the,7

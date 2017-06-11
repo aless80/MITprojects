@@ -1,88 +1,84 @@
-
-operations	2
-reversibility	2
-trade	1
-paper	1
-including	1
-computation	1
-interpreter	1
-We	1
-implementation	1
-(	1
-,	10
-destroyed	1
-to	3
-program	1
-degrees	1
-handle	1
-advantage	1
-irreversible	2
-introduce	1
-every	1
-bit	1
-compiler	1
-where	1
-the	3
-energy	3
-conditional	2
-cost	1
-design	2
-loops	2
-for	4
-space	1
-expressing	1
-new	1
-supports	1
-be	1
-we	1
-geared	1
-along	1
-both	1
-language	3
-created	1
-many	1
-introduces	1
-logic	1
-or	1
-automatically	1
-first	1
-composed	1
-control	1
-powerful	1
-annotate	1
-log	1
-three	1
-.	5
-Language	1
-operators	1
-Eel	4
-reversible	2
-simulate	1
-varying	1
-an	1
-with	1
-present	1
-partially	1
-this	2
-protected	2
-can	1
-of	7
-toward	1
-and	6
-programming	1
-is	1
-general	2
-To	1
-information	1
-)	1
-take	1
-levels	1
-stack	1
-incurred	1
-a	4
-algorithm	1
-programs	2
-Energy-Efficient	1
-costs	3
-In	2
-model	2
+and,6
+composed,1
+Efficient,1
+introduces,1
+is,1
+conditional,2
+reversibility,2
+trade,1
+annotate,1
+To,1
+cost,1
+design,2
+paper,1
+computation,1
+loops,2
+interpreter,1
+along,1
+information,1
+We,1
+advantage,1
+for,4
+space,1
+implementation,1
+with,1
+incurred,1
+three,1
+stack,1
+destroyed,1
+to,3
+protected,2
+degrees,1
+take,1
+expressing,1
+program,1
+new,1
+many,1
+supports,1
+energy,3
+be,1
+we,1
+compiler,1
+handle,1
+Language,1
+powerful,1
+operators,1
+logic,1
+introduce,1
+operations,2
+geared,1
+Eel,4
+control,1
+reversible,2
+every,1
+log,1
+simulate,1
+varying,1
+bit,1
+general,2
+irreversible,2
+model,2
+present,1
+partially,1
+a,4
+both,1
+language,3
+algorithm,1
+programs,2
+this,2
+of,7
+Energy,1
+created,1
+programming,1
+levels,1
+costs,3
+can,1
+In,2
+an,1
+including,1
+the,3
+toward,1
+where,1
+or,1
+automatically,1
+first,1

@@ -1,65 +1,64 @@
-
-and	3
-proposed	2
-communication	1
-is	2
-an	2
-running	1
-To	1
-as	1
-result	1
-multi-target	1
-multi-robot	2
-Simulation	1
-viewed	1
-We	2
-ratio	1
-deal	1
-for	1
-that	1
-distributed	1
-,	1
-.	6
-to	3
-max-min	1
-taken	1
-optimal	1
-approach	1
-into	1
-gives	1
-A	1
-be	1
-linear	1
-both	2
-assignment	1
-of	1
-solution	2
-ranges	1
-packing	1
-task	2
-allocation	1
-consideration	1
-The	1
-approximation	1
-with	1
-the	4
-a	5
-on	2
-limitation	1
-tracking	1
-effective	1
-algorithm	3
-covering	1
-local	3
-study	1
-programs	1
-bounds	1
-theoretical	1
-employ	1
-solve	1
-can	1
-time	1
-mixed	1
-problem	3
-shows	1
-sensing	1
+and,3
+proposed,2
+communication,1
+is,2
+bounds,1
+running,1
+To,1
+as,1
+result,1
+Simulation,1
+viewed,1
+We,2
+ratio,1
+deal,1
+for,1
+min,1
+that,1
+distributed,1
+to,3
+max,1
+taken,1
+optimal,1
+approach,1
+into,1
+gives,1
+A,1
+be,1
+an,2
+linear,1
+both,2
+assignment,1
+of,1
+limitation,1
+effective,1
+solution,2
+ranges,1
+packing,1
+task,2
+allocation,1
+consideration,1
+The,1
+approximation,1
+with,1
+the,4
+a,5
+on,2
+multi,3
+tracking,1
+target,1
+algorithm,3
+covering,1
+local,3
+study,1
+programs,1
+robot,2
+theoretical,1
+employ,1
+solve,1
+can,1
+time,1
+mixed,1
+problem,3
+shows,1
+sensing,1

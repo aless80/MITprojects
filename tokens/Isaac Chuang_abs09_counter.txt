@@ -1,113 +1,98 @@
-
-show	1
-thresholds	1
-earners	2
-identify	1
-solutions	1
-questions	1
-25	1
-We	3
-clickstream	1
-Multiple	1
-(	2
-,	7
-to	3
-systems	1
-Using	1
-then	1
-MOOCs	4
-using	3
-course	1
-courses	2
-115	1
-likely	1
-are	1
-Copying	1
-universities	1
-detect	1
-for	1
-learner	1
-Answers	1
-conservative	1
-participants	1
-certificates	3
-international	1
-correct	1
-be	1
-we	1
-million	1
-answers	1
-20	1
-estimate	1
-by	2
-Among	1
-MOOC	1
-of	5
-massive	1
-or	1
-involves	1
-among	1
-features	1
-submits	1
-young	1
-decrease	1
-Online	1
-69	1
-strategy	3
-open	1
-use	2
-cheating	1
-from	1
-certificate	1
-1,237	1
-prevalence	1
-two	1
-.	7
-their	1
-detectable	1
-master	1
-rates	1
-assessment	1
-more	2
-``	3
-that	2
-sophisticated	1
-virtue	1
-with	1
-than	1
-account	2
-harvester	1
-science	1
-enabled	1
-gathers	1
-can	1
-strategies	1
-male	1
-and	4
-1.3	1
-describe	1
-1.9	1
-evidence	1
-''	3
-at	1
-have	1
-in	3
-accounting	1
-%	2
-)	2
-Existences	1
-other	1
-online	1
-effectiveness	1
-used	1
-users	2
-separate	1
-who	1
-user	1
-The	1
-data	2
-preventive	1
-a	4
-CAMEO	7
-provide	1
-the	5
+show,1
+thresholds,1
+earners,2
+identify,1
+solutions,1
+questions,1
+We,3
+clickstream,1
+Multiple,1
+young,1
+to,3
+systems,1
+Using,1
+then,1
+MOOCs,4
+using,3
+course,1
+courses,2
+likely,1
+are,1
+Copying,1
+universities,1
+detect,1
+for,1
+learner,1
+Answers,1
+conservative,1
+participants,1
+certificates,3
+international,1
+correct,1
+be,1
+we,1
+million,1
+answers,1
+estimate,1
+by,2
+Among,1
+MOOC,1
+of,5
+massive,1
+or,1
+involves,1
+among,1
+features,1
+submits,1
+decrease,1
+Online,1
+open,1
+use,2
+cheating,1
+from,1
+certificate,1
+two,1
+strategy,3
+their,1
+detectable,1
+master,1
+rates,1
+assessment,1
+more,2
+that,2
+sophisticated,1
+virtue,1
+with,1
+than,1
+account,2
+harvester,1
+science,1
+enabled,1
+gathers,1
+can,1
+strategies,1
+male,1
+and,4
+prevalence,1
+describe,1
+evidence,1
+at,1
+have,1
+in,3
+accounting,1
+provide,1
+Existences,1
+other,1
+online,1
+effectiveness,1
+used,1
+users,2
+separate,1
+who,1
+user,1
+The,1
+data,2
+preventive,1
+a,4
+CAMEO,7
+the,5

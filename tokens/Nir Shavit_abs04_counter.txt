@@ -1,143 +1,140 @@
-
-over	1
-automated	1
-years	1
-unacceptably	1
-including	1
-nets	1
-We	2
-slow	1
-implementation	1
-(	1
-distributed	1
-,	8
-Here	1
-to	4
-multicore	2
-systems	2
-weeks	1
-has	1
-unprecedented	1
-then	1
-good	1
-big	1
-morphological	1
-electron	2
-GB	1
-reconstruct	2
-pixel-level	1
-solution	1
-microscopy	1
-correct	1
-neuronal	1
-output	1
-methods	1
-shared-memory	1
-slow-pass	2
-challenges	2
-streaming	1
-second	1
-design	1
-are	1
-et	1
-Kasthuri	1
-extract	1
-techniques	1
-even	1
-provided	1
-errors	2
-for	3
-matter	1
-parallelization	1
-reconstruction	1
-new	1
-approach	1
-viable	1
-segmentation	1
-full	1
-algorithmic	1
-sparse	1
-)	1
-processing	1
-watershed	1
-hours	1
-terabyte-per-hour	1
-Our	1
-detecting	1
-on	2
-pipeline	2
-of	11
-larger	1
-faces	1
-makes	2
-and	6
-image	1
-dataset	1
-microscopes	1
-skeletons	1
-use	1
-from	2
-would	1
-capable	1
-connectomics	1
-initial	1
-.	9
-much	1
-taken	1
-iteratively	1
-convolutional	1
-``	1
-rather	1
-shallow	1
-but	1
-al	1
-capturing	1
-real-time	1
-than	1
-present	1
-past	1
-microns	1
-novel	1
-require	1
-fast-pass	3
-Existing	1
-pace	1
-near	1
-multi-beam	1
-demonstrate	1
-petabytes	1
-multi-pass	1
-is	1
-it	2
-an	1
-''	1
-To	1
-single	2
-tissue	1
-at	1
-in	3
-relatively	1
-provide	1
-suggest	1
-machine	1
-field	1
-many	1
-accuracy	2
-120,000	1
-cubic	2
-object-merging	1
-millimeter	1
-connectivity	2
-optimized	1
-463	1
-The	2
-data	4
-stack	1
-a	7
-algorithm	1
-neural	2
-we	1
-required	1
-graphs	1
-algorithms	1
-the	10
+over,1
+years,1
+unacceptably,1
+including,1
+nets,1
+We,2
+slow,3
+implementation,1
+distributed,1
+Here,1
+to,4
+multicore,2
+systems,2
+weeks,1
+has,1
+pixel,1
+real,1
+then,1
+good,1
+big,1
+morphological,1
+microns,1
+beam,1
+electron,2
+GB,1
+new,1
+reconstruct,2
+level,1
+solution,1
+microscopy,1
+correct,1
+terabyte,1
+neuronal,1
+output,1
+methods,1
+segmentation,1
+challenges,2
+streaming,1
+second,1
+design,1
+are,1
+pass,6
+et,1
+Kasthuri,1
+extract,1
+techniques,1
+even,1
+provided,1
+errors,2
+for,3
+matter,1
+parallelization,1
+per,1
+skeletons,1
+reconstruction,1
+shared,1
+approach,1
+viable,1
+we,1
+full,1
+algorithmic,1
+sparse,1
+processing,1
+watershed,1
+hours,1
+Our,1
+detecting,1
+on,2
+pipeline,2
+of,11
+larger,1
+merging,1
+faces,1
+makes,2
+and,6
+image,1
+dataset,1
+microscopes,1
+unprecedented,1
+use,1
+from,2
+would,1
+capable,1
+connectomics,1
+initial,1
+fast,3
+much,1
+memory,1
+taken,1
+iteratively,1
+convolutional,1
+rather,1
+shallow,1
+but,1
+al,1
+capturing,1
+automated,1
+than,1
+present,1
+past,1
+multi,2
+novel,1
+hour,1
+require,1
+Existing,1
+pace,1
+near,1
+many,1
+demonstrate,1
+petabytes,1
+is,1
+it,2
+an,1
+To,1
+single,2
+tissue,1
+at,1
+in,3
+relatively,1
+provide,1
+suggest,1
+machine,1
+field,1
+accuracy,2
+cubic,2
+object,1
+millimeter,1
+connectivity,2
+optimized,1
+The,2
+data,4
+stack,1
+a,7
+algorithm,1
+neural,2
+required,1
+graphs,1
+algorithms,1
+time,1
+the,10

@@ -1,128 +1,124 @@
-
-gates	5
-all	1
-brute-force	1
-show	1
-intuition	1
-rotating	1
-bandwidth	1
-forged	1
-{	7
-find	1
-We	2
-$	22
-how	1
-(	6
-,	13
-quadratures	1
-to	5
-choose	1
-discovering	1
-dependent	1
-L	2
-choice	1
-optimal	3
-highly	1
-decomposes	1
-fully	1
-signal	1
-with	3
-sub-wavelength	1
-possibilities	1
-arbitrary	2
-fixed	1
-where	1
-art	1
-often	2
-classical	1
-sequence	2
-creation	1
-some	1
-approximation	1
-design	2
-examples	2
-quantum	2
-techniques	1
-for	2
-However	1
-\theta	9
-its	2
-myriad	1
-new	1
-provide	1
-processing	1
-strong	1
-discrete-time	1
-by	1
-shortest	1
-on	4
-great	1
-realizable	1
-of	9
-inspired	1
-methodology	1
-length	1
-Through	1
-act	1
-implement	2
-control	1
-primitive	2
-useful	1
-family	1
-into	1
-rotations	1
-\hat	6
-achievable	1
-compensated	1
-engineer	1
-construct	1
-.	6
-interest	1
-more	1
-that	5
-composite	2
-precision	1
-systematic	1
-spin	2
-than	1
-present	1
-selectivity	1
-science	1
-as	1
-us	1
-can	1
-spectroscopy	1
-enables	1
-and	4
-is	3
-implementations	1
-an	4
-characterize	1
-single	2
-functions	2
-metrology	1
-depending	1
-)	6
-connection	1
-also	1
-nontrivial	1
-spatial	1
-objective	1
-gate	1
-parameter	1
-A	1
-swiftly	1
-perceive	1
-U	6
-allowing	1
-The	1
-phase-controlled	1
-response	1
-efficiently	1
-a	6
-algorithm	1
-}	7
-efficient	2
-\emph	1
-the	2
-requires	1
+gates,5
+all,1
+show,1
+intuition,1
+rotating,1
+bandwidth,1
+forged,1
+find,1
+We,2
+how,1
+with,3
+methodology,1
+quadratures,1
+to,5
+choose,1
+discovering,1
+hat,6
+dependent,1
+perceive,1
+choice,1
+new,1
+decomposes,1
+fully,1
+signal,1
+possibilities,1
+discrete,1
+arbitrary,2
+fixed,1
+where,1
+art,1
+often,2
+classical,1
+sequence,2
+creation,1
+some,1
+emph,1
+approximation,1
+design,2
+examples,2
+quantum,2
+wavelength,1
+techniques,1
+sub,1
+for,2
+However,1
+its,2
+myriad,1
+theta,9
+optimal,3
+processing,1
+strong,1
+by,1
+shortest,1
+on,4
+great,1
+realizable,1
+of,9
+inspired,1
+length,1
+Through,1
+act,1
+implement,2
+control,1
+primitive,2
+useful,1
+family,1
+into,1
+rotations,1
+highly,1
+achievable,1
+force,1
+engineer,1
+brute,1
+construct,1
+interest,1
+more,1
+compensated,1
+controlled,1
+that,5
+composite,2
+precision,1
+systematic,1
+spin,2
+than,1
+present,1
+selectivity,1
+science,1
+as,1
+us,1
+can,1
+spectroscopy,1
+enables,1
+and,4
+is,3
+implementations,1
+an,4
+characterize,1
+single,2
+functions,2
+metrology,1
+depending,1
+efficient,2
+connection,1
+also,1
+nontrivial,1
+spatial,1
+objective,1
+gate,1
+parameter,1
+A,1
+swiftly,1
+L,2
+U,6
+allowing,1
+phase,1
+The,1
+response,1
+efficiently,1
+a,6
+algorithm,1
+provide,1
+time,1
+the,2
+requires,1

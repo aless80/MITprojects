@@ -1,196 +1,161 @@
-
-slope	1
-selection	2
-Lyman	1
-Frontier	1
-luminosities	1
-results	1
-existing	1
-identify	1
-statistical	1
-using	1
-50	1
-still	1
-its	1
-galaxy	1
-We	5
-derive	1
-$	20
-conclusions	1
-(	6
-less	1
-,	19
-density	1
-to	7
-magnitudes	1
-systems	1
-HST	1
-faint-end	2
-unobscured	1
-WFC3/UVIS	1
-<	15
-Hubble	2
-WFC3/IR	1
-break	1
-completeness	1
-ultraviolet	1
-negative	1
-during	1
-restrict	1
-evolution	1
-Because	1
-sizes	1
-55	1
-luminosity	2
-identified	1
-large	1
-this	1
-rest-frame	2
-further	1
-systematics	1
-From	1
-covered	1
-robustness	1
-imaged	1
-likely	1
-Abell	2
-are	2
-3.0	1
-measurement	1
-our	3
-2.6	1
-z\sim1.3	2
-Abridged	1
-confirm	1
--12.5	2
-find	2
-3	3
-A1689	1
-above	1
-new	1
-dominate	1
-we	4
-extend	1
-respectively	2
-galaxies	3
-=-14	1
-quite	1
-small	1
-formation	1
-imaging	2
-demonstrate	1
-[	1
-on	1
-780	1
-getting	1
-of	8
-study	1
-UV	9
-cosmic	1
-against	1
-ACS/WFC	1
-survey	1
-M_	3
-slightly	1
-redshift	1
-\alpha=-1.55\pm0.06	1
-photometric	1
-due	1
-down	1
-Finally	1
-lensing	1
-LFs	1
-such	1
-size	1
-uncertainties	2
-use	2
-from	3
-assumed	1
-faint	3
-three	1
-.	10
-z\sim2.6	1
-slopes	1
->	1
-function	1
--1.69\pm0.07	1
-``	1
-samples	1
-that	3
-becomes	1
-dropout	1
--18.5	1
-systematic	1
-clusters	1
-sign	1
-with	5
-present	1
-sample	1
-compute	1
-Telescope	1
-these	2
-MACSJ0717	1
-best-fit	1
-near	1
-values	1
-Our	1
-distribution	1
-z	6
-steep	1
-example	1
-and	15
-1.6	2
-1.0	1
-Space	1
-ultra-faint	1
-is	1
-redshifts	1
-1.9	1
-deep	1
-''	1
-Field	1
-at	4
-in	3
-\alpha=-1.72\pm0.04	1
-\alpha=-1.94\pm0.06	1
-steeper	2
-LF	3
-different	1
-%	3
-no	1
-)	6
-1	3
-majority	1
-epoch	1
-5	1
-2744	1
-2.2	2
-shallower	1
-conclude	1
--60	1
-AB	2
-star	1
-though	1
--1.79\pm0.08	1
-produce	1
-peak	1
-mag	2
-multiply	1
-robust	1
-]	1
-{	3
-a	2
-methodologies	1
-for	2
-\alpha=-1.56\pm0.04	1
-minimize	1
-analysis	1
-so	1
-star-forming	1
-volumes	1
-1689	1
-the	17
-If	1
-}	3
-order	1
-turnover	1
+slope,1
+selection,2
+Lyman,1
+Frontier,1
+luminosities,1
+results,1
+rest,2
+existing,1
+identify,1
+statistical,1
+using,1
+still,1
+its,1
+galaxy,1
+We,5
+derive,1
+magnitudes,1
+fit,1
+conclusions,1
+less,1
+to,7
+systems,1
+HST,1
+unobscured,1
+clusters,1
+density,1
+Hubble,2
+conclude,1
+break,1
+completeness,1
+ultraviolet,1
+negative,1
+during,1
+down,1
+evolution,1
+Because,1
+sizes,1
+luminosity,2
+identified,1
+large,1
+this,1
+further,1
+From,1
+WFC,3
+frame,2
+imaged,1
+likely,1
+Abell,2
+are,2
+measurement,1
+our,3
+best,1
+Abridged,1
+confirm,1
+find,2
+above,1
+new,1
+dominate,1
+UVIS,1
+we,4
+extend,1
+respectively,2
+galaxies,3
+quite,1
+small,1
+formation,1
+imaging,2
+Our,1
+on,1
+z,9
+getting,1
+of,8
+study,1
+UV,9
+cosmic,1
+against,1
+survey,1
+due,1
+slightly,1
+restrict,1
+redshift,1
+photometric,1
+MACSJ,1
+ACS,1
+Finally,1
+lensing,1
+LFs,1
+robust,1
+size,1
+uncertainties,2
+use,2
+from,3
+assumed,1
+faint,6
+three,1
+slopes,1
+pm,6
+function,1
+samples,1
+that,3
+becomes,1
+dropout,1
+systematic,1
+covered,1
+sign,1
+with,5
+present,1
+systematics,1
+compute,1
+Telescope,1
+these,2
+robustness,1
+near,1
+values,1
+demonstrate,1
+distribution,1
+ultra,1
+steep,1
+example,1
+and,15
+Space,1
+is,1
+redshifts,1
+deep,1
+sample,1
+Field,1
+at,4
+in,3
+steeper,2
+LF,3
+different,1
+end,2
+no,1
+majority,1
+epoch,1
+forming,1
+shallower,1
+sim,3
+A,1
+such,1
+AB,2
+star,2
+though,1
+IR,1
+M,3
+produce,1
+peak,1
+mag,2
+multiply,1
+alpha,4
+a,2
+methodologies,1
+for,2
+minimize,1
+analysis,1
+so,1
+volumes,1
+the,17
+If,1
+order,1
+turnover,1

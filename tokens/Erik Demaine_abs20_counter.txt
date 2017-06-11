@@ -1,50 +1,46 @@
-
-and	2
-Given	1
-nonexpansively	1
-For	1
-is	2
-fold	1
-paper	2
-computable	1
-at	1
-in	1
-polynomial	1
-its	1
-exists	1
-boundaries	1
-isometric	1
-sheet	1
-polygon	1
-prove	1
-there	1
-folded	1
-,	2
-.	1
-polygonal	1
-to	1
-points	1
-way	1
-interior	2
-boundary	3
-consistent	1
-?	1
-finitely	1
-we	1
-'s	1
-that	2
-time	1
-mapping	1
-with	1
-a	4
-prescribed	2
-folding	2
-always	1
-of	3
-stretching	1
-lines	1
-up	1
-without	1
-so	1
-many	1
-the	4
+and,2
+Given,1
+nonexpansively,1
+For,1
+is,2
+fold,1
+paper,2
+computable,1
+at,1
+in,1
+polynomial,1
+its,1
+exists,1
+boundaries,1
+isometric,1
+sheet,1
+polygon,1
+prove,1
+there,1
+folded,1
+polygonal,1
+to,1
+points,1
+way,1
+interior,2
+boundary,3
+consistent,1
+finitely,1
+we,1
+that,2
+time,1
+mapping,1
+with,1
+a,4
+prescribed,2
+folding,2
+always,1
+of,3
+stretching,1
+lines,1
+up,1
+s,1
+without,1
+so,1
+many,1
+the,4

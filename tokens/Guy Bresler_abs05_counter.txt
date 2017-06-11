@@ -1,109 +1,104 @@
-
-consider	1
-chain	1
-show	1
-Glauber	4
-paper	1
-$	8
-(	4
-,	6
-to	4
-samples	2
-nodes	2
-undirected	1
-updates	1
-using	1
-d	3
-settings	1
-p	2
-Much	1
-where	1
-towards	1
-used	1
-cost	1
-result	1
-dynamics	4
-for	1
-research	1
-access	1
-learned	1
-be	1
-we	4
-degree	1
-This	1
-standard	1
-problem	2
-on	2
-tractable	1
-of	7
-according	1
-stationary	1
-computational	1
-information-theoretic	1
-variables	1
-number	1
-one	1
-learning	3
-establish	1
-The	1
-has	1
-given	1
-from	4
-been	1
-.	8
-low	1
-assumes	1
-function	1
-graphical	6
-Additionally	1
-that	3
-sufficient	1
-observe	1
-Specifically	1
-with	2
-dynamical	1
-directed	1
-main	1
-f	2
-this	2
-work	2
-maximum	1
-reconstructing	1
-individual	1
-pairwise	2
-can	1
-distribution	2
-p^2\log	1
-and	1
-is	4
-in	4
-it	2
-sample	1
-minimum	1
-formulation	1
-sequentially	1
-binary	2
-computationally	1
-variety	1
-)	4
-when	1
-converges	1
-which	1
-finding	1
-literature	1
-models	2
-In	1
-generated	1
-deviates	1
-frequently	1
-Markov	1
-data	1
-the	12
-a	6
-natural	1
-i.i.d	1
-As	1
-algorithms	1
-time	2
-model	5
-nearly	1
+consider,1
+chain,1
+show,1
+Glauber,4
+paper,1
+to,4
+samples,2
+nodes,2
+undirected,1
+updates,1
+using,1
+d,4
+settings,1
+p,3
+Much,1
+where,1
+towards,1
+used,1
+cost,1
+result,1
+dynamics,4
+theoretic,1
+for,1
+research,1
+access,1
+learned,1
+be,1
+we,4
+degree,1
+This,1
+standard,1
+problem,2
+on,2
+tractable,1
+of,7
+according,1
+stationary,1
+computational,1
+variables,1
+number,1
+one,1
+learning,3
+establish,1
+The,1
+has,1
+given,1
+from,4
+log,1
+been,1
+low,1
+assumes,1
+function,1
+graphical,6
+Additionally,1
+that,3
+sufficient,1
+observe,1
+Specifically,1
+with,2
+directed,1
+main,1
+f,2
+this,2
+work,2
+maximum,1
+reconstructing,1
+individual,1
+pairwise,2
+can,1
+distribution,2
+and,1
+is,4
+in,4
+it,2
+sample,1
+minimum,1
+formulation,1
+sequentially,1
+binary,2
+computationally,1
+variety,1
+when,1
+converges,1
+which,1
+finding,1
+literature,1
+information,1
+models,2
+In,1
+generated,1
+deviates,1
+frequently,1
+Markov,1
+data,1
+the,12
+a,6
+natural,1
+dynamical,1
+i,2
+As,1
+algorithms,1
+time,2
+model,5
+nearly,1

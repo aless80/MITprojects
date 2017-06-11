@@ -1,97 +1,95 @@
-
-consider	1
-show	2
-true	1
-over	1
-existing	2
-paper	1
-solutions	1
-minmax	5
-its	1
-We	1
-based	1
-knowledge	1
-(	1
-deterministic	2
-,	7
-to	1
-only	1
-under	3
-Using	1
-solvable	3
-game	1
-not	1
-primal-dual	1
-solution	1
-discrete	1
-where	2
-regret	6
-approximation	1
-are	2
-convex	1
-proofs	1
-for	3
-combinatorial	2
-version	1
-between	1
-new	1
-be	1
-we	3
-This	1
-approaches	1
-adversary	3
-problem	2
-both	1
-of	7
-uncertainty	3
-mixed	1
-NP-hard	2
-probability	1
-zero-sum	1
-randomized	3
-Finally	1
-polynomial	3
-.	7
-considers	1
-prove	1
-strategy	1
-intention	1
-realization	1
-solutions/strategies	1
-selects	4
-optimizing	3
-corresponding	1
-that	2
-becomes	1
-but	1
-general	1
-with	2
-versions	1
-this	2
-optimization	1
-can	1
-distribution	2
-and	5
-played	1
-an	2
-player	5
-as	1
-any	1
-viewed	1
-)	1
-holds	1
-'s	1
-problems	2
-most	1
-representations	1
-The	2
-on	1
-the	12
-a	5
-maximizing	1
-scenario	1
-interval	1
-costs	2
-algorithms	1
-In	1
-model	5
+consider,1
+show,2
+over,1
+existing,2
+paper,1
+solutions,2
+minmax,5
+its,1
+We,1
+based,1
+knowledge,1
+with,2
+deterministic,2
+to,1
+only,1
+under,3
+Using,1
+solvable,3
+game,1
+not,1
+solution,1
+discrete,1
+where,2
+regret,6
+hard,2
+approximation,1
+zero,1
+are,2
+convex,1
+proofs,1
+for,3
+sum,1
+combinatorial,2
+version,1
+between,1
+new,1
+be,1
+we,3
+This,1
+approaches,1
+adversary,3
+problem,2
+both,1
+of,7
+uncertainty,3
+s,1
+mixed,1
+probability,1
+primal,1
+randomized,3
+Finally,1
+polynomial,3
+considers,1
+prove,1
+strategy,1
+intention,1
+realization,1
+NP,2
+selects,4
+optimizing,3
+corresponding,1
+that,2
+becomes,1
+but,1
+general,1
+true,1
+versions,1
+this,2
+optimization,1
+can,1
+strategies,1
+distribution,2
+and,5
+played,1
+an,2
+player,5
+as,1
+dual,1
+any,1
+viewed,1
+holds,1
+problems,2
+most,1
+representations,1
+The,2
+on,1
+the,12
+a,5
+maximizing,1
+scenario,1
+interval,1
+costs,2
+algorithms,1
+In,1
+model,5

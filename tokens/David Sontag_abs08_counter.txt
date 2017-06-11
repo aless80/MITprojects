@@ -1,107 +1,101 @@
-
-distances	2
-show	1
-observational	1
-Metrics	1
-We	3
-(	2
-,	5
-to	2
-treatment	1
-under	1
-has	1
-match	1
-real	1
-showing	1
-Maximum	1
-fields	1
-Integral	1
-outperform	1
-individual	1
-measure	1
-for	2
-generalization-error	2
-sum	1
-between	2
-medicine	1
-new	2
-induced	2
-predicting	1
-error	1
-standard	1
-strong	1
-by	2
-on	1
-Probability	1
-state-of-the-art	1
-of	5
-economics	1
-individual-level	1
-estimation	1
-or	1
-control	2
-inference	2
-family	1
-simple	1
-There	1
-bound	1
-learning	1
-balanced	1
-Wasserstein	1
-causal	2
-use	1
-from	1
-simulated	1
-treated	2
-.	7
-assumption	1
-interest	1
-expected	1
-theoretical	1
-``	1
-that	3
-precision	1
-particular	1
-known	1
-distance	1
-novel	1
-applying	1
-look	1
-intuitive	1
-ITE	2
-bounds	1
-Discrepancy	1
-learn	1
-MMD	1
-similar	1
-and	8
-give	2
-is	2
-''	1
-as	3
-in	2
-ignorability	1
-education	1
-distributions	3
-intense	1
-)	2
-machine	1
-healthcare	1
-problems	1
-effect	1
-deriving	1
-applications	1
-important	1
-bounded	1
-such	3
-The	1
-data	2
-Mean	1
-a	5
-explicit	1
-analysis	1
-Experiments	1
-algorithms	3
-In	1
-representation	4
-the	10
+distances,2
+show,1
+observational,1
+Metrics,1
+We,3
+to,2
+treatment,1
+under,1
+has,1
+match,1
+real,1
+showing,1
+Maximum,1
+level,1
+fields,1
+Integral,1
+outperform,1
+art,1
+individual,2
+measure,1
+for,2
+sum,1
+state,1
+between,2
+medicine,1
+new,2
+induced,2
+predicting,1
+error,3
+standard,1
+strong,1
+by,2
+on,1
+Probability,1
+of,6
+economics,1
+estimation,1
+or,1
+control,2
+inference,2
+family,1
+simple,1
+There,1
+bound,1
+learning,1
+balanced,1
+Wasserstein,1
+causal,2
+use,1
+from,1
+simulated,1
+treated,2
+intense,1
+assumption,1
+interest,1
+expected,1
+theoretical,1
+that,3
+precision,1
+particular,1
+known,1
+distance,1
+novel,1
+applying,1
+look,1
+intuitive,1
+ITE,2
+bounds,1
+Discrepancy,1
+learn,1
+MMD,1
+similar,1
+and,8
+give,2
+is,2
+generalization,2
+as,3
+in,2
+ignorability,1
+education,1
+distributions,3
+machine,1
+healthcare,1
+problems,1
+effect,1
+deriving,1
+applications,1
+important,1
+bounded,1
+such,3
+The,1
+data,2
+Mean,1
+a,5
+explicit,1
+analysis,1
+Experiments,1
+algorithms,3
+In,1
+representation,4
+the,11

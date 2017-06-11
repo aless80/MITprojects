@@ -1,104 +1,98 @@
-
-all	1
-show	1
-obtain	1
-longevity	1
-paper	1
-We	1
-(	1
-,	11
-forms	1
-to	9
-interested	1
-helps	1
-hope	1
-aspects	1
-fat	1
-profound	1
-level	1
-backgrounds	1
-these	1
-release	1
-obesity	2
-sizeism	1
-vision	1
-A	1
-financial	1
-mental	1
-weight	2
-related	1
-see	1
-computer	1
-are	3
-images	1
-our	1
-concern	1
-index	1
-BMI	2
-health	1
-increasing	1
-ever	1
-body	1
-be	1
-we	2
-on	1
-self-report	1
-of	3
-study	1
-social	2
-advance	1
-or	1
-reasons	1
-body-mass	1
-shaming	1
-from	4
-For	1
-would	2
-data	1
-.	6
-their	2
-rates	1
-ranging	1
-media	1
-``	2
-that	1
-tool	1
-accurately	1
-societal	1
-angles	1
-raising	1
-this	1
-while	1
-can	2
-growing	1
-and	1
-implications	1
-it	1
-''	2
-To	1
-have	4
-in	1
-linked	1
-traditionally	1
-variety	1
-)	1
-studying	1
-how	1
-other	1
-which	1
-income	1
-infer	1
-status	1
-used	1
-'s	2
-healthcare	1
-measured	1
-a	5
-doctor	1
-life	1
-person	3
-costs	1
-At	1
-In	1
-the	2
-researchers	1
+all,1
+show,1
+obtain,1
+longevity,1
+paper,1
+We,1
+forms,1
+to,9
+interested,1
+helps,1
+hope,1
+aspects,1
+fat,1
+report,1
+profound,1
+level,1
+backgrounds,1
+these,1
+release,1
+obesity,2
+sizeism,1
+vision,1
+A,1
+financial,1
+mental,1
+weight,2
+related,1
+see,1
+computer,1
+are,3
+images,1
+our,1
+concern,1
+index,1
+BMI,2
+health,1
+increasing,1
+ever,1
+body,2
+be,1
+we,2
+healthcare,1
+on,1
+of,3
+study,1
+s,2
+social,2
+advance,1
+or,1
+reasons,1
+shaming,1
+from,4
+For,1
+would,2
+data,1
+their,2
+rates,1
+ranging,1
+life,1
+that,1
+tool,1
+accurately,1
+societal,1
+angles,1
+raising,1
+this,1
+while,1
+can,2
+growing,1
+and,1
+it,1
+To,1
+have,4
+in,1
+linked,1
+traditionally,1
+variety,1
+media,1
+self,1
+how,1
+other,1
+which,1
+income,1
+infer,1
+status,1
+used,1
+In,1
+measured,1
+a,5
+doctor,1
+implications,1
+person,3
+costs,1
+mass,1
+At,1
+studying,1
+the,2
+researchers,1

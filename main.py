@@ -13,3 +13,13 @@ scrape.tokenize()
 
 #TODO
 #remove symbols from tokens
+
+
+#Notes
+#python onlinewikipedia.py 101; python printtopics.py dictnostops.txt lambda-100.dat
+#python onlinewikipedia.py 2; python printtopics.py dictnostops.txt lambda-1.dat
+#python printtopics.py dictnostops.txt lambda-10.dat
+#https://wellecks.wordpress.com/2014/10/26/ldaoverflow-with-online-lda/
+
+#str="ale @ is 0 2 (good) "
+#re.findall(r'[^a-zA-Z0-9\s]',str)

@@ -1,74 +1,71 @@
-
-and	2
-compare	1
-From	1
-accelerations	2
-proposed	3
-problem	1
-is	5
-There	1
-some	2
-None	1
-converge	1
-instances	1
-depends	1
-paper	1
-properties	1
-are	3
-have	1
-in	2
-variables	1
-theoretically	1
-methods	1
-acceleration	3
-superior	1
-different	1
-slow	1
-from	1
-parameters	2
-data	2
-missing	1
-,	4
-been	1
-.	7
-to	4
-which	3
-hidden	1
-several	1
-method	3
-EM	2
-we	3
-used	1
-dominant	1
-lacking	1
-that	3
-models	2
-Many	1
-In	1
-possible	1
-but	1
-results	1
-applications	1
-them	1
-experimentally	1
-probabilistic	1
-model	1
-present	1
-improve	1
-a	2
-on	1
-for	2
-always	1
-this	2
-of	7
-require	1
-try	1
-experiments	1
-either	1
-learn	2
-comparisons	1
-the	11
-argue	1
-or	1
-experimental	1
-Therefore	1
+and,2
+compare,1
+From,1
+accelerations,2
+proposed,3
+problem,1
+is,5
+There,1
+some,2
+None,1
+converge,1
+instances,1
+depends,1
+paper,1
+are,3
+have,1
+in,2
+variables,1
+theoretically,1
+methods,1
+acceleration,3
+superior,1
+different,1
+slow,1
+from,1
+parameters,2
+data,2
+missing,1
+been,1
+properties,1
+to,4
+which,3
+hidden,1
+several,1
+method,3
+EM,2
+we,3
+used,1
+dominant,1
+lacking,1
+that,3
+models,2
+Many,1
+In,1
+possible,1
+but,1
+results,1
+applications,1
+them,1
+experimentally,1
+probabilistic,1
+model,1
+present,1
+improve,1
+a,2
+on,1
+for,2
+always,1
+this,2
+of,7
+require,1
+try,1
+experiments,1
+either,1
+learn,2
+comparisons,1
+the,11
+argue,1
+or,1
+experimental,1
+Therefore,1

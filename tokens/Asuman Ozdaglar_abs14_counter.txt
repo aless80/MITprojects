@@ -1,56 +1,51 @@
-
-and	4
-set	1
-give	1
-defined	1
-is	1
-convex	1
-some	1
-,	2
-''	2
-lies	1
-as	1
-exchangeable	2
-are	1
-game-theoretic	1
-in	1
-.	4
-utility	1
-conditionally	1
-We	2
-'	1
-revelation	1
-distributed	1
-equilibria	7
-strategy	1
-symmetric	4
-version	1
-which	1
-between	1
-expected	1
-hidden	1
-several	1
-interpretations	1
-achieve	1
-can	1
-given	1
-introduce	1
-game	1
-bimatrix	1
-identically	1
-variable	1
-Nash	2
-than	1
-those	1
-a	2
-independently	1
-correlated	2
-of	4
-choices	1
-players	1
-Exchangeable	1
-Geometrically	1
-principle	1
-the	5
-higher	1
-notion	1
+and,4
+set,1
+give,1
+defined,1
+is,1
+convex,1
+some,1
+lies,1
+as,1
+exchangeable,2
+are,1
+in,1
+theoretic,1
+utility,1
+symmetric,4
+We,2
+revelation,1
+distributed,1
+equilibria,7
+strategy,1
+conditionally,1
+version,1
+which,1
+between,1
+expected,1
+hidden,1
+several,1
+interpretations,1
+achieve,1
+can,1
+given,1
+introduce,1
+game,2
+bimatrix,1
+identically,1
+variable,1
+Nash,2
+than,1
+those,1
+a,2
+independently,1
+correlated,2
+of,4
+choices,1
+players,1
+Exchangeable,1
+Geometrically,1
+principle,1
+the,5
+higher,1
+notion,1

@@ -1,93 +1,90 @@
-
-both	1
-results	1
-brain	3
-human	2
-captured	1
-poorly	1
-relationships	1
-We	1
-parameters	1
-ventral	1
-temporal	1
-,	3
-Here	1
-to	2
-early	1
-stage-wise	1
-MRI	1
-areas	1
-necessary	1
-tuned	1
-architecture	2
-Further	1
-enforce	1
-view	1
-therein	1
-humans	1
-understood	1
-our	1
-dynamics	1
-recognition	3
-network	1
-for	1
-space	1
-multi-stage	1
-crucial	1
-However	1
-artificial	1
-investigation	1
-provides	1
-cortical	1
-we	1
-provide	1
-real-world	2
-processing	1
-statistics	1
-on	2
-training	1
-of	5
-streams	1
-(	3
-spatio-temporal	2
-functional	1
-categorization	1
-from	1
-basis	1
-informed	1
-.	6
-was	2
-that	2
-DNN	3
-Together	1
-visual	8
-hierarchical	1
-with	2
-showed	1
-while	1
-stages	1
-and	3
-magnetoencephalography	1
-deep	1
-an	2
-in	4
-compared	1
-efficient	1
-algorithmically	1
-complex	1
-spatial	1
-towards	1
-object	2
-important	1
-pathways	1
-representations	2
-The	1
-revealed	1
-the	9
-dorsal	1
-neural	2
-computations	1
-remain	1
-)	3
-time	1
-model	1
+both,1
+results,1
+brain,3
+human,2
+captured,1
+poorly,1
+relationships,1
+We,1
+parameters,1
+ventral,1
+temporal,3
+Here,1
+to,2
+real,2
+early,1
+MRI,1
+world,2
+areas,1
+necessary,1
+tuned,1
+architecture,2
+Further,1
+enforce,1
+view,1
+therein,1
+humans,1
+understood,1
+our,1
+dynamics,1
+recognition,3
+network,1
+for,1
+space,1
+crucial,1
+However,1
+artificial,1
+investigation,1
+provides,1
+cortical,1
+we,1
+processing,1
+statistics,1
+stage,2
+on,2
+training,1
+of,5
+streams,1
+spatio,2
+functional,1
+categorization,1
+from,1
+basis,1
+informed,1
+was,2
+that,2
+DNN,3
+Together,1
+visual,8
+hierarchical,1
+with,2
+multi,1
+wise,1
+showed,1
+while,1
+stages,1
+and,3
+magnetoencephalography,1
+deep,1
+an,2
+in,4
+compared,1
+efficient,1
+algorithmically,1
+complex,1
+spatial,1
+towards,1
+object,2
+important,1
+pathways,1
+representations,2
+The,1
+revealed,1
+the,9
+dorsal,1
+neural,2
+computations,1
+remain,1
+provide,1
+time,1
+model,1

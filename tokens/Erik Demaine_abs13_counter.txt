@@ -1,125 +1,110 @@
-
-all	1
-produces	1
-$	12
-(	5
-extra	1
-,	12
-to	1
-then	1
-universality	1
-possible	3
-game	1
-grid	2
-closely	1
-not	1
-using	1
-inelastic	1
-\	1
-drop	1
-each	1
-where	1
-subset	1
-right	1
-result	2
-specified	1
-close	1
-dynamics	1
-\Omega	1
-dyadic	2
-what	1
-for	1
-uniform	1
-collisions	1
-it	1
-falling	1
-?	1
-be	3
-we	2
-Pachinko	1
-power	1
-O	1
-binomial	1
-along	1
-by	3
-hits	1
-of	6
-study	1
-{	1
-suitable	1
-or	1
-arbitrarily	1
-probability	4
-point	1
-simple	1
-information-theoretic	1
-50-50	1
-bound	1
-unit	1
-from	1
-prove	1
-probabilities	1
-amidst	1
-.	5
-accordingly	1
-2	1
-perfectly	1
-bits	1
-Furthermore	1
-more	1
-form	1
-that	1
-outputs	1
-Inspired	1
-exactly	1
-but	2
-surprisingly	1
-with	1
-:	1
-this	1
-k^2	1
-n	3
-can	3
-k	2
-distribution	5
-example	1
-placements	1
-are	1
-and	2
-pin	2
-classic	1
-is	3
-locations	1
-general	1
-''	4
-in	1
-distributions	2
-approximated	1
-constructed	2
-Then	1
-different	1
-)	5
-divided	1
-any	1
-1,2,4,8,16\	1
-which	1
-pins	4
-if	1
-A	1
-junk	1
-ball	2
-falls	1
-plane	1
-the	7
-a	8
-lower	1
-off	1
-center	1
-obstacles	1
-Japanese	1
-checkerboard	1
-In	2
-every	2
-model	2
-}	1
-left	1
+all,1
+produces,1
+extra,1
+to,1
+then,1
+universality,1
+possible,3
+game,1
+grid,2
+closely,1
+not,1
+using,1
+inelastic,1
+drop,1
+each,1
+where,1
+subset,1
+right,1
+result,2
+specified,1
+close,1
+dynamics,1
+dyadic,2
+what,1
+for,1
+uniform,1
+collisions,1
+it,1
+falling,1
+be,3
+we,2
+Pachinko,1
+power,1
+O,1
+binomial,1
+along,1
+by,3
+hits,1
+of,6
+study,1
+suitable,1
+or,1
+arbitrarily,1
+probability,4
+point,1
+simple,1
+bound,1
+unit,1
+from,1
+prove,1
+probabilities,1
+amidst,1
+accordingly,1
+perfectly,1
+bits,1
+Furthermore,1
+more,1
+form,1
+that,1
+outputs,1
+Inspired,1
+exactly,1
+but,2
+surprisingly,1
+with,1
+this,1
+n,3
+can,3
+k,3
+distribution,5
+example,1
+placements,1
+are,1
+and,2
+pin,2
+classic,1
+is,3
+locations,1
+general,1
+in,1
+distributions,2
+approximated,1
+constructed,2
+Then,1
+different,1
+theoretic,1
+divided,1
+any,1
+which,1
+pins,4
+if,1
+Omega,1
+A,1
+junk,1
+ball,2
+information,1
+falls,1
+plane,1
+the,7
+a,8
+lower,1
+off,1
+center,1
+obstacles,1
+Japanese,1
+checkerboard,1
+In,2
+every,2
+model,2
+left,1

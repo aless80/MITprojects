@@ -1,136 +1,128 @@
-
-all	1
-consider	1
-show	2
-over	1
-results	1
-years	1
-communities	1
-bounded-degree	1
-underlying	1
-statistical	1
-one	1
-We	2
-hold	1
-$	8
-parameters	1
-graph	2
-,	6
-to	3
-samples	1
-nodes	1
-has	3
-Nevertheless	1
-possible	2
-new	1
-not	2
-highly	1
-structural	2
-necessary	1
-d	2
-Over	1
-p	1
-paper	1
-each	1
-low-temperatures	1
-exhaustively	1
-computation	1
-exists	1
-cost	1
-p^2	1
-what	1
-for	6
-restricted	1
-may	1
-various	1
-Ising	4
-non-uniform	1
-be	1
-we	2
-degree	1
-This	1
-arbitrary	1
-greedy	1
-fifteen	1
-improve	1
-on	5
-search	1
-last	1
-rests	1
-of	10
-allows	1
-neighbor	1
-{	1
-or	1
-this	2
-computational	1
-simple	1
-p^	1
-except	1
-least	1
-learning	2
-statistics	1
-from	1
-there	1
-been	2
-.	8
-needed	1
-much	1
-low	1
-interest	2
-:	1
-that	2
-with	3
-particular	1
-known	1
-general	1
-effort	1
-directed	1
-whether	1
-reconstructing	1
-classes	1
-learn	1
-problem	2
-property	2
-procedure	1
-proof	1
-and	3
-is	3
-it	3
-an	3
-high	1
-as	2
-assumptions	1
-at	3
-in	3
-identifiability	1
-any	1
-information	1
-mutual	1
-no	1
-make	1
-machine	1
-which	1
-finding	1
-node	2
-independent	1
-towards	1
-models	4
-time	1
-upon	1
-most	1
-significant	1
-The	1
-model	3
-structure	1
-a	3
-i.i.d	1
-neighborhoods	1
-physics	1
-well	1
-graphs	1
-algorithms	1
-In	1
-the	11
-}	1
-order	1
+all,1
+consider,1
+show,2
+over,1
+results,1
+years,1
+communities,1
+underlying,1
+statistical,1
+We,2
+hold,1
+parameters,1
+graph,2
+except,1
+to,3
+samples,1
+nodes,1
+has,3
+non,1
+Nevertheless,1
+possible,2
+not,2
+one,1
+structural,2
+necessary,1
+d,3
+Over,1
+p,3
+paper,1
+each,1
+exhaustively,1
+computation,1
+exists,1
+cost,1
+what,1
+for,6
+restricted,1
+uniform,1
+may,1
+various,1
+Ising,4
+new,1
+be,1
+we,2
+degree,2
+This,1
+arbitrary,1
+greedy,1
+fifteen,1
+improve,1
+on,5
+search,1
+last,1
+rests,1
+of,10
+allows,1
+neighbor,1
+or,1
+this,2
+computational,1
+simple,1
+highly,1
+least,1
+learning,2
+statistics,1
+from,1
+there,1
+been,2
+needed,1
+much,1
+low,2
+interest,2
+that,2
+with,3
+particular,1
+known,1
+general,1
+effort,1
+directed,1
+whether,1
+reconstructing,1
+classes,1
+temperatures,1
+learn,1
+problem,2
+property,2
+procedure,1
+proof,1
+and,3
+is,3
+it,3
+an,3
+high,1
+as,2
+assumptions,1
+at,3
+in,3
+identifiability,1
+any,1
+information,1
+mutual,1
+no,1
+make,1
+machine,1
+which,1
+finding,1
+node,2
+independent,1
+towards,1
+models,4
+time,1
+upon,1
+most,1
+bounded,1
+significant,1
+The,1
+model,3
+structure,1
+a,3
+neighborhoods,1
+i,2
+well,1
+graphs,1
+algorithms,1
+In,1
+the,11
+physics,1
+order,1

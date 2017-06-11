@@ -1,125 +1,118 @@
-
-consider	1
-over	1
-random	1
-2008	1
-paper	1
-statistical	1
-its	1
-We	1
-RP	1
-knowledge	1
-parameters	7
-(	5
-optimization	1
-,	6
-to	4
-does	1
-undirected	1
-intractable	1
-showing	1
-repulsive	1
-not	1
-=	1
-investigate	1
-Indeed	1
-inherent	1
-mean	3
-For	1
-hard	1
-feasibility	1
-polynomial	2
-see	1
-are	1
-canonical	3
-proof	2
-boundary	1
-method	1
-minimal	1
-shows	1
-be	2
-others	1
-approximating	1
-by	4
-pair-wise	1
-polytope	2
-ellipsoid	1
-of	7
-feasible	1
-estimation	1
-monograph	1
-uniquely	1
-computational	1
-family	1
-marginal	1
-variables	1
-number	1
-learning	2
-Wainwright	1
-Markov	1
-has	2
-use	1
-from	3
-representing	1
-approximate	1
-been	1
-.	7
-reduction	2
-NP	1
-:	1
-was	1
-entails	1
-gives	1
-function	1
-graphical	3
-that	3
-validates	1
-but	1
-known	2
-general	1
-true	1
-main	1
-exponential	1
-this	2
-determined	1
-can	1
-learn	1
-believed	1
-Our	3
-problem	2
-property	1
-procedure	1
-result	2
-and	2
-required	1
-is	3
-hard-core	1
-an	3
-as	1
-in	4
-any	1
-binary	1
-goal	1
-no	2
-)	5
-field	1
-Jordan	1
-which	1
-parameter	1
-specifying	1
-unless	1
-models	1
-bounded	1
-such	1
-The	1
-model	3
-structure	1
-a	5
-task	1
-algorithm	1
-partition	1
-generic	1
-so	1
-principle	1
-time	2
-the	16
+consider,1
+over,1
+random,1
+paper,1
+statistical,1
+its,1
+We,1
+RP,1
+knowledge,1
+parameters,7
+representing,1
+to,4
+does,1
+undirected,1
+intractable,1
+showing,1
+repulsive,1
+not,1
+Indeed,1
+investigate,1
+inherent,1
+mean,3
+For,1
+core,1
+hard,2
+feasibility,1
+polynomial,2
+see,1
+are,1
+canonical,3
+optimization,1
+boundary,1
+method,1
+minimal,1
+shows,1
+be,2
+others,1
+approximating,1
+by,4
+polytope,2
+ellipsoid,1
+of,7
+feasible,1
+proof,2
+monograph,1
+uniquely,1
+computational,1
+family,1
+marginal,1
+variables,1
+number,1
+learning,2
+Wainwright,1
+Markov,1
+has,2
+use,1
+from,3
+approximate,1
+been,1
+reduction,2
+NP,1
+was,1
+entails,1
+gives,1
+function,1
+graphical,3
+that,3
+but,1
+task,1
+known,2
+general,1
+true,1
+main,1
+wise,1
+exponential,1
+this,2
+determined,1
+can,1
+learn,1
+believed,1
+Our,3
+problem,2
+property,1
+procedure,1
+result,2
+and,2
+required,1
+is,3
+validates,1
+an,3
+as,1
+in,4
+any,1
+binary,1
+goal,1
+no,2
+generic,1
+field,1
+Jordan,1
+which,1
+parameter,1
+specifying,1
+unless,1
+models,1
+bounded,1
+pair,1
+such,1
+The,1
+model,3
+structure,1
+a,5
+estimation,1
+algorithm,1
+partition,1
+so,1
+principle,1
+time,2
+the,16

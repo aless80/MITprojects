@@ -1,108 +1,103 @@
-
-Kendall-tau	1
-code	2
-show	2
-both	1
-distortion	3
-lossy	1
-including	1
-We	3
-$	2
-inversion-	1
-(	1
-equivalence	1
-,	9
-source	2
-under	2
-has	1
-ranking	1
-designs	2
-motivates	1
-sorting	1
-investigate	1
-popular	1
-entropy	1
-schemes	1
-encoding/decoding	1
-direct	1
-rate	2
-design	1
-are	2
-Mallows	1
-for	3
-space	2
-complexities	1
-uniform	2
-we	1
-measures	1
-nonuniform	1
-This	1
-problem	1
-Spearman	1
-rankings	1
-of	7
-allows	1
-practical	1
-\ell_1	1
-permutation	2
-rate-distortion	1
-or	1
-useful	1
-simple	1
-asymptotically	1
-coding	1
-Finally	1
-achievable	1
-respect	1
-establish	1
-compression	3
-to	1
-.	6
-much	1
-low	1
-distortions	1
-analyze	1
-a	2
-form	1
-that	3
-incur	1
-with	1
-than	1
-distance	3
-this	1
-characteristic	1
-maximum	1
-future	1
-Our	1
-distribution	1
-and	7
-certain	1
-is	1
-permutations	1
-minimum	1
-at	1
-in	3
-different	1
-recovery	1
-zero	1
-)	1
-storage	1
-which	1
-optimal	1
-ordinal	1
-'s	1
-footrule	1
-after	1
-counterparts	1
-applications	1
-bounded	1
-on	1
-data	2
-model	3
-Chebyshev	1
-lower	1
-explicit	1
-analysis	2
-efficient	1
-algorithms	1
-the	13
+code,2
+show,2
+both,1
+distortion,4
+lossy,1
+including,1
+uniform,2
+We,3
+ell,1
+rankings,1
+equivalence,1
+source,2
+under,2
+has,1
+ranking,1
+designs,2
+motivates,1
+inversion,1
+sorting,1
+investigate,1
+popular,1
+entropy,1
+schemes,1
+direct,1
+rate,3
+design,1
+are,2
+Mallows,1
+for,3
+space,2
+complexities,1
+decoding,1
+we,1
+measures,1
+nonuniform,1
+This,1
+problem,1
+Kendall,1
+Spearman,1
+of,7
+allows,1
+practical,1
+s,1
+permutation,2
+or,1
+useful,1
+encoding,1
+simple,1
+asymptotically,1
+coding,1
+Finally,1
+achievable,1
+respect,1
+establish,1
+compression,3
+to,1
+much,1
+low,1
+distortions,1
+analyze,1
+a,2
+form,1
+that,3
+incur,1
+with,1
+than,1
+distance,3
+this,1
+characteristic,1
+maximum,1
+future,1
+Our,1
+distribution,1
+and,7
+tau,1
+certain,1
+is,1
+permutations,1
+minimum,1
+at,1
+in,3
+different,1
+recovery,1
+zero,1
+efficient,1
+storage,1
+which,1
+optimal,1
+ordinal,1
+footrule,1
+after,1
+counterparts,1
+applications,1
+bounded,1
+on,1
+data,2
+the,13
+Chebyshev,1
+lower,1
+explicit,1
+analysis,2
+algorithms,1
+model,3

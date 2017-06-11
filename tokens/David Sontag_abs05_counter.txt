@@ -1,100 +1,96 @@
-
-proposed	3
-being	1
-obtain	1
-proposes	1
-non-negative	2
-latent	3
-(	2
-technique	1
-,	2
-to	3
-factor	1
-various	1
-mortality	1
-EHR	1
-Qualitative	1
-phenotypes	1
-results	1
-records	1
-using	1
-day	1
-one-to-one	1
-notes	1
-factorization	1
-across	1
-specific	1
-sparse	1
-fixed	1
-constraints	1
-predictive	1
-domain	1
-set	1
-anchored	1
-are	1
-learns	1
-matrix	1
-for	1
-factors	2
-health	1
-between	1
-new	1
-conditions	2
-method	1
-be	1
-This	1
-anchoring	1
-by	1
-EHRs	1
-identifiable	1
-of	5
-30	1
-suggests	1
-simultaneous	1
-estimation	1
-adapted	1
-chronic	1
-electronic	1
-readily	1
-ensures	1
-from	1
-.	5
-clinical	2
-basic	1
-assessment	1
-that	2
-comorbidities	2
-automated	1
-with	1
-target	1
-work	1
-empirical	1
-referred	1
-NMF	1
-while	1
-can	1
-and	3
-is	1
-as	1
-experts	1
-phenotyping	1
-any	1
-)	2
-mechanism	1
-also	1
-interpretable	2
-A	1
-multiple	1
-mapping	1
-The	2
-co-occurring	1
-data	1
-the	5
-a	3
-clinically	1
-algorithm	1
-medical	1
-healthcare	1
-model	1
-institutions	1
-augmented	1
+proposed,3
+being,1
+obtain,1
+proposes,1
+latent,3
+technique,1
+to,4
+factor,1
+various,1
+mortality,1
+non,2
+EHR,1
+Qualitative,1
+phenotypes,1
+results,1
+records,1
+using,1
+day,1
+occurring,1
+notes,1
+factorization,1
+across,1
+specific,1
+sparse,1
+fixed,1
+constraints,1
+predictive,1
+domain,1
+set,1
+anchored,1
+are,1
+learns,1
+matrix,1
+for,1
+factors,2
+health,1
+between,1
+new,1
+conditions,2
+method,1
+be,1
+This,1
+anchoring,1
+by,1
+EHRs,1
+identifiable,1
+of,5
+suggests,1
+simultaneous,1
+estimation,1
+adapted,1
+co,1
+one,2
+chronic,1
+electronic,1
+readily,1
+ensures,1
+from,1
+negative,2
+clinical,2
+basic,1
+assessment,1
+that,2
+comorbidities,2
+automated,1
+with,1
+target,1
+work,1
+empirical,1
+referred,1
+NMF,1
+while,1
+can,1
+and,3
+is,1
+as,1
+experts,1
+phenotyping,1
+any,1
+mechanism,1
+also,1
+interpretable,2
+A,1
+multiple,1
+mapping,1
+The,2
+data,1
+the,5
+a,3
+clinically,1
+algorithm,1
+medical,1
+healthcare,1
+model,1
+institutions,1
+augmented,1

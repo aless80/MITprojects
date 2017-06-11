@@ -1,105 +1,97 @@
-
-gates	1
-all	1
-interlaced	1
-We	1
-amplification	1
-$	8
-chosen	1
-(	2
-,	9
-to	4
-monotonically	1
-employed	1
-analogous	1
-signal-idler	1
-Nevertheless	1
-propose	1
-they	1
-crystal-length	1
-50	1
-NSGs	2
-upper	1
-employing	1
-sign	1
-are	1
-quantum	1
-our	3
-dynamics	2
-single-mode	1
-nonlinear	1
-'	1
-pump	1
-efficiencies	2
-limit	1
-limitations	1
-we	1
-full	1
-conventional	1
-completely	1
-on	2
-search	1
-of	3
--photon	1
-experimental	1
-appropriately	1
-When	1
-\le	1
-assertion	1
-decrease	1
-iterations	1
-pairs	1
-evaluations	1
-use	1
-down-converter	1
-.	4
-scheme	1
-a	1
-that	3
-photon	1
-precision	1
-optical	2
-down-converters	2
-with	1
-than	1
-those	1
-applied	1
-account	1
-this	1
-require	1
-up	1
-n	4
-crystal	2
-remain	1
-values	1
-amplitude	1
-proof	1
-and	1
-is	1
-an	2
-numerical	1
-converts	1
-in	1
-conversion	2
-Fock-state	1
-no	1
-)	2
-when	1
-same	1
-unity	1
-potential	1
-5	1
-which	2
-higher	1
-after	1
-reach	1
-1\le	1
-down-conversion	1
-optimized	1
-Grover	2
-The	1
-relies	1
-for	4
-lengths	1
-the	4
-parametric	2
+gates,1
+all,1
+interlaced,1
+We,1
+amplification,1
+chosen,1
+state,1
+to,4
+monotonically,1
+employed,1
+analogous,1
+Nevertheless,1
+propose,1
+they,1
+signal,1
+NSGs,2
+mode,1
+upper,1
+employing,1
+sign,1
+are,1
+quantum,1
+our,3
+dynamics,2
+nonlinear,1
+for,4
+pump,1
+efficiencies,2
+values,1
+limitations,1
+we,1
+full,1
+conventional,1
+completely,1
+Fock,1
+on,2
+search,1
+of,3
+le,2
+length,1
+experimental,1
+appropriately,1
+When,1
+assertion,1
+down,4
+decrease,1
+iterations,1
+pairs,1
+evaluations,1
+use,1
+scheme,1
+converters,2
+a,1
+that,3
+photon,2
+precision,1
+optical,2
+with,1
+than,1
+those,1
+applied,1
+account,1
+converter,1
+this,1
+require,1
+up,1
+n,4
+crystal,3
+remain,1
+limit,1
+amplitude,1
+proof,1
+and,1
+is,1
+an,2
+numerical,1
+single,1
+converts,1
+idler,1
+in,1
+conversion,3
+no,1
+lengths,1
+when,1
+same,1
+unity,1
+potential,1
+which,2
+higher,1
+after,1
+reach,1
+optimized,1
+Grover,2
+The,1
+relies,1
+the,4
+parametric,2

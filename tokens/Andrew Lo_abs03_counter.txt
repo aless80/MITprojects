@@ -1,111 +1,94 @@
-
-consider	1
-show	1
-previous	1
-impact	1
-whose	1
-We	4
-$	16
-(	3
-,	8
-to	7
-only	1
-technological	1
-ours	1
-resources	2
-...	1
-viewpoint	1
-propose	1
-possible	1
-introduce	1
-'	1
-framework	1
-not	1
-using	3
-bubbles	1
-bigger	1
-evolution	1
-race	1
-t	1
-where	1
-depends	1
-computer	1
-trading	1
-lead	1
-profit	2
-decision	1
-firms	1
-conditions	1
-be	1
-we	2
-initially	2
-Borrowing	1
-possibility	1
-efficiency	1
-S	2
-by	1
-on	1
-of	3
-study	2
-step	1
-times	1
-action	1
-{	1
-or	1
-first	1
-computational	1
-simple	1
-respect	1
-.	6
-market	6
-from	2
-arms	1
-strategy	2
-their	1
-2	1
-observations	1
-memory	3
-was	1
-theoretical	1
-define	1
-``	1
-buy	1
-that	2
-with	1
-than	1
-present	1
-science	1
-can	2
-were	1
-strategies	3
->	1
-and	2
-e.g.	1
-''	1
-as	2
-at	2
-if	1
-sell	1
-t-1	1
-no	1
-efficient	1
-suggest	1
-make	2
-1	1
-optimal	1
-effect	1
-quantitative	1
-such	1
-the	5
-a	8
-for	1
-rationalize	1
-m	5
-)	3
-As	1
-\emph	1
-time	2
-memory-	1
-model	1
-}	1
-t-m	1
+consider,1
+show,1
+previous,1
+impact,1
+whose,1
+We,4
+to,7
+only,1
+technological,1
+ours,1
+resources,2
+viewpoint,1
+propose,1
+possible,1
+introduce,1
+framework,1
+not,1
+using,3
+bubbles,1
+bigger,1
+evolution,1
+race,1
+t,3
+where,1
+emph,1
+depends,1
+computer,1
+trading,1
+lead,1
+profit,2
+decision,1
+firms,1
+conditions,1
+be,1
+we,2
+initially,2
+Borrowing,1
+possibility,1
+efficiency,1
+S,2
+by,1
+on,1
+g,1
+of,3
+study,2
+step,1
+times,1
+action,1
+or,1
+first,1
+computational,1
+simple,1
+respect,1
+market,6
+from,2
+arms,1
+strategy,2
+their,1
+observations,1
+memory,4
+was,1
+theoretical,1
+define,1
+buy,1
+that,2
+with,1
+than,1
+present,1
+science,1
+can,2
+were,1
+strategies,3
+and,2
+as,2
+at,2
+if,1
+sell,1
+no,1
+efficient,1
+suggest,1
+make,2
+optimal,1
+effect,1
+such,1
+the,5
+a,8
+e,1
+for,1
+rationalize,1
+m,6
+As,1
+time,2
+quantitative,1
+model,1

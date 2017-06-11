@@ -1,141 +1,141 @@
-
-all	1
-help	1
-show	1
-reductions	1
-results	1
-actions	1
-not	2
-paper	1
-networks	3
-We	1
-concerned	1
-,	9
-operational	1
-to	6
-add	1
-critical	1
-systems	1
-nodes	1
-local	1
-easier	1
-do	1
-greater	1
-downstream	1
-capacities	2
-practice	1
-traffic	1
-devising	1
-arriving	1
-course	1
-cascading	1
-systemic	1
-each	1
-Moreover	1
-node	3
-exceed	1
-often	1
-For	1
-reduce	1
-we	1
-are	3
-avert	1
-fails	1
-capacity	6
-network	3
-for	1
-its	3
-does	1
-routing	2
-resilient	1
-available	1
-be	1
-outgoing	3
-behavior	1
-This	1
-selective	1
-become	1
-by	1
-change	1
-of	10
-routed	2
-amount	1
-receives	1
-social	1
-or	2
-road	1
-origin	2
-locally	2
-requiring	1
-carry	1
-actually	1
-total	2
-resilience	2
-necessarily	1
-additional	1
-would	1
-there	1
-.	9
-reduction	1
-inflow	4
-irreversibly	1
-attractive	1
-that	3
-some	1
-immediate	1
-failure	1
-link	4
-external	2
-real-time	1
-injected	1
-with	2
-than	2
-case	1
-none	1
-this	2
-overloaded	2
-alter	1
-determined	1
-can	2
-policies	3
-more	1
-result	1
-and	1
-links	4
-defined	1
-certain	1
-is	8
-thus	1
-it	2
-an	4
-as	4
-minimum	1
-at	2
-in	8
-feasible	1
-any	1
-if	2
-monitoring	1
-built	1
-no	1
-when	2
-feature	1
-setting	1
-finite	1
-A	1
-used	1
-unless	1
-flows	1
-averting	1
-such	5
-The	2
-distance-to-failure	1
-a	1
-so-called	1
-physical	1
-flow	1
-e.g.	1
-without	1
-In	2
-failures	2
-the	15
+all,1
+help,1
+show,1
+reductions,1
+results,1
+actions,1
+not,2
+paper,1
+networks,3
+We,1
+concerned,1
+attractive,1
+operational,1
+to,7
+add,1
+critical,1
+systems,1
+nodes,1
+local,1
+easier,1
+real,1
+do,1
+greater,1
+downstream,1
+capacities,2
+practice,1
+traffic,1
+devising,1
+arriving,1
+course,1
+cascading,1
+systemic,1
+each,1
+Moreover,1
+node,3
+exceed,1
+often,1
+For,1
+reduce,1
+we,1
+are,3
+avert,1
+fails,1
+capacity,6
+network,3
+for,1
+its,3
+does,1
+routing,2
+resilient,1
+available,1
+be,1
+outgoing,3
+behavior,1
+This,1
+selective,1
+become,1
+by,1
+change,1
+g,1
+of,10
+routed,2
+amount,1
+receives,1
+social,1
+or,2
+road,1
+origin,2
+locally,2
+requiring,1
+carry,1
+actually,1
+total,2
+resilience,2
+necessarily,1
+additional,1
+would,1
+there,1
+reduction,1
+inflow,4
+irreversibly,1
+that,3
+some,1
+immediate,1
+failure,2
+link,4
+external,2
+injected,1
+e,1
+with,2
+than,2
+case,1
+distance,1
+none,1
+this,2
+overloaded,2
+alter,1
+determined,1
+can,2
+policies,3
+more,1
+called,1
+result,1
+and,1
+links,4
+defined,1
+certain,1
+is,8
+thus,1
+it,2
+an,4
+as,4
+minimum,1
+at,2
+in,8
+feasible,1
+any,1
+if,2
+monitoring,1
+built,1
+no,1
+when,2
+feature,1
+setting,1
+finite,1
+A,1
+used,1
+unless,1
+time,1
+flows,1
+averting,1
+such,5
+The,2
+a,1
+physical,1
+flow,1
+without,1
+so,1
+In,2
+failures,2
+the,15

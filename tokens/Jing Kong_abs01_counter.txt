@@ -1,96 +1,92 @@
-
-selection	1
-forbidden	1
-through	1
-causes	1
-We	1
-(	1
-,	8
-Here	1
-to	3
-only	1
-offers	1
-technological	1
-rules	1
-couple	1
-seemingly	1
-polarized	1
-not	1
-now	1
-reveal	1
-monolayer	2
-found	1
-accessible	1
-downshift	1
-upshift	1
-valleys	1
-findings	1
-energy	2
-blue-detuned	1
-quantum	1
-driving	2
-induces	1
-Coherent	1
-mediated	1
-new	1
-we	1
-degree	1
-of	4
-advantages	1
-enhance	1
-by	2
-dichalcogenides	1
-transition	1
-anomalous	1
-and	1
-helical	1
-Stark	1
-one	1
-electronic	2
-properties	1
-two	1
-.	4
-their	1
-valley	3
-type	1
-valleytronics	1
-that	2
-These	1
-neglected	1
-dressing	1
-but	3
-observe	1
-optical	4
-with	1
-made	1
-biexcitons	3
-TMDs	1
-critical	1
-freedom	1
-under	1
-control	2
-is	2
-intervalley	2
-an	2
-as	1
-at	2
-in	3
-hitherto	1
-circularly	1
-exciton	2
-also	1
-materials	1
-role	1
-which	1
-independent	1
-excitation	1
-opposite	1
-effect	1
-such	2
-a	1
-light	1
-metal	1
-)	1
-WS2	1
-the	9
-normally	1
+selection,1
+forbidden,1
+WS,1
+causes,1
+We,1
+Here,1
+to,3
+only,1
+offers,1
+technological,1
+rules,1
+couple,1
+seemingly,1
+polarized,1
+not,1
+now,1
+reveal,1
+monolayer,2
+found,1
+accessible,1
+downshift,1
+upshift,1
+valleys,1
+findings,1
+energy,2
+quantum,1
+blue,1
+degree,1
+driving,2
+induces,1
+Coherent,1
+mediated,1
+new,1
+we,1
+detuned,1
+of,4
+advantages,1
+enhance,1
+by,2
+dichalcogenides,1
+transition,1
+anomalous,1
+through,1
+and,1
+helical,1
+Stark,1
+one,1
+electronic,2
+two,1
+properties,1
+their,1
+valley,3
+type,1
+valleytronics,1
+that,2
+These,1
+neglected,1
+dressing,1
+but,3
+observe,1
+with,1
+made,1
+biexcitons,3
+TMDs,1
+critical,1
+freedom,1
+under,1
+control,2
+is,2
+intervalley,2
+an,2
+as,1
+at,2
+in,3
+hitherto,1
+circularly,1
+exciton,2
+also,1
+materials,1
+role,1
+which,1
+independent,1
+excitation,1
+opposite,1
+effect,1
+such,2
+a,1
+light,1
+metal,1
+optical,4
+the,9
+normally,1

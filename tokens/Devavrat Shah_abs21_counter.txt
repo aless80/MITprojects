@@ -1,134 +1,128 @@
-
-chain	1
-demand	1
-attempts	1
-paper	1
-JCSS	1
-its	1
-We	1
-proposed	1
-(	7
-G=	1
-distributed	2
-,	12
-to	7
-SODA	1
-nodes	3
-main	1
-local	1
-resources	2
-supported	1
-showing	1
-transmissions	2
-using	1
-imposed	1
-each	4
-Moreover	1
-interfering	1
-set	2
-result	1
-established	1
-network	5
-'	1
-access	4
-contrast	1
-be	4
-we	1
-terms	1
-G	1
-interfere	1
-efficiency	1
-become	1
-represented	1
-i.e	1
-arbitrate	1
-by	5
-on	1
-of	10
-practical	1
-where	1
-simultaneous	1
-graph	3
-among	1
-probability	1
-simple	2
-back-off	1
-randomized	1
-unsuccessful	1
-oblivious	1
-establish	1
-The	1
-STOC	1
-use	1
-positive	1
-long	1
-.	10
-utilizing	1
-:	1
-function	1
-Hastad-Leighton-Rogoff	1
-medium	4
-corresponding	2
-complete	1
-that	6
-wireless	5
-properly	1
-V	1
-with	3
-Consider	1
-'96	2
-this	1
-j	3
-n	1
-can	1
-`polynomial	1
-and	4
-is	9
-sense	1
-it	2
-an	2
-To	1
-as	4
-at	2
-in	3
-any	1
-'99	1
-information	1
-graphs	1
-)	7
-recurrent	1
-utilize	1
-mechanism	1
-instance	1
-Goldberg-MacKenzie	1
-other	1
-optimal	2
-node	1
-independent	1
-E	1
-models	1
-In	1
-'87	1
-non-interfering	1
-Hence	1
-such	2
-Markov	1
-SICOMP	1
-totally	2
-structure	1
-efficiently	1
-a	6
-so-called	1
-for	1
-algorithm	6
-i	3
-required	3
-well	1
-It	1
-provide	1
-As	1
-edge	1
-time	2
-the	13
-bipartite	1
-fact	1
+chain,1
+demand,1
+attempts,1
+paper,1
+JCSS,1
+its,1
+We,1
+proposed,1
+graph,3
+distributed,2
+to,7
+SODA,1
+nodes,3
+main,1
+local,1
+resources,2
+non,1
+supported,1
+showing,1
+transmissions,2
+using,1
+imposed,1
+each,4
+Moreover,1
+interfering,2
+set,2
+back,1
+Leighton,1
+result,1
+established,1
+network,5
+for,1
+access,4
+Goldberg,1
+contrast,1
+be,4
+we,1
+terms,1
+G,2
+interfere,1
+efficiency,1
+MacKenzie,1
+Rogoff,1
+become,1
+represented,1
+arbitrate,1
+by,5
+on,1
+of,10
+practical,1
+where,1
+simultaneous,1
+among,1
+probability,1
+simple,2
+randomized,1
+unsuccessful,1
+polynomial,1
+oblivious,1
+establish,1
+The,1
+STOC,1
+use,1
+positive,1
+long,1
+Hastad,1
+utilizing,1
+function,1
+medium,4
+corresponding,2
+complete,1
+that,6
+wireless,5
+properly,1
+V,1
+off,1
+with,3
+Consider,1
+this,1
+j,3
+n,1
+can,1
+called,1
+and,4
+is,9
+sense,1
+it,2
+an,2
+To,1
+as,4
+at,2
+in,3
+any,1
+information,1
+provide,1
+recurrent,1
+utilize,1
+mechanism,1
+instance,1
+other,1
+optimal,2
+node,1
+independent,1
+E,1
+models,1
+In,1
+Hence,1
+such,2
+Markov,1
+SICOMP,1
+totally,2
+structure,1
+efficiently,1
+a,6
+e,1
+algorithm,6
+i,4
+required,3
+well,1
+It,1
+graphs,1
+As,1
+edge,1
+so,1
+time,2
+the,13
+bipartite,1
+fact,1

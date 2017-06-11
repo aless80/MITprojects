@@ -1,105 +1,101 @@
-
-operations	1
-random	2
-injects	1
-paper	2
-entropy	1
-statistical	1
-inference	2
-its	1
-sampled	1
-based	1
-(	1
-,	6
-presents	1
-to	2
-samples	3
-input	1
-maximal	1
-Unfortunately	1
-expectation	2
-number	1
-framework	1
-using	1
-MAP	2
-randomness	1
-decays	1
-perturb-max	6
-deviation	1
-prediction	1
-approximation	1
-cost	1
-result	2
-Gibbs	2
-measure	1
-by	2
-for	3
-However	1
-a-posteriori	1
-new	1
-approach	1
-shows	2
-be	2
-This	3
-generate	2
-extreme	1
-on	2
-of	8
-exponentially	1
-computational	1
-followed	1
-variables	1
-bound	1
-sampling	1
-dimensional	1
-perturbing	1
-statistics	1
-from	4
-.	8
-their	1
-perturbations	5
-low	2
-expected	2
-Furthermore	1
-function	1
-generating	1
-that	4
-with	1
-applying	1
-maximum	1
-value	3
-optimization	2
-values	1
-can	2
-many	1
-distribution	2
-called	1
-are	1
-high-dimensional	3
-classic	1
-is	3
-randomly	1
-unbiased	2
-as	2
-in	1
-concentration	1
-sequentially	1
-predictors	1
-)	1
-when	1
-potential	1
-A	2
-used	1
-models	1
-prohibitive	1
-allowing	1
-such	1
-a	2
-natural	1
-effective	1
-average	1
-efficient	1
-so	1
-asserts	1
-the	14
-dimension	1
+operations,1
+random,2
+injects,1
+paper,2
+entropy,1
+statistical,1
+followed,1
+its,1
+sampled,1
+based,1
+presents,1
+to,2
+samples,3
+input,1
+maximal,1
+Unfortunately,1
+expectation,2
+number,1
+framework,1
+using,1
+MAP,2
+randomness,1
+decays,1
+deviation,1
+prediction,1
+approximation,1
+cost,1
+result,2
+Gibbs,2
+measure,1
+for,3
+However,1
+posteriori,1
+new,1
+approach,1
+shows,2
+be,2
+This,3
+generate,2
+extreme,1
+on,2
+of,8
+exponentially,1
+computational,1
+inference,2
+perturb,6
+variables,1
+bound,1
+sampling,1
+dimensional,4
+perturbing,1
+statistics,1
+from,4
+by,2
+their,1
+perturbations,5
+low,2
+expected,2
+Furthermore,1
+function,1
+generating,1
+that,4
+with,1
+high,3
+applying,1
+maximum,1
+value,3
+optimization,2
+values,1
+can,2
+many,1
+distribution,2
+called,1
+are,1
+classic,1
+is,3
+randomly,1
+unbiased,2
+as,2
+in,1
+concentration,1
+sequentially,1
+predictors,1
+efficient,1
+when,1
+potential,1
+A,2
+used,1
+models,1
+max,6
+prohibitive,1
+allowing,1
+such,1
+a,3
+natural,1
+effective,1
+average,1
+so,1
+asserts,1
+the,14
+dimension,1

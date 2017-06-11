@@ -1,130 +1,124 @@
-
-incorporate	1
-chain	2
-show	2
-random	4
-results	1
-Glauber	2
-paper	1
-We	1
-slow	1
-$	4
-(	1
-,	12
-to	1
-local	1
-Exponential	1
-practice	1
-possible	1
-mixing	2
-using	1
-possess	1
-Sampling	1
-this	1
-either	1
-small	1
-Carlo	1
-testing	1
-used	1
-are	2
-rigorous	1
-dynamics	2
-Metropolis-Hasting	1
-out	1
-Erd\H	1
-sociology	1
-network	1
-for	4
-crucial	1
-extensively	1
-contrast	1
-does	1
-\log	1
-;	2
-seeks	1
-we	3
-This	1
-understanding	1
-desired	1
-not	2
-hypothesis	1
-Monte	1
-carried	1
-of	8
-larger	1
-o	1
-where	2
-exponentially	1
-graph	3
-{	1
-estimation	1
-or	1
-features	1
-asymptotically	1
-number	2
-sampling	2
-subgraphs	1
-moreover	1
-establish	1
-criticisms	1
-from	2
-temperature	4
-basis	1
-.	8
-low	2
-reciprocity	2
-basic	1
-expected	1
-more	1
-that	4
-particular	1
-with	1
-than	1
-made	1
-exponential	1
-these	1
-n	2
-Our	1
-property	1
-procedure	1
-regimes	1
-and	4
-give	1
-is	8
-thus	1
-n^2	1
-\Theta	1
-high	3
-characterize	1
-itself	1
-in	7
-distributions	1
-any	2
-triangles	1
-regime	3
-different	1
-MCMC	1
-)	1
-generally	1
-other	1
-finite	1
-parameter	1
-independent	1
-literature	1
-models	1
-appreciably	1
-In	3
-collection	1
-edges	1
-such	1
-Markov	2
-the	19
-a	1
-s-R\'enyi	1
-}	1
-vertices	1
-graphs	2
-time	1
-model	4
-typically	1
-notion	1
+incorporate,1
+chain,2
+show,2
+random,4
+results,1
+Glauber,2
+paper,1
+Metropolis,1
+slow,1
+graph,3
+to,1
+local,1
+Hasting,1
+Exponential,1
+H,1
+practice,1
+possible,1
+Erd,1
+mixing,2
+using,1
+possess,1
+Sampling,1
+this,1
+either,1
+small,1
+Carlo,1
+testing,1
+used,1
+are,2
+rigorous,1
+Theta,1
+dynamics,2
+out,1
+sociology,1
+network,1
+for,4
+crucial,1
+extensively,1
+contrast,1
+does,1
+seeks,1
+we,3
+This,1
+We,1
+understanding,1
+desired,1
+hypothesis,1
+temperature,4
+Monte,1
+carried,1
+of,8
+larger,1
+o,1
+where,2
+s,1
+exponentially,1
+estimation,1
+or,1
+features,1
+asymptotically,1
+number,2
+sampling,2
+subgraphs,1
+moreover,1
+establish,1
+enyi,1
+criticisms,1
+from,2
+log,1
+basis,1
+low,2
+reciprocity,2
+basic,1
+expected,1
+more,1
+that,4
+R,1
+particular,1
+with,1
+than,1
+made,1
+exponential,1
+these,1
+n,3
+Our,1
+property,1
+procedure,1
+regimes,1
+and,4
+give,1
+is,8
+thus,1
+high,3
+characterize,1
+itself,1
+in,7
+distributions,1
+any,2
+triangles,1
+regime,3
+different,1
+MCMC,1
+not,2
+generally,1
+other,1
+finite,1
+parameter,1
+independent,1
+literature,1
+models,1
+appreciably,1
+In,3
+collection,1
+edges,1
+such,1
+Markov,2
+the,19
+a,1
+vertices,1
+graphs,2
+time,1
+model,4
+typically,1
+notion,1

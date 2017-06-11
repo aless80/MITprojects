@@ -1,87 +1,84 @@
-
-selection	1
-proposed	1
-show	2
-over	2
-global	1
-underlying	1
-alignment	1
-discourse-level	2
-We	4
-latent	1
-,	2
-to	3
-propose	1
-using	1
-method	1
-this	1
-experiments	1
-yields	1
-methods	1
-biased	1
-related	1
-across	1
-are	1
-our	2
-incorporating	1
-Mallows	1
-for	1
-space	1
-tasks	1
-leverages	1
-be	2
-segmentation	1
-theory	1
-complementary	1
-represented	1
-both	1
-of	3
-permutation-based	1
-assignments	1
-previously	1
-improvements	1
-learning	1
-apply	1
-orderings	1
-from	1
-ordering	2
-three	1
-.	6
-constrain	1
-way	1
-:	1
-reflects	1
-that	3
-cross-document	1
-present	1
-insights	1
-novel	1
-these	1
-can	1
-Our	2
-distribution	1
-similar	1
-called	1
-Generalized	1
-and	2
-topics	1
-permutations	1
-topic	3
-effectively	1
-substantial	1
-in	4
-information	1
-documents	1
-discourse	1
-which	1
-Bayesian	1
-performance	1
-document	3
-collection	1
-applications	1
-Model	1
-model	4
-structure	1
-a	5
-organization	1
-the	2
+and,2
+the,2
+selection,1
+methods,1
+proposed,1
+show,2
+previously,1
+topics,1
+global,1
+segmentation,1
+related,1
+cross,1
+topic,3
+effectively,1
+Mallows,1
+underlying,1
+are,1
+learning,1
+in,4
+improvements,1
+apply,1
+orderings,1
+permutations,1
+alignment,1
+based,1
+information,1
+We,4
+documents,1
+from,1
+for,1
+space,1
+ordering,2
+complementary,1
+three,1
+incorporating,1
+to,3
+discourse,3
+present,1
+way,1
+which,1
+Bayesian,1
+performance,1
+document,4
+leverages,1
+reflects,1
+be,2
+biased,1
+over,2
+theory,1
+tasks,1
+that,3
+our,2
+propose,1
+method,1
+distribution,1
+collection,1
+applications,1
+these,1
+organization,1
+represented,1
+latent,1
+Model,1
+substantial,1
+model,4
+structure,1
+insights,1
+a,5
+both,1
+novel,1
+using,1
+level,2
+this,1
+of,3
+across,1
+assignments,1
+experiments,1
+yields,1
+can,1
+permutation,1
+Our,2
+constrain,1
+similar,1
+called,1
+Generalized,1

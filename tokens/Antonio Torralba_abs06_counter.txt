@@ -1,99 +1,96 @@
-
-show	1
-results	1
-actions	1
-paper	1
-aspect	1
-relationships	1
-We	1
-density	1
-saliency	1
-situations	1
-produces	1
-,	6
-better	1
-to	2
-only	1
-location	1
-Although	1
-baselines	1
-views	2
-evaluate	1
-dataset	1
-solves	1
-follows	1
-signal	1
-VideoGaze	1
-collect	1
-end-to-end	1
-where	1
-view	3
-people	2
-subproblems	1
-estimates	1
-plausible	1
-second	2
-our	4
-sub-problems	1
-learns	1
-for	4
-looking	1
-between	1
-new	1
-geometric	1
-approach	3
-across	1
-we	3
-predicting	1
-pose	1
-understanding	1
-key	1
-standard	1
-by	1
-both	1
-of	3
-supervised	1
-automatically	1
-this	1
-Given	1
-scene	2
-one	1
-throughout	1
-use	1
-.	7
-their	1
-gaze	6
-:	1
-that	3
-benchmark	1
-train	1
-particular	1
-Following	1
-with	2
-than	1
-present	1
-these	1
-inside	1
-following	2
-and	5
-videos	1
-is	4
-it	1
-an	3
-as	1
-in	2
-everyday	1
-suggest	1
-Experiments	1
-which	1
-A	1
-models	1
-important	1
-the	5
-a	7
-supervision	1
-person	2
-without	1
-solve	1
-In	1
-model	4
+show,1
+results,1
+actions,1
+paper,1
+aspect,1
+relationships,1
+We,1
+density,1
+saliency,1
+situations,1
+produces,1
+better,1
+to,3
+only,1
+location,1
+Although,1
+baselines,1
+views,2
+evaluate,1
+dataset,1
+solves,1
+follows,1
+signal,1
+VideoGaze,1
+collect,1
+where,1
+view,3
+people,2
+subproblems,1
+estimates,1
+plausible,1
+second,2
+our,4
+learns,1
+sub,1
+for,4
+looking,1
+between,1
+new,1
+geometric,1
+approach,3
+across,1
+we,3
+predicting,1
+pose,1
+understanding,1
+key,1
+standard,1
+by,1
+both,1
+of,3
+supervised,1
+automatically,1
+this,1
+Given,1
+scene,2
+one,1
+throughout,1
+use,1
+their,1
+gaze,6
+that,3
+benchmark,1
+train,1
+particular,1
+Following,1
+with,2
+than,1
+present,1
+these,1
+inside,1
+following,2
+and,5
+videos,1
+is,4
+it,1
+an,3
+as,1
+in,2
+everyday,1
+end,2
+suggest,1
+without,1
+which,1
+A,1
+models,1
+problems,1
+important,1
+the,5
+a,7
+supervision,1
+person,2
+Experiments,1
+solve,1
+In,1
+model,4

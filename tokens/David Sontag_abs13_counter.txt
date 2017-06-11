@@ -1,87 +1,85 @@
-
-show	1
-moments	2
-over	1
-questions	1
-its	2
-We	3
-latent	4
-technique	1
-,	3
-to	2
-only	1
-factor	1
-has	1
-emergency	1
-evaluate	1
-possible	1
-introduce	1
-every	1
-using	1
-discrete	1
-arbitrary	1
-prediction	1
-observed	1
-our	1
-for	2
-consistently	1
-new	1
-Overflow	1
-we	1
-parent	1
-real-world	1
-by	1
-on	2
-polytope	1
-of	2
-or	1
-Given	1
-tasks	1
-marginal	1
-variables	2
-variable	3
-learning	2
-semi-supervised	1
-use	1
-from	1
-two	1
-.	5
-assumes	1
-website	1
-optimizing	1
-complete	1
-that	3
-method-of-moment	1
-it	1
-with	2
-present	1
-these	1
-robustness	1
-learn	1
-Our	1
-anchor	1
-and	2
-is	1
-``	1
-an	3
-''	1
-as	1
-tag	1
-in	1
-recover	1
-anchors	1
-relaxations	1
-also	1
-department	1
-Stack	1
-models	2
-improving	1
-such	1
-structure	1
-a	2
-algorithm	3
-medical	1
-analysis	1
-algorithms	1
-diagnosis	1
-the	5
+and,2
+website,1
+Given,1
+learn,1
+questions,1
+medical,1
+show,1
+moments,2
+marginal,1
+variables,2
+in,1
+optimizing,1
+it,1
+an,3
+observed,1
+improving,1
+as,1
+tasks,1
+learning,2
+using,1
+our,1
+recover,1
+its,2
+complete,1
+We,3
+or,1
+latent,4
+emergency,1
+for,2
+consistently,1
+technique,1
+algorithms,1
+relaxations,1
+to,2
+only,1
+present,1
+factor,1
+department,1
+new,1
+Overflow,1
+has,1
+Stack,1
+is,1
+assumes,1
+real,1
+we,1
+over,1
+anchors,1
+parent,1
+that,3
+models,2
+evaluate,1
+use,1
+possible,1
+introduce,1
+prediction,1
+moment,1
+from,1
+every,1
+two,1
+variable,3
+such,1
+with,2
+by,1
+structure,1
+a,2
+on,2
+polytope,1
+semi,1
+algorithm,3
+world,1
+these,1
+of,3
+also,1
+robustness,1
+analysis,1
+method,1
+discrete,1
+tag,1
+supervised,1
+diagnosis,1
+arbitrary,1
+Our,1
+the,5
+anchor,1

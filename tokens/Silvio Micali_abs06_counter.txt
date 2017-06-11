@@ -1,34 +1,30 @@
-
-and	1
-own	1
-regret	1
-relate	1
-maximization	1
-up	1
-player	1
-namely	1
-.	1
-utility	1
-We	1
-two	1
-strategy	1
-to	1
-models	1
-:	1
-ends	1
-his	1
-minimization	1
-that	1
-very	1
-after	1
-different	1
-rationality	1
-with	1
-,	1
-a	1
-of	1
-according	1
-refining	1
-sets	1
-strategies	1
-the	1
+and,1
+own,1
+regret,1
+relate,1
+maximization,1
+up,1
+player,1
+namely,1
+utility,1
+We,1
+two,1
+strategy,1
+to,1
+models,1
+ends,1
+his,1
+minimization,1
+that,1
+very,1
+after,1
+different,1
+rationality,1
+with,1
+a,1
+of,1
+according,1
+refining,1
+sets,1
+strategies,1
+the,1

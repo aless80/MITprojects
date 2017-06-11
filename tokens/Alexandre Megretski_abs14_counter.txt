@@ -1,48 +1,43 @@
-
-all	1
-identification	1
-family	1
-do	1
-results	1
-single	1
-paper	1
-identify	1
-are	4
-in	1
-bilinear	1
-what	1
-asks	1
-generic	1
-(	1
-suffice	1
-,	2
-.	2
-signals	1
-to	1
-input/output	1
-systems	1
-input	1
-main	1
-inputs	1
-amplitude	1
-that	1
-This	1
-sufficient	2
-but	2
-completely	1
-varying	1
-not	1
-The	1
-nor	1
-a	1
-for	1
-of	4
-step	1
-)	1
-classes	1
-behavior	1
-widths	1
-pulses	2
-the	2
-fixed	1
-order	1
+all,1
+family,1
+do,1
+results,1
+single,1
+paper,1
+identify,1
+are,4
+in,1
+bilinear,1
+what,1
+asks,1
+generic,1
+suffice,1
+pulses,2
+signals,1
+to,1
+identification,1
+systems,1
+input,2
+main,1
+inputs,1
+amplitude,1
+that,1
+This,1
+sufficient,2
+but,2
+completely,1
+varying,1
+not,1
+The,1
+nor,1
+a,1
+for,1
+of,4
+step,1
+classes,1
+behavior,1
+widths,1
+output,1
+the,2
+fixed,1
+order,1

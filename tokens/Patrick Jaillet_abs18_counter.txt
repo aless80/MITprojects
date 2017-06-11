@@ -1,124 +1,113 @@
-
-all	2
-consider	1
-show	2
-random	3
-results	1
-front	1
-Under	1
-its	1
-We	3
-ratio	5
-$	14
-(	5
-,	13
-to	6
-finally	1
-occurring	1
-match	1
-ranking	2
-arriving	1
-immediately	1
-matched	2
-evolution	1
-differential	1
-p	4
-each	3
-where	1
-side	3
-maximum	1
-vertex-weighted	1
-are	3
-our	1
-proofs	1
-matching	5
-even	1
-shown	1
-for	2
-unmatched	1
-;	1
-be	1
-we	1
-G	2
-equivalent	1
-conventional	1
-greedy	3
-based	1
-equations	1
-by	2
-on	5
-of	9
-study	1
-0.837	2
-neighbor	3
-graph	2
-{	5
-or	1
-already	1
-probability	1
-simple	1
-asymptotically	1
-one	1
-analyzing	1
-least	3
-oblivious	1
-size	2
-given	2
-been	1
-.	8
-process	1
-expected	2
-that	3
-known	1
-Next	1
-with	2
-must	1
-has	3
-up	1
-n	8
-while	1
-Our	1
-arrive	1
-dropped	1
-and	2
-defined	1
-is	3
-describe	1
-it	1
-as	1
-at	3
-have	1
-if	1
-sequentially	1
-functions	2
-\textsc	5
-)	5
-when	1
-algorithms	1
-other	1
-which	2
-online	2
-performance	7
-begin	1
-arrives	1
-assigns	1
-1-1/e	1
-vertex	3
-monotonic	2
-tries	1
-edges	2
-The	1
-revealed	1
-the	19
-a	6
-independently	1
-so	1
-algorithm	5
-average	1
-well	1
-vertices	3
-p=p	1
-In	1
-model	2
-}	5
-bipartite	2
+all,2
+consider,1
+show,2
+random,3
+results,1
+front,1
+immediately,1
+its,1
+We,3
+ratio,5
+graph,2
+to,6
+finally,1
+occurring,1
+match,1
+ranking,2
+arriving,1
+textsc,5
+matched,2
+evolution,1
+differential,1
+p,6
+each,3
+where,1
+side,3
+weighted,1
+Under,1
+maximum,1
+are,3
+our,1
+proofs,1
+matching,5
+even,1
+shown,1
+for,2
+unmatched,1
+be,1
+we,1
+G,2
+equivalent,1
+conventional,1
+greedy,3
+based,1
+equations,1
+by,2
+on,5
+of,9
+study,1
+so,1
+neighbor,3
+or,1
+already,1
+probability,1
+simple,1
+asymptotically,1
+one,1
+analyzing,1
+least,3
+oblivious,1
+size,2
+given,2
+been,1
+process,1
+expected,2
+that,3
+known,1
+Next,1
+with,2
+must,1
+has,3
+up,1
+n,8
+while,1
+Our,1
+arrive,1
+dropped,1
+and,2
+defined,1
+is,3
+describe,1
+it,1
+as,1
+at,3
+have,1
+if,1
+sequentially,1
+functions,2
+when,1
+other,1
+which,2
+online,2
+performance,7
+begin,1
+arrives,1
+assigns,1
+vertex,4
+monotonic,2
+tries,1
+edges,2
+The,1
+revealed,1
+the,19
+a,6
+independently,1
+e,1
+algorithm,5
+average,1
+well,1
+vertices,3
+algorithms,1
+In,1
+model,2
+bipartite,2

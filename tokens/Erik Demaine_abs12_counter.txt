@@ -1,72 +1,71 @@
-
-and	3
-bounds	1
-certain	1
-is	1
-There	1
-results	1
-existing	1
-engineering	1
-are	1
-in	2
-.	5
-physical	1
-avoiding	1
-surfaces	1
-We	3
-for	5
-provide	2
-pattern	1
-flat-foldable	1
-folded	2
-transform	1
-thickness	3
-to	2
-state	1
-models	1
-interest	1
-Modeling	1
-many	1
-conditions	1
-into	1
-maximum	1
-nonzero	1
-numerical	1
-broadly	1
-that	2
-thickened	1
-propose	1
-material	1
-local	1
-given	1
-but	1
-applications	1
-approaches	1
-produce	2
-systematic	1
-new	2
-intersection	1
-with	3
-,	1
-structure	1
-a	4
-on	1
-account	1
-folding	2
-input	2
-algorithm	3
-these	1
-of	1
-applicable	1
-parameterized	1
-crease	4
-practical	1
-patterns	3
-simulations	1
-can	1
-mechanical	1
-facet-separated	1
-demonstrate	1
-the	3
-similar	1
-self	1
+and,3
+flat,1
+certain,1
+is,1
+There,1
+results,1
+existing,1
+engineering,1
+are,1
+in,2
+physical,1
+avoiding,1
+surfaces,1
+foldable,1
+We,3
+for,5
+provide,2
+pattern,1
+self,1
+folded,2
+transform,1
+thickness,3
+to,2
+state,1
+models,1
+interest,1
+Modeling,1
+many,1
+conditions,1
+into,1
+maximum,1
+can,1
+separated,1
+nonzero,1
+numerical,1
+broadly,1
+that,2
+thickened,1
+propose,1
+material,1
+local,1
+facet,1
+but,1
+applications,1
+approaches,1
+produce,2
+systematic,1
+new,2
+intersection,1
+with,3
+structure,1
+a,4
+on,1
+account,1
+folding,2
+input,2
+algorithm,3
+these,1
+of,1
+applicable,1
+given,1
+crease,4
+practical,1
+patterns,3
+simulations,1
+bounds,1
+mechanical,1
+demonstrate,1
+the,3
+similar,1
+parameterized,1

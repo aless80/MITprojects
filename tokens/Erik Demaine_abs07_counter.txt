@@ -1,139 +1,133 @@
-
-operations	1
-show	2
-global	1
-shape	4
-computation	1
-glue	3
-its	1
-before	1
-We	2
-enzyme	1
-also	2
-(	7
-produces	1
-,	8
-to	4
-only	1
-parts	2
-attractive	2
-has	1
-identical	1
-do	1
-2-Handed	1
-hole-free	1
-replication	2
-repulsive	2
-negative	1
-using	2
-detach	1
-easily	1
-polyomino	1
-glues	3
-''	2
-steps	1
-either	1
-where	2
-subset	1
-set	1
-destroys	1
-individual	1
-design	1
-are	1
-specified	1
-More	1
-for	2
-smallest	1
-between	1
-;	1
-previous	1
-constructions	1
-be	1
-we	1
-negative/repulsive	1
-objects	3
-Assembly	1
-by	1
-Model	1
-both	2
-of	8
-studied	1
-Shape	1
-edges	1
-plus	1
-positive	1
-bounded	1
-or	1
-well-studied	1
-garbage	1
-simple	1
-unbounded	1
-powerful	1
-number	3
-system	1
-2HAM	1
-precisely	1
-replicator	1
-size	1
-given	1
-necessarily	1
-from	1
-temperature	1
-unknown	1
-interact	1
-there	1
-copies	1
-.	6
-attach	1
-is	3
-more	1
-that	7
-construction	2
-hold	1
-with	2
-distance	1
-this	1
-require	2
-below	1
-can	2
-Our	1
-other	1
-and	5
-constant	4
-universal	2
-surface	1
-an	2
-nonincident	1
-as	2
-in	2
-any	1
-constructed	1
-strength	1
-)	7
-when	1
-feature	1
-how	1
-constant-size	3
-forces	1
-tile	3
-self-assembly	4
-strengths	1
-added	1
-fuel-efficient	1
-problems	1
-preprocessing	1
-uses	1
-allowing	1
-such	2
-The	1
-on	1
-the	7
-types	3
-a	8
-natural	1
-required	1
-together	1
-so	1
-model	3
-first	1
-requires	1
+operations,1
+show,2
+global,1
+shape,4
+computation,1
+glue,3
+its,1
+before,1
+We,2
+enzyme,1
+also,2
+produces,1
+to,4
+only,1
+other,1
+attractive,2
+fuel,1
+has,1
+identical,1
+do,1
+HAM,1
+replication,2
+repulsive,3
+negative,2
+using,2
+detach,1
+easily,1
+polyomino,1
+glues,3
+steps,1
+either,1
+where,2
+subset,1
+set,1
+destroys,1
+individual,1
+design,1
+are,1
+specified,1
+More,1
+for,2
+smallest,1
+between,1
+previous,1
+constructions,1
+be,1
+we,1
+assembly,4
+free,1
+objects,3
+Assembly,1
+by,1
+Model,1
+both,2
+of,8
+studied,2
+Shape,1
+edges,1
+plus,1
+positive,1
+bounded,1
+or,1
+first,1
+garbage,1
+simple,1
+unbounded,1
+powerful,1
+number,3
+Handed,1
+system,1
+precisely,1
+replicator,1
+size,4
+given,1
+necessarily,1
+from,1
+temperature,1
+unknown,1
+interact,1
+there,1
+copies,1
+attach,1
+is,3
+more,1
+that,7
+construction,2
+hole,1
+hold,1
+with,2
+distance,1
+this,1
+require,2
+below,1
+can,2
+Our,1
+and,5
+constant,7
+universal,2
+surface,1
+an,2
+nonincident,1
+as,2
+in,2
+any,1
+constructed,1
+strength,1
+efficient,1
+self,4
+when,1
+feature,1
+how,1
+parts,2
+forces,1
+tile,3
+strengths,1
+added,1
+problems,1
+preprocessing,1
+uses,1
+allowing,1
+such,2
+The,1
+on,1
+the,7
+types,3
+a,8
+natural,1
+required,1
+well,1
+together,1
+so,1
+model,3
+requires,1

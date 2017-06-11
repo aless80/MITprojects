@@ -1,136 +1,133 @@
-
-concept	1
-consider	1
-RNA-sequencing	1
-both	2
-vary	1
-focus	1
-nonparametric	1
-course	1
-underlying	2
-identify	1
-statistical	1
-follow	1
-univariate	1
-We	2
-,	5
-exhibits	1
-to	5
-single-cell	2
-under	1
-over	2
-alternating	1
-motivated	1
-desirable	1
-rise	1
-introduce	1
-framework	1
-While	1
-effects	3
-evolution	1
-imposed	1
-progression	2
-numerous	1
-across	1
-this	1
-experiments	1
-biological	1
-Implemented	1
-where	1
-classical	1
-sequence	1
-trend	2
-consistent	1
-full	1
-are	1
-our	2
-linear	1
-sequential-progression	1
-for	1
-brief	1
-covariates	1
-cell	1
-method	1
-sequential	1
-between	2
-new	1
-increasing	1
-approach	1
-leverages	1
-we	1
-noise	1
-responses	1
-This	2
-genes	1
-distinguish	1
-estimate	1
-by	2
-on	1
-via	1
-of	7
-gene	1
-changes	1
-or	1
-relevant	1
-probability	1
-due	1
-Wasserstein	1
-tools	1
-analyses	1
-order-agnostic	1
-ordering	1
-two	1
-fast	1
-.	7
-their	1
-assumption	1
-structure	1
-formalized	1
-reflects	1
-define	1
-``	1
-relationship	1
-populations	1
-differences	1
-particular	1
-present	1
-these	2
-work	1
-scalar-response	1
-aim	1
-covariate	1
-projections	1
-and	4
-process	1
-is	4
-simulations	1
-it	1
-an	2
-''	1
-To	1
-as	4
-diverse	1
-in	4
-distributions	6
-regression	2
-metric	1
-that	3
-setting	1
-which	2
-strengths	1
-ordinal	1
-confounding	1
-variation	1
-levels	1
-data	1
-model	2
-types	1
-recent	1
-a	8
-short	1
-algorithm	1
-expression	1
-well	1
-persistent	1
-time	1
-the	9
+concept,1
+consider,1
+over,2
+both,2
+vary,1
+focus,1
+nonparametric,1
+course,1
+scalar,1
+underlying,2
+identify,1
+statistical,1
+follow,1
+univariate,1
+We,2
+exhibits,1
+to,5
+under,1
+alternating,1
+motivated,1
+desirable,1
+rise,1
+introduce,1
+framework,1
+While,1
+effects,3
+sequencing,1
+evolution,1
+imposed,1
+progression,3
+numerous,1
+across,1
+this,1
+experiments,1
+biological,1
+Implemented,1
+where,1
+classical,1
+sequence,1
+trend,2
+consistent,1
+full,1
+are,1
+our,2
+linear,1
+for,1
+brief,1
+covariates,1
+cell,3
+method,1
+sequential,2
+between,2
+new,1
+increasing,1
+approach,1
+leverages,1
+model,2
+we,1
+noise,1
+responses,1
+This,2
+genes,1
+distinguish,1
+estimate,1
+by,2
+on,1
+via,1
+of,7
+RNA,1
+gene,1
+changes,1
+or,1
+relevant,1
+probability,1
+due,1
+Wasserstein,1
+tools,1
+analyses,1
+ordering,1
+two,1
+fast,1
+their,1
+assumption,1
+structure,1
+formalized,1
+reflects,1
+define,1
+relationship,1
+populations,1
+differences,1
+particular,1
+present,1
+these,2
+work,1
+as,4
+aim,1
+covariate,1
+projections,1
+and,4
+process,1
+is,4
+simulations,1
+agnostic,1
+it,1
+an,2
+To,1
+single,2
+diverse,1
+in,4
+distributions,6
+regression,2
+metric,1
+that,3
+setting,1
+which,2
+strengths,1
+ordinal,1
+confounding,1
+variation,1
+levels,1
+data,1
+response,1
+types,1
+recent,1
+a,8
+short,1
+algorithm,1
+expression,1
+well,1
+persistent,1
+time,1
+the,9
+order,1

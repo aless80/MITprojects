@@ -1,82 +1,77 @@
-
-and	2
-all-pairs	2
-strongly	1
-v	2
-For	1
-maximum	2
-on	1
-is	2
-results	1
-related	1
-an	1
-assigned	1
-multiplication	1
-weighted	2
-including	1
-are	2
-in	1
-polynomial	1
-our	1
-algorithms	3
-total	1
-find	2
-exists	2
-if	2
-part	1
-containing	1
-fast	1
-based	1
-weight	1
-for	5
-H-SUBGRAPH	3
-)	1
-graph	1
-give	1
-,	9
-computing	1
-.	5
-H-subgraph	2
-MAX-H	1
-SUBGRAPH	1
-u	2
-main	1
-bits	1
-matrices	1
-real	1
-product	1
-various	1
-to	3
-G	2
-distance	1
-problems	1
-of	5
-vertex	1
-We	1
-most	1
-edges	1
-every	1
-two	1
-significant	1
-new	1
-pair	1
-The	1
-one	2
-with	2
-problem	4
-matrix	1
-a	2
-both	1
-improved	1
-MAX	3
-also	1
-Some	1
-vertices	2
-graphs	2
-edge	1
-weights	1
-(	1
-Our	1
-the	6
-k	1
-first	1
+and,2
+strongly,1
+all,2
+weighted,2
+For,1
+give,1
+on,1
+is,2
+results,1
+related,1
+vertices,2
+assigned,1
+pair,1
+including,1
+are,2
+in,1
+polynomial,1
+our,1
+total,1
+find,2
+exists,2
+if,2
+one,2
+containing,1
+based,1
+subgraph,2
+for,5
+also,1
+graph,1
+computing,1
+problems,1
+algorithms,3
+fast,1
+to,3
+various,1
+u,2
+main,1
+bits,1
+matrices,1
+real,1
+product,1
+G,2
+distance,1
+H,6
+v,2
+vertex,1
+We,1
+weight,1
+multiplication,1
+most,1
+edges,1
+every,1
+two,1
+significant,1
+new,1
+SUBGRAPH,4
+The,1
+an,1
+with,2
+problem,4
+matrix,1
+a,2
+both,1
+pairs,2
+improved,1
+of,5
+k,1
+Some,1
+maximum,2
+graphs,2
+edge,1
+weights,1
+part,1
+MAX,4
+Our,1
+the,6
+first,1

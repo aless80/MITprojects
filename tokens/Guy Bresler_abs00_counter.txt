@@ -1,94 +1,81 @@
-
-all	1
-partial	1
-accurate	1
-We	2
-based	1
-$	16
-(	3
-\max\	1
-,	4
-to	2
-samples	3
-nodes	1
-over	1
-get	1
-P	2
-p/\eta	1
-\	1
-\eta^	1
-p	2
-2\beta	1
--2	1
-small	2
-set	1
-are	1
-e^	1
-Ising	1
-\log	2
-between	2
-Approximating	1
-suffices	1
-we	1
-\mathcal	2
-S	2
-by	1
-on	4
-of	4
-taking	1
-allows	1
-{	5
-or	1
-within	1
-one	1
-\eta	1
-learning	1
-total	1
-size	1
-given	1
-from	3
-prove	1
-predictions	1
-.	5
-observations	1
-marginals	3
-define	1
-``	1
-that	2
-distribution	2
-with	2
-distance	1
-subsets	1
-tree	1
-maximum	2
-tree-structured	1
-pairwise	1
-making	1
-problem	1
-study	1
-and	3
-graphical	1
-''	1
-at	1
-distributions	1
-strength	1
-TV	1
-same	1
-Focusing	1
-\beta	1
-models	1
-class	1
-variation	1
-Q	2
-most	1
-such	1
-low-order	1
-model	1
-a	5
-i.i.d	1
-generating	1
-ssTV	3
-)	3
-edge	1
-the	7
-}	5
+and,3
+all,1
+set,1
+partial,1
+allows,1
+ssTV,3
+accurate,1
+within,1
+we,1
+one,1
+generating,1
+beta,2
+are,1
+learning,1
+on,4
+total,1
+distributions,1
+size,1
+get,1
+We,2
+strength,1
+from,3
+log,2
+p,3
+TV,1
+taking,1
+structured,1
+predictions,1
+same,1
+by,1
+prove,1
+to,2
+eta,3
+low,1
+samples,3
+between,2
+Focusing,1
+marginals,3
+Approximating,1
+suffices,1
+over,1
+define,1
+graphical,1
+that,2
+models,1
+distribution,2
+class,1
+problem,1
+variation,1
+Q,2
+P,2
+S,2
+nodes,1
+observations,1
+mathcal,2
+such,1
+given,1
+with,2
+the,7
+a,5
+distance,1
+max,1
+e,1
+d,1
+subsets,1
+most,1
+i,2
+of,4
+study,1
+based,1
+tree,2
+maximum,2
+or,1
+Ising,1
+edge,1
+pairwise,1
+small,2
+making,1
+model,1
+order,1
+at,1

@@ -1,52 +1,46 @@
-
-and	1
-point	2
-process	1
-is	1
-an	2
-in	1
-times	1
-We	1
-based	1
-$	2
-for	1
-Poisson-disc	1
-)	1
-(	1
-,	1
-.	2
-regions	1
-to	1
-which	1
-under	1
-pattern	1
-method	1
-more	1
-arrival	1
-model	1
-generating	1
-than	1
-contain	1
-uniform	1
-O	1
-N	2
-grid	1
-Poisson	1
-The	1
-one	1
-generate	1
-present	1
-a	2
-on	1
-algorithm	1
-of	2
-taking	1
-no	1
-explicit	1
-final	1
-patterns	1
-points	1
-can	1
-time	1
-uses	1
-the	1
+and,1
+point,2
+process,1
+is,1
+an,2
+disc,1
+in,1
+times,1
+We,1
+based,1
+for,1
+no,1
+pattern,1
+than,1
+regions,1
+to,1
+which,1
+under,1
+method,1
+more,1
+arrival,1
+model,1
+generating,1
+contain,1
+uniform,1
+O,1
+N,2
+grid,1
+Poisson,2
+The,1
+one,1
+generate,1
+present,1
+a,2
+on,1
+algorithm,1
+of,2
+taking,1
+explicit,1
+final,1
+patterns,1
+points,1
+can,1
+time,1
+uses,1
+the,1

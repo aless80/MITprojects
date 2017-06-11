@@ -1,97 +1,91 @@
-
-show	1
-infrared	1
-thermal	1
-feasibility	1
-gJj	2
-its	2
-We	1
-based	1
-parameters	1
-(	1
-photons	1
-,	2
-including	1
-to	3
-degrees	1
-areas	1
-advantage	1
-frequencies	1
-possible	1
-dark	1
-existing	1
-radio-astronomy	1
-monolayer	1
-gJjs	1
-radio	1
-computed	1
-sensitivity	1
-detection	1
-conductance	1
-are	1
-quantum	2
-our	1
-detect	1
-capacity	1
-for	3
-electromagnetic	1
-microwave	1
-research	1
-approach	1
-we	1
-processing	1
-efficiency	1
-both	1
-freedom	1
-could	1
-exceptionally	1
-within	1
-visible	1
-electronic	1
-from	2
-takes	1
-measured	1
-system	1
-.	5
-of	3
-low	1
-Such	1
-graphene	1
-Josephson	1
-that	1
-photon	2
-spectrum	1
-heat	1
-technologies	1
-present	1
-count	1
-wide	1
-rate	1
-concepts	1
-Our	1
-example	1
-regimes	1
-and	4
-graphene-based	1
-is	1
-it	1
-an	1
-high	1
-single	2
-in	2
-constricted	1
-junctions	1
-information	1
-)	1
-phonon	1
-demonstrating	1
-device	1
-The	1
-on	1
-intrinsic	1
-a	3
-required	1
-detectors	1
-provide	1
-As	1
-the	2
+show,1
+infrared,1
+thermal,1
+feasibility,1
+gJj,2
+its,2
+We,1
+based,2
+parameters,1
+photons,1
+including,1
+to,3
+degrees,1
+advantage,1
+frequencies,1
+possible,1
+dark,1
+existing,1
+areas,1
+monolayer,1
+gJjs,1
+radio,2
+computed,1
+sensitivity,1
+detection,1
+conductance,1
+are,1
+quantum,2
+our,1
+detect,1
+capacity,1
+for,3
+electromagnetic,1
+microwave,1
+research,1
+approach,1
+we,1
+processing,1
+efficiency,1
+on,1
+of,3
+could,1
+exceptionally,1
+within,1
+visible,1
+electronic,1
+from,2
+takes,1
+intrinsic,1
+system,1
+low,1
+Such,1
+graphene,2
+Josephson,1
+both,1
+freedom,1
+photon,2
+it,1
+heat,1
+technologies,1
+present,1
+count,1
+wide,1
+rate,1
+concepts,1
+Our,1
+example,1
+regimes,1
+and,4
+is,1
+spectrum,1
+an,1
+high,1
+single,2
+in,2
+constricted,1
+junctions,1
+information,1
+provide,1
+that,1
+phonon,1
+demonstrating,1
+device,1
+The,1
+astronomy,1
+measured,1
+a,3
+required,1
+detectors,1
+As,1
+the,2

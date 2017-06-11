@@ -1,22 +1,20 @@
-
-a	1
-whose	1
-posits	1
-network	1
-probability	1
-classic	1
-graph	1
-of	1
-some	1
-problem	1
-edges	1
-,	1
-.	1
-reliability	1
-each	1
-The	1
-given	1
-with	1
-all-terminal	1
-independently	1
-fails	1
+a,1
+whose,1
+all,1
+network,1
+probability,1
+classic,1
+graph,1
+of,1
+some,1
+posits,1
+edges,1
+terminal,1
+reliability,1
+each,1
+The,1
+given,1
+with,1
+problem,1
+independently,1
+fails,1

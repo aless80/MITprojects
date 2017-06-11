@@ -1,105 +1,104 @@
-
-neighbors	1
-exclusive	1
-consider	1
-show	1
-over	1
-stability	1
-paper	1
-existence	3
-networks	1
-payoff	1
-partners	2
-We	2
-,	3
-exclusively	1
-to	2
-extends	1
-choose	1
-stable	2
-equilibrium	1
-then	1
-them	1
-good	1
-breaks	1
-framework	1
-exchanges	2
-using	1
-Social-Games	1
-individuals	2
-set	1
-exists	1
-individual	1
-are	1
-convex	1
-matching	1
-network	2
-for	1
-does	1
-new	1
-Pair-wise	1
-be	1
-we	1
-exchange	1
-monotone	1
-pair-wise	1
-goods	2
-of	5
-improves	1
-games	1
-social	1
-{	3
-partnerships	1
-strongly	1
-one	2
-from	1
-her	2
-strictly	1
-there	1
-bundles	1
-two	1
-least	2
-.	6
-their	1
-markets	1
-complete	1
-form	1
-that	4
-continuous	1
-Generalized-Stable-Matching	1
-with	2
-present	1
-valued	1
-this	2
-work	1
-while	1
-can	2
-proof	2
-and	5
-partnership	2
-general	2
-as	2
-at	2
-in	5
-any	1
-Matching-Equilibrium	1
-if	1
-no	2
-breaking	1
-when	1
-other	2
-generalized	1
-extended	1
-problems	1
-\cite	3
-The	1
-class	1
-preferences	1
-a	5
-implies	1
-Thus	1
-so	1
-In	1
-the	5
-}	3
-bipartite	1
+neighbors,1
+exclusive,1
+consider,1
+show,1
+over,1
+Social,1
+stability,1
+paper,1
+existence,3
+networks,1
+payoff,1
+partners,2
+We,2
+exclusively,1
+to,2
+extends,1
+choose,1
+stable,2
+equilibrium,1
+then,1
+them,1
+good,1
+breaks,1
+framework,1
+exchanges,2
+using,1
+individuals,2
+set,1
+exists,1
+individual,1
+are,1
+convex,1
+matching,1
+network,2
+for,1
+does,1
+new,1
+be,1
+we,1
+exchange,1
+monotone,1
+goods,2
+of,5
+Stable,1
+improves,1
+games,1
+social,1
+partnerships,1
+Generalized,1
+strongly,1
+one,2
+Equilibrium,1
+from,1
+her,2
+strictly,1
+there,1
+bundles,1
+two,1
+least,2
+their,1
+Pair,1
+markets,1
+cite,3
+complete,1
+form,1
+that,4
+continuous,1
+with,2
+present,1
+valued,1
+wise,2
+this,2
+work,1
+while,1
+can,2
+proof,2
+and,5
+partnership,2
+general,2
+as,2
+at,2
+in,5
+any,1
+if,1
+no,2
+breaking,1
+when,1
+other,2
+generalized,1
+extended,1
+problems,1
+Games,1
+pair,1
+The,1
+class,1
+preferences,1
+a,5
+implies,1
+Thus,1
+Matching,2
+so,1
+In,1
+the,5
+bipartite,1

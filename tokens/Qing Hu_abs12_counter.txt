@@ -1,73 +1,72 @@
-
-and	3
-correct	1
-employing	1
-fail	1
-methods	1
-For	1
-chosen	1
-predict	1
-xc	3
-is	3
-site	1
-dependence	1
-cluster	1
-as	2
-analyzing	1
-are	1
-in	1
-quantum	1
-present-day	2
-size	1
-surfaces	2
-defects	1
-shown	1
-errors	1
-rapidly	1
-for	2
-crystal	1
-rather	1
-(	1
-ranged	1
-cohesive	1
-functionals	2
-universal	1
-.	5
-to	3
-systems	2
-clusters	1
-dramatically	1
-correction	2
-demonstrated	1
-therefore	1
-be	1
-,	2
-extended	1
-CO	1
-energy	1
-that	1
-here	1
-applicable	1
-bulk	3
-approaches	1
-properly	1
-The	2
-transition-metal	1
-with	1
-by	1
-a	1
-short	1
-exchange-correlation	1
-of	1
-well	1
-It	2
-evaluated	1
-method	1
-)	1
-can	1
-at	2
-the	5
-chemistry	1
-where	1
-adsorption	2
-highest-quality	1
+and,3
+correct,1
+employing,1
+fail,1
+methods,1
+For,1
+predict,1
+xc,3
+is,3
+site,1
+dependence,1
+cluster,1
+as,2
+analyzing,1
+are,1
+in,1
+quantum,1
+adsorption,2
+quality,1
+size,1
+surfaces,2
+shown,1
+errors,1
+rapidly,1
+for,2
+crystal,1
+rather,1
+exchange,1
+cohesive,1
+functionals,2
+universal,1
+by,1
+to,3
+present,2
+clusters,1
+dramatically,1
+correction,2
+demonstrated,1
+systems,2
+be,1
+extended,1
+CO,1
+therefore,1
+energy,1
+that,1
+metal,1
+here,1
+applicable,1
+bulk,3
+approaches,1
+properly,1
+The,2
+highest,1
+with,1
+day,2
+ranged,1
+a,1
+short,1
+of,1
+transition,1
+well,1
+It,2
+evaluated,1
+method,1
+chosen,1
+can,1
+correlation,1
+at,2
+the,5
+chemistry,1
+where,1
+defects,1

@@ -1,118 +1,121 @@
-
-modular	1
-obtain	1
-outer	1
-paper	2
-including	1
-filters	3
-based	1
-system	1
-implementation	1
-,	6
-to	4
-systems	1
-Although	1
-decomposition	3
-FIR	1
-case	1
-practice	1
-framework	3
-not	1
-complex-valued	1
-represents	1
-standardization	1
-Within	1
-this	3
-common	1
-interconnecting	1
-mathematical	1
-smaller	1
-approximation	3
-frequency	1
-design	1
-More	1
-for	5
-Among	1
-even-symmetric	1
-Remez	1
-approach	1
-be	1
-approached	1
-Algorithm	1
-This	2
-of	12
-component	1
-implementing	1
-approaches	1
-advantages	1
-i.e	1
-by	1
-First	1
-both	1
-improved	1
-desired	1
-determining	1
-modularity	1
-filter	4
-sharpening	3
-context	1
-functions	1
-ability	1
-infinity-norm	1
-within	2
-functional	5
-one	1
-polynomial	1
-causal	1
-simpler	1
-use	1
-approximate	1
-specifically	1
-.	8
-inner	1
-utilizing	1
-re-interprets	1
-two-norm	1
-more	1
-that	1
-continuous-time	1
-known	1
-general	1
-applied	1
-subfilters	2
-these	1
-cast	1
-can	1
-error	3
-and	7
-characteristics	1
-is	4
-Designing	1
-an	1
-as	3
-have	2
-in	3
-viewed	1
-subsystems	1
-IIR	1
-composing	1
-also	1
-potential	1
-interconnection	2
-which	2
-many	1
-composition	4
-responses	1
-explores	1
-generalizes	1
-significant	1
-such	1
-on	2
-a	4
-minimize	1
-modules	1
-algorithms	1
-components	1
-the	17
-typically	1
-order	1
+modular,1
+obtain,1
+paper,2
+including,1
+filters,3
+based,1
+system,1
+implementation,1
+to,4
+potential,1
+systems,1
+Although,1
+decomposition,3
+interprets,1
+norm,2
+FIR,1
+case,1
+practice,1
+framework,3
+not,1
+represents,1
+standardization,1
+Within,1
+this,3
+common,1
+interconnecting,1
+mathematical,1
+smaller,1
+approximation,3
+frequency,1
+design,1
+explores,1
+More,1
+even,1
+for,5
+cast,1
+Among,1
+symmetric,1
+re,1
+Remez,1
+approach,1
+be,1
+approached,1
+Algorithm,1
+This,2
+of,12
+component,1
+implementing,1
+approaches,1
+advantages,1
+outer,1
+by,1
+First,1
+both,1
+improved,1
+desired,1
+determining,1
+modularity,1
+filter,4
+sharpening,3
+context,1
+functions,1
+ability,1
+within,2
+functional,5
+one,1
+polynomial,1
+causal,1
+use,1
+approximate,1
+specifically,1
+inner,1
+utilizing,1
+simpler,1
+more,1
+that,1
+continuous,1
+known,1
+general,1
+applied,1
+valued,1
+subfilters,2
+these,1
+minimize,1
+can,1
+error,3
+and,7
+characteristics,1
+is,4
+Designing,1
+an,1
+as,3
+have,2
+in,3
+viewed,1
+subsystems,1
+IIR,1
+composing,1
+also,1
+complex,1
+interconnection,2
+which,2
+many,1
+composition,4
+responses,1
+infinity,1
+generalizes,1
+two,1
+significant,1
+such,1
+on,2
+a,4
+e,1
+i,1
+modules,1
+algorithms,1
+components,1
+time,1
+the,17
+typically,1
+order,1

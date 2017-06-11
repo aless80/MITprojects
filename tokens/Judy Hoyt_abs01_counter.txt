@@ -1,72 +1,74 @@
-
-and	2
-available	1
-set	1
-constant	3
-two-dimensional	1
-process	1
-developed	1
-image	5
-full-width-half-max	1
-as	3
-been	1
-at	2
-have	1
-in	4
-nanoHUB	1
-apply	1
-implemented	1
-FWHM	1
-horizontal	2
-We	2
-calculate	2
-to	5
-)	2
-(	2
-transform	1
-fast	1
-.	5
-The	2
-lattice	5
-tool	1
-location	2
-spatial	1
-filtered	1
-stepping	1
-has	1
-local	3
-method	2
-opposed	1
-function	2
-direction	1
-vertical	2
-centered	1
-is	1
-bandwidth	1
-desired	1
-electron	1
-produce	1
-appropriate	1
-Fourier	2
-with	1
-by	2
-constants	2
-a	8
-on	1
-repeated	1
-physically-intuitive	1
-transmission	1
-of	4
-average	1
-performing	1
-Gaussian	2
-microscopy	1
-across	1
-filter	2
-this	1
-yields	1
-freely	1
-position	2
-the	11
-analysis	1
-high-resolution	1
+and,2
+available,1
+set,1
+constant,3
+stepping,1
+physically,1
+developed,1
+image,5
+direction,1
+transform,1
+high,1
+as,3
+been,1
+at,2
+have,1
+in,4
+nanoHUB,1
+apply,1
+implemented,1
+FWHM,1
+horizontal,2
+We,2
+calculate,2
+to,5
+two,1
+fast,1
+The,2
+lattice,5
+tool,1
+location,2
+spatial,1
+filtered,1
+has,1
+local,3
+method,2
+opposed,1
+function,2
+process,1
+full,1
+vertical,2
+on,1
+centered,1
+max,1
+is,1
+bandwidth,1
+desired,1
+electron,1
+produce,1
+half,1
+appropriate,1
+Fourier,2
+with,1
+by,2
+constants,2
+a,8
+dimensional,1
+repeated,1
+intuitive,1
+transmission,1
+of,4
+average,1
+performing,1
+Gaussian,2
+microscopy,1
+across,1
+filter,2
+this,1
+yields,1
+freely,1
+position,2
+the,11
+analysis,1
+resolution,1
+width,1

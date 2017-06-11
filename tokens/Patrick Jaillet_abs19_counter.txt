@@ -1,111 +1,106 @@
-
-proposed	1
-low-rank	1
-centralized	3
-paper	1
-computation	1
-its	1
-We	2
-20	1
-(	1
-distributed	1
-,	4
-presents	1
-to	5
-nodes	1
-achieve	1
-Unfortunately	1
-GP	5
-scalable	1
-not	1
-nor	1
-processes	1
-large	1
-GPs	3
-predictive	2
-methods	2
-some	1
-cost	1
-are	3
-our	3
-machines	2
-exact/full	1
-scale	1
-matrix	1
-for	2
-space	1
-evaluation	1
-shows	1
-be	2
-comparable	1
-full	1
-This	1
-real-world	1
-equivalent	1
-scalability	2
-efficiency	2
-properties	1
-on	1
-of	5
-greater	1
-significantly	1
-hence	1
-load	1
-among	2
-computational	1
-communication	1
-approximate	1
-exploit	1
-theoretically	1
-size	1
-probabilistic	1
-due	1
-.	6
-distributing	1
-their	2
-:	1
-achieving	2
-non-parametric	1
-more	1
-that	4
-covariance	1
-real-time	1
-with	1
-than	1
-datasets	1
-approximations	1
-while	1
-can	2
-and	5
-compare	1
-computing	1
-it	1
-cluster	1
-as	1
-predictions	1
-in	2
-regression	3
-guarantee	1
-)	1
-widely	1
-Bayesian	1
-used	1
-cubic	1
-models	1
-counterparts	2
-Empirical	1
-time-efficient	1
-two	2
-such	1
-The	1
-analytically	1
-data	2
-parallel	6
-a	1
-performances	2
-well	1
-Gaussian	1
-perform	1
-complexity	1
-time	4
-the	4
+proposed,1
+centralized,3
+paper,1
+computation,1
+its,1
+We,2
+distributed,1
+presents,1
+to,5
+nodes,1
+achieve,1
+real,2
+non,1
+Unfortunately,1
+GP,5
+scalable,1
+not,1
+world,1
+exact,1
+nor,1
+processes,1
+large,1
+GPs,3
+predictive,2
+methods,2
+some,1
+cost,1
+are,3
+our,3
+machines,2
+scale,1
+matrix,1
+for,2
+space,1
+evaluation,1
+shows,1
+be,2
+comparable,1
+full,2
+This,1
+equivalent,1
+scalability,2
+efficiency,2
+properties,1
+on,1
+of,5
+greater,1
+significantly,1
+hence,1
+load,1
+among,2
+computational,1
+communication,1
+rank,1
+due,1
+exploit,1
+theoretically,1
+size,1
+probabilistic,1
+approximate,1
+distributing,1
+their,2
+low,1
+achieving,2
+more,1
+that,4
+covariance,1
+with,1
+than,1
+datasets,1
+approximations,1
+while,1
+can,2
+and,5
+compare,1
+computing,1
+it,1
+cluster,1
+as,1
+predictions,1
+in,2
+regression,3
+guarantee,1
+perform,1
+widely,1
+Bayesian,1
+used,1
+cubic,1
+models,1
+counterparts,2
+Empirical,1
+two,2
+such,1
+The,1
+analytically,1
+data,2
+parallel,6
+a,1
+performances,2
+well,1
+Gaussian,1
+efficient,1
+complexity,1
+time,6
+the,4
+parametric,1

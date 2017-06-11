@@ -1,93 +1,90 @@
-
-distances	2
-limited	1
-over	2
-valuable	1
-paper	1
-alternative	1
-still	1
-its	1
-$	2
-graph	2
-flow-based	1
-,	5
-better	1
-to	3
-has	1
-defining	1
-triangle	1
-fluid	1
-scaling	1
-larger-scale	1
-verifying	1
-inequality	1
-experiments	1
-regularized	1
-are	2
-our	1
-satisfies	1
-techniques	1
-by	2
-for	2
-space	1
-between	1
-new	2
-we	1
-transportation	5
-This	1
-however	1
-properties	1
-Riemannian	1
-definition	1
-of	3
-introduces	1
-connection	1
-domains	1
-{	1
-or	1
-discretization	1
-computational	1
-probability	3
-analyzing	2
-theoretically	1
-shortest-paths	1
-Motivated	1
-.	5
-comparing	1
-quadratic	1
-theoretical	1
-adapting	1
-on	1
-continuous	1
-but	2
-R	1
-favorable	1
-case	2
-distance	2
-this	1
-approximations	1
-smooth	1
-theories	1
-providing	1
-and	3
-\mathbb	1
-is	1
-an	1
-as	3
-in	1
-Optimal	1
-distributions	3
-constructed	1
-provide	1
-After	1
-optimal	1
-effectiveness	1
-structure	1
-a	3
-vertices	1
-well	1
-It	1
-^n	1
-time	1
-the	3
-}	1
+distances,2
+limited,1
+over,2
+valuable,1
+paper,1
+alternative,1
+still,1
+its,1
+based,1
+graph,2
+better,1
+to,3
+has,1
+defining,1
+triangle,1
+fluid,1
+scaling,1
+verifying,1
+inequality,1
+experiments,1
+regularized,1
+are,2
+our,1
+theories,1
+satisfies,1
+techniques,1
+scale,1
+for,2
+space,1
+between,1
+new,2
+we,1
+transportation,5
+This,1
+however,1
+properties,1
+shortest,1
+Riemannian,1
+definition,1
+of,3
+larger,1
+introduces,1
+connection,1
+domains,1
+or,1
+mathbb,1
+discretization,1
+computational,1
+probability,3
+analyzing,2
+theoretically,1
+Motivated,1
+by,2
+comparing,1
+quadratic,1
+theoretical,1
+adapting,1
+on,1
+continuous,1
+but,2
+R,1
+favorable,1
+case,2
+distance,2
+this,1
+approximations,1
+smooth,1
+n,1
+providing,1
+and,3
+well,1
+is,1
+an,1
+as,3
+in,1
+Optimal,1
+distributions,3
+constructed,1
+paths,1
+provide,1
+After,1
+optimal,1
+effectiveness,1
+structure,1
+a,3
+vertices,1
+flow,1
+It,1
+time,1
+the,3

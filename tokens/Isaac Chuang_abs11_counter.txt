@@ -1,104 +1,89 @@
-
-find	1
-We	2
-depend	1
-$	18
-,	5
-to	3
-factor	2
-Both	1
-degradation	4
-vacuum	1
-not	1
-atmospheric	1
-dielectric	1
-high-finesse	1
-loss	2
-processes	1
-reflectivities	1
-oxygen	2
-_2	3
-chamber	1
-filling	1
-370	1
-methods	1
-For	1
-supporting	1
-reduce	1
-rate	2
-mirror	1
--Ta	1
-increase	1
-depletion	1
-does	1
-422	2
-occurs	1
-passivating	1
-be	2
-O	3
-pressure	1
-by	3
-_	6
-on	1
-protect	1
-of	6
-study	1
-{	6
-composed	1
-strongly	3
-primary	1
-illumination	1
-coatings	3
-quality	1
-nm-thick	1
-temperature	1
-cavities	1
-initial	1
-.	5
-their	1
-2	3
-more	1
-that	1
-centered	1
-reversed	1
-continuous	2
-optical	3
-vacuum-induced	2
-with	3
-than	1
-present	1
-10	1
-made	2
-laser	1
-these	1
-while	1
-can	2
-and	5
-layer	2
-is	3
-coating	1
-it	2
-surface	2
-as	1
-at	3
-in	1
-recover	1
-occur	1
-Ta	2
-recovery	2
-mechanism	1
-1	1
-5	3
-if	2
-SiO	3
-sufficient	1
-separate	1
-The	1
-incurred	1
-nm	3
-a	3
-accelerated	1
-surface-layer	1
-the	9
-}	6
-stacks	1
+find,1
+We,2
+depend,1
+to,3
+factor,2
+Both,1
+degradation,4
+vacuum,3
+not,1
+laser,1
+dielectric,1
+loss,2
+processes,1
+reflectivities,1
+oxygen,2
+chamber,1
+filling,1
+methods,1
+For,1
+supporting,1
+reduce,1
+rate,2
+mirror,1
+thick,1
+increase,1
+depletion,1
+does,1
+induced,2
+occurs,1
+passivating,1
+be,2
+O,3
+pressure,1
+by,3
+on,1
+protect,1
+of,6
+study,1
+composed,1
+strongly,3
+primary,1
+illumination,1
+coatings,3
+quality,1
+temperature,1
+cavities,1
+initial,1
+their,1
+more,1
+that,1
+centered,1
+reversed,1
+continuous,2
+optical,3
+with,3
+than,1
+present,1
+made,2
+atmospheric,1
+these,1
+while,1
+can,2
+and,5
+layer,3
+is,3
+coating,1
+it,2
+surface,3
+high,1
+as,1
+at,3
+in,1
+recover,1
+occur,1
+Ta,3
+nm,4
+mechanism,1
+if,2
+SiO,3
+sufficient,1
+separate,1
+The,1
+incurred,1
+recovery,2
+a,3
+finesse,1
+accelerated,1
+the,9
+stacks,1

@@ -1,105 +1,97 @@
-
-discovered	1
-through	1
-excitations	1
-its	1
-We	1
-(	1
-,	7
-texture	2
-to	1
-only	1
-Additionally	1
-nodes	2
-momentum	1
-2D	1
-band	1
-Fermi	5
-nearly	1
-not	1
-experimentally	2
-exact	1
-reveal	2
-large	1
-magnitude	1
-Moreover	1
-semimetal	2
-degeneracy	1
-energy	1
-spintronic	1
-observed	2
-zero	1
-arc	2
-are	2
-measure	1
-80	1
-for	2
-space	1
-state	2
-new	1
-boundary	1
-be	2
-we	2
-full	1
-nature	1
-in-plane	1
-host	1
-Our	1
-by	2
-on	1
-Weyl	6
-of	8
-inferred	1
-completely	1
-TaAs	2
-first	2
-exotic	1
-useful	1
-quasiparticle	1
-topological	1
-chirality	1
-.	7
-fermions	2
-type	1
-separated	1
-a	3
-form	1
-that	5
-bulk	1
-spin	6
-matter	2
-novel	1
-crystal	1
-can	1
-demonstrate	1
-property	1
-spins	1
-and	2
-is	4
-surface	1
-an	1
-as	3
-at	1
-in	4
-%	2
-)	1
-polarization	3
-which	2
-establishment	1
-A	1
-'s	1
-arcs	4
-may	1
-applications	1
-important	1
-connected	1
-The	2
-data	1
-non-degenerate	1
-'	1
-correspond	1
-points	1
-~80	1
-time	1
-the	14
-possesses	1
+discovered,1
+through,1
+excitations,1
+its,1
+We,1
+texture,2
+to,1
+only,1
+Additionally,1
+nodes,2
+momentum,1
+non,1
+D,1
+band,1
+Fermi,5
+nearly,1
+not,1
+experimentally,2
+exact,1
+reveal,2
+large,1
+magnitude,1
+Moreover,1
+spins,1
+degeneracy,1
+energy,1
+spintronic,1
+observed,2
+zero,1
+arc,2
+are,2
+measure,1
+correspond,1
+for,2
+space,1
+state,2
+new,1
+boundary,1
+be,2
+we,2
+full,1
+nature,1
+host,1
+Our,1
+by,2
+on,1
+Weyl,6
+of,8
+completely,1
+s,1
+plane,1
+TaAs,2
+first,2
+exotic,1
+useful,1
+quasiparticle,1
+topological,1
+chirality,1
+fermions,2
+type,1
+separated,1
+form,1
+that,5
+bulk,1
+spin,6
+matter,2
+novel,1
+crystal,1
+can,1
+demonstrate,1
+property,1
+and,2
+is,4
+surface,1
+an,1
+as,3
+at,1
+degenerate,1
+in,5
+polarization,3
+which,2
+establishment,1
+semimetal,2
+A,1
+arcs,4
+may,1
+applications,1
+important,1
+connected,1
+The,2
+data,1
+a,3
+inferred,1
+points,1
+time,1
+the,14
+possesses,1

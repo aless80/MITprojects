@@ -1,66 +1,62 @@
-
-and	3
-mechanics	2
-computational	1
-Gear	1
-Grand	1
-results	1
-Effect	1
-as	1
-individual	1
-video	3
-allowed	1
-our	1
-proofs	1
-Deus	1
-established	1
-We	2
-Scrolls	1
-prove	2
-)	1
-(	1
-Half-Life	1
-isolate	1
-,	12
-Evil	1
-.	4
-to	1
-build	1
-2	2
-Portal	2
-4	1
-Fallout	1
-Doom	1
-classify	1
-Ex	1
-These	1
-literature	1
-Theft	1
-Solid	1
-Metal	1
-generalizes	1
-polynomiality	1
-game	2
-Mass	1
-such	1
-NP-hardness	2
-Left	1
-on	3
-PSPACE-completeness	1
-Resident	1
-of	5
-depending	1
-pseudo	1
-Dead	1
-One	1
-specific	1
-Elder	1
-complexity	2
-games	3
-Halo	1
-many	1
-popular	1
-Auto	1
-the	6
-other	1
-or	1
+and,3
+mechanics,2
+computational,1
+Gear,1
+Grand,1
+Life,1
+as,1
+individual,1
+video,3
+allowed,1
+our,1
+proofs,1
+Deus,1
+established,1
+We,2
+results,1
+completeness,1
+Scrolls,1
+prove,2
+Auto,1
+isolate,1
+Effect,1
+Evil,1
+to,1
+other,1
+Portal,2
+build,1
+Fallout,1
+Half,1
+NP,2
+games,3
+Doom,1
+classify,1
+Ex,1
+These,1
+literature,1
+Theft,1
+Solid,1
+Metal,1
+generalizes,1
+polynomiality,1
+game,2
+Mass,1
+such,1
+hardness,2
+Left,1
+on,3
+Resident,1
+of,5
+depending,1
+pseudo,1
+Dead,1
+One,1
+specific,1
+Elder,1
+complexity,2
+PSPACE,1
+Halo,1
+many,1
+popular,1
+the,6
+or,1

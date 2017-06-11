@@ -1,110 +1,105 @@
-
-53K	1
-Plastic	2
-including	1
-using	1
-still	1
-its	1
-impact	1
-loading	2
-(	1
-,	4
-to	5
-samples	1
-has	1
-rise	1
-induce	1
-during	1
-accepted	1
-necessary	1
-shock	4
-accelerating	1
-hydrodynamic	2
-Simulations	1
-equation	1
-accessible	1
-significantly	2
-non-ideal	1
-are	1
-measure	1
-rigorous	1
-operation	1
-estimated	1
-for	1
-increase	1
-state	1
-assuming	1
-conditions	1
-predicted	3
-be	1
-Mo	3
-radial	1
-estimate	1
-by	1
-self-consistently	1
-obtained	1
-on	1
-of	10
-deduced	2
-resulting	1
-projectile	3
-corrections	1
-resonance	2
-simulations	1
-load	1
-locus	1
-explosively-driven	1
-.	9
-properties	1
-from	1
-temperature	3
-would	1
-system	1
-been	1
-plastic	1
-width	1
-:	1
-was	3
-that	2
-These	1
-sufficient	1
-apparent	2
-particular	1
-with	3
-than	1
-jump	1
-this	1
-inside	1
-variations	1
-states	1
-temperatures	2
-behavior	1
-were	4
-spectrometry	1
-and	2
-reconcile	1
-is	1
-contribute	1
-sample	1
-160K	1
-performed	1
-in	3
-curved	1
-Neutron	1
-compared	1
-)	1
-ideal	1
-spatial	1
-neutron	1
-higher	1
-used	2
-effect	1
-assessed	1
-The	4
-a	2
-calculated	1
-flow	4
-components	1
-NRS	2
-velocity	1
-the	13
+Plastic,2
+including,1
+using,1
+still,1
+its,1
+impact,1
+loading,2
+to,5
+samples,1
+has,1
+non,1
+rise,1
+induce,1
+explosively,1
+during,1
+accepted,1
+necessary,1
+shock,4
+accelerating,1
+hydrodynamic,2
+Simulations,1
+equation,1
+accessible,1
+significantly,2
+jump,1
+are,1
+measure,1
+rigorous,1
+operation,1
+estimated,1
+for,1
+increase,1
+consistently,1
+state,1
+assuming,1
+conditions,1
+Mo,3
+predicted,3
+be,1
+K,2
+radial,1
+estimate,1
+by,1
+deduced,2
+obtained,1
+on,1
+of,10
+resulting,1
+projectile,3
+corrections,1
+resonance,2
+simulations,1
+load,1
+locus,1
+properties,1
+from,1
+temperature,3
+would,1
+system,1
+been,1
+plastic,1
+width,1
+was,3
+that,2
+These,1
+sufficient,1
+apparent,2
+particular,1
+with,3
+than,1
+states,1
+this,1
+inside,1
+variations,1
+temperatures,2
+behavior,1
+were,4
+spectrometry,1
+and,2
+reconcile,1
+is,1
+contribute,1
+sample,1
+performed,1
+in,3
+curved,1
+Neutron,1
+compared,1
+self,1
+ideal,2
+spatial,1
+neutron,1
+higher,1
+used,2
+effect,1
+driven,1
+assessed,1
+The,4
+a,2
+calculated,1
+flow,4
+components,1
+NRS,2
+velocity,1
+the,13

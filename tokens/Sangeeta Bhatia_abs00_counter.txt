@@ -1,104 +1,98 @@
-
-help	1
-show	1
-Modellers	1
-syntax	1
-paper	2
-mentioned	1
-subtle	1
-(	1
-segments	1
-,	13
-to	4
-Despite	1
-has	1
-easier	1
-not	1
-Indeed	1
-large	1
-each	2
-rearrangement	4
-found	1
-because	1
-often	1
-consistent	1
-some	1
-related	1
-inverted	1
-literature	1
-are	3
-even	3
-scale	1
-'	1
-ways	1
-deeply	1
-This	1
-various	1
-navigating	1
-approach	1
-limitations	1
-we	1
-deleted	1
-struggle	1
-others	1
-interpret	1
-interpretations	1
-language	1
-of	8
-range	1
-consequently	1
-or	2
-features	1
-swapped	1
-landscape	1
-use	1
-there	1
-been	2
-.	5
-basic	1
-describe	1
-DNA	1
-that	3
-differences	1
-modelling	1
-authors	2
-present	1
-wide	1
-this	2
-challenge	1
-work	1
-choices	1
-will	1
-can	1
-and	7
-navigate	1
-permutations	3
-moved	1
-it	1
-assumptions	2
-have	2
-in	4
-different	1
-ingrained	1
-)	1
-make	2
-genomes	1
-how	1
-genome	4
-which	2
-papers	1
-events	2
-used	1
-models	3
-significant	1
-inserted	1
-the	5
-a	3
-natural	1
-for	1
-clear	1
-sometimes	1
-presenting	1
-In	1
-model	2
-researchers	1
+help,1
+show,1
+Modellers,1
+syntax,1
+paper,2
+mentioned,1
+subtle,1
+segments,1
+to,4
+Despite,1
+has,1
+easier,1
+not,1
+Indeed,1
+large,1
+each,2
+rearrangement,4
+found,1
+because,1
+often,1
+consistent,1
+some,1
+related,1
+inverted,1
+literature,1
+are,3
+even,3
+scale,1
+for,1
+ways,1
+deeply,1
+This,1
+various,1
+navigating,1
+approach,1
+limitations,1
+we,1
+deleted,1
+struggle,1
+others,1
+interpret,1
+interpretations,1
+language,1
+of,8
+range,1
+consequently,1
+or,2
+features,1
+swapped,1
+landscape,1
+use,1
+there,1
+been,2
+basic,1
+describe,1
+DNA,1
+that,3
+differences,1
+modelling,1
+authors,2
+present,1
+wide,1
+this,2
+challenge,1
+work,1
+choices,1
+will,1
+can,1
+and,7
+navigate,1
+permutations,3
+moved,1
+it,1
+assumptions,2
+have,2
+in,4
+different,1
+ingrained,1
+make,2
+genomes,1
+how,1
+genome,4
+which,2
+papers,1
+events,2
+used,1
+models,3
+significant,1
+inserted,1
+the,5
+a,3
+natural,1
+clear,1
+sometimes,1
+presenting,1
+In,1
+model,2
+researchers,1

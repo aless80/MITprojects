@@ -1,149 +1,139 @@
-
-unified	1
-show	1
-results	2
-Laplacian	1
-paper	1
-generalize	1
-its	1
-We	3
-ratio	1
-$	12
-(	7
-optimization	1
-\right	1
-,	13
-Here	1
-to	6
-\left	1
-willing	1
-input	1
-then	1
-them	1
-very	1
-scaling	3
-framework	3
-3/2	2
-balancing	3
-entries	2
-matrices	1
-represents	1
-runs	1
-\log^2	1
-specific	1
-these	2
-identifies	1
-where	1
-back	1
-1960s	1
-are	2
-our	2
-principled	1
-linear	1
-solving	2
-matrix	5
-for	2
-factors	1
-broad	1
-+	1
-smallest	1
-\log	4
-between	1
-new	1
-method	1
-scalings	1
-we	6
-interior-point	1
-run	2
-scientific	1
-This	2
-variant	1
-complement	1
-second-order	2
-O	3
-by	1
-logarithmic	1
-obtained	1
-both	3
-dates	1
-enables	1
-via	1
-of	11
-study	1
-ignoring	1
-amount	1
-context	1
-{	5
-strictly	1
-\widetilde	3
-doubly-stochastic	1
-establish	1
-size	1
-use	1
-leverage	1
-positive	1
-m\log	1
-system	2
-long	1
-.	8
-call	1
-treat	1
-is	2
-nearly-linear	1
-that	6
-becomes	1
-quasi-polynomial	1
-1/\epsilon	3
-particular	1
-efficient	1
-line	1
-m^	2
-with	1
-capturing	1
-case	2
-this	2
-work	2
-tolerate	1
-us	1
-minimize	1
-\kappa	4
-can	2
-error	1
-providing	1
-and	8
-computing	1
-certain	1
-\epsilon	1
-generalization	1
-an	1
-manner	1
-in	7
-functions	2
-develop	1
-)	7
-make	1
-which	5
-largest	1
-optimal	1
-separate	1
-In	2
-problems	3
-includes	1
-involving	1
-uses	1
-robust	1
-on	2
-class	1
-efficiently	1
-a	6
-implies	1
-algorithm	1
-whenever	1
-order	1
-provide	1
-algorithms	3
-fundamental	1
-time	3
-the	16
-}	5
-dimension	1
+unified,1
+show,1
+results,2
+Laplacian,1
+paper,1
+generalize,1
+its,1
+We,3
+ratio,1
+solving,2
+Here,1
+to,6
+quasi,1
+willing,1
+stochastic,1
+input,1
+then,1
+them,1
+very,1
+scaling,3
+framework,3
+balancing,3
+nearly,1
+entries,2
+matrices,1
+becomes,1
+represents,1
+runs,1
+specific,1
+these,2
+identifies,1
+where,1
+right,1
+back,1
+second,2
+are,2
+our,2
+principled,1
+scientific,1
+matrix,5
+for,2
+factors,1
+broad,1
+smallest,1
+between,1
+new,1
+method,1
+scalings,1
+can,2
+we,6
+run,2
+linear,2
+This,2
+variant,1
+complement,1
+O,3
+by,1
+logarithmic,1
+leverage,1
+obtained,1
+both,3
+dates,1
+enables,1
+of,11
+study,1
+ignoring,1
+amount,1
+context,1
+via,1
+point,1
+polynomial,1
+establish,1
+size,1
+use,1
+log,6
+positive,1
+strictly,1
+system,2
+long,1
+call,1
+treat,1
+that,6
+epsilon,4
+widetilde,3
+particular,1
+line,1
+with,1
+capturing,1
+case,2
+kappa,4
+this,2
+work,2
+tolerate,1
+us,1
+minimize,1
+optimization,1
+doubly,1
+error,1
+providing,1
+and,8
+computing,1
+certain,1
+is,2
+generalization,1
+an,1
+manner,1
+in,7
+functions,2
+develop,1
+provide,1
+make,1
+s,1
+which,5
+largest,1
+interior,1
+optimal,1
+separate,1
+In,2
+problems,3
+includes,1
+involving,1
+uses,1
+robust,1
+on,2
+class,1
+efficiently,1
+a,6
+implies,1
+algorithm,1
+whenever,1
+m,3
+order,3
+efficient,1
+algorithms,3
+fundamental,1
+time,3
+the,16
+dimension,1
+left,1

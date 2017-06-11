@@ -1,104 +1,97 @@
-
-show	1
-entropy	1
-statistical	1
-threshold	3
-assembled	1
-impact	1
-We	1
-located	1
-technique	1
-,	6
-to	4
-workhorse	1
-dominant	1
-provides	1
-read	4
-sequencing	3
-reconstruct	2
-day	1
-above	1
-having	1
-computed	1
-For	1
-sequence	6
-phenomena	1
-we	1
-observed	1
-rate	1
-are	3
-Renyi	1
-terms	1
-what	1
-for	1
-enough	1
-critical	1
-reconstruction	2
-medicine	1
-fragments	1
-?	1
-biology	1
-noise	1
-assembly	1
-This	1
-admits	1
-how	1
-on	1
-of	9
-study	1
-length	2
-{	1
-simple	1
-number	2
-sequences	1
-impossible	1
-given	1
-statistics	1
-from	1
-asymptotic	1
-question	1
-long	1
-.	6
-basic	2
-:	3
-DNA	7
-that	1
-sufficient	1
-also	1
-these	1
-reliable	1
-matter	1
-below	1
-limit	2
-many	2
-called	1
-and	5
-process	2
-is	9
-modern	1
-randomly	1
-reads	5
-minimum	1
-in	3
-technology	1
-any	1
-if	2
-no	1
-extracted	1
-answer	1
-performance	2
-A	1
-used	1
-Shotgun	1
-The	1
-the	21
-a	5
-short	1
-algorithm	1
-required	1
-cover	1
-\em	1
-fundamental	1
-model	1
-}	1
-original	1
+show,1
+entropy,1
+statistical,1
+threshold,3
+assembled,1
+impact,1
+We,1
+located,1
+technique,1
+to,4
+workhorse,1
+dominant,1
+provides,1
+read,4
+sequencing,3
+reconstruct,2
+day,1
+above,1
+em,1
+computed,1
+For,1
+sequence,6
+phenomena,1
+we,1
+observed,1
+rate,1
+are,3
+Renyi,1
+terms,1
+what,1
+for,1
+enough,1
+critical,1
+reconstruction,2
+medicine,1
+fragments,1
+biology,1
+noise,1
+assembly,1
+This,1
+admits,1
+how,1
+on,1
+of,9
+study,1
+length,2
+simple,1
+number,2
+sequences,1
+impossible,1
+given,1
+statistics,1
+from,1
+asymptotic,1
+question,1
+long,1
+basic,2
+DNA,7
+that,1
+sufficient,1
+also,1
+these,1
+reliable,1
+matter,1
+below,1
+limit,2
+many,2
+called,1
+and,5
+process,2
+is,9
+modern,1
+randomly,1
+reads,5
+minimum,1
+in,3
+technology,1
+any,1
+if,2
+no,1
+extracted,1
+answer,1
+performance,2
+A,1
+used,1
+Shotgun,1
+The,1
+the,21
+a,5
+short,1
+algorithm,1
+required,1
+cover,1
+original,1
+fundamental,1
+model,1
+having,1

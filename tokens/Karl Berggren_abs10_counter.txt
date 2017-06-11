@@ -1,61 +1,60 @@
-
-and	3
-model	1
-visible-wavelength	1
-characterization	1
-Thus	1
-is	3
-within	1
-results	1
-Comparison	1
-an	1
-characterize	1
-superconducting	1
-measurement	1
-into	1
-thickness	1
-non-destructive	1
-provided	1
-We	1
-for	1
-workflow	1
-,	2
-.	4
-better	1
-to	5
-samples	1
-films	1
-performance	1
-integrated	1
-thin	1
-be	2
-used	1
-easy	1
-that	1
-similar	1
-screen	1
-photon	1
-use	1
-here	1
-reported	1
-deposition	1
-optical	1
-NbN	1
-nanowire	1
-The	1
-infrared	1
-fabrication	1
-present	1
-a	1
-easily	1
-transmissometer	2
-of	3
-setup	1
-detectors	1
-single	1
-resulting	1
-can	2
-the	5
-gives	1
-minutes	1
-thicknesses	1
+and,3
+model,1
+characterization,1
+Thus,1
+is,3
+within,1
+results,1
+Comparison,1
+an,1
+characterize,1
+superconducting,1
+measurement,1
+into,1
+wavelength,1
+provided,1
+We,1
+destructive,1
+for,1
+workflow,1
+thickness,1
+better,1
+to,5
+samples,1
+films,1
+performance,1
+integrated,1
+thin,1
+be,2
+non,1
+used,1
+easy,1
+that,1
+similar,1
+screen,1
+photon,1
+use,1
+here,1
+reported,1
+deposition,1
+optical,1
+NbN,1
+nanowire,1
+The,1
+infrared,1
+fabrication,1
+present,1
+a,1
+easily,1
+transmissometer,2
+visible,1
+of,3
+setup,1
+detectors,1
+single,1
+resulting,1
+can,2
+the,5
+gives,1
+minutes,1
+thicknesses,1

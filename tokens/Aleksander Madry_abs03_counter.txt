@@ -1,101 +1,89 @@
-
-over	1
-random	3
-resistance	2
-underlying	1
-carefully	1
-We	1
-cut	1
-$	4
-graph	4
-,	7
-to	2
-samples	1
-input	1
-undirected	1
-trees	1
-Colbourn	1
-devising	1
-\tilde	2
-level	1
---	2
-follows	1
-establishing	1
-sufficiently	1
-J.	1
-sparse	1
-exploiting	1
-result	1
-et	1
-best	1
-for	1
-combinatorial	1
-between	1
-new	2
-\omega	1
-particular	1
-This	2
-O	3
-Kelner	1
-[	2
-dry	1
-of	7
-m\sqrt	1
-improves	1
-(	4
-{	6
-involves	1
-previously	1
-relate	1
-bound	1
-FOCS'09	1
-M\k	1
-from	3
-.	6
-way	1
-expected	1
-metric	1
-generating	1
-that	1
-Algorithms'96	1
-stems	1
-known	1
-m^	1
-present	1
-algorithm	2
-these	1
-work	1
-tree	2
-n	1
-concepts	1
-Our	1
-interplay	1
-and	4
-is	1
-walks	1
-al	1
-an	1
-high	1
-as	2
-n^	1
-in	3
-spanning	2
-)	4
-algorithmically	1
-\min	1
-connection	1
-our	1
-uniformly	1
-such	1
-]	2
-structure	2
-a	7
-effective	2
-whenever	1
-4/3	1
-well	1
-At	1
-time	1
-the	10
-}	6
-notion	1
+over,1
+random,3
+resistance,2
+underlying,1
+tilde,2
+carefully,1
+We,1
+cut,1
+graph,4
+to,2
+samples,1
+input,1
+undirected,1
+trees,1
+Colbourn,1
+Algorithms,1
+devising,1
+level,1
+follows,1
+establishing,1
+sufficiently,1
+sparse,1
+exploiting,1
+result,1
+et,1
+best,1
+for,1
+combinatorial,1
+between,1
+new,2
+This,2
+uniformly,1
+O,3
+Kelner,1
+dry,1
+of,7
+k,1
+connection,1
+improves,1
+involves,1
+previously,1
+relate,1
+bound,1
+from,3
+FOCS,1
+way,1
+expected,1
+metric,1
+generating,1
+that,1
+J,1
+particular,1
+known,1
+present,1
+algorithm,2
+these,1
+work,1
+tree,2
+n,2
+concepts,1
+Our,1
+interplay,1
+and,4
+well,1
+is,1
+walks,1
+al,1
+an,1
+high,1
+as,2
+our,1
+spanning,2
+stems,1
+min,1
+algorithmically,1
+sqrt,1
+M,1
+such,1
+omega,1
+structure,2
+a,7
+in,3
+effective,2
+whenever,1
+m,2
+At,1
+time,1
+the,10
+notion,1

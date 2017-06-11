@@ -1,59 +1,55 @@
-
-and	2
-limited	1
-version	1
-classical	1
-cover	1
-obtain	1
-two	1
-sphere	1
-as	2
-lattices	1
-in	1
-.	3
-unit	1
-We	2
-family	1
-asks	1
-space	1
-)	1
-(	1
-contains	1
-,	3
-overlap	2
-arrangement	1
-lattice	2
-much	1
-best	1
-which	2
-optimal	1
-FCC	1
-define	1
-we	1
-ball	1
-packings	1
-integer	1
-measures	1
-possible	1
-packing	1
-infinite	1
-generalized	1
-The	1
-BCC	1
-with	1
-problem	2
-a	3
-balls	2
-natural	1
-for	1
-of	5
-study	1
-non-overlapping	1
-parameterized	1
-choices	1
-amount	1
-allow	1
-each	1
-the	4
-where	1
-other	1
+and,2
+limited,1
+version,1
+classical,1
+FCC,1
+we,1
+BCC,1
+sphere,1
+as,2
+lattices,1
+in,1
+unit,1
+We,2
+family,1
+asks,1
+space,1
+contains,1
+two,1
+overlap,2
+arrangement,1
+lattice,2
+much,1
+best,1
+which,2
+optimal,1
+define,1
+non,1
+ball,1
+packings,1
+integer,1
+measures,1
+possible,1
+overlapping,1
+obtain,1
+packing,1
+infinite,1
+generalized,1
+The,1
+with,1
+problem,2
+a,3
+balls,2
+natural,1
+for,1
+of,5
+study,1
+cover,1
+parameterized,1
+choices,1
+amount,1
+allow,1
+each,1
+the,4
+where,1
+other,1

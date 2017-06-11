@@ -1,58 +1,53 @@
-
-followed	1
-consider	1
-communication	4
-over	4
-within	2
-it	1
-an	1
-unicast	1
-sources	3
-are	2
-in	2
-.	4
-networks	2
-source-channel	1
-We	3
-reducing	1
-based	1
-network	1
-prove	1
-)	1
-(	1
-solving	1
-,	1
-universal	2
-by	1
-to	5
-various	2
-which	1
-between	1
-:	1
-is	3
-independent	2
-medium	2
-corresponding	1
-users	1
-that	1
-This	1
-compress	1
-sufficient	1
-communicate	1
-levels	2
-architectures	2
-separation	1
-not	1
-distortion	2
-the	7
-a	2
-this	1
-of	2
-reliable	3
-reductionist	1
-unknown	2
-rate-distortion	1
-problem	4
-view	1
-order	1
-first	1
+followed,1
+consider,1
+communication,4
+over,4
+within,2
+it,1
+an,1
+unicast,1
+sources,3
+rate,1
+are,2
+in,2
+reducing,1
+networks,2
+We,3
+based,1
+network,1
+prove,1
+unknown,2
+solving,1
+universal,2
+by,1
+to,5
+various,2
+which,1
+between,1
+is,3
+channel,1
+independent,2
+medium,2
+corresponding,1
+users,1
+that,1
+This,1
+compress,1
+sufficient,1
+communicate,1
+levels,2
+architectures,2
+separation,1
+not,1
+distortion,3
+the,7
+a,2
+this,1
+of,2
+reliable,3
+reductionist,1
+source,1
+problem,4
+view,1
+order,1
+first,1

@@ -1,153 +1,135 @@
-
-all	1
-drastically	1
-show	1
-results	1
-unweighted	1
-not	2
-\widetilde	6
-its	1
-previous	1
-We	2
-mn\	2
-$	28
-mn^	1
-n^\omega	1
-graph	3
-hope	1
-,	10
-to	3
-girth-related	1
-main	1
-<	1
-achieve	1
-Unfortunately	1
-nearly	1
-spanner	4
-0,1	1
-Previously	1
-follows	1
-this	1
-paper	1
-further	1
-weighted	1
-Additive	1
-significantly	2
-For	1
-approximation	2
-computes	2
-our	3
-\Omega	2
-2\leq\omega	1
-techniques	1
-even	1
-\min\	2
-matrix	1
-for	3
-find	1
-combinatorial	1
-decomposition	1
-Nearly	2
-\omega	1
-be	1
-we	3
-linear	1
-processing	1
-O	8
-difficulty	1
-key	1
-Multiplicative	1
-i.e	1
-\in	1
-shortest	1
-Linear	1
-essentially	1
-improved	1
-technical	1
-of	6
-w.h.p	2
-length	1
-efficiently	1
-(	13
-{	11
-runtime	1
-first	1
-Given	1
--edge	1
-probability	1
-\alpha	2
-size	1
--node	1
-*	2
-approximately	1
-.	9
-improve	1
-structures	1
--additive	2
-2.373	1
-that	4
-Time	1
-known	2
-an	6
-with	3
-than	1
-directed	3
-breakthrough	1
-:	3
-compute	1
-these	3
-was	1
-require	1
-n	2
-can	1
-Our	1
-girth	4
-and	4
-computing	2
-m	2
-is	3
-it	1
-covers	1
-runtimes	1
-high	1
-Tight	1
-as	5
-n^	2
-in	6
-any	1
-concept	1
-constructions	1
-)	13
-2-\alpha	1
--	1
-1	3
-how	1
-Boolean	1
-n^\alpha	2
-optimal	1
-parameter	1
-may	1
-Approximations	2
-time	5
-applications	1
-edges	2
-multiplication	1
-The	1
-contribution	1
-cycle	1
-a	4
-give	2
-faster	1
-algorithm	4
-roundtrip	4
-unconditionally	1
-well	2
-traditional	1
-graphs	3
-without	1
-algorithms	1
-fundamental	1
-In	1
--multiplicative	2
-the	8
-}	11
+all,1
+drastically,1
+show,1
+results,1
+unweighted,1
+not,2
+paper,1
+its,1
+previous,1
+We,2
+Linear,1
+graph,3
+hope,1
+to,3
+main,1
+achieve,1
+Unfortunately,1
+nearly,1
+spanner,4
+parameter,1
+Previously,1
+follows,1
+p,2
+h,2
+multiplicative,2
+weighted,1
+Additive,1
+significantly,2
+For,1
+related,1
+approximation,2
+computes,2
+our,3
+techniques,1
+even,1
+matrix,1
+for,3
+find,1
+combinatorial,1
+decomposition,1
+Nearly,2
+size,1
+be,1
+we,3
+linear,1
+processing,1
+O,8
+leq,1
+key,1
+Multiplicative,1
+shortest,1
+improve,1
+essentially,1
+improved,1
+difficulty,1
+technical,1
+of,6
+length,1
+w,2
+contribution,1
+runtime,1
+first,1
+Given,1
+probability,1
+Boolean,1
+additive,2
+give,2
+approximately,1
+efficiently,1
+structures,1
+that,4
+further,1
+widetilde,6
+Time,1
+known,2
+an,6
+with,3
+than,1
+directed,3
+breakthrough,1
+compute,1
+this,1
+was,1
+require,1
+mn,3
+n,7
+i,1
+can,1
+Our,1
+girth,5
+and,4
+computing,2
+m,2
+is,3
+it,1
+covers,1
+runtimes,1
+high,1
+Tight,1
+as,5
+in,7
+any,1
+concept,1
+these,3
+constructions,1
+min,2
+how,1
+without,1
+optimal,1
+Omega,2
+node,1
+may,1
+Approximations,2
+time,5
+applications,1
+edges,2
+multiplication,1
+alpha,5
+The,1
+omega,3
+cycle,1
+a,4
+e,1
+faster,1
+algorithm,4
+roundtrip,4
+unconditionally,1
+well,2
+traditional,1
+graphs,3
+edge,1
+algorithms,1
+fundamental,1
+In,1
+the,8

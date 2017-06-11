@@ -1,59 +1,57 @@
-
-and	2
-all	1
-own	1
-inadequate	1
-over	1
-welfare	1
-However	1
-produced	1
-are	1
-have	1
-in	2
-Knightian	1
-We	1
-preferences	1
-for	1
-no	1
-undominated	1
-when	1
-,	6
-mechanism	3
-.	3
-prove	2
-their	1
-only	1
-optimal	1
-analyze	1
-is	2
-identical	1
-we	2
-good	1
-multiple	1
-valuations	1
-that	2
-very	1
-social	1
-mechanisms	1
-but	1
-by	1
-worst	1
-not	1
-model	1
-case	1
-both	1
-essentially	1
-goods	1
-longer	1
-this	1
-of	1
-also	2
-uncertainty	1
-Vickrey	3
-players	1
-auctions	1
-In	1
-strategies	1
-the	6
-dominant-strategy	2
-incomplete	1
+and,2
+all,1
+own,1
+inadequate,1
+over,1
+welfare,1
+undominated,1
+produced,1
+are,1
+have,1
+in,2
+dominant,2
+Knightian,1
+We,1
+preferences,1
+for,1
+no,1
+when,1
+However,1
+mechanism,3
+strategy,2
+prove,2
+their,1
+only,1
+optimal,1
+analyze,1
+is,2
+identical,1
+we,2
+good,1
+multiple,1
+valuations,1
+that,2
+very,1
+social,1
+mechanisms,1
+but,1
+by,1
+worst,1
+not,1
+model,1
+case,1
+both,1
+essentially,1
+goods,1
+longer,1
+this,1
+of,1
+also,2
+uncertainty,1
+Vickrey,3
+players,1
+auctions,1
+In,1
+strategies,1
+the,6
+incomplete,1

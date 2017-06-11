@@ -1,78 +1,70 @@
-
-and	4
-distances	1
-foundation	1
-extracting	1
-cosmological	1
-\ll	1
-relativistic	1
-lay	1
-approaching	1
-,	4
-waveforms	1
-rate	1
-model	1
-at	1
-year	1
-carry	1
-'s	1
-event	1
-theoretically	1
-orbital	1
-binary	1
-monitor	1
-for	1
-Gravitational-wave	1
-harder	1
-been	1
-three	1
-per	1
-.	3
-to	4
-must	1
-complex	1
-black	1
-will	1
-fractional	1
-expected	2
-10^	1
-more	2
-has	1
-final	1
-neutron	1
-accuracy	1
-be	4
-begin	1
-star	1
--3	1
-than	1
-information	2
-may	1
-effects	1
-waves	1
-phase	1
-Theorists	1
-hole	1
-now	1
-measured	1
-{	1
-$	2
-a	2
-interferometers	1
-Because	1
-last	1
-'	1
-of	2
-coalescence	1
-accumulated	1
-}	1
-large	1
-where	1
-can	1
-inspiral	1
-many	1
-far	2
-the	5
-binaries	1
-minutes	1
-are	2
+and,4
+distances,1
+extracting,1
+cosmological,1
+foundation,1
+relativistic,1
+lay,1
+approaching,1
+waveforms,1
+rate,1
+been,1
+at,1
+year,1
+carry,1
+accumulated,1
+event,1
+theoretically,1
+orbital,1
+binary,1
+monitor,1
+for,1
+ll,1
+three,1
+per,1
+than,1
+to,4
+complex,1
+black,1
+will,1
+fractional,1
+expected,2
+more,2
+has,1
+final,1
+neutron,1
+accuracy,1
+be,4
+begin,1
+star,1
+information,2
+may,1
+Gravitational,1
+wave,1
+effects,1
+waves,1
+phase,1
+Theorists,1
+hole,1
+now,1
+measured,1
+model,1
+must,1
+a,2
+interferometers,1
+Because,1
+last,1
+of,2
+coalescence,1
+harder,1
+large,1
+where,1
+s,1
+can,1
+inspiral,1
+many,1
+far,2
+the,5
+binaries,1
+minutes,1
+are,2

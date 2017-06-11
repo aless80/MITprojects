@@ -1,63 +1,60 @@
-
-collecting	1
-19.6	1
-directly	1
-proposed	1
-into	1
-utilize	1
-translating	1
-To	1
-paper	1
-learning	1
-expressions	1
-previous	1
-from	1
-for	1
-their	1
-,	4
-.	4
-fully	1
-to	2
-methodology	1
-does	1
-models	2
-which	1
-performance	1
-corpus	2
-translate	1
-potential	1
-contrast	1
-we	1
-over	1
-explores	1
-This	1
-propose	1
-queries	1
-pairs	1
-state-of-the-art	1
-meaning	1
-regular	2
-gain	1
-not	1
-%	1
-model	2
-a	4
-achieves	1
-crafting	1
-task	1
-natural	2
-language	2
-neural	2
-explore	1
-of	4
-work	1
-domain-specific	1
-large	1
-prior	1
-resulting	1
-In	1
-embody	1
-Our	1
-the	3
-parallel	1
-expression	1
+collecting,1
+domain,1
+art,1
+directly,1
+proposed,1
+into,1
+translating,1
+To,1
+paper,1
+learning,1
+expressions,1
+previous,1
+large,1
+from,1
+for,1
+their,1
+utilize,1
+parallel,1
+fully,1
+to,2
+methodology,1
+does,1
+models,2
+which,1
+performance,1
+corpus,2
+translate,1
+potential,1
+contrast,1
+we,1
+over,1
+explores,1
+state,1
+This,1
+propose,1
+queries,1
+pairs,1
+meaning,1
+regular,2
+gain,1
+not,1
+model,2
+a,4
+achieves,1
+crafting,1
+task,1
+natural,2
+language,2
+neural,2
+of,5
+work,1
+explore,1
+specific,1
+prior,1
+resulting,1
+In,1
+embody,1
+Our,1
+the,4
+expression,1

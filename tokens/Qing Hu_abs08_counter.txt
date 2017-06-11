@@ -1,114 +1,105 @@
-
-v_i^2=10^	1
-formula	2
-accurate	1
-through	1
-occupation	2
-single-particle	1
-We	1
-$	12
-(	4
-,	11
-to	3
-treatment	1
-transformation	2
-mean-field	1
-very	1
-vacuum	1
-not	1
-singularity	1
-exact	1
-Hartree-Fock-Bogoliubov	1
-always	1
-Testing	1
-arbitrary	3
-found	1
--8	1
-because	1
-From	1
-some	3
-matrices	2
-zero	2
-been	1
-are	2
-our	1
-avoided	1
-out	1
-for	4
-u_i=0	1
-However	1
-overlap	3
-state	1
-does	1
-between	4
-new	2
-cause	1
-method	1
-be	2
-we	2
-full	1
-This	2
--16	1
-standpoint	1
-by	1
-change	1
-of	1
-restoration	1
-present	1
-{	2
-suitable	1
-or	1
-vacua	4
-symmetry	1
-numerically	1
-Pfaffian	2
-Therefore	1
-HFB	7
-due	1
-tiny	1
-.	9
-emptiness	1
-calculations	2
-v_i=0	1
-that	3
-V	2
-u_i^2	1
-those	1
-relative	1
-this	3
-reliable	1
-values	1
-can	2
-evaluating	2
-nonsingular	1
-problem	2
-performed	1
-and	1
-e.g.	1
-is	3
-Overlap	1
-say	1
-numbers	1
-have	1
-in	4
-beyond	1
-)	4
-convenient	1
-u_i	1
-v_i=10^	1
-1	1
-setting	1
-which	1
-singular	1
-may	1
-orbits	1
-important	1
-U	2
-a	1
-especially	1
-sometimes	1
-well	1
-It	1
-the	9
-}	2
-turns	1
+formula,2
+accurate,1
+through,1
+occupation,2
+We,1
+matrices,2
+to,3
+treatment,1
+transformation,2
+very,1
+vacuum,1
+not,1
+singularity,1
+exact,1
+Bogoliubov,1
+particle,1
+always,1
+Testing,1
+arbitrary,3
+found,1
+mean,1
+because,1
+From,1
+some,3
+relative,1
+zero,2
+been,1
+are,2
+our,1
+avoided,1
+out,1
+for,4
+However,1
+overlap,3
+state,1
+does,1
+between,4
+new,2
+Hartree,1
+cause,1
+method,1
+be,2
+we,2
+full,1
+This,2
+Fock,1
+standpoint,1
+by,1
+change,1
+g,1
+of,1
+restoration,1
+suitable,1
+or,1
+vacua,4
+symmetry,1
+numerically,1
+Pfaffian,2
+Therefore,1
+HFB,7
+due,1
+tiny,1
+emptiness,1
+calculations,2
+that,3
+V,2
+present,1
+this,3
+reliable,1
+say,1
+values,1
+can,2
+evaluating,2
+v,3
+those,1
+nonsingular,1
+problem,2
+performed,1
+and,1
+is,3
+Overlap,1
+single,1
+numbers,1
+have,1
+in,4
+beyond,1
+convenient,1
+field,1
+setting,1
+which,1
+singular,1
+may,1
+orbits,1
+important,1
+U,2
+a,1
+e,1
+especially,1
+i,6
+sometimes,1
+well,1
+It,1
+u,3
+the,9
+turns,1

@@ -1,144 +1,130 @@
-
-precise	1
-all	1
-particularly	1
-consider	1
-show	1
-constituents	1
-results	1
-leads	1
-paper	1
-through	2
-statistical	1
-using	1
-its	1
-heuristic	1
-We	1
-optimization-based	1
-$	18
-ellipsoid	2
-(	1
-,	9
-to	3
-factor	1
-rank-deficient	1
-...	1
-them	1
-finance	1
-v_2	1
-L	1
-whether	1
-facial	2
-not	1
-X	2
-matrices	2
-condition	2
-areas	1
-signal	1
-this	1
-where	1
-mathematical	1
-set	3
-be	1
-second	1
-are	2
-convex	3
-elliptope	1
-plays	1
-matrix	6
-for	2
-space	1
-sum	1
-ensures	2
-combinatorial	1
-decomposition	1
-between	1
-new	2
-geometric	1
-body	1
-exactly	1
-we	3
-This	2
-equivalent	1
-processing	1
-diagonal	2
-understanding	1
-modeling	1
-on	2
-column	1
-of	7
-k	1
-unknown	2
-usually	1
-passing	2
-first	1
-simple	2
-into	1
-rank	1
-determine	2
-establish	2
-given	2
-from	2
-positive	2
-there	2
-question	1
-three	2
-.	8
-low	1
-basic	1
-D+L	1
-:	2
-Furthermore	1
-recovered	1
->	1
-arises	1
-that	5
-centered	2
-sufficient	1
-formed	1
-subspace	1
-D	1
-known	2
-with	1
-semidefinite	2
-these	2
-n	1
-optimization	1
-can	1
-problem	3
-decompose	1
-result	1
-and	5
-links	1
-is	5
-sense	1
-an	2
-as	4
-minimum	1
-analysis	1
-in	3
-any	2
-v_1	1
-)	1
-also	1
-\emph	1
-role	1
-\R^k	1
-trace	1
-In	1
-problems	2
-applications	1
-U	2
-such	1
-The	3
-{	1
-structure	3
-a	14
-third	1
-considered	1
-v_n\in	1
-together	1
-points	3
-correlation	2
-the	6
-}	1
+precise,1
+all,1
+particularly,1
+consider,1
+show,1
+constituents,1
+results,1
+leads,1
+paper,1
+through,2
+statistical,1
+using,1
+its,1
+heuristic,1
+We,1
+based,1
+ellipsoid,2
+to,3
+factor,1
+them,1
+finance,1
+L,2
+whether,1
+facial,2
+not,1
+X,2
+matrices,2
+condition,2
+areas,1
+deficient,1
+signal,1
+this,1
+where,1
+mathematical,1
+set,3
+emph,1
+second,1
+are,2
+convex,3
+elliptope,1
+plays,1
+matrix,6
+for,2
+space,1
+sum,1
+ensures,2
+combinatorial,1
+decomposition,1
+between,1
+new,2
+geometric,1
+body,1
+be,1
+we,3
+This,2
+equivalent,1
+processing,1
+diagonal,2
+understanding,1
+modeling,1
+on,2
+column,1
+of,7
+k,2
+unknown,2
+usually,1
+passing,2
+first,1
+simple,2
+into,1
+rank,2
+determine,2
+establish,2
+given,2
+from,2
+positive,2
+there,2
+question,1
+three,2
+low,1
+basic,1
+Furthermore,1
+recovered,1
+arises,1
+that,5
+centered,2
+sufficient,1
+formed,1
+subspace,1
+R,1
+known,2
+with,1
+semidefinite,2
+these,2
+n,2
+optimization,2
+can,1
+v,3
+problem,3
+decompose,1
+result,1
+and,5
+links,1
+is,5
+sense,1
+an,2
+as,4
+minimum,1
+analysis,1
+in,4
+any,2
+D,2
+also,1
+role,1
+exactly,1
+trace,1
+In,1
+problems,2
+applications,1
+U,2
+such,1
+The,3
+structure,3
+a,14
+third,1
+considered,1
+together,1
+points,3
+correlation,2
+the,6

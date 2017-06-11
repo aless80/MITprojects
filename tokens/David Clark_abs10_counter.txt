@@ -1,105 +1,99 @@
-
-Steinberg-Guinan	1
-Plastic	1
-impact	1
-loading	3
-,	4
-to	3
-window	1
-indicating	2
-then	1
-around	2
-10	1
-wave	2
-vacuum	1
-using	1
-matched	1
-necessary	1
-shock	2
-gun	1
-Surface	1
-these	1
-hydrodynamic	1
-reasonable	1
-release	2
-accessible	1
-significantly	1
-consistent	1
-prediction	1
-jump	1
-rigorous	1
-for	3
-measurements	1
-state	2
-assuming	1
-;	1
-induced	1
-conditions	2
-predicted	3
-explosive	1
-Mo	2
-70-100	1
-estimate	1
-by	2
-self-consistently	1
-obtained	1
-of	7
-taking	1
-heating	1
-range	1
-projectile	1
-or	2
-into	2
-locus	1
-velocimetry	1
-.	7
-from	2
-elastic	2
-plastic	2
-start	1
-fraction	1
-:	1
-was	4
-that	2
-Shock	2
-gas	1
-emission	1
-released	1
-heat	1
-with	3
-than	1
-states	1
-account	1
-showed	1
-this	1
-work	1
-converted	1
-temperatures	4
-amplitude	1
-were	4
-spectrometry	1
-and	2
-planar	1
-is	1
-simulations	1
-surface	1
-an	1
-high	1
-at	1
-in	4
-LiF	1
-compared	1
-%	2
-shocked	3
-ideal	1
-higher	1
-The	3
-measured	1
-model	1
-a	4
-stress	1
-calculated	2
-flow	3
-60GPa	1
-accelerated	1
-the	14
+Plastic,1
+Guinan,1
+impact,1
+loading,3
+to,3
+window,1
+indicating,2
+then,1
+around,2
+wave,2
+vacuum,1
+using,1
+matched,1
+necessary,1
+shock,2
+GPa,1
+Surface,1
+these,1
+hydrodynamic,1
+reasonable,1
+release,2
+accessible,1
+significantly,1
+consistent,1
+prediction,1
+gun,1
+jump,1
+rigorous,1
+for,3
+measurements,1
+consistently,1
+state,2
+assuming,1
+induced,1
+conditions,2
+predicted,3
+explosive,1
+Mo,2
+estimate,1
+by,2
+obtained,1
+of,7
+taking,1
+heating,1
+range,1
+projectile,1
+or,2
+into,2
+locus,1
+velocimetry,1
+from,2
+elastic,2
+plastic,2
+start,1
+fraction,1
+was,4
+that,2
+Shock,2
+gas,1
+emission,1
+released,1
+heat,1
+Steinberg,1
+with,3
+than,1
+states,1
+account,1
+showed,1
+this,1
+work,1
+converted,1
+temperatures,4
+amplitude,1
+were,4
+spectrometry,1
+and,2
+planar,1
+is,1
+simulations,1
+surface,1
+an,1
+high,1
+at,1
+in,4
+LiF,1
+compared,1
+self,1
+shocked,3
+ideal,1
+higher,1
+The,3
+measured,1
+model,1
+a,4
+stress,1
+calculated,2
+flow,3
+accelerated,1
+the,14

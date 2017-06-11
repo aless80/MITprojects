@@ -1,82 +1,80 @@
-
-and	3
-the	2
-via	2
-inference	1
-For	2
-give	1
-simple	1
-is	1
-conditional	3
-it	1
-an	2
-relative	1
-known	1
-as	3
-matroid	1
-entropy	1
-construct	1
-using	1
-apply	1
-.	5
-Gaussian	1
-causal	1
-polytopes	1
-constructed	1
-insight	1
-containing	1
-from	1
-for	3
-also	1
-graph	2
-sum	2
-equivalence	1
-,	7
-relations	3
-properties	1
-up	1
-defined	1
-fans	1
-which	1
-geometric	1
-new	1
-analogous	1
-undirected	2
-independence	3
-A	1
-be	3
-graphical	4
-There	1
-to	2
-multiinformation	1
-models	3
-Minkowski	2
-construction	1
-encodes	1
-standard	1
-we	2
-regular	1
-coming	1
-represented	1
-simplices	1
-Markov	1
-ordering-based	1
-by	1
-a	6
-search	1
-acyclic	2
-polytope	3
-Finally	1
-algorithm	1
-these	1
-of	4
-normal	1
-associahedron	1
-bidirected	1
-this	2
-edges	1
-can	3
-mixed	1
-model	2
-directed	3
-or	1
+and,3
+the,2
+via,2
+inference,1
+For,2
+give,1
+simple,1
+is,1
+conditional,3
+it,1
+an,2
+relative,1
+known,1
+as,3
+matroid,1
+entropy,1
+construct,1
+using,1
+apply,1
+Gaussian,1
+causal,1
+polytopes,1
+constructed,1
+insight,1
+containing,1
+from,1
+for,3
+also,1
+ordering,1
+graph,2
+sum,2
+equivalence,1
+normal,1
+relations,3
+properties,1
+up,1
+defined,1
+fans,1
+which,1
+geometric,1
+new,1
+analogous,1
+undirected,2
+independence,3
+A,1
+be,3
+graphical,4
+There,1
+to,2
+multiinformation,1
+models,3
+Minkowski,2
+construction,1
+encodes,1
+standard,1
+we,2
+regular,1
+coming,1
+represented,1
+simplices,1
+Markov,1
+by,1
+a,6
+search,1
+acyclic,2
+polytope,3
+Finally,1
+algorithm,1
+these,1
+of,4
+based,1
+associahedron,1
+bidirected,1
+this,2
+edges,1
+can,3
+mixed,1
+model,2
+directed,3
+or,1

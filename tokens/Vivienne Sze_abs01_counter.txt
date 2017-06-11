@@ -1,117 +1,118 @@
-
-supported	1
-paper	1
-computation	1
-Internet	1
-its	1
-Convolutional	1
-CNNs	1
-(	2
-,	8
-Histogram	1
-to	4
-potential	1
-local	1
-smart	1
-eventually	1
-insight	1
-preferred	1
-While	1
-difference	1
-chips	1
-learned	1
-maintaining	1
-areas	1
-this	1
-source	1
-where	1
-Networks	1
-vision	3
-For	1
-trade-offs	1
-hand-crafted	2
-energy	3
-computer	1
-and/or	1
-measurements	1
-crucial	1
-between	2
-electronics	1
-approach	1
-be	1
-we	1
-This	1
-cars	1
-processing	1
-delivering	1
-approaches	2
-by	1
-about	1
-improved	1
-many	1
-in-depth	1
-range	1
-Computer	1
-implement	1
-features	2
-Things	1
-two	2
-Oriented	1
-Accordingly	1
-learning	1
-such	2
-from	1
-exists	1
-consumption	1
-privacy	1
-robotics/drones	1
-due	1
-.	7
-Neural	1
-understand	1
-discrepancy	1
-real-time	1
-wide	1
-embedded	2
-these	2
-energy-efficiency	1
-while	1
-can	1
-of	7
-Our	1
-Gradients	1
-enables	1
-and	6
-outstanding	1
-is	5
-deep	2
-an	1
-hardware	1
-as	2
-in	2
-self-driving	1
-latency	1
-compared	1
-goal	1
-)	2
-that	1
-concerns	1
-performance	2
-several	1
-accuracy	2
-gaining	1
-HOG	2
-applications	2
-significant	1
-CNN	1
-robust	1
-a	2
-energy-efficient	1
-popularity	1
-analysis	2
-traditional	1
-provide	2
-algorithms	2
-In	1
-the	6
-portable/wearable	1
+learning,1
+supported,1
+trade,1
+paper,1
+computation,1
+Internet,1
+wearable,1
+Convolutional,1
+CNNs,1
+Histogram,1
+to,4
+potential,1
+local,1
+smart,1
+real,1
+eventually,1
+insight,1
+preferred,1
+While,1
+difference,1
+chips,1
+learned,1
+maintaining,1
+areas,1
+this,1
+source,1
+where,1
+Networks,1
+vision,3
+portable,1
+For,1
+energy,5
+computer,1
+driving,1
+measurements,1
+crucial,1
+its,1
+between,2
+electronics,1
+approach,1
+be,1
+we,1
+This,1
+cars,1
+processing,1
+delivering,1
+efficiency,1
+approaches,2
+by,1
+about,1
+improved,1
+of,7
+range,1
+Computer,1
+implement,1
+or,1
+offs,1
+features,2
+Things,1
+robotics,1
+two,2
+Oriented,1
+Accordingly,1
+crafted,2
+drones,1
+from,1
+exists,1
+consumption,1
+privacy,1
+due,1
+Neural,1
+understand,1
+discrepancy,1
+wide,1
+embedded,2
+these,2
+while,1
+can,1
+many,1
+Our,1
+Gradients,1
+enables,1
+and,7
+outstanding,1
+is,5
+deep,2
+an,1
+hardware,1
+as,2
+in,3
+latency,1
+compared,1
+goal,1
+efficient,1
+self,1
+that,1
+concerns,1
+performance,2
+several,1
+accuracy,2
+gaining,1
+HOG,2
+such,2
+In,1
+hand,2
+applications,2
+significant,1
+CNN,1
+robust,1
+a,2
+popularity,1
+analysis,2
+traditional,1
+provide,2
+depth,1
+algorithms,2
+time,1
+the,6

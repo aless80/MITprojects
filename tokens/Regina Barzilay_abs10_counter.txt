@@ -1,87 +1,85 @@
-
-all	1
-consider	1
-text	2
-not	1
-paper	1
-through	1
-using	2
-feedback	1
-We	2
-,	3
-to	2
-baselines	2
-evaluate	1
-framework	2
-game	4
-bag-of-words	1
-world	1
-worlds	2
-these	1
-vector	1
-automatic	1
-observed	1
-are	1
-our	1
-expressive	1
-for	3
-importance	1
-state	3
-approach	1
-we	1
-barrier	1
-interactions	1
-This	1
-jointly	1
-both	1
-language	1
-of	3
-against	1
-players	1
-resulting	1
-action	1
-makes	1
-and	3
-into	1
-environments	1
-two	1
-learning	3
-such	1
-text-based	1
-.	7
-underlying	1
-comparing	1
-rewards	1
-that	1
-semantics	1
-this	1
-us	1
-employ	1
-policies	2
-learn	1
-Our	1
-enables	1
-descriptions	1
-control	1
-challenging	1
-is	1
-deep	1
-states	1
-outperforms	1
-as	1
-in	1
-bag-of-bigrams	1
-capture	1
-virtual	1
-games	2
-map	1
-demonstrating	1
-representations	4
-The	1
-on	2
-a	1
-task	1
-reinforcement	1
-algorithm	1
-In	2
-the	7
+control,1
+and,3
+all,1
+consider,1
+text,3
+is,1
+both,1
+environments,1
+two,1
+observed,1
+against,1
+as,1
+paper,1
+through,1
+are,1
+learning,3
+in,1
+our,1
+expressive,1
+challenging,1
+outperforms,1
+capture,1
+We,2
+algorithm,1
+based,1
+us,1
+for,3
+players,1
+that,1
+feedback,1
+such,1
+virtual,1
+demonstrating,1
+automatic,1
+state,3
+vector,1
+worlds,2
+resulting,1
+approach,1
+into,1
+map,1
+we,1
+rewards,1
+to,2
+barrier,1
+interactions,1
+This,1
+evaluate,1
+learn,1
+comparing,1
+jointly,1
+framework,2
+game,4
+deep,1
+words,1
+not,1
+world,1
+The,1
+on,2
+importance,1
+semantics,1
+a,1
+states,1
+task,1
+representations,4
+language,1
+bag,2
+this,1
+of,5
+using,2
+reinforcement,1
+baselines,2
+employ,1
+these,1
+bigrams,1
+underlying,1
+games,2
+policies,2
+In,2
+action,1
+Our,1
+the,7
+enables,1
+makes,1
+descriptions,1

@@ -1,106 +1,101 @@
-
-incorporate	1
-particularly	1
-text	1
-accurate	1
-years	1
-interpretation	1
-We	3
-knowledge	1
-,	7
-to	8
-other	1
-relevance	2
-physicians	1
-diseases	1
-propose	1
-domain-specific	1
-five	2
-helpful	1
-applicable	1
-fewer	1
-each	1
-where	1
-predictive	1
-domain	1
-often	1
-estimates	1
-prediction	1
-Specifically	1
-are	2
-our	2
-medicine	1
-approach	1
-method	4
-available	2
-we	1
-rescale	1
-groups	1
-genders	1
-estimate	1
-by	1
-on	1
-training	1
-of	3
-experience	1
-improves	1
-domains	2
-features	3
-supply	1
-60	1
-chronic	1
-trained	1
-apply	1
-.	9
-descriptions	1
-use	2
-positive	1
-there	1
-two	2
-next	1
-few	1
-corpus	1
-'s	1
-Furthermore	1
-more	1
-building	1
-external	1
-cases	1
-novel	1
-publicly	1
-these	1
-selects	1
-many	1
-Our	2
-problem	1
-outcome	1
-examples	1
-and	2
-weaker	1
-predict	1
-is	3
-as	1
-expertise	1
-in	4
-rescaling	1
-regularization	1
-%	1
-when	1
-feature	2
-onset	1
-causing	1
-build	1
-accuracy	1
-word2vec	1
-description	1
-models	3
-important	1
-such	2
-data	1
-the	7
-a	2
-short	1
-age	1
-In	2
-easing	1
-model	1
+incorporate,1
+particularly,1
+text,1
+accurate,1
+years,1
+wordvec,1
+interpretation,1
+We,3
+knowledge,1
+to,8
+other,1
+relevance,2
+physicians,1
+diseases,1
+propose,1
+five,2
+helpful,1
+applicable,1
+fewer,1
+specific,1
+each,1
+where,1
+predictive,1
+domain,2
+often,1
+estimates,1
+prediction,1
+Specifically,1
+are,2
+our,2
+medicine,1
+approach,1
+method,4
+available,2
+we,1
+rescale,1
+groups,1
+genders,1
+estimate,1
+by,1
+on,1
+training,1
+of,3
+experience,1
+s,1
+improves,1
+domains,2
+features,3
+supply,1
+chronic,1
+trained,1
+apply,1
+descriptions,1
+use,2
+positive,1
+there,1
+two,2
+next,1
+few,1
+corpus,1
+selects,1
+Furthermore,1
+more,1
+building,1
+external,1
+cases,1
+novel,1
+publicly,1
+these,1
+many,1
+Our,2
+problem,1
+outcome,1
+examples,1
+and,2
+weaker,1
+predict,1
+is,3
+as,1
+expertise,1
+in,4
+rescaling,1
+regularization,1
+when,1
+feature,2
+onset,1
+causing,1
+build,1
+accuracy,1
+description,1
+models,3
+important,1
+such,2
+data,1
+the,7
+a,2
+short,1
+age,1
+In,2
+easing,1
+model,1

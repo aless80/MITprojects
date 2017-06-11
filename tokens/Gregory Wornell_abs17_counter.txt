@@ -1,104 +1,102 @@
-
-particularly	1
-feedback	1
-developed	1
-random	1
-training-based	1
-whose	1
-ratio	1
-,	8
-penalty	1
-to	2
-window	1
-degrees	1
-systems	1
-achieve	1
-aspects	1
-point-to-point	1
-elapsed	1
-synchronization	1
-not	1
-transmitter	1
-level	2
-transmission	2
-these	1
-transmitted	1
-upper	1
-schemes	2
-From	1
-For	1
-some	1
-operates	1
-rate	1
-are	4
-established	1
-shown	2
-capacity	3
-decision	1
-between	3
-properties	1
-on	2
-of	9
-length	1
-receiver	1
-implement	1
-makes	1
-encoding	1
-communication	2
-within	1
-corresponds	1
-highly	1
-message	1
-high-rate	1
-size	1
-source	1
-addition	1
-system	1
-.	7
-interest	1
-asynchronism	2
-function	1
-commences	1
-that	2
-decoder	2
-cases	1
-this	1
-bounds	2
-can	1
-freedom	1
-problem	1
-and	8
-defined	1
-is	6
-general	2
-as	2
-asynchronous	3
-at	1
-in	4
-Several	1
-regime	1
-sequentially	1
-information	1
-when	3
-nontrivial	1
-which	1
-performance	1
-coincide	1
-several	1
-investigated	1
-separate	1
-In	2
-derived	1
-significant	1
-codeword	1
-such	2
-The	1
-model	1
-a	4
-prescribed	1
-lower	1
-intermittent	1
-It	1
-without	1
-time	2
-the	17
+particularly,1
+feedback,1
+developed,1
+random,1
+whose,1
+based,1
+encoding,1
+penalty,1
+source,1
+window,1
+degrees,1
+systems,1
+achieve,1
+aspects,1
+elapsed,1
+synchronization,1
+not,1
+transmitter,1
+level,2
+transmission,2
+these,1
+transmitted,1
+upper,1
+schemes,2
+From,1
+For,1
+some,1
+operates,1
+rate,2
+are,4
+established,1
+shown,2
+capacity,3
+decision,1
+between,3
+ratio,1
+properties,1
+on,2
+training,1
+of,9
+length,1
+receiver,1
+implement,1
+makes,1
+point,2
+communication,2
+within,1
+corresponds,1
+highly,1
+message,1
+size,1
+to,3
+addition,1
+system,1
+interest,1
+asynchronism,2
+function,1
+commences,1
+that,2
+decoder,2
+cases,1
+this,1
+bounds,2
+can,1
+freedom,1
+problem,1
+and,8
+defined,1
+is,6
+general,2
+high,1
+as,2
+asynchronous,3
+at,1
+in,4
+Several,1
+regime,1
+sequentially,1
+information,1
+when,3
+nontrivial,1
+which,1
+performance,1
+coincide,1
+several,1
+investigated,1
+separate,1
+In,2
+derived,1
+significant,1
+codeword,1
+such,2
+The,1
+model,1
+a,4
+prescribed,1
+lower,1
+intermittent,1
+It,1
+without,1
+time,2
+the,17

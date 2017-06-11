@@ -1,114 +1,109 @@
-
-our	1
-proposed	1
-random	1
-However	1
-quadrature	2
-statistical	1
-synthetic	1
-Recently	1
-density	4
-,	5
-Gauss	1
-former	1
-forms	1
-to	4
-stochastic	4
-rules	1
-propose	1
-they	1
-exploiting	1
-orthonormal	1
-integrals	1
-knowing	1
-set	1
-methods	4
-simulator	1
-physically	1
-consistent	1
-individual	1
-are	4
-proper	1
-Stochastic	1
-special	1
-techniques	1
-spectral	5
-shown	1
-for	1
-chaos	1
-integrated	1
-\it	1
-we	2
-monotone	1
-expansion	1
-polynomial-chaos	1
-by	5
-obtained	1
-both	1
-involved	1
-uncertainty	2
-practical	1
-circuit	1
-{	1
-first	1
-one	1
-schemes	1
-closed-form	1
-determine	2
-polynomial	1
-apply	1
-often	1
-described	1
-basis	2
-system	1
-construct	1
-.	10
-function	1
-that	1
-hierarchical	1
-excellent	1
-than	1
-compute	1
-input	1
-circuits	1
-of	5
-examples	1
-and	3
-is	2
-quantification	2
-as	1
-rule	1
-have	1
-in	4
-information	1
-needs	1
-verified	1
-efficient	1
-latter	1
-generalized	2
-performance	1
-effectiveness	1
-interpolation	1
-used	2
-Then	1
-models	1
-numerical	1
-functions	5
-polynomials	1
-two	1
-such	1
-The	3
-a	4
-algorithm	1
-surrogate	1
-requires	1
-required	1
-Obtaining	1
-analysis	1
-a-priori	1
-rather	1
-components	1
-In	2
-the	9
-}	1
-order	1
+our,1
+proposed,1
+random,1
+However,1
+quadrature,2
+statistical,1
+synthetic,1
+Recently,1
+density,4
+Gauss,1
+former,1
+forms,1
+to,4
+stochastic,4
+rules,1
+propose,1
+they,1
+exploiting,1
+orthonormal,1
+integrals,1
+set,1
+methods,4
+simulator,1
+physically,1
+consistent,1
+individual,1
+are,4
+proper,1
+Stochastic,1
+special,1
+techniques,1
+spectral,5
+shown,1
+for,1
+chaos,2
+closed,1
+integrated,1
+knowing,1
+we,2
+monotone,1
+expansion,1
+by,5
+obtained,1
+both,1
+involved,1
+uncertainty,2
+practical,1
+circuit,1
+first,1
+one,1
+schemes,1
+determine,2
+polynomial,2
+apply,1
+often,1
+described,1
+basis,2
+system,1
+construct,1
+function,1
+form,1
+that,1
+hierarchical,1
+excellent,1
+than,1
+compute,1
+input,1
+circuits,1
+of,5
+examples,1
+and,3
+is,2
+it,1
+quantification,2
+as,1
+rule,1
+have,1
+in,4
+information,1
+needs,1
+verified,1
+efficient,1
+latter,1
+priori,1
+generalized,2
+performance,1
+effectiveness,1
+interpolation,1
+used,2
+Then,1
+models,1
+numerical,1
+functions,5
+polynomials,1
+two,1
+such,1
+The,3
+a,5
+algorithm,1
+surrogate,1
+required,1
+Obtaining,1
+analysis,1
+rather,1
+components,1
+In,2
+the,9
+requires,1
+order,1

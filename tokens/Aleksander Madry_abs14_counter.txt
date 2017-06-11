@@ -1,127 +1,116 @@
-
-protocol	2
-show	1
-cheat	1
-paper	2
-Kent	2
-committed	1
-before	1
-some	2
-92	1
-(	4
-,	7
-to	2
-then	4
-his	1
-gains	1
-advantage	1
-Alice	5
->	1
-not	1
-during	1
-bit	6
-presented	1
-detections	1
-either	1
-fixed	1
-Aharonov	2
-Rev	1
-one-out-of-two	1
-oblivious	1
-quantum	5
-our	1
-even	1
-shown	1
-detect	1
-for	1
-epsilon^2	1
-detecting	2
-discovers	1
-;	1
-revealing	2
-we	4
-simultaneously	2
-This	1
-commits	1
-weak	2
-i.e	1
-Bob	4
-by	3
-both	1
-about	1
-world	1
-of	4
-greater	1
-Hardy	2
-improves	1
-transfer	1
-sealing	3
-introduced	1
-changes	1
-or	1
-lambda	1
-secure	1
-probability	5
-commitment	4
-cheats	1
-parties	1
-impossible	1
-[	2
-STOC	1
-use	1
-cheating	6
-Phys	1
-0	1
-probabilities	1
-positive	2
-construct	1
-.	13
-call	1
-scheme	3
-gives	1
-that	4
-et	2
-binding	3
-but	1
-known	1
-detects	1
-with	3
-than	1
-b	1
-this	4
-require	1
-can	1
-property	1
-and	7
-constant	1
-give	1
-is	6
-mind	1
-al	2
-To	1
-Lett	1
-in	1
-if	3
-information	1
-sensitive	1
-)	4
-malicious	1
-epsilon	1
-Omega	1
-nonzero	1
-investigated	1
-'s	1
-who	2
-variant	2
-phase	2
-]	2
-a	11
-independently	1
-unconditionally	1
-well	1
-It	1
-2000	1
-2004	1
-In	3
-the	10
-If	1
+protocol,2
+show,1
+cheat,1
+paper,2
+Kent,2
+committed,1
+before,1
+some,2
+to,2
+then,4
+his,1
+gains,1
+advantage,1
+Alice,5
+not,1
+during,1
+bit,6
+presented,1
+detections,1
+either,1
+fixed,1
+Aharonov,2
+Rev,1
+oblivious,1
+quantum,5
+our,1
+out,1
+even,1
+shown,1
+detect,1
+for,1
+discovers,1
+revealing,2
+we,4
+simultaneously,2
+This,1
+commits,1
+weak,2
+detecting,2
+by,3
+both,1
+about,1
+world,1
+of,5
+greater,1
+Hardy,2
+s,1
+improves,1
+transfer,1
+sealing,3
+introduced,1
+changes,1
+or,1
+lambda,1
+secure,1
+probability,5
+commitment,4
+one,1
+cheats,1
+parties,1
+impossible,1
+Bob,4
+STOC,1
+use,1
+cheating,6
+Phys,1
+probabilities,1
+positive,2
+two,1
+construct,1
+call,1
+scheme,3
+gives,1
+that,4
+et,2
+binding,3
+but,1
+known,1
+detects,1
+with,3
+than,1
+b,1
+this,4
+require,1
+can,1
+property,1
+and,7
+constant,1
+give,1
+is,6
+mind,1
+al,2
+To,1
+Lett,1
+in,1
+if,3
+information,1
+sensitive,1
+malicious,1
+epsilon,2
+Omega,1
+nonzero,1
+investigated,1
+who,2
+variant,2
+phase,2
+a,11
+independently,1
+e,1
+i,1
+unconditionally,1
+well,1
+It,1
+In,3
+the,10
+If,1

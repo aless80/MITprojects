@@ -1,92 +1,88 @@
-
-consider	1
-proposed	1
-show	1
-caused	1
-baseband	3
-We	2
-$	8
-(	2
-,	8
-to	3
-systems	1
-phase-amplitude	1
-motivated	1
-OFDM	1
-modulator	1
-transmission	1
-discrete	1
-series	5
-result	1
-Volterra	3
-special	1
-by	2
-nonlinear	3
-power	1
-new	2
-approach	1
-degree	1
-equivalent	2
-standard	1
-S	2
-pre-compensation	1
-properties	1
-of	8
-simulation	1
-suggests	1
-resulting	1
-non-obvious	1
-communication	1
-readily	1
-continuous	1
-system	3
-analog	1
-.	5
-MATLAB	1
-amplifiers	1
-distortions	1
-scheme	1
-corresponding	1
-form	1
-that	1
-memory	1
-LTI	1
-with	1
-those	1
-CT	2
-extend	1
-circuits	1
-compensation	2
-demonstrate	1
-and	5
-\mathbf	4
-defined	1
-is	3
-an	2
-as	2
-in	4
-DT	2
-compared	1
-)	2
-verify	1
-F	2
-when	1
-same	1
-ideal	1
-interconnection	2
-digital	3
-effectiveness	1
-used	1
-modulation	1
-such	1
-The	2
-analytically	1
-the	5
-structure	2
-a	8
-dynamical	2
-depth	1
-time	2
-representation	1
-model	4
-demodulator	1
+consider,1
+proposed,1
+show,1
+caused,1
+baseband,3
+We,2
+to,3
+systems,1
+non,1
+motivated,1
+OFDM,1
+modulator,1
+transmission,1
+discrete,1
+series,5
+result,1
+Volterra,3
+special,1
+nonlinear,3
+power,1
+new,2
+approach,1
+degree,1
+equivalent,2
+standard,1
+S,2
+properties,1
+of,8
+simulation,1
+suggests,1
+resulting,1
+pre,1
+mathbf,4
+communication,1
+readily,1
+continuous,1
+system,3
+analog,1
+by,2
+MATLAB,1
+amplifiers,1
+distortions,1
+scheme,1
+corresponding,1
+form,1
+that,1
+memory,1
+LTI,1
+with,1
+those,1
+CT,2
+extend,1
+circuits,1
+compensation,3
+obvious,1
+amplitude,1
+demonstrate,1
+and,5
+defined,1
+is,3
+an,2
+as,2
+in,4
+DT,2
+compared,1
+verify,1
+F,2
+when,1
+same,1
+ideal,1
+interconnection,2
+digital,3
+effectiveness,1
+used,1
+modulation,1
+phase,1
+such,1
+The,2
+analytically,1
+the,5
+structure,2
+a,8
+dynamical,2
+depth,1
+time,2
+representation,1
+model,4
+demodulator,1

@@ -1,78 +1,75 @@
-
-mechanics	1
-and	2
-detailed	1
-via	1
-QRNG	3
-characterization	1
-interference	1
-random	1
-number	1
-operates	1
-high	2
-entanglement	1
-rate	1
-entropy	2
-are	1
-such	1
-quantum	3
-work	1
-Mbit/s	1
-trusted	1
-24	1
-robust	1
-from	1
-generator	1
-to	1
-)	1
-(	1
-that	1
-intrinsic	1
-system	1
-Here	1
-.	4
-estimating	1
-rates	1
-which	1
-means	1
-approach	1
-A	1
-error-prone	1
-we	1
-nonlocal	1
-generates	1
-nature	1
-with	1
-propose	1
-in	2
-monitors	1
-problems	1
-but	1
-provides	1
-most	1
-important	1
-user	1
-Our	1
-producing	1
-genuine	2
-The	1
-an	1
-probabilistic	1
-by	1
-observation	1
-a	6
-,	2
-randomness	3
-central	1
-for	1
-of	6
-proof-of-concept	1
-devices	2
-without	1
-QRNGs	1
-time	1
-real	1
-demonstrate	1
-the	7
-high-dimensional	1
-at	2
+mechanics,1
+and,2
+detailed,1
+concept,1
+QRNG,3
+characterization,1
+random,1
+number,1
+operates,1
+high,3
+entanglement,1
+rate,1
+via,1
+entropy,2
+are,1
+such,1
+quantum,3
+work,1
+monitors,1
+trusted,1
+robust,1
+from,1
+generator,1
+to,1
+intrinsic,1
+that,1
+interference,1
+system,1
+Here,1
+estimating,1
+rates,1
+which,1
+means,1
+approach,1
+prone,1
+A,1
+we,1
+generates,1
+nature,1
+with,1
+propose,1
+in,2
+error,1
+problems,1
+but,1
+provides,1
+most,1
+important,1
+user,1
+Our,1
+producing,1
+genuine,2
+The,1
+an,1
+probabilistic,1
+by,1
+observation,1
+a,6
+dimensional,1
+randomness,3
+central,1
+for,1
+of,7
+nonlocal,1
+devices,2
+s,1
+without,1
+QRNGs,1
+time,1
+real,1
+demonstrate,1
+the,7
+proof,1
+Mbit,1
+at,2

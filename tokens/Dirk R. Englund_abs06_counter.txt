@@ -1,67 +1,63 @@
-
-origin	1
-limited	1
-For	1
-be	2
-is	1
-find	1
-focus	1
-pulse	3
-operates	1
-pulses	1
-in	1
-fidelity	3
-two-level-emitter	1
-scattering	3
-its	1
-84	1
-spectral	1
-We	4
-compared	1
-based	1
-for	2
-width	3
-comparable	1
-demonstrate	1
-system	1
-.	5
-passive	1
-to	4
-while	1
-gate	3
-Gaussian	1
-events	1
-modulations	1
-linewidth	2
-one-photon	1
-,	2
-%	1
-that	3
-photon	1
-processes	1
-one-	1
-by	1
-emitter	2
-opposing	2
-external	1
-performance	1
-requirements	2
-imperfections	1
-must	1
-a	2
-on	3
-and	2
-non-linearities	1
-input	1
-two-photon	4
-these	1
-of	4
-require	1
-maximum	1
-investigate	1
-without	1
-limit	1
-controlled-phase	2
-enhance	1
-the	10
-narrow	1
+origin,1
+limited,1
+For,1
+be,2
+is,1
+find,1
+focus,1
+pulse,3
+system,1
+pulses,1
+in,1
+fidelity,3
+linewidth,2
+scattering,3
+its,1
+one,2
+We,4
+compared,1
+based,1
+for,2
+width,3
+comparable,1
+demonstrate,1
+two,5
+imperfections,1
+passive,1
+to,4
+while,1
+linearities,1
+gate,3
+Gaussian,1
+events,1
+modulations,1
+spectral,1
+non,1
+controlled,2
+that,3
+photon,6
+processes,1
+by,1
+opposing,2
+external,1
+performance,1
+phase,2
+requirements,2
+operates,1
+emitter,3
+must,1
+a,2
+on,3
+and,2
+input,1
+level,1
+these,1
+of,4
+require,1
+maximum,1
+investigate,1
+without,1
+limit,1
+enhance,1
+the,10
+narrow,1

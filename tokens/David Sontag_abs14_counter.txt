@@ -1,88 +1,88 @@
-
-proposed	1
-over	3
-results	2
-through	1
-pseudomarginals	1
-synthetic	1
-We	1
-based	1
-(	4
-,	3
-to	1
-unbounded	1
-local	1
-accurate	1
-black-box	1
-increased	1
-introduce	1
-despite	1
-sub-optimality	1
-exact	1
-MAP	2
-found	1
-conditional	1
-maximum	1
-obtains	1
-by	1
-for	3
-gradient	1
-posteriori	1
-boundary	1
-method	1
-we	2
-This	1
-real-world	1
-modular	1
-relaxation	2
-optimize	1
-TRW	2
-both	1
-polytope	5
-of	2
-inference	1
-marginal	4
-within	1
-bound	1
-instances	1
-solvers	1
-quality	1
-leverage	1
-approximate	1
-.	5
-variational	2
-more	1
-optimizing	1
-that	1
-repeated	1
-than	1
-algorithm	3
-tree	1
-as	2
-us	1
-demonstrate	1
-enables	1
-globally-convergent	1
-and	4
-is	1
-Empirically	1
-at	1
-gradients	1
-moves	1
-spanning	1
-)	4
-tree-reweighted	2
-objective	2
-Frank-Wolfe	1
-The	1
-on	2
-structure	1
-a	2
-calls	1
-tightening	1
-well	1
-algorithms	1
-consistency	1
-the	14
-having	1
-Theoretically	1
+proposed,1
+over,3
+results,2
+through,1
+pseudomarginals,1
+synthetic,1
+We,1
+based,1
+to,1
+black,1
+unbounded,1
+local,1
+accurate,1
+real,1
+increased,1
+introduce,1
+reweighted,2
+despite,1
+world,1
+exact,1
+MAP,2
+found,1
+conditional,1
+maximum,1
+Wolfe,1
+obtains,1
+sub,1
+for,3
+gradient,1
+Frank,1
+posteriori,1
+boundary,1
+method,1
+we,2
+This,1
+modular,1
+relaxation,2
+optimize,1
+TRW,2
+box,1
+both,1
+polytope,5
+of,2
+inference,1
+marginal,4
+within,1
+bound,1
+instances,1
+solvers,1
+quality,1
+leverage,1
+approximate,1
+by,1
+variational,2
+more,1
+optimizing,1
+that,1
+repeated,1
+optimality,1
+than,1
+algorithm,3
+tree,3
+Empirically,1
+us,1
+demonstrate,1
+enables,1
+and,4
+is,1
+convergent,1
+globally,1
+as,2
+at,1
+gradients,1
+moves,1
+spanning,1
+objective,2
+The,1
+on,2
+structure,1
+a,2
+calls,1
+tightening,1
+well,1
+algorithms,1
+consistency,1
+the,14
+having,1
+Theoretically,1

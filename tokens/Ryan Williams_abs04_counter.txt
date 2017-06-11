@@ -1,175 +1,145 @@
-
-all	2
-Russell	1
-a_1	2
-less	1
-over	2
--time	1
-obtain	1
-Permanent	1
-|/\varepsilon	1
-Arithmetic	1
-Nondeterministic	1
-We	3
-$	44
-also	1
-(	13
-,	19
-0	1
-\cdot	2
-a.k.a	1
-has	1
-<	1
-orthogonal	1
-2^	1
-posed	1
-possible	1
-results	1
-every	1
-\	1
-\tilde	2
-runs	1
-d	4
-\textrm	1
-Closest	1
-circuits	1
-Valiant	1
-infeasibility	1
-small	1
-cycles	1
-a_K	2
-sublinear-depth	1
-Merlin-Arthur	2
-For	2
-formulas	1
-sends	1
-dK|	1
-some	1
-we	1
-\sf	1
-summation	1
-#	1
-for	9
-assignments	1
-AMA	1
-+	2
-future	1
-various	1
-\log	1
-\ldots	3
-be	1
-C	3
-run	1
-linear	1
-degree	2
-s	2
-K	2
-O	2
-\bullet	2
-three-round	1
-Circuit	1
-others	1
-directions	1
-\in	2
-by	1
-certified	1
-about	1
-of	5
-k	1
-vectors	1
-Impagliazzo	1
-Arthur-Merlin	1
-length	1
-\varepsilon	1
-circuit	1
-refuting	1
-{	11
-strongly	1
-Hamming	1
-probability	1
-point	1
-x_n	1
--cliques	1
-poly	1
-Verifier	2
-MA-proof	4
-polynomial	1
-ETH	3
-Evaluation	1
-size	1
-2n/3+o	1
-graphs	1
-k/2+O	1
-to	1
-coins	1
-system	5
-.	8
-2	1
-c^	1
-Pairs	1
-exhaustive	1
-:	1
-systems	2
-``	2
-F	4
-These	1
-c	1
-x_1	1
-general	1
-with	1
-than	2
-present	1
-Hamiltonian	1
-Strong	3
-this	1
-value	1
-n	3
-tosses	1
-values	1
-can	2
-error	1
-example	1
-proof	5
-and	11
-Multipoint	1
-\mathbb	4
-give	1
-metric	1
-nearly-linear	2
-an	1
-''	2
-Circuit-SAT	1
-n^	1
-in	9
-counting	3
-any	2
-refute	1
-efficient	1
-that	1
--	1
-Prover	1
-check	1
-1	2
-field	1
-potential	1
-finding	1
-many	1
-arithmetic	1
-inputs	1
-'s	1
-quantified	1
-In	1
-collection	1
-VP	1
-applications	1
-running	2
-class	1
-a	6
-faster	1
-programs	1
-)	13
-Boolean	1
-^n	1
-time	5
-the	9
-}	11
+all,2
+Russell,1
+less,1
+over,2
+obtain,1
+Permanent,1
+textrm,1
+tilde,2
+Arithmetic,1
+Nondeterministic,1
+We,3
+also,1
+to,1
+systems,2
+has,1
+SAT,1
+orthogonal,1
+posed,1
+possible,1
+results,1
+every,1
+nearly,2
+d,4
+runs,1
+dK,1
+cdot,2
+infeasibility,1
+Closest,1
+this,1
+Valiant,1
+small,1
+x,2
+cycles,1
+round,1
+Merlin,3
+For,2
+formulas,1
+sends,1
+some,1
+C,3
+summation,1
+sublinear,1
+for,9
+assignments,1
+AMA,1
+future,1
+various,1
+be,1
+we,1
+run,1
+linear,3
+degree,2
+cliques,1
+s,3
+K,4
+O,3
+Arthur,3
+refuting,1
+Circuit,2
+others,1
+directions,1
+by,1
+certified,1
+varepsilon,2
+c,2
+MA,4
+of,5
+k,3
+vectors,1
+Impagliazzo,1
+o,1
+ldots,3
+length,1
+circuit,1
+mathbb,4
+strongly,1
+Hamming,1
+probability,1
+point,1
+poly,1
+three,1
+Verifier,2
+polynomial,1
+ETH,3
+Evaluation,1
+size,1
+log,1
+coins,1
+system,5
+Pairs,1
+exhaustive,1
+that,1
+These,1
+about,1
+general,1
+with,1
+than,2
+present,1
+Hamiltonian,1
+Strong,3
+circuits,1
+value,1
+n,7
+tosses,1
+values,1
+can,2
+error,1
+example,1
+proof,9
+and,11
+Multipoint,1
+give,1
+metric,1
+an,1
+in,11
+counting,3
+any,2
+refute,1
+efficient,1
+F,4
+Prover,1
+check,1
+field,1
+potential,1
+finding,1
+many,1
+arithmetic,1
+inputs,1
+quantified,1
+In,1
+collection,1
+VP,1
+applications,1
+running,2
+class,1
+a,12
+faster,1
+bullet,2
+programs,1
+graphs,1
+depth,1
+Boolean,1
+time,6
+the,9
+sf,1

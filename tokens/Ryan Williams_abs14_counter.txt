@@ -1,34 +1,30 @@
-
-ACC	1
-discover	1
-perspective	1
-polynomial	1
-lacks	1
-size	1
-described	1
-nondeterministic	1
-to	1
-)	1
-(	1
-NEXP	1
-discuss	1
-.	2
-be	1
-someone	1
-nonuniform	1
-that	1
-I	1
-it	1
-from	1
-The	1
-trying	1
-class	1
-recent	1
-exponential	1
-circuits	1
-of	2
-will	2
-complexity	1
-time	1
-the	3
-proof	2
+ACC,1
+discover,1
+perspective,1
+polynomial,1
+lacks,1
+size,1
+described,1
+nondeterministic,1
+NEXP,1
+discuss,1
+to,1
+be,1
+someone,1
+nonuniform,1
+that,1
+I,1
+it,1
+from,1
+The,1
+trying,1
+class,1
+recent,1
+exponential,1
+circuits,1
+of,2
+will,2
+complexity,1
+time,1
+the,3
+proof,2

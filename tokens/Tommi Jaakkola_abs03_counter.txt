@@ -1,102 +1,96 @@
-
-limited	1
-drastically	1
-consider	1
-over	1
-underlying	1
-identify	2
-Assuming	1
-conservative	1
-observational	1
-We	1
-(	1
-,	4
-writing	1
-to	3
-Although	1
-under	1
-policy	1
-guarantees	1
-good	1
-worse	1
-downstream	1
-propose	1
-effects	1
-they	1
-enacted	1
-settings	1
-each	1
-identifies	1
-where	2
-beneficial	1
-methods	1
-For	1
-individual	1
-are	1
-our	3
-for	1
-covariates	2
-invariant	1
-approach	2
-be	2
-we	2
-provide	1
-focused	1
-change	1
-definition	1
-of	2
-capable	1
-practical	1
-unintentional	1
-improvement	1
-gene	1
-or	1
-adjusted	1
-outcomes	1
-proposing	1
-precisely	1
-intervention	4
-perturbation	1
-from	2
-misspecified	1
-remains	1
-two	1
-.	6
-few	1
-:	1
-theoretical	1
-relationship	1
-that	1
-incur	1
-than	1
-population	1
-Process	1
-remain	1
-can	1
-Our	1
-and	3
-interventions	4
-is	2
-globally	1
-Empirically	1
-in	3
-narrowly	1
-develop	1
-goal	1
-no	1
-)	1
-setting	1
-optimal	2
-may	1
-harmful	1
-applications	2
-impacting	1
-improving	1
-data	2
-a	3
-tailored	1
-assume	1
-Gaussian	1
-efficient	1
-algorithms	1
-the	3
+limited,1
+drastically,1
+consider,1
+over,1
+underlying,1
+identify,2
+Assuming,1
+covariates,2
+observational,1
+We,1
+writing,1
+to,3
+Although,1
+under,1
+policy,1
+guarantees,1
+good,1
+worse,1
+downstream,1
+propose,1
+effects,1
+they,1
+enacted,1
+settings,1
+each,1
+identifies,1
+where,2
+beneficial,1
+methods,1
+For,1
+individual,1
+are,1
+our,3
+for,1
+conservative,1
+invariant,1
+approach,2
+be,2
+we,2
+focused,1
+change,1
+definition,1
+of,2
+capable,1
+practical,1
+unintentional,1
+improvement,1
+gene,1
+or,1
+adjusted,1
+outcomes,1
+proposing,1
+precisely,1
+intervention,4
+perturbation,1
+from,2
+misspecified,1
+remains,1
+two,1
+few,1
+theoretical,1
+relationship,1
+that,1
+incur,1
+than,1
+population,1
+Process,1
+remain,1
+can,1
+Our,1
+and,3
+interventions,4
+is,2
+globally,1
+Empirically,1
+in,3
+narrowly,1
+develop,1
+goal,1
+no,1
+provide,1
+setting,1
+optimal,2
+may,1
+harmful,1
+applications,2
+impacting,1
+improving,1
+data,2
+a,3
+tailored,1
+assume,1
+Gaussian,1
+efficient,1
+algorithms,1
+the,3

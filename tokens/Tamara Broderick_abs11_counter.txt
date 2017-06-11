@@ -1,90 +1,85 @@
-
-accurate	1
-both	1
-generalize	1
-statistical	1
-its	1
-We	3
-non-conjugate	1
-(	3
-,	5
-analytic	1
-has	1
-real	1
-severely	1
---	1
-Indeed	1
-across	1
-popular	1
-the	6
-methods	1
-estimates	1
-approximation	2
-individual	1
-our	2
-even	1
-for	4
-However	1
-Bayes	2
-provides	1
-method	3
-we	1
-linear	2
-deliver	1
-scalability	1
-on	2
-about	2
-of	5
-uncertainty	2
--both	1
-range	1
-runtime	1
-major	1
-family	1
-large-scale	1
-simple	1
-variables	4
-When	1
-MFVB	3
-from	1
-to	2
-due	1
-fast	1
-.	7
-call	1
-variational	2
-form	2
-that	2
-covariance	1
-posterior	3
-underestimates	1
-known	1
-true	1
-exponential	1
-demonstrate	1
-and	4
-sometimes	1
-is	4
-it	2
-assumptions	1
-in	1
-LRVB	2
-information	1
-no	2
-)	3
-make	1
-field	1
-accuracy	1
-models	2
-simulated	1
-variable	1
-data	2
-response	2
-Mean	1
-a	4
-failing	1
-well	1
-sets	1
-model	3
-physics	1
-coherently	1
+and,4
+major,1
+uncertainty,2
+methods,1
+family,1
+severely,1
+is,4
+both,2
+estimates,1
+it,2
+due,1
+approximation,2
+variable,1
+individual,1
+generalize,1
+statistical,1
+our,2
+MFVB,3
+LRVB,2
+its,1
+simple,1
+even,1
+information,1
+We,3
+scale,1
+from,1
+analytic,1
+for,4
+field,1
+true,1
+make,1
+However,1
+fast,1
+sometimes,1
+to,2
+call,1
+Bayes,2
+provides,1
+variational,2
+method,3
+accuracy,1
+real,1
+non,1
+linear,2
+form,2
+that,2
+models,2
+When,1
+has,1
+simulated,1
+deliver,1
+covariance,1
+scalability,1
+posterior,3
+conjugate,1
+underestimates,1
+response,2
+known,1
+variables,4
+accurate,1
+data,2
+model,3
+Mean,1
+a,4
+on,2
+about,2
+no,2
+in,1
+exponential,1
+Indeed,1
+we,1
+of,5
+failing,1
+well,1
+across,1
+large,1
+range,1
+assumptions,1
+sets,1
+popular,1
+demonstrate,1
+the,6
+runtime,1
+physics,1
+coherently,1

@@ -1,80 +1,78 @@
-
-suggest	2
-activate	1
-methods	1
-modalities	4
-recognize	1
-is	2
-in	1
-agnostic	1
-scene	3
-dataset	1
-To	1
-paper	1
-have	1
-our	2
-images	1
-categorize	1
-beyond	1
-Moreover	1
-networks	2
-help	1
-regularize	1
-different	1
-cross-modal	4
-for	2
-to	3
-consistent	1
-transfer	3
-tend	1
-,	5
-.	7
-how	1
-intermediate	1
-which	1
-units	1
-new	1
-aligned	1
-across	4
-undesirable	1
-convolutional	2
-we	2
-emerge	1
-that	6
-modality	2
-In	1
-We	1
-introduce	1
-applications	1
-While	1
-they	2
-shared	2
-not	1
-representations	2
-on	1
-an	1
-the	3
-present	1
-a	2
-also	1
-independently	1
-visualizations	1
-natural	1
-People	1
-this	2
-many	1
-study	1
-neural	2
-well	1
-scenes	2
-concepts	1
-investigate	1
-experiments	1
-so	1
-can	3
-learn	2
-of	2
-representation	4
-problem	1
-retrieval	1
-Our	1
+suggest,2
+activate,1
+methods,1
+modalities,4
+recognize,1
+is,2
+in,1
+agnostic,1
+scene,3
+dataset,1
+To,1
+paper,1
+have,1
+our,2
+images,1
+categorize,1
+beyond,1
+Moreover,1
+networks,2
+help,1
+regularize,1
+different,1
+aligned,1
+for,2
+to,3
+consistent,1
+transfer,3
+tend,1
+cross,4
+modality,2
+how,1
+intermediate,1
+which,1
+units,1
+new,1
+of,2
+across,4
+undesirable,1
+convolutional,2
+we,2
+emerge,1
+that,6
+In,1
+We,1
+introduce,1
+applications,1
+While,1
+they,2
+shared,2
+not,1
+representations,2
+on,1
+an,1
+the,3
+present,1
+a,2
+also,1
+independently,1
+visualizations,1
+natural,1
+People,1
+this,2
+many,1
+study,1
+neural,2
+well,1
+scenes,2
+concepts,1
+investigate,1
+experiments,1
+so,1
+can,3
+modal,4
+learn,2
+representation,4
+problem,1
+retrieval,1
+Our,1

@@ -1,97 +1,94 @@
-
-burden	1
-show	1
-particular	1
-results	2
-tasks	1
-including	1
-Under	1
-still	1
-non-convex	1
-sub-quadratic	1
-We	2
-based	1
-(	1
-,	6
-to	1
-Hypothesis	1
-has	1
-risk	1
-Exponential	1
-While	1
-aforementioned	1
-not	1
-exact	1
-loss	1
-large	1
-these	2
-popular	1
-kernel	2
-methods	1
-conditional	1
-understood	1
-are	1
-multiple	1
-complexity-theoretic	1
-network	1
-for	4
-gradient	1
-various	1
-SVMs	1
-issue	1
-body	1
-we	2
-minimization	1
-address	1
-on	2
-training	1
-of	4
-supervised	1
-computational	2
-computing	1
-learning	3
-ridge	1
-there	2
-been	1
-.	6
-final	1
-main	1
-that	2
-Empirical	1
-Time	1
-hardness	2
-Strong	1
-this	1
-work	1
-empirical	1
-many	1
-similar	1
-and	2
-layer	1
-give	2
-is	3
-high	1
-as	1
-assumptions	2
-in	3
-ERM	5
-regression	1
-no	1
-)	1
-machine	1
-also	1
-which	1
-solve	1
-accuracy	1
-ubiquitous	1
-In	1
-problems	4
-most	1
-such	1
-a	2
-neural	1
-underlies	1
-complexity	1
-algorithms	2
-time	1
-the	7
+burden,1
+show,1
+particular,1
+results,2
+tasks,1
+including,1
+Under,1
+still,1
+We,2
+based,1
+to,1
+Hypothesis,1
+has,1
+non,1
+risk,1
+Exponential,1
+While,1
+aforementioned,1
+not,1
+exact,1
+loss,1
+large,1
+these,2
+popular,1
+kernel,2
+methods,1
+there,2
+conditional,1
+understood,1
+are,1
+convex,1
+multiple,1
+theoretic,1
+network,1
+for,4
+gradient,1
+various,1
+SVMs,1
+issue,1
+body,1
+we,2
+minimization,1
+address,1
+on,2
+training,1
+of,4
+supervised,1
+computational,2
+learning,3
+ridge,1
+computing,1
+been,1
+quadratic,1
+final,1
+main,1
+that,2
+Empirical,1
+Time,1
+hardness,2
+Strong,1
+this,1
+work,1
+empirical,1
+many,1
+similar,1
+and,2
+layer,1
+give,2
+is,3
+high,1
+as,1
+assumptions,2
+in,3
+ERM,5
+regression,1
+no,1
+machine,1
+also,1
+which,1
+solve,1
+accuracy,1
+ubiquitous,1
+In,1
+problems,4
+most,1
+such,1
+sub,1
+a,2
+neural,1
+underlies,1
+complexity,2
+algorithms,2
+time,1
+the,7

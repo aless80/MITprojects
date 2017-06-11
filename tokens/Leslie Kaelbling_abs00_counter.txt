@@ -1,110 +1,108 @@
-
-increasingly	1
-planning	1
-previous	1
-observational	1
-We	4
-,	2
-environment	3
-to	4
-only	1
-systems	1
-under	2
-policy	2
-various	1
-must	1
-real	1
-then	1
-means	1
-checking	1
-evaluate	1
-safe	5
-not	1
-affect	1
-execution	1
-realistic	1
-become	1
-difficult	1
-mathematical	2
-methods	2
-estimates	1
-design	1
-are	2
-our	1
-even	1
-Notably	1
-does	1
-safety	3
-conditions	1
-ability	1
-cars	1
-use	2
-noisy	1
-on	1
-of	8
-motion	1
-resulting	1
-long-term	1
-navigation	1
-or	3
-into	1
-drones	1
-fed	1
-guaranteeing	1
-prove	1
-trajectory	2
-.	8
-much	1
-observations	1
-RRT	1
-more	1
-imperfect	1
-that	6
-becoming	1
-formalisms	1
-with	2
-than	1
-present	1
-circumstances	1
-has	1
-these	2
-work	1
-bounds	1
-can	2
-policies	1
-autonomous	1
-arrive	1
-and	2
-proved	1
-is	3
-it	1
-conditioned	1
-examine	2
-at	1
-in	1
-guarantee	1
-information	2
-efficient	1
-when	1
-complexity	1
-how	1
-widespread	1
-if	1
-Efficiently	1
-plans	1
-trajectories	1
-variant	1
-robots	2
-important	1
-plan	1
-The	1
-tighter	1
-a	5
-algorithm	1
-safely	1
-implications	1
-As	1
-algorithms	1
-the	7
-operate	1
-notion	1
+increasingly,1
+planning,1
+previous,1
+observational,1
+We,4
+environment,3
+to,4
+only,1
+systems,1
+under,2
+policy,2
+various,1
+must,1
+real,1
+then,1
+means,1
+checking,1
+evaluate,1
+safe,5
+not,1
+affect,1
+execution,1
+term,1
+realistic,1
+become,1
+difficult,1
+mathematical,2
+methods,2
+estimates,1
+design,1
+are,2
+our,1
+even,1
+Notably,1
+does,1
+safety,3
+conditions,1
+ability,1
+cars,1
+use,2
+noisy,1
+on,1
+of,8
+motion,1
+resulting,1
+navigation,1
+or,3
+into,1
+drones,1
+fed,1
+guaranteeing,1
+prove,1
+trajectory,2
+long,1
+much,1
+observations,1
+RRT,1
+more,1
+imperfect,1
+that,6
+becoming,1
+formalisms,1
+with,2
+than,1
+present,1
+circumstances,1
+has,1
+these,2
+work,1
+bounds,1
+can,2
+policies,1
+autonomous,1
+arrive,1
+and,2
+proved,1
+is,3
+it,1
+conditioned,1
+examine,2
+at,1
+in,1
+guarantee,1
+information,2
+efficient,1
+when,1
+complexity,1
+how,1
+widespread,1
+if,1
+Efficiently,1
+plans,1
+trajectories,1
+variant,1
+robots,2
+important,1
+plan,1
+The,1
+tighter,1
+a,5
+algorithm,1
+safely,1
+implications,1
+As,1
+algorithms,1
+the,7
+operate,1
+notion,1

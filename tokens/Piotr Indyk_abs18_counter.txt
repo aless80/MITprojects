@@ -1,140 +1,108 @@
-
-show	3
-over	3
-results	1
--sparse	1
-paper	1
-$	40
-parameters	1
-application	1
-FPRU10	1
-(	14
-,	13
-improvement	1
-to	4
-stable	1
-<	1
-norm	1
-non-adaptive	3
-then	1
-k-sparse	1
-C=1+eps	1
-number	1
-using	3
-m=O	3
-p	1
-vector	1
-sparse	1
-x	3
-reduced	1
-n/k	2
-some	1
-we	3
-CRT06	1
-approximation	1
-are	2
-pass	1
-our	1
-best	4
-'	1
-space	2
-+	1
-measurements	6
-\log	4
-drawn	1
-adaptive	1
-DIPW10	1
-be	2
-C	2
-linear	1
-This	2
-O	3
-how	1
-[	2
-log*	1
-knowledge	1
-of	9
-k	6
-accomplished	1
-improves	1
-||x-x'||_q	1
-{	2
-or	1
-first	1
-eps/k	2
-bound	3
-one	1
-||x-x*||_p	1
-achievable	1
-rounds	2
-passes	1
-from	2
-log	6
-data	1
-.	10
-duplicate	1
-2	1
-scheme	2
-type	1
-x*	2
-considerably	1
-that	7
-Specifically	2
-...	1
-known	1
-/two/	1
-with	2
-this	4
-bits	1
-n	5
-can	2
-items	1
-problem	1
-and	5
-constant	1
-stream	1
-k/eps	1
-is	6
-in	1
-an	1
-To	1
-single	1
-allowed	1
-recover	2
-if	1
-these	1
-recovery	1
-)	14
-n-1	1
--	2
-complexity	1
-1	1
-tight	1
-min_	1
-finding	1
-PW11	1
-=	1
-1/eps	2
-A	2
-independent	1
-possible	3
-uses	2
-significant	1
-improving	1
-such	1
-The	1
-]	2
-goal	2
-a	6
-task	1
-for	3
-p=q=1	1
-p=q=2	2
-It	1
-q	1
-perform	1
-As	1
-solve	1
-In	1
-the	8
-}	2
+show,3
+over,3
+results,1
+paper,1
+knowledge,1
+parameters,1
+application,1
+FPRU,1
+improvement,1
+to,4
+stable,1
+norm,1
+then,1
+non,3
+possible,3
+bound,3
+using,3
+this,4
+vector,1
+sparse,3
+x,9
+reduced,1
+CRT,1
+some,1
+we,3
+Specifically,2
+approximation,1
+are,2
+pass,1
+our,1
+best,4
+PW,1
+for,3
+p,5
+measurements,6
+drawn,1
+adaptive,4
+be,2
+C,3
+linear,1
+This,2
+DIPW,1
+how,1
+O,6
+of,9
+k,12
+accomplished,1
+improves,1
+or,1
+first,1
+number,1
+one,1
+achievable,1
+rounds,2
+passes,1
+from,2
+log,11
+two,1
+duplicate,1
+scheme,2
+type,1
+considerably,1
+that,7
+known,1
+an,1
+with,2
+these,1
+bits,1
+n,8
+can,2
+items,1
+problem,1
+and,5
+constant,1
+stream,1
+is,6
+in,1
+eps,6
+To,1
+single,1
+allowed,1
+recover,2
+if,1
+recovery,1
+min,1
+perform,1
+complexity,1
+tight,1
+finding,1
+A,2
+independent,1
+uses,2
+significant,1
+improving,1
+such,1
+The,1
+data,1
+goal,2
+a,6
+task,1
+space,2
+m,3
+It,1
+q,5
+As,1
+solve,1
+In,1
+the,8

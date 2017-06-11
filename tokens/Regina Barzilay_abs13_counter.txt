@@ -1,95 +1,92 @@
-
-consider	1
-results	1
-We	3
-latent	1
-merges	1
-,	2
-languages	3
-to	1
-into	1
-achieve	1
-Both	1
-gains	1
-increases	1
-instead	1
-using	2
-tagging	2
-impressive	1
-each	1
-found	1
-Carlo	1
-directly	1
-sequence	1
-second	1
-are	1
-combining	1
-our	1
-incorporating	1
-techniques	1
-cues	1
-for	3
-ways	1
-across	1
-available	1
-we	1
-approaches	1
-Our	1
-by	2
-incorporates	1
-Monte	1
-central	1
-Chain	1
-of	8
-range	1
-improves	1
-context	1
-steadily	1
-intuition	1
-formulated	1
-inference	1
-variables	1
-number	1
-sampling	1
-learning	1
-Markov	1
-from	1
-two	1
-.	6
-scenarios	1
-assumption	1
-part-of-speech	2
-:	1
-structures	1
-more	1
-that	4
-becomes	1
-apparent	1
-hierarchical	1
-applying	1
-this	1
-work	1
-as	2
-can	1
-demonstrate	2
-problem	1
-and	1
-is	1
-evidence	1
-single	1
-tag	1
-also	1
-which	1
-Bayesian	1
-performance	2
-effectiveness	1
-multiple	1
-models	1
-multilingual	3
-pair	1
-The	1
-the	4
-structure	1
-a	5
-unsupervised	2
-model	2
+consider,1
+results,1
+We,3
+latent,1
+merges,1
+languages,3
+to,1
+into,1
+achieve,1
+Both,1
+gains,1
+increases,1
+instead,1
+using,2
+tagging,2
+impressive,1
+each,1
+found,1
+Carlo,1
+directly,1
+sequence,1
+second,1
+are,1
+combining,1
+our,1
+incorporating,1
+techniques,1
+cues,1
+for,3
+ways,1
+across,1
+available,1
+we,1
+approaches,1
+Our,1
+by,2
+incorporates,1
+Monte,1
+central,1
+Chain,1
+of,10
+range,1
+improves,1
+context,1
+steadily,1
+intuition,1
+formulated,1
+inference,1
+variables,1
+number,1
+sampling,1
+learning,1
+Markov,1
+from,1
+two,1
+scenarios,1
+assumption,1
+structures,1
+more,1
+that,4
+becomes,1
+apparent,1
+part,2
+applying,1
+this,1
+work,1
+as,2
+can,1
+demonstrate,2
+problem,1
+and,1
+is,1
+evidence,1
+single,1
+tag,1
+also,1
+speech,2
+which,1
+Bayesian,1
+performance,2
+effectiveness,1
+multiple,1
+models,1
+multilingual,3
+pair,1
+The,1
+the,4
+structure,1
+a,5
+unsupervised,2
+hierarchical,1
+model,2

@@ -1,113 +1,108 @@
-
-supported	1
-focus	1
-nonparametric	1
-whose	1
-We	2
-$	2
-density	2
-(	1
-coarser	1
-,	9
-to	3
-samples	3
-finer	1
-introduce	1
-results	1
-ones	1
-every	1
-poset	1
-secondary	2
-densities	1
-these	1
-mathematical	1
-weighted	1
-some	1
-likely	1
-are	1
-log-concave	2
-appear	1
-for	2
-space	1
-quantify	1
-version	1
-establishes	1
-between	1
-new	1
-geometric	2
-numerous	1
-body	1
-be	1
-we	3
-linear	1
-This	2
-from	1
-article	1
-likelihood	1
-properties	1
-on	3
-polytope	2
-of	9
-study	1
-piecewise	1
-suggests	1
-estimator	1
-Cule	1
-{	1
-estimation	1
-probability	1
-set	2
-i.e	1
-Shape-constrained	1
-open	1
-statistics	2
-Samworth	2
-prove	1
-combinatorics	1
-positive	1
-.	9
-their	1
-important	1
-more	1
-surjective	1
-arises	1
-name	1
-that	3
-continuous	1
-but	1
-R	1
-link	1
-with	1
-than	1
-logarithm	1
-showed	1
-this	1
-maximum	1
-and	5
-\mathbb	1
-is	3
-arise	1
-it	1
-an	1
-topic	1
-To	1
-dual	1
-in	2
-defines	1
-)	1
-optimal	1
-map	2
-MLE	2
-problems	1
-regular	3
-Stewart	1
-a	4
-subdivision	2
-^d	1
-face	1
-subdivisions	2
-weights	2
-In	1
-the	11
-}	1
-fact	1
+supported,1
+focus,1
+nonparametric,1
+whose,1
+We,2
+density,2
+coarser,1
+to,3
+samples,3
+finer,1
+introduce,1
+results,1
+ones,1
+every,1
+poset,1
+secondary,2
+d,1
+concave,2
+these,1
+mathematical,1
+weighted,1
+some,1
+likely,1
+are,1
+appear,1
+for,2
+space,1
+quantify,1
+version,1
+establishes,1
+between,1
+new,1
+geometric,2
+numerous,1
+densities,1
+body,1
+be,1
+we,3
+linear,1
+This,2
+from,1
+likelihood,1
+properties,1
+regular,3
+on,3
+polytope,2
+of,9
+study,1
+piecewise,1
+suggests,1
+Shape,1
+estimator,1
+positive,1
+estimation,1
+mathbb,1
+probability,1
+set,2
+article,1
+open,1
+statistics,2
+Samworth,2
+log,2
+prove,1
+combinatorics,1
+Cule,1
+name,1
+their,1
+more,1
+surjective,1
+arises,1
+that,3
+continuous,1
+but,1
+R,1
+link,1
+subdivision,2
+with,1
+than,1
+logarithm,1
+showed,1
+this,1
+maximum,1
+and,5
+is,3
+arise,1
+it,1
+an,1
+topic,1
+To,1
+dual,1
+in,2
+constrained,1
+defines,1
+optimal,1
+map,2
+MLE,2
+problems,1
+important,1
+Stewart,1
+a,4
+e,1
+i,1
+face,1
+subdivisions,2
+weights,2
+In,1
+the,11
+fact,1

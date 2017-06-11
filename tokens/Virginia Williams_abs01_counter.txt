@@ -1,122 +1,119 @@
-
-code	1
-focus	1
-same	1
-find	1
-We	5
-implementation	2
-(	2
-,	7
-to	6
-spreading	1
-resolved	1
-then	2
-increased	1
-showing	1
-material	1
-results	1
-framework	1
-effects	1
-mixing	6
-turbulence	3
-level	1
-shock	1
-applied	1
-common	1
-each	2
-instability	1
-For	1
-ensemble-averaged	1
-Reynolds-Averaged	1
-turbulent	1
-observed	1
-depends	1
-astrophysical	1
-radius	2
-are	1
-our	1
-dynamics	1
-resolutions	1
-dimensions	1
-for	2
-per	2
-experiment	1
-can	1
-be	1
-we	2
-inviscid	1
-agreement	2
-standard	1
-although	2
-compressibility	1
-100	1
-improve	1
-definition	1
-interaction	1
-of	6
-greater	1
-suggests	1
-corrections	1
-implement	1
-high-resolution	1
-two-equation	1
-via	1
-into	1
-two	1
-RANS	1
-buoyancy	1
-cloud	3
-shock-cloud	1
-from	1
-Increased	1
-comparing	1
-three	1
-.	9
-width	1
-medium	1
-that	3
-Rayleigh-Taylor	1
-validity	1
-unresolved	1
-with	3
-than	1
-diffusion	1
-begins	1
-account	1
-cells	2
-up	1
-growth	1
-stratified	1
-result	1
-and	5
-layer	2
-predict	1
-is	1
-simulations	4
-at	1
-in	5
-Athena	1
-develop	1
-no	1
-)	2
-verify	2
-six	1
-subsonic	1
-also	2
-which	1
-test	1
-Turbulence	1
-regime	1
-hydrodynamical	1
-200	1
-ubiquitous	1
-models	8
-Navier-Stokes	1
-The	1
-on	2
-the	15
-a	2
-supersonic	1
-attempt	1
-lead	1
-model	1
+code,1
+focus,1
+same,1
+Rayleigh,1
+find,1
+We,5
+implementation,2
+to,6
+unresolved,1
+spreading,1
+resolved,1
+Stokes,1
+increased,1
+showing,1
+material,1
+results,1
+framework,1
+effects,1
+mixing,6
+turbulence,3
+level,1
+shock,2
+applied,1
+common,1
+each,2
+instability,1
+cells,2
+For,1
+turbulent,1
+observed,1
+depends,1
+astrophysical,1
+radius,2
+are,1
+our,1
+dynamics,1
+resolutions,1
+dimensions,1
+for,2
+per,2
+experiment,1
+can,1
+be,1
+we,2
+inviscid,1
+Averaged,1
+agreement,2
+standard,1
+although,2
+compressibility,1
+improve,1
+definition,1
+interaction,1
+of,6
+greater,1
+suggests,1
+corrections,1
+implement,1
+via,1
+into,1
+two,2
+RANS,1
+buoyancy,1
+cloud,4
+from,1
+Increased,1
+comparing,1
+three,1
+width,1
+medium,1
+that,3
+validity,1
+Taylor,1
+Navier,1
+with,3
+than,1
+diffusion,1
+begins,1
+account,1
+equation,1
+averaged,1
+up,1
+growth,1
+stratified,1
+result,1
+and,5
+layer,2
+then,2
+predict,1
+is,1
+simulations,4
+high,1
+at,1
+in,5
+Athena,1
+develop,1
+no,1
+verify,2
+six,1
+subsonic,1
+also,2
+which,1
+test,1
+Turbulence,1
+regime,1
+hydrodynamical,1
+ensemble,1
+ubiquitous,1
+models,8
+The,1
+on,2
+the,15
+a,2
+supersonic,1
+attempt,1
+lead,1
+resolution,1
+model,1
+Reynolds,1

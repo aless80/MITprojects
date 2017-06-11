@@ -1,140 +1,127 @@
-
-gates	1
-\big	2
-just	1
-show	1
-all	1
--sparse	1
-query	3
-We	1
-$	40
-also	1
-controlled-	2
-(	5
-`qubitization	1
-=\langle	1
-to	4
-only	1
-then	1
-combination	1
-H	5
-motivates	1
-\text	1
-invariant	1
-not	1
-evolution	1
-d	1
-large	1
-t	4
-where	1
-t+\frac	1
-art	1
-computed	1
-are	2
-Hamiltonians	1
-special	1
-matrix	1
-for	2
-space	1
-speed-up	1
-per	1
-state	1
-e^	2
-\log	1
-new	1
-approach	1
-be	2
-linear	1
-G	3
-qubits	1
-embed	1
-O	2
-subsumes	1
-key	1
-subspace	1
-approximating	1
-by	1
-asymptotic	1
-limits	1
-created	1
-technical	1
-of	6
-density	1
-simulation	2
-prior	1
-Hermitian	1
-uses	1
-{	22
-or	1
-Given	1
-useful	1
-projection	1
-\hat	9
-instances	1
-improvements	1
-done	1
-operator	3
-total	1
-considering	1
-\mathcal	2
-|G\rangle	3
-additional	2
-leading	1
-.	7
-2	2
-\epsilon	2
-\log\log	1
-Hamiltonian	2
-1/\epsilon	2
-precision	1
-but	1
-G|\hat	2
-with	5
-,	11
-case	1
-this	1
-two-qubit	1
-as	3
-SU	1
-values	1
-can	2
-error	1
-Our	1
-problem	1
-result	1
-and	2
-is	6
-simulations	1
-an	2
-single	1
-at	1
-in	4
-functions	1
-)	5
-that	3
-\langle	1
--i\hat	2
-1	1
-unitaries	1
-which	3
-optimal	2
-A	2
-ancilla	1
-important	1
-U	5
-significant	1
-such	1
-class	1
-Furthermore	1
-a	5
-'	1
-required	1
-well	1
-It	1
-together	1
-complexity	3
-time	2
-oracle	2
-quadratic	1
-the	3
-}	22
+gates,1
+all,1
+just,1
+show,1
+text,1
+query,3
+speed,1
+We,1
+langle,2
+also,1
+to,4
+only,1
+hat,13
+then,1
+combination,1
+H,5
+qubitization,1
+motivates,1
+new,1
+not,1
+evolution,1
+d,1
+large,1
+t,5
+sparse,1
+where,1
+art,1
+computed,1
+up,1
+are,2
+rangle,3
+invariant,1
+Hamiltonians,1
+special,1
+matrix,1
+for,2
+space,1
+per,1
+state,1
+mathcal,2
+approach,1
+be,2
+linear,1
+G,8
+qubits,1
+embed,1
+O,2
+key,1
+approximating,1
+by,1
+log,3
+limits,1
+created,1
+technical,1
+of,6
+density,1
+simulation,2
+prior,1
+Hermitian,1
+uses,1
+qubit,1
+or,1
+Given,1
+useful,1
+projection,1
+instances,1
+improvements,1
+done,1
+operator,3
+total,1
+considering,1
+subsumes,1
+additional,2
+leading,1
+two,1
+quadratic,1
+Furthermore,1
+controlled,2
+Hamiltonian,2
+epsilon,4
+subspace,1
+precision,1
+but,1
+with,5
+case,1
+this,1
+as,3
+SU,1
+values,1
+can,2
+error,1
+Our,1
+problem,1
+result,1
+and,2
+is,6
+simulations,1
+an,2
+single,1
+at,1
+in,4
+functions,1
+that,3
+unitaries,1
+which,3
+big,2
+optimal,2
+A,2
+frac,1
+ancilla,1
+asymptotic,1
+important,1
+U,5
+significant,1
+such,1
+class,1
+a,5
+e,2
+i,2
+required,1
+well,1
+It,1
+together,1
+complexity,3
+time,2
+oracle,2
+the,3
