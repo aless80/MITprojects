@@ -10,6 +10,7 @@ inferences,1
 knowledge,1
 environment,1
 to,9
+N3Logic,3
 extends,1
 choose,1
 inconsistencies,1
@@ -28,7 +29,6 @@ implication,1
 where,1
 Adding,1
 be,5
-NLogic,3
 richly,1
 towards,1
 are,1

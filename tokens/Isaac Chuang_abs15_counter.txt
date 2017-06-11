@@ -23,6 +23,7 @@ quantum,2
 our,2
 techniques,1
 network,2
+frac12,1
 per,2
 state,1
 version,1
@@ -62,7 +63,7 @@ count,1
 critically,1
 require,1
 as,1
-n,2
+n,1
 values,1
 amplitude,1
 distribution,2
@@ -79,16 +80,17 @@ at,1
 in,2
 occur,1
 depending,1
+1,1
 also,1
 Bayesian,3
 instead,1
 node,1
 used,1
-frac,1
+blackbox,1
 intended,1
 Performing,1
-blackbox,1
 most,1
+the,8
 structure,1
 efficiently,2
 a,6
@@ -98,4 +100,4 @@ m,1
 q,1
 time,2
 oracle,1
-the,8
+n2,1

@@ -5,17 +5,19 @@ tilde,1
 query,2
 selectivity,2
 its,1
+25,1
 We,4
 tight,1
 graph,6
 show,1
 Here,1
 better,1
-to,12
+0,1
 only,1
 systems,1
 SIAM,1
 has,3
+2011,1
 achieve,1
 gave,1
 geq,1
@@ -51,6 +53,7 @@ for,2
 factors,1
 complexities,1
 sum,2
+3,1
 polylogarithmic,1
 contrast,1
 available,1
@@ -63,6 +66,7 @@ pp,1
 O,2
 leq,1
 S,6
+1411,1
 textit,1
 estimate,1
 varepsilon,1
@@ -83,9 +87,10 @@ approximating,1
 use,1
 rows,1
 log,2
-estimating,2
+to,12
 assumed,1
 their,1
+2,5
 stars,1
 pm,1
 form,1
@@ -114,6 +119,7 @@ almost,1
 is,7
 allowed,1
 randomly,3
+estimating,2
 in,10
 counting,1
 triangleq,1
@@ -125,7 +131,9 @@ provide,1
 self,1
 that,1
 when,6
+1,4
 also,2
+edge,1
 which,2
 With,1
 frac,1
@@ -143,7 +151,7 @@ i,5
 m,2
 vertices,2
 equivalently,1
-edge,1
+1365,1
 algorithms,2
 time,1
 the,26

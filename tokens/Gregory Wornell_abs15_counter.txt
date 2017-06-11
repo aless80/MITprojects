@@ -40,6 +40,7 @@ conditions,1
 be,2
 we,6
 degree,2
+log1,1
 efficiency,1
 vanishing,1
 repairability,1
@@ -62,7 +63,6 @@ channels,1
 respect,1
 establish,1
 Motivated,1
-log,1
 locally,1
 needed,1
 bits,2

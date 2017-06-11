@@ -18,7 +18,6 @@ fuel,1
 has,1
 identical,1
 do,1
-HAM,1
 replication,2
 repulsive,3
 negative,2
@@ -68,6 +67,7 @@ powerful,1
 number,3
 Handed,1
 system,1
+2HAM,1
 precisely,1
 replicator,1
 size,4
@@ -80,6 +80,7 @@ interact,1
 there,1
 copies,1
 attach,1
+2,1
 is,3
 more,1
 that,7

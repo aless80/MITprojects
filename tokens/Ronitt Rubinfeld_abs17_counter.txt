@@ -7,11 +7,11 @@ We,3
 depend,1
 parameters,2
 better,1
-estimating,1
+0,1
 only,1
 samples,1
+to,2
 showing,1
-L,1
 instead,1
 d,1
 these,1
@@ -50,7 +50,7 @@ estimators,1
 size,1
 given,1
 additive,1
-to,2
+estimating,1
 there,1
 Delta,1
 metric,1
@@ -87,6 +87,7 @@ may,1
 clusterable,1
 variant,1
 metrics,1
+L1,1
 infinite,1
 such,1
 data,1

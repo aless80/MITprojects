@@ -29,11 +29,13 @@ matrices,2
 condition,1
 lceil,1
 increasing,1
-d,18
+d,14
 exploiting,1
 establishing,1
+2d,2
 sparsity,1
 sparse,2
+shows,1
 where,2
 subset,1
 constructing,3
@@ -53,7 +55,7 @@ Let,1
 dimensions,1
 squares,3
 conditions,1
-shows,1
+3d,2
 be,2
 we,3
 G,6
@@ -90,7 +92,7 @@ basis,3
 positive,1
 support,2
 two,2
-quadratic,1
+2,4
 certain,1
 gives,1
 function,1
@@ -150,5 +152,6 @@ observation,1
 well,1
 vertices,1
 Second,1
+quadratic,1
 the,12
 section,1

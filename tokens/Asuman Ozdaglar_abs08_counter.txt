@@ -93,6 +93,7 @@ system,2
 specifically,1
 grow,1
 reduction,1
+2,2
 too,1
 analyze,1
 opposed,1
@@ -137,6 +138,7 @@ if,1
 processors,1
 provide,2
 when,2
+1,6
 dependent,1
 setting,1
 split,1

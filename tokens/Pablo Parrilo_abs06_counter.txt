@@ -17,6 +17,7 @@ under,1
 stochastic,1
 achieve,1
 non,1
+to,8
 iterates,2
 focus,1
 fastest,1
@@ -26,6 +27,7 @@ convexity,1
 prominent,1
 processes,1
 Chung,1
+2s,1
 Newton,3
 solution,2
 translates,1
@@ -61,7 +63,7 @@ minimizing,1
 on,4
 of,6
 k,6
-s,6
+s,5
 improves,1
 first,1
 strongly,1
@@ -74,10 +76,11 @@ construct,1
 determine,1
 from,1
 tuning,1
-to,8
+0,1
 addition,1
 fast,1
 their,2
+2,1
 therefore,1
 function,1
 obtained,1
@@ -116,6 +119,7 @@ whereas,1
 when,2
 sqrt,1
 converges,1
+1,7
 other,1
 which,2
 objective,2

@@ -22,7 +22,6 @@ reasonable,1
 inherent,1
 upper,1
 schemes,1
-scheme,1
 Transactional,2
 understood,1
 are,2
@@ -31,6 +30,7 @@ further,1
 best,1
 linear,1
 even,1
+guarantees,2
 for,3
 opaque,1
 quantify,1
@@ -66,6 +66,7 @@ uninstrumented,1
 two,1
 fast,1
 their,1
+2,1
 overhead,2
 memory,1
 analyze,1
@@ -78,7 +79,7 @@ an,1
 effort,1
 serializable,1
 must,2
-guarantees,2
+scheme,1
 this,2
 reliable,1
 HyTM,7
@@ -99,6 +100,7 @@ Several,1
 any,1
 instrumentation,4
 provide,1
+1,1
 nontrivial,1
 build,1
 which,1

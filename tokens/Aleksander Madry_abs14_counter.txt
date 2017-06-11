@@ -6,6 +6,7 @@ Kent,2
 committed,1
 before,1
 some,2
+detects,1
 to,2
 then,4
 his,1
@@ -64,10 +65,12 @@ STOC,1
 use,1
 cheating,6
 Phys,1
+0,1
 probabilities,1
 positive,2
 two,1
 construct,1
+2,1
 call,1
 scheme,3
 gives,1
@@ -76,7 +79,7 @@ et,2
 binding,3
 but,1
 known,1
-detects,1
+92,1
 with,3
 than,1
 b,1
@@ -111,6 +114,8 @@ i,1
 unconditionally,1
 well,1
 It,1
+2000,1
+2004,1
 In,3
 the,10
 If,1

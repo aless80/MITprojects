@@ -1,6 +1,7 @@
 over,1
 results,1
 years,1
+133,1
 relevant,1
 LSTM,1
 avenue,1
@@ -42,8 +43,8 @@ available,1
 Term,1
 Short,1
 patient,2
-K,1
 given,1
+298K,1
 approaches,1
 based,3
 by,1
@@ -65,12 +66,14 @@ more,1
 convolutional,1
 that,4
 train,1
+8,1
 particular,1
 believe,1
 with,2
 multi,1
 novel,1
 this,2
+18,1
 work,1
 patients,1
 can,1

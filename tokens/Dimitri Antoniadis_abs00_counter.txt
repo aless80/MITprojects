@@ -1,6 +1,7 @@
 all,1
 show,3
 results,1
+40,1
 find,1
 before,1
 TAT,3
@@ -46,6 +47,7 @@ Shockley,1
 Urbach,1
 interface,1
 path,1
+100,1
 strong,1
 by,2
 on,1

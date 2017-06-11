@@ -5,6 +5,7 @@ give,1
 is,1
 tilde,1
 bound,1
+provable,1
 an,1
 sample,2
 d,2
@@ -24,12 +25,12 @@ factors,2
 comparable,1
 leading,1
 measurements,1
-provable,1
+sampling,1
 while,1
 any,2
-sampling,1
+1,2
 to,5
-other,1
+2,2
 extends,1
 samples,1
 dimensions,1
@@ -73,5 +74,6 @@ time,1
 Our,1
 the,4
 providing,1
+other,1
 experimental,1
 first,1

@@ -23,8 +23,10 @@ then,1
 non,2
 to,5
 Concretely,1
+3,1
 propose,1
 express,1
+2,1
 Turk,1
 T,3
 Lipschitz,3
@@ -136,6 +138,7 @@ these,1
 generic,1
 that,2
 when,2
+1,2
 setting,1
 potentially,1
 which,3

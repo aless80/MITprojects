@@ -5,7 +5,7 @@ over,2
 probe,1
 plagued,1
 We,1
-based,1
+20,1
 situations,1
 Here,1
 improvement,1
@@ -43,7 +43,7 @@ processing,1
 delivering,1
 advantages,1
 Our,1
-ratio,1
+based,1
 by,2
 limits,1
 of,1
@@ -51,6 +51,7 @@ could,1
 diminished,1
 practical,2
 suggests,1
+ratio,1
 utility,1
 enhancements,1
 Nonclassical,1
@@ -67,6 +68,7 @@ nonclassicality,1
 than,1
 sample,1
 exception,1
+14,1
 employ,1
 demonstrate,1
 result,1
@@ -87,6 +89,7 @@ destroy,1
 probed,1
 Exploiting,1
 nonclassical,1
+75,1
 entanglement,3
 the,4
 a,2

@@ -1,7 +1,9 @@
+210,1
 fabricated,1
 valuable,1
 before,1
 cut,1
+22,1
 delays,1
 GHz,2
 to,2
@@ -51,6 +53,7 @@ gain,1
 off,1
 with,1
 this,1
+18,1
 while,1
 can,1
 behavior,1

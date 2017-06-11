@@ -1,5 +1,6 @@
 limited,1
 externally,1
+0,1
 show,2
 bandgap,1
 bandwidth,1
@@ -57,6 +58,7 @@ can,3
 core,1
 we,3
 IR,1
+25,1
 by,3
 extreme,1
 of,14
@@ -122,6 +124,7 @@ in,4
 conversion,1
 field,3
 without,1
+5,1
 adapted,1
 which,2
 shifts,1

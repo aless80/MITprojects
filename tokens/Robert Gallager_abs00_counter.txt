@@ -11,6 +11,7 @@ Elias,1
 decreases,3
 to,1
 then,2
+1956,1
 using,1
 mean,1
 upper,1
@@ -55,7 +56,7 @@ with,4
 case,1
 exponential,2
 this,1
-zero,1
+single,1
 below,2
 limit,1
 error,5
@@ -69,6 +70,8 @@ at,2
 have,1
 in,5
 codes,1
+zero,1
+1966,1
 same,2
 ideal,1
 which,4
@@ -81,7 +84,6 @@ derived,2
 uses,1
 variable,1
 class,1
-single,1
 a,4
 lower,1
 surprising,1

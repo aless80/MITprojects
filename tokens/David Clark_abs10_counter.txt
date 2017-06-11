@@ -7,13 +7,14 @@ window,1
 indicating,2
 then,1
 around,2
+10,1
 wave,2
 vacuum,1
 using,1
 matched,1
 necessary,1
 shock,2
-GPa,1
+gun,1
 Surface,1
 these,1
 hydrodynamic,1
@@ -23,7 +24,6 @@ accessible,1
 significantly,1
 consistent,1
 prediction,1
-gun,1
 jump,1
 rigorous,1
 for,3
@@ -48,6 +48,7 @@ or,2
 into,2
 locus,1
 velocimetry,1
+100,1
 from,2
 elastic,2
 plastic,2
@@ -88,6 +89,7 @@ self,1
 shocked,3
 ideal,1
 higher,1
+70,1
 The,3
 measured,1
 model,1
@@ -95,5 +97,6 @@ a,4
 stress,1
 calculated,2
 flow,3
+60GPa,1
 accelerated,1
 the,14

@@ -2,6 +2,7 @@ gates,2
 all,2
 Nontrivial,1
 threshold,3
+24,1
 We,2
 NEXP,2
 to,1
@@ -66,9 +67,12 @@ polynomial,2
 open,1
 size,6
 log,3
+0,3
 give,1
 two,2
+2,11
 Every,1
+6,1
 function,1
 on,3
 known,1
@@ -101,8 +105,10 @@ Several,1
 functions,1
 that,1
 complexity,1
+1,5
 also,1
 nontrivial,2
+5,1
 algorithm,2
 modulus,1
 inputs,1

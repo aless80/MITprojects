@@ -66,6 +66,7 @@ to,6
 support,1
 system,2
 leaks,1
+2,1
 type,2
 that,4
 with,2
@@ -93,6 +94,7 @@ information,4
 prevent,1
 able,1
 check,1
+1,1
 formalize,1
 programmers,1
 driven,1

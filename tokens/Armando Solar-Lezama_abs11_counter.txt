@@ -32,9 +32,8 @@ competitions,1
 application,1
 potential,1
 present,1
-th,1
 place,1
-covering,1
+25th,1
 was,1
 is,1
 synthesis,7
@@ -74,6 +73,7 @@ as,2
 aims,1
 lead,1
 practical,1
+covering,1
 Computer,1
 ongoing,1
 mature,1

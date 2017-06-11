@@ -37,6 +37,7 @@ depends,1
 are,5
 transport,1
 subject,1
+07,1
 for,2
 compounds,2
 However,2
@@ -75,9 +76,11 @@ system,2
 dimensional,1
 exhibits,1
 doping,1
+0,3
 there,1
 predictions,1
 been,2
+2,9
 interest,1
 Such,1
 theoretical,2
@@ -111,6 +114,8 @@ have,3
 in,5
 Te,6
 degenerate,1
+45,1
+1,6
 which,1
 techniques,1
 arcs,2

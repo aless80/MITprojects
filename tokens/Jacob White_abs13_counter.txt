@@ -13,8 +13,8 @@ belongs,1
 location,1
 various,1
 nodes,1
-D,2
 rules,1
+2D,2
 touching,1
 nearly,1
 using,1

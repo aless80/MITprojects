@@ -1,6 +1,6 @@
 selection,1
 forbidden,1
-WS,1
+through,1
 causes,1
 We,1
 Here,1
@@ -40,7 +40,6 @@ by,2
 dichalcogenides,1
 transition,1
 anomalous,1
-through,1
 and,1
 helical,1
 Stark,1
@@ -58,6 +57,7 @@ neglected,1
 dressing,1
 but,3
 observe,1
+optical,4
 with,1
 made,1
 biexcitons,3
@@ -87,6 +87,6 @@ such,2
 a,1
 light,1
 metal,1
-optical,4
+WS2,1
 the,9
 normally,1

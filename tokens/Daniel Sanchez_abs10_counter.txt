@@ -20,6 +20,7 @@ band,2
 electron,1
 reversal,1
 report,1
+2,1
 is,2
 In,1
 this,1

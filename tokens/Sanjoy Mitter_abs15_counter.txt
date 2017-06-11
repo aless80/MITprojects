@@ -113,6 +113,7 @@ needed,1
 a,4
 natural,1
 anytime,1
+1970,1
 regressive,1
 In,1
 the,12

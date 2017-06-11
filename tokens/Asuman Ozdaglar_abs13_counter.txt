@@ -30,6 +30,7 @@ solving,1
 distributed,2
 sqrt,1
 converges,1
+1,2
 their,1
 which,1
 method,1

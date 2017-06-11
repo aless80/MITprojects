@@ -7,12 +7,13 @@ Lyapunov,1
 We,1
 iii,1
 delays,1
-outside,1
+state,2
 to,4
 under,2
 policy,1
 has,1
 straightforward,1
+outside,1
 fluid,1
 While,1
 traffic,2
@@ -33,7 +34,7 @@ result,1
 operated,1
 out,1
 for,2
-state,2
+3,1
 assuming,1
 mathcal,1
 conditions,1
@@ -41,6 +42,7 @@ arrival,1
 we,3
 theory,1
 This,1
+0,1
 fed,1
 O,1
 step,1
@@ -117,5 +119,6 @@ whereby,1
 i,3
 steady,2
 analysis,1
+1,5
 time,2
 the,12

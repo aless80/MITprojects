@@ -27,6 +27,7 @@ percolation,2
 passage,1
 their,1
 neighbours,1
+2,1
 infected,2
 which,2
 typical,1

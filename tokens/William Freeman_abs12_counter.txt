@@ -9,9 +9,9 @@ parameters,1
 solving,1
 to,6
 real,5
-D,21
 propose,2
 possible,1
+2D,6
 framework,1
 suffering,1
 INterpreter,1
@@ -32,6 +32,7 @@ achieves,1
 computer,1
 images,4
 estimated,1
+3D,15
 network,1
 space,1
 state,1

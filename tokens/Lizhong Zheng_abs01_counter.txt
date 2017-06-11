@@ -38,6 +38,7 @@ responses,2
 equivalent,1
 queries,4
 protection,3
+20,2
 estimate,1
 by,2
 noisy,3
@@ -57,6 +58,7 @@ scheme,1
 UEP,3
 that,3
 continuous,1
+2015,1
 convergence,1
 repetition,1
 with,3

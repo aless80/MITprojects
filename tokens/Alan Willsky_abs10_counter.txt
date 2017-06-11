@@ -24,9 +24,10 @@ min,2
 efficient,1
 graph,2
 Omega,1
+edge,1
 also,1
 high,1
-edge,1
+2,1
 criterion,1
 Ising,1
 between,1

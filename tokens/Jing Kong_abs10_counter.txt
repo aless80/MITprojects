@@ -1,5 +1,5 @@
 emerging,1
-MoS,10
+0,2
 ellipsometry,1
 over,1
 leads,1
@@ -7,6 +7,7 @@ atomic,1
 threshold,1
 its,1
 Raman,1
+chemical,1
 We,1
 Recently,1
 zone,1
@@ -15,6 +16,7 @@ absorption,1
 to,10
 quasi,1
 advanced,1
+enhance,1
 has,2
 momentum,1
 designs,1
@@ -44,12 +46,14 @@ guidelines,1
 direct,1
 observed,1
 are,1
-our,1
+83,1
 indirect,1
 transitions,3
+86,1
 for,2
 space,1
 consequence,1
+3,2
 critical,2
 identification,1
 between,1
@@ -62,7 +66,7 @@ spectroscopic,1
 reported,1
 deposition,1
 separation,1
-enhance,1
+MoS2,10
 article,1
 along,1
 exciting,1
@@ -93,8 +97,9 @@ area,1
 intrinsic,1
 due,1
 by,3
+2,1
 interest,1
-is,5
+graphene,1
 Brillouin,1
 function,1
 B,1
@@ -104,6 +109,7 @@ These,1
 precision,1
 gap,4
 bulk,4
+98,1
 interband,1
 optical,7
 general,1
@@ -111,6 +117,7 @@ with,2
 those,1
 crosses,1
 this,1
+when,1
 up,1
 devices,1
 theoretical,1
@@ -120,7 +127,7 @@ many,1
 and,7
 layer,2
 associated,1
-graphene,1
+is,5
 orbit,1
 thus,1
 herein,1
@@ -136,15 +143,17 @@ grown,1
 compared,1
 form,1
 provide,1
-when,1
-chemical,1
+42,1
+1,2
 extracted,1
 potential,1
 which,3
+9,1
 several,1
 higher,1
 A,4
 Unlike,1
+our,1
 comprehensive,1
 M,1
 systems,1

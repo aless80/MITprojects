@@ -18,6 +18,7 @@ have,1
 convex,1
 controllers,1
 LQG,1
+2N,1
 linearly,1
 out,1
 information,1
@@ -55,7 +56,7 @@ output,1
 infinite,1
 such,1
 The,2
-N,2
+N,1
 stabilizing,1
 a,1
 on,1

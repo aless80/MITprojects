@@ -12,6 +12,7 @@ predictions,1
 spheroidal,1
 our,2
 tetrahedral,1
+3D,1
 We,1
 number,1
 geometries,2
@@ -29,9 +30,8 @@ Using,1
 contrast,1
 non,2
 recently,1
-D,1
-interactions,1
 nanoparticles,1
+interactions,1
 introduce,1
 obtain,1
 objects,3

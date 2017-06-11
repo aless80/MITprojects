@@ -1,5 +1,6 @@
 classical,1
 arXiv,1
+Gaussian,1
 in,1
 quantum,1
 We,1
@@ -12,6 +13,7 @@ to,1
 attack,1
 way,1
 formula,1
+a,1
 distribution,1
 use,1
 framework,1
@@ -21,8 +23,8 @@ entanglement,1
 the,2
 protocols,1
 noisy,1
-a,1
+1609,1
 region,1
-Gaussian,1
+08592,1
 security,1
 create,1

@@ -1,6 +1,5 @@
 limited,1
 show,1
-MoS,1
 leads,1
 its,1
 We,1
@@ -36,6 +35,7 @@ critical,1
 various,1
 we,2
 deposition,1
+MoS2,1
 by,2
 on,1
 dichalcogenides,1

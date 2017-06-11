@@ -24,8 +24,10 @@ Yakubovich,1
 system,2
 Riccati,2
 to,5
+3,1
 conditions,1
 systems,1
+6,1
 main,2
 Yu,1
 satisfy,1

@@ -1,7 +1,7 @@
 and,3
 suggest,1
+Sb2Te3,2
 insulators,1
-prepared,1
 graphene,5
 coexistence,1
 surface,1
@@ -48,7 +48,7 @@ Integrating,1
 bands,1
 results,1
 dry,1
-SbTe,2
+prepared,1
 deposition,1
 device,1
 using,1

@@ -2,6 +2,8 @@ all,1
 produces,1
 extra,1
 to,1
+4,1
+8,1
 then,1
 universality,1
 possible,3
@@ -12,6 +14,7 @@ not,1
 using,1
 inelastic,1
 drop,1
+50,2
 each,1
 where,1
 subset,1
@@ -51,6 +54,7 @@ prove,1
 probabilities,1
 amidst,1
 accordingly,1
+2,3
 perfectly,1
 bits,1
 Furthermore,1
@@ -63,6 +67,7 @@ exactly,1
 but,2
 surprisingly,1
 with,1
+16,1
 this,1
 n,3
 can,3
@@ -86,6 +91,7 @@ different,1
 theoretic,1
 divided,1
 any,1
+1,1
 which,1
 pins,4
 if,1

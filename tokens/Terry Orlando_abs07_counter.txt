@@ -21,6 +21,7 @@ By,1
 straightforward,1
 means,1
 frequencies,1
+120,1
 fingerprint,1
 not,1
 using,2
@@ -42,6 +43,7 @@ frequency,5
 are,1
 quantum,1
 avoided,1
+01,1
 plays,1
 driving,5
 broad,1
@@ -77,10 +79,12 @@ harmonic,2
 analyzing,1
 GHz,2
 determine,1
+100,1
 manipulate,1
 conventional,1
 from,2
 Conventionally,1
+0,2
 crossings,1
 single,1
 system,2
@@ -95,6 +99,7 @@ atom,3
 with,2
 than,1
 population,1
+10,1
 this,1
 sweeps,1
 near,1
@@ -122,6 +127,7 @@ varied,1
 variety,1
 s,4
 for,1
+1,1
 application,1
 role,1
 many,1

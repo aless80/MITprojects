@@ -47,6 +47,7 @@ assembly,2
 nature,1
 each,1
 O,1
+approach,1
 by,2
 temperature,1
 on,2
@@ -60,7 +61,7 @@ number,3
 open,1
 log,1
 their,1
-approach,1
+2,2
 was,1
 more,2
 that,3
@@ -94,6 +95,7 @@ relatively,1
 constructions,2
 depending,1
 self,1
+1,1
 other,1
 which,1
 tile,1

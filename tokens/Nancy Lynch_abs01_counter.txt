@@ -96,6 +96,9 @@ known,1
 with,3
 than,1
 Set,2
+15,1
+14,1
+16,3
 this,2
 work,1
 maximum,1
@@ -120,6 +123,7 @@ pay,1
 After,1
 when,1
 same,1
+1,5
 modification,1
 negligible,1
 parameter,1

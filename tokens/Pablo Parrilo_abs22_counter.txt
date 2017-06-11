@@ -1,4 +1,5 @@
 represent,1
+1307,1
 show,1
 over,2
 mainly,1
@@ -7,10 +8,11 @@ paper,3
 We,1
 cut,2
 Theory,1
+95,1
 to,3
-th,1
 sparsity,1
 has,1
+2012,1
 motivated,1
 rules,1
 practice,1
@@ -48,10 +50,12 @@ be,1
 we,2
 recently,1
 linear,2
+44th,1
 diagonal,1
 step,1
 ask,1
 strong,2
+106,1
 by,1
 obtained,1
 on,4
@@ -82,6 +86,7 @@ question,1
 been,1
 pages,1
 needed,1
+2,1
 combined,1
 interest,1
 recent,1
@@ -103,6 +108,7 @@ semidefinite,4
 extension,1
 exponential,2
 whether,1
+3543,1
 maximum,1
 can,2
 Our,1
@@ -124,6 +130,7 @@ any,3
 goal,1
 formulations,4
 when,2
+1,1
 lifts,1
 take,1
 LP,2

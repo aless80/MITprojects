@@ -11,7 +11,9 @@ based,1
 point,1
 to,5
 detected,1
+4,1
 under,1
+8,1
 achieve,1
 haul,1
 bit,1
@@ -38,6 +40,7 @@ new,1
 conditions,1
 we,1
 fiber,3
+25,1
 equivalent,1
 processing,1
 key,3
@@ -60,9 +63,11 @@ dimensional,1
 variable,1
 achievable,1
 puts,1
+0,2
 long,2
 their,2
 secret,1
+2,1
 rates,1
 bits,1
 Mbit,2
@@ -95,6 +100,7 @@ realizing,1
 PPM,2
 QKD,2
 also,1
+5,1
 channel,1
 satellite,2
 fundamental,1

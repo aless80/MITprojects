@@ -1,5 +1,4 @@
 show,1
-MoS,5
 random,1
 bandgap,1
 fabricated,1
@@ -9,13 +8,13 @@ still,1
 its,1
 based,1
 to,5
-potential,1
+complex,1
 systems,1
 disulfide,1
 overcome,1
 Both,1
-D,1
 amorphous,1
+2D,1
 five,1
 gate,2
 semiconducting,1
@@ -32,7 +31,7 @@ zero,1
 frequency,1
 static,1
 enhancement,1
-ubiquitous,1
+blocks,1
 substitute,1
 shown,1
 for,2
@@ -50,6 +49,7 @@ by,1
 Discrete,1
 step,1
 advantages,1
+MoS2,5
 sheet,1
 sensors,1
 properties,1
@@ -110,13 +110,13 @@ technology,1
 different,1
 NAND,1
 field,1
-complex,1
+potential,1
 electrical,1
 digital,1
 performance,1
 many,1
 ac,1
-blocks,1
+ubiquitous,1
 inverter,1
 effect,1
 applications,3

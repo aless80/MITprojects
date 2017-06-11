@@ -9,7 +9,7 @@ repetition,1
 based,1
 parameters,1
 graph,4
-to,5
+0,2
 infty,1
 H,3
 number,1
@@ -65,6 +65,8 @@ Finally,1
 done,1
 achievable,1
 from,1
+to,5
+2,2
 achieving,1
 more,2
 function,2
@@ -94,6 +96,7 @@ codes,1
 F,1
 hyperplanes,1
 As,1
+1,2
 criterion,2
 which,2
 new,1

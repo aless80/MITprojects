@@ -10,6 +10,7 @@ easy,2
 Despite,1
 has,1
 local,4
+2012,1
 then,1
 non,2
 lacking,1

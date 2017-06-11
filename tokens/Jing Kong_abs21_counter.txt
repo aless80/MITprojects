@@ -15,7 +15,7 @@ cuts,1
 electronic,1
 Raman,1
 We,2
-nm,1
+etching,2
 geometries,1
 quality,1
 technique,2
@@ -23,10 +23,10 @@ direction,1
 to,1
 other,1
 nanoparticles,1
-catalytic,1
+under,1
 anisotropic,1
 Using,1
-conditions,1
+10nm,1
 is,1
 indicating,1
 etched,1
@@ -37,8 +37,8 @@ intersect,1
 that,2
 may,1
 powerful,1
-under,1
 serve,1
+conditions,1
 obtain,1
 resilient,1
 edges,2
@@ -50,9 +50,9 @@ along,1
 aligned,1
 with,2
 by,1
-etching,2
-a,3
 sub,1
+a,3
+catalytic,1
 nanostructures,1
 whereby,1
 this,2

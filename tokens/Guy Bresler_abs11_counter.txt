@@ -17,6 +17,7 @@ parameters,1
 yet,1
 MIMO,1
 if,2
+1,1
 We,2
 number,1
 dimensions,1
@@ -51,7 +52,7 @@ algebraic,1
 central,1
 user,2
 antennas,2
-approach,1
+2,1
 The,1
 with,2
 coefficients,1
@@ -67,6 +68,7 @@ prove,1
 An,1
 geometry,1
 vector,1
+approach,1
 each,1
 the,5
 where,1

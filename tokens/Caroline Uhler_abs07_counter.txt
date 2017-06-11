@@ -6,7 +6,7 @@ show,1
 is,3
 conditional,2
 related,1
-an,2
+MTP2,7
 characterize,1
 appropriate,1
 graph,1
@@ -40,11 +40,11 @@ we,4
 which,3
 that,3
 discrete,1
-MTP,7
 distribution,3
 by,1
 generated,1
 particular,2
+an,2
 totally,1
 properties,2
 condition,1

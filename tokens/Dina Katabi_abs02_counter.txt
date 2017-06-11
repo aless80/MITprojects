@@ -27,8 +27,10 @@ sqrt,3
 signals,3
 lower,1
 reduction,1
+2,1
 models,1
 samples,3
+6,1
 expected,1
 optimal,1
 is,4

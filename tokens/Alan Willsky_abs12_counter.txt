@@ -40,6 +40,7 @@ reasonably,1
 large,1
 these,1
 yields,1
+2n,1
 cycles,1
 where,3
 em,4
@@ -113,7 +114,7 @@ this,2
 variances,2
 bounds,1
 us,1
-n,3
+n,2
 FVS,11
 while,1
 many,1

@@ -22,7 +22,7 @@ generalizes,1
 counting,1
 from,1
 for,2
-circ,3
+0,1
 lengths,2
 graph,3
 crossings,1
@@ -30,8 +30,9 @@ classic,1
 folded,2
 two,1
 by,1
+distinct,1
 to,4
-must,1
+180,1
 without,1
 infinitesimally,1
 foldable,2
@@ -39,7 +40,8 @@ which,1
 time,2
 valley,1
 conditions,1
-distinct,1
+360,2
+2001,1
 characterization,1
 flat,5
 conjecture,1
@@ -60,6 +62,7 @@ such,1
 line,1
 with,3
 the,5
+must,1
 cycle,1
 a,5
 prescribed,4
@@ -76,5 +79,6 @@ states,1
 edge,2
 can,1
 each,1
+circ,3
 problem,1
 sum,1

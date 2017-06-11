@@ -38,6 +38,7 @@ depends,1
 individual,1
 design,1
 result,1
+assumption,1
 special,1
 maximizes,1
 fails,1
@@ -78,7 +79,7 @@ probabilities,1
 unknown,1
 there,1
 their,2
-assumption,1
+2,1
 forward,1
 arises,1
 that,6
@@ -108,6 +109,7 @@ sequentially,1
 binary,1
 different,1
 make,1
+1,1
 also,1
 which,2
 Bayesian,1

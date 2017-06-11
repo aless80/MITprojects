@@ -8,12 +8,14 @@ networks,2
 layers,1
 intensive,1
 to,3
+4,2
 has,1
 indicating,1
 evaluate,1
 activation,1
 milestone,1
 now,1
+211m,1
 presented,1
 transmission,1
 mm,1
@@ -70,6 +72,7 @@ mW,1
 part,1
 link,1
 Starting,1
+15,2
 effective,1
 this,2
 can,2
@@ -101,10 +104,10 @@ a,3
 off,1
 scenario,1
 average,1
-m,1
 It,1
 An,1
 In,1
+802,2
 the,11
 order,1
 typical,1

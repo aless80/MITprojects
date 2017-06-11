@@ -76,6 +76,7 @@ log,1
 to,13
 addition,1
 question,2
+2,1
 structure,1
 Such,1
 type,1
@@ -121,6 +122,7 @@ make,1
 cumulative,1
 when,1
 complexity,1
+1,1
 how,1
 independent,1
 corrector,1

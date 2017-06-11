@@ -5,7 +5,7 @@ We,1
 density,1
 chosen,1
 graph,2
-to,3
+0,1
 factor,1
 has,1
 then,1
@@ -53,14 +53,17 @@ determine,1
 size,1
 from,1
 log,2
+to,3
+2,9
 was,1
 Cayley,1
+with,4
 concerning,1
 exactly,1
 N,9
 R,1
 Z,4
-with,4
+160,1
 than,1
 this,2
 deduce,1
@@ -76,6 +79,7 @@ if,1
 author,3
 that,3
 same,1
+1,6
 application,1
 Samotij,1
 which,1
@@ -90,6 +94,7 @@ most,1
 a,6
 no,1
 element,1
+2003,1
 As,2
 edge,1
 sets,2

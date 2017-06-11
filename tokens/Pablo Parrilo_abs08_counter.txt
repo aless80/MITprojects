@@ -16,8 +16,10 @@ for,1
 efficient,1
 graph,1
 structured,1
-to,3
 finally,1
+to,3
+3,1
+2,2
 present,1
 under,1
 denoted,1

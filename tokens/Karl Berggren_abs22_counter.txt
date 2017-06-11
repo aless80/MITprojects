@@ -5,6 +5,7 @@ predicts,1
 pitch,1
 remarkably,1
 We,6
+21,1
 absorption,1
 photons,4
 had,1
@@ -15,8 +16,12 @@ good,1
 nanowires,1
 five,1
 front,1
+1700,1
+55,1
+50,1
 found,3
 the,6
+700,1
 absorptance,4
 detection,4
 likely,1
@@ -60,6 +65,7 @@ nanowire,1
 with,3
 than,2
 present,1
+10,1
 polarized,6
 this,1
 single,1
@@ -75,10 +81,12 @@ superconducting,1
 in,1
 fill,2
 nm,2
+1,1
 also,3
 absorbed,1
 explains,1
 events,1
+200,1
 used,1
 after,1
 device,2

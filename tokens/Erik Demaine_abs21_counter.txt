@@ -39,8 +39,9 @@ Kotsuma,1
 Lynch,1
 NP,2
 Zag,1
-Nikoli,1
+2010,1
 t,2
+Nikoli,1
 be,2
 smartphone,1
 complete,1
@@ -48,6 +49,7 @@ form,2
 that,2
 fewest,1
 popularized,1
+puzzle,1
 vertex,1
 problem,2
 possible,1
@@ -64,7 +66,7 @@ pairs,1
 constraint,1
 this,1
 of,3
-puzzle,1
+1975,1
 sometimes,1
 m,1
 vertices,2

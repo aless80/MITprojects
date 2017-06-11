@@ -80,6 +80,7 @@ additive,1
 log,3
 curve,2
 stark,1
+2,1
 basic,2
 noisy,2
 function,1
@@ -114,6 +115,7 @@ end,2
 no,1
 perhaps,1
 amount,2
+1,1
 application,1
 broadcasting,1
 arguments,1

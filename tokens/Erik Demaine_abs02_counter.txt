@@ -97,6 +97,7 @@ exist,1
 have,1
 in,4
 different,1
+1,1
 tight,1
 which,1
 conflict,7

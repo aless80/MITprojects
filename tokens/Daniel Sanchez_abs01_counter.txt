@@ -38,6 +38,7 @@ Landau,1
 nucleation,2
 pump,2
 critical,1
+7,1
 between,1
 we,3
 Mo,2
@@ -61,6 +62,7 @@ topological,8
 directly,1
 unusual,1
 distinct,1
+2,1
 way,1
 opens,1
 that,1
@@ -91,6 +93,7 @@ in,5
 Te,1
 angle,1
 no,1
+1,1
 instead,1
 composition,1
 sim,1

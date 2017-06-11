@@ -17,6 +17,7 @@ combination,1
 quantified,1
 increases,1
 report,1
+and,3
 anisotropy,1
 minimal,1
 further,1
@@ -46,7 +47,7 @@ ferromagnetic,1
 of,7
 studied,1
 motion,1
-and,3
+Co1,2
 unclear,1
 scales,1
 wall,1
@@ -65,7 +66,6 @@ antiferromagnetically,1
 with,5
 than,1
 those,1
-Co,2
 whether,1
 devices,1
 compensation,2
@@ -85,14 +85,14 @@ in,5
 concentration,1
 Tb,1
 film,1
-Ta,1
+regime,1
 information,1
 confirmed,1
 storage,1
 field,1
 potential,1
 which,1
-regime,1
+Ta,1
 switching,3
 higher,1
 A,1

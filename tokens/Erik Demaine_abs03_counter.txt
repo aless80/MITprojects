@@ -4,7 +4,7 @@ rotating,1
 colors,1
 We,2
 graph,1
-to,2
+0,2
 distinguishing,1
 easy,1
 factor,1
@@ -12,7 +12,9 @@ nodes,1
 over,1
 On,1
 tiles,4
+to,2
 puzzles,4
+999999284,1
 shapes,1
 either,1
 square,1
@@ -31,6 +33,7 @@ correct,1
 we,2
 This,1
 placing,1
+9999999851,1
 path,1
 on,1
 constraint,1
@@ -53,6 +56,7 @@ prove,3
 union,1
 jigsaw,3
 approximately,1
+2,1
 way,1
 basic,1
 NP,3
@@ -79,6 +83,7 @@ in,2
 disjoint,1
 paths,1
 Hamiltonian,1
+1,5
 other,1
 adjacent,1
 nonblank,1

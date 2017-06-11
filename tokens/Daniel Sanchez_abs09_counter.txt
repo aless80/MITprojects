@@ -63,6 +63,7 @@ theory,1
 realizations,1
 analogues,1
 spectroscopic,2
+0D,1
 Firstly,1
 properties,1
 topology,1
@@ -76,6 +77,7 @@ hence,1
 features,1
 one,1
 dimensional,2
+1D,1
 anomalies,1
 elementary,1
 open,1
@@ -124,7 +126,6 @@ high,1
 have,1
 in,6
 Instead,1
-D,2
 realizing,2
 feature,2
 metallic,1

@@ -8,6 +8,7 @@ statistical,1
 speed,1
 planning,1
 We,2
+20,1
 simulating,1
 parameters,2
 technique,1
@@ -28,6 +29,7 @@ sparse,2
 small,1
 essential,1
 subset,1
+50,1
 result,1
 our,2
 implemented,1
@@ -60,6 +62,7 @@ a,6
 that,1
 with,3
 present,1
+10,1
 arrays,1
 equation,1
 probabilistic,1
@@ -83,9 +86,12 @@ information,1
 verified,1
 recovery,1
 suggest,1
+1,1
 also,2
 other,1
+5,1
 generalized,1
+9,1
 several,1
 independent,1
 generates,1

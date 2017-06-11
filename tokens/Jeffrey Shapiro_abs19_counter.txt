@@ -15,6 +15,7 @@ systems,2
 factor,1
 Using,1
 pixel,2
+7,2
 spatial,1
 introduce,1
 number,2
@@ -83,6 +84,7 @@ log,1
 union,1
 unknown,1
 low,1
+6,2
 ranging,1
 enable,1
 flight,1
@@ -93,6 +95,7 @@ with,2
 must,1
 approximation,1
 novel,1
+15,1
 these,1
 single,3
 error,2
@@ -113,6 +116,7 @@ computationally,1
 efficient,1
 length,1
 recovers,1
+1,2
 also,1
 which,1
 reject,1

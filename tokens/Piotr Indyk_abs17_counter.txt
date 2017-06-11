@@ -16,6 +16,7 @@ An,2
 any,3
 if,2
 one,1
+1,1
 We,3
 log,7
 for,6

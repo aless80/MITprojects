@@ -30,7 +30,10 @@ solving,1
 s,3
 approximately,3
 find,1
+1,1
 to,4
+3,2
+2,3
 way,1
 example,1
 new,1

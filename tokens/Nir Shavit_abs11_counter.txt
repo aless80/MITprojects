@@ -124,6 +124,7 @@ goal,1
 efficient,2
 make,2
 generally,1
+1,1
 complex,3
 which,1
 instead,1

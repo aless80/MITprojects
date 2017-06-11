@@ -64,6 +64,7 @@ use,1
 log,6
 probabilities,1
 give,2
+2,1
 expected,2
 Lin,1
 complete,1

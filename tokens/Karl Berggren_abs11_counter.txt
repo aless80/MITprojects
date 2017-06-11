@@ -24,8 +24,10 @@ However,1
 been,1
 increase,1
 their,1
+4,1
 which,1
 timing,1
+8,1
 detector,1
 has,1
 eight,1
@@ -57,6 +59,7 @@ n,5
 Superconducting,1
 architecture,2
 amplitude,1
+54,1
 SNAP,1
 output,1
 the,1

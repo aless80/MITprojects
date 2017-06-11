@@ -76,7 +76,7 @@ use,3
 log,4
 prove,1
 chooses,1
-quadratic,1
+2,6
 Lynch,1
 way,1
 basic,1
@@ -92,6 +92,7 @@ dissemination,1
 particular,1
 general,1
 with,2
+10,1
 b,5
 this,1
 bounds,3
@@ -132,5 +133,6 @@ roughly,1
 broadcasting,1
 algorithms,7
 time,2
+quadratic,1
 model,2
 starting,1

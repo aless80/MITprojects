@@ -9,7 +9,7 @@ photopolymers,1
 depositing,1
 fabricating,1
 with,1
-linear,1
+3D,2
 showcased,1
 We,1
 Simultaneously,1
@@ -34,7 +34,7 @@ be,2
 non,1
 printer,2
 assembly,1
-D,2
+linear,1
 This,2
 fluidic,1
 modify,1

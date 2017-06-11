@@ -7,6 +7,7 @@ SIE,2
 We,1
 based,1
 simulating,1
+outside,1
 to,2
 couplers,1
 has,1
@@ -15,10 +16,11 @@ L,2
 not,1
 smoothness,1
 easily,1
-d,2
+d,1
 solver,1
 fields,1
 FFT,1
+2d,1
 this,2
 experiments,1
 where,1
@@ -32,7 +34,7 @@ surfaces,1
 Generating,1
 for,5
 However,1
-outside,1
+3,1
 magnitude,2
 conductive,1
 new,3
@@ -62,6 +64,7 @@ terminated,1
 from,1
 analytic,1
 fast,1
+2,1
 interest,2
 more,1
 function,2
@@ -95,6 +98,7 @@ seem,1
 orders,1
 absorber,5
 Numerical,1
+1,1
 ideal,1
 which,1
 interior,1

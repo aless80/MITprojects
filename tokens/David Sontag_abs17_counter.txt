@@ -3,7 +3,6 @@ particularly,1
 results,2
 paper,2
 computation,1
-BS,3
 networks,1
 scoring,2
 whose,1
@@ -16,6 +15,7 @@ to,6
 Although,1
 has,1
 easier,1
+2013,1
 dependent,1
 propose,1
 showing,2
@@ -73,6 +73,7 @@ generating,2
 that,6
 becoming,1
 with,3
+BS13,3
 present,1
 effective,1
 this,2

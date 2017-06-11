@@ -13,6 +13,7 @@ Nevertheless,1
 propose,1
 they,1
 signal,1
+50,1
 NSGs,2
 mode,1
 upper,1
@@ -26,7 +27,7 @@ nonlinear,1
 for,4
 pump,1
 efficiencies,2
-values,1
+limit,1
 limitations,1
 we,1
 full,1
@@ -67,7 +68,7 @@ up,1
 n,4
 crystal,3
 remain,1
-limit,1
+values,1
 amplitude,1
 proof,1
 and,1
@@ -83,8 +84,10 @@ no,1
 lengths,1
 when,1
 same,1
+1,1
 unity,1
 potential,1
+5,1
 which,2
 higher,1
 after,1

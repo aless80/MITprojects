@@ -8,14 +8,14 @@ trivial,2
 its,2
 We,1
 integer,1
-to,2
+0,1
 devised,1
 truly,2
 using,1
 variants,2
 runs,2
 arrivals,1
-this,2
+these,1
 each,1
 small,2
 weighted,1
@@ -25,6 +25,7 @@ geometrically,1
 examples,1
 quantum,4
 for,6
+3,2
 approach,1
 we,1
 vertex,1
@@ -41,11 +42,13 @@ first,1
 major,1
 number,1
 open,1
+to,2
 structured,1
 been,1
+2,2
 pairs,3
 with,1
-these,1
+this,2
 n,4
 while,1
 of,4
@@ -62,6 +65,7 @@ paths,1
 revisit,1
 nontrivial,1
 setting,2
+5,2
 algorithms,3
 A,1
 inputs,1

@@ -28,11 +28,12 @@ construct,1
 Lie,1
 also,1
 only,1
-bases,1
+2,3
 which,1
 Qutrit,1
 gate,2
 is,3
+3,1
 be,1
 full,1
 controlled,1
@@ -54,6 +55,7 @@ using,2
 with,1
 generate,1
 a,1
+bases,1
 realized,1
 algebra,1
 of,1

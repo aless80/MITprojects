@@ -63,6 +63,7 @@ codewords,1
 strictly,1
 two,1
 dispersion,1
+2,1
 inner,2
 fraction,1
 scheme,1

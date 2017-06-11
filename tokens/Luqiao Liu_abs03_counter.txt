@@ -3,7 +3,7 @@ magnetic,5
 including,1
 voltage,2
 density,1
-spin,4
+with,1
 Here,1
 terminal,1
 to,2
@@ -27,6 +27,7 @@ even,1
 for,5
 memories,1
 VCMA,2
+3,1
 does,1
 volatile,1
 new,1
@@ -59,7 +60,7 @@ more,1
 controlled,1
 that,2
 Ohmic,1
-with,1
+spin,4
 polarized,1
 these,1
 require,1

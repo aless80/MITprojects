@@ -7,7 +7,7 @@ letting,1
 le,1
 graph,2
 ll,1
-to,2
+0,1
 do,1
 them,1
 widely,1
@@ -54,12 +54,13 @@ lies,1
 given,1
 from,1
 log,1
-prove,1
+to,2
 combinatorics,1
 positive,1
 there,1
 two,1
 partite,2
+2,5
 is,4
 subgraph,1
 that,5
@@ -91,6 +92,7 @@ if,1
 whereas,1
 holds,1
 when,1
+1,6
 how,1
 Kolaitis,1
 which,1
@@ -104,6 +106,7 @@ edges,2
 such,1
 structure,1
 a,5
+prove,1
 omel,1
 m,8
 vertices,1

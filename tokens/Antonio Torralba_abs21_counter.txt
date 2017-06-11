@@ -5,6 +5,7 @@ ILSVRC,1
 localize,1
 remarkably,1
 find,1
+regions,1
 We,1
 remarkable,1
 technique,1
@@ -12,6 +13,7 @@ actually,1
 to,5
 explicitly,1
 Despite,1
+2014,1
 achieve,1
 them,1
 labels,1
@@ -36,6 +38,8 @@ by,1
 on,4
 training,1
 of,3
+37,1
+34,1
 pooling,2
 supervised,1
 tasks,2
@@ -44,11 +48,13 @@ image,2
 trained,2
 discriminative,1
 top,2
+2,1
 was,1
 convolutional,1
 that,3
 apparent,1
 applied,1
+13,1
 builds,1
 this,2
 work,1
@@ -68,8 +74,9 @@ variety,2
 generic,1
 able,2
 revisit,1
-regions,1
+1,1
 how,1
+5,2
 which,1
 regularizing,1
 simplicity,1

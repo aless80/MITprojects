@@ -43,6 +43,7 @@ many,1
 Arabic,1
 simple,1
 Predictions,1
+60,1
 orthographic,1
 given,1
 from,2

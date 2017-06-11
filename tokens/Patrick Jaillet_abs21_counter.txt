@@ -82,6 +82,7 @@ of,4
 following,1
 problem,4
 and,4
+30,1
 an,1
 as,5
 at,2

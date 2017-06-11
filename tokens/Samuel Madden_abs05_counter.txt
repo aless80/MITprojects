@@ -16,6 +16,7 @@ combination,1
 rise,1
 untenable,1
 hitters,1
+2M,1
 manual,1
 events,1
 magnitude,1
@@ -78,7 +79,6 @@ efficient,1
 able,1
 MacroBase,4
 becoming,1
-M,1
 important,1
 user,1
 aggregate,1

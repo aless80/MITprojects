@@ -6,6 +6,7 @@ Moon,1
 its,1
 previous,1
 irradiated,1
+37b,1
 Here,1
 to,5
 only,1
@@ -41,6 +42,7 @@ quite,1
 water,1
 host,1
 of,7
+37,1
 significantly,1
 s,1
 Kepler,3
@@ -61,7 +63,6 @@ known,1
 with,1
 than,2
 those,1
-b,1
 look,1
 unlike,1
 us,1

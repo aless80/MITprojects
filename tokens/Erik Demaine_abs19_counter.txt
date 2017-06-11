@@ -8,7 +8,6 @@ folded,3
 to,6
 On,1
 designs,1
-D,2
 possible,1
 orientations,1
 execute,1
@@ -47,6 +46,7 @@ first,1
 strongly,1
 consume,1
 number,2
+1D,2
 respect,1
 total,2
 prove,2

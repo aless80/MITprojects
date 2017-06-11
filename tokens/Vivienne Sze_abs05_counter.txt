@@ -58,7 +58,9 @@ quality,2
 adaptively,1
 size,1
 are,2
+0,1
 FAST,4
+2,1
 show,1
 enabling,1
 that,3

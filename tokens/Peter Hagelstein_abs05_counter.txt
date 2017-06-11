@@ -24,6 +24,7 @@ Siegert,2
 system,2
 boson,1
 Bloch,2
+1,1
 to,1
 sequential,1
 which,2

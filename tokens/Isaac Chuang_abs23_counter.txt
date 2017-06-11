@@ -10,6 +10,7 @@ to,4
 detected,1
 systems,1
 deformation,1
+674,1
 frequencies,1
 material,1
 photoelectric,1
@@ -19,6 +20,7 @@ approach,1
 signal,1
 flux,1
 trap,3
+370,1
 computation,1
 generation,1
 sensitivity,1
@@ -41,6 +43,7 @@ doppler,1
 K,1
 here,1
 control,1
+100,1
 by,2
 on,2
 created,1
@@ -48,6 +51,7 @@ of,8
 studied,1
 dependence,1
 s,1
+405,1
 or,1
 copper,2
 cm,1
@@ -56,18 +60,23 @@ Electrical,1
 Charging,1
 due,2
 cooling,1
+2,1
+6,1
 more,2
 trapped,2
 wavelength,1
 Sr,1
 photon,1
+460,1
 with,2
 than,1
-states,1
+10,1
 made,1
 laser,1
+14,1
 equation,1
 mu,1
+states,1
 behavior,1
 involved,1
 and,6

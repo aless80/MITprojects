@@ -3,6 +3,7 @@ code,5
 over,1
 produced,1
 paper,1
+40,1
 query,1
 libraries,1
 also,1
@@ -61,7 +62,6 @@ both,1
 about,1
 language,2
 of,11
-k,1
 allows,1
 logic,1
 usually,1
@@ -127,6 +127,7 @@ object,1
 mapping,1
 applications,3
 optimized,1
+120k,1
 predicates,1
 such,1
 The,3

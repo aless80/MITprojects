@@ -10,7 +10,7 @@ We,3
 depend,1
 graph,5
 should,3
-to,2
+0,1
 belongs,1
 local,1
 then,1
@@ -22,7 +22,7 @@ decide,1
 fall,1
 not,2
 categories,1
-parameter,1
+Omega,1
 this,1
 sparse,1
 queries,1
@@ -60,6 +60,7 @@ bound,2
 randomized,1
 open,1
 given,3
+to,2
 coins,1
 question,1
 two,1
@@ -96,9 +97,10 @@ turn,1
 holds,1
 Namely,1
 same,1
+1,1
 which,1
 algorithms,4
-Omega,1
+parameter,1
 independent,1
 E,3
 may,2

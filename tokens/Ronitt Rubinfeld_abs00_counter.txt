@@ -118,6 +118,7 @@ any,1
 different,1
 rather,1
 sqrt,1
+1,5
 also,1
 setting,2
 which,1

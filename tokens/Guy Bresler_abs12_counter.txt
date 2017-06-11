@@ -68,6 +68,7 @@ criticisms,1
 from,2
 log,1
 basis,1
+2,1
 low,2
 reciprocity,2
 basic,1

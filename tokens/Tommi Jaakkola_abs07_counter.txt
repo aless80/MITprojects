@@ -56,6 +56,7 @@ from,2
 basis,1
 question,1
 their,1
+2,1
 corpus,1
 annotations,2
 convolutional,1
@@ -86,6 +87,7 @@ no,1
 answering,1
 LSTMs,1
 discriminatively,1
+1,1
 methodology,1
 details,1
 finding,1

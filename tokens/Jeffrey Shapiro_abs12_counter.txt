@@ -10,7 +10,7 @@ We,2
 redefined,1
 monotonicity,1
 true,1
-to,3
+0,1
 theorem,1
 analogous,2
 has,1
@@ -66,6 +66,7 @@ open,1
 given,1
 from,1
 log,1
+to,3
 addition,1
 two,1
 been,1
@@ -101,6 +102,7 @@ develop,1
 form,2
 holds,1
 when,1
+1,1
 role,2
 which,3
 H,2

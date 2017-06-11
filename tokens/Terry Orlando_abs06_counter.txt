@@ -6,12 +6,14 @@ sources,1
 find,1
 access,1
 We,2
+20,1
 to,5
 charge,1
 critical,1
 very,1
 frequencies,2
 report,1
+2,1
 Repeating,1
 evolution,1
 pertinent,1
@@ -29,6 +31,7 @@ frequency,1
 are,2
 measurement,2
 Hz,1
+01,1
 for,1
 measurements,1
 interference,1
@@ -44,6 +47,7 @@ power,1
 qubits,1
 free,2
 here,1
+100,1
 by,1
 both,1
 of,9
@@ -59,8 +63,10 @@ followed,1
 presence,1
 period,1
 two,2
+65,1
 achievable,1
 temperature,1
+0,2
 single,1
 transform,1
 Ramsey,2
@@ -98,10 +104,12 @@ regime,1
 no,2
 range,1
 same,1
+1,1
 also,1
 axis,1
 ensemble,1
 higher,1
+200,1
 uses,1
 such,1
 Fourier,1

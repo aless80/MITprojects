@@ -17,6 +17,7 @@ improvement,1
 granular,2
 to,5
 causing,1
+5,1
 proximity,1
 hybridization,3
 them,1
@@ -30,6 +31,7 @@ competing,1
 timing,2
 In,1
 collective,2
+52,1
 this,2
 Superconducting,1
 phase,1
@@ -51,9 +53,11 @@ revealing,1
 be,1
 we,1
 nature,1
+SiO2,1
 governing,1
 understanding,1
 efficiency,3
+W5Si3,2
 properties,3
 on,3
 of,18
@@ -77,6 +81,7 @@ addition,1
 ultrathin,1
 their,1
 restricts,1
+2,2
 tune,1
 realization,1
 films,5
@@ -88,6 +93,7 @@ nanowire,2
 technologies,4
 with,1
 those,1
+96,1
 reset,1
 made,1
 showed,1
@@ -121,7 +127,6 @@ electrical,1
 nanoscale,2
 performance,2
 ns,1
-SiO,1
 used,1
 superconductivity,3
 nano,1
@@ -139,7 +144,6 @@ elusive,1
 faster,2
 neighboring,1
 detectors,3
-WSi,2
 materials,2
 time,1
 the,14

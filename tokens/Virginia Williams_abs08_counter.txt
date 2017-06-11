@@ -13,6 +13,7 @@ trees,6
 truly,6
 every,1
 whether,1
+2,2
 variants,1
 d,5
 subquadratic,6
@@ -25,15 +26,17 @@ upper,1
 For,2
 conditional,1
 some,1
+1960s,1
 likely,1
 are,3
 apply,1
 special,1
+85,1
 degree,1
 for,9
 decision,1
 since,1
-remain,1
+near,1
 contained,1
 new,1
 we,1
@@ -48,7 +51,6 @@ g,1
 of,6
 studied,1
 against,1
-s,1
 first,1
 Even,2
 useful,1
@@ -62,6 +64,7 @@ given,2
 from,2
 log,3
 asks,1
+0,1
 there,2
 SETH,4
 been,1
@@ -85,7 +88,7 @@ tree,4
 bounds,2
 n,4
 complexity,1
-near,1
+remain,1
 future,1
 Our,3
 problem,3
@@ -101,6 +104,7 @@ binary,2
 Orthogonal,1
 latter,1
 utilize,1
+1,1
 which,1
 classify,1
 Vectors,1

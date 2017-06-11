@@ -26,6 +26,7 @@ uses,1
 known,2
 a,1
 advance,1
+1994,1
 Puzzle,1
 Move,1
 colors,1

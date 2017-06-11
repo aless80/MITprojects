@@ -19,7 +19,7 @@ methods,1
 sequence,1
 energy,1
 reduce,2
-we,3
+comparable,1
 deterministically,1
 are,1
 quantum,1
@@ -31,7 +31,7 @@ However,1
 approach,1
 correct,1
 variability,1
-comparable,1
+we,3
 noise,2
 Dynamical,1
 complementary,1
@@ -78,6 +78,7 @@ used,1
 driven,1
 designed,1
 suppression,1
+70,1
 device,1
 such,2
 qubit,2

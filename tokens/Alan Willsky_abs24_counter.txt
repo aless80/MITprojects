@@ -42,6 +42,7 @@ creating,1
 jointly,1
 control,1
 address,1
+101,1
 by,1
 on,1
 of,8
@@ -67,6 +68,7 @@ Amer,1
 meeting,2
 describe,1
 corresponding,1
+NIST,1
 that,6
 J,1
 benchmark,1
@@ -79,6 +81,7 @@ Teh,1
 builds,1
 this,2
 recording,1
+1581,1
 problem,4
 and,1
 process,2
@@ -99,7 +102,7 @@ take,1
 Bayesian,2
 algorithm,1
 switching,2
-NIST,1
+1566,1
 segmenting,1
 Dirichlet,2
 our,1
@@ -114,6 +117,7 @@ a,5
 effective,1
 assume,1
 redundant,1
+2006,1
 model,1
 audio,2
 sequence,1

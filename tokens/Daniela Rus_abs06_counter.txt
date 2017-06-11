@@ -66,6 +66,7 @@ from,2
 question,1
 been,2
 reduction,2
+2,2
 low,2
 time,1
 efficiently,1
@@ -91,6 +92,7 @@ is,4
 an,1
 as,1
 in,2
+1,1
 also,1
 which,1
 answer,1

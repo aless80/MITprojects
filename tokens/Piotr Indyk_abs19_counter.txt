@@ -23,6 +23,7 @@ for,3
 min,1
 with,2
 there,1
+1,2
 tight,1
 only,1
 version,1

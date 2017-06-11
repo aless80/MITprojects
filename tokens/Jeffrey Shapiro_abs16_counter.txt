@@ -4,12 +4,15 @@ less,1
 transmitting,2
 developed,1
 over,2
+24550,1
 eavesdropping,1
 floodlight,1
+2013,1
 its,1
 Opt,1
 We,1
 highest,1
+21,1
 equipment,1
 implementation,1
 photons,1
@@ -23,6 +26,7 @@ unprecedented,1
 achieve,1
 greater,1
 introduce,1
+2,1
 they,1
 not,1
 using,2
@@ -34,6 +38,7 @@ lost,1
 transmission,1
 floods,1
 collective,1
+50,1
 large,2
 magnitude,1
 mode,1
@@ -82,6 +87,7 @@ encryption,1
 destination,1
 attack,1
 long,2
+24565,1
 needed,1
 secret,5
 much,1

@@ -39,6 +39,7 @@ t,1
 be,1
 we,3
 standard,1
+100,1
 by,1
 on,2
 training,2

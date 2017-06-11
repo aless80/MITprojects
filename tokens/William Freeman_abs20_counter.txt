@@ -9,9 +9,10 @@ through,2
 consists,1
 suffer,1
 find,1
+shorter,1
 We,2
 yr,2
-based,1
+20,3
 Consequently,1
 masses,1
 to,4
@@ -28,6 +29,7 @@ ionized,1
 using,1
 difference,1
 populations,1
+59,1
 continuum,3
 SFR,3
 accompanies,1
@@ -36,6 +38,7 @@ relation,1
 upper,1
 relative,1
 imply,1
+36,1
 are,2
 redshifts,1
 MOSDEF,1
@@ -57,6 +60,7 @@ galaxies,6
 spectroscopic,1
 S,1
 Moreover,1
+based,1
 by,2
 obtained,2
 on,2
@@ -65,7 +69,7 @@ of,13
 UV,3
 Angstroms,1
 range,1
-Calzetti,2
+survey,1
 or,1
 strongly,1
 dustier,1
@@ -81,11 +85,11 @@ extinction,1
 SMC,1
 from,2
 log,1
-become,1
+0,1
 construct,1
 Msun,2
 nebular,3
-SED,1
+2,2
 observations,1
 stars,1
 that,8
@@ -97,7 +101,9 @@ but,1
 N,1
 optical,2
 V,1
+SED,1
 line,1
+224,1
 with,6
 than,2
 present,1
@@ -105,6 +111,7 @@ reddening,1
 dex,1
 sample,1
 account,1
+16,1
 these,1
 trends,1
 near,1
@@ -127,10 +134,11 @@ in,6
 Keck,1
 stellar,4
 IMF,1
-shorter,1
+1,1
 underestimate,1
 which,1
-survey,1
+Calzetti,2
+2500,1
 A,1
 attenuation,6
 star,2
@@ -156,6 +164,7 @@ depth,1
 R,1
 correlates,1
 At,1
+become,1
 constrain,1
 obscuration,1
 order,1

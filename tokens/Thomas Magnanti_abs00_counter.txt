@@ -8,9 +8,11 @@ is,1
 obtain,2
 an,2
 approximation,3
+61,1
 as,2
 cost,3
 design,1
+4,1
 dual,1
 polynomial,1
 our,1
@@ -25,6 +27,7 @@ exact,3
 technique,4
 only,1
 new,2
+1,1
 combinatorial,2
 charge,2
 optimization,2

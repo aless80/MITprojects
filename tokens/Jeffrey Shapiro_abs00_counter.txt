@@ -70,6 +70,7 @@ there,1
 two,2
 lidar,3
 their,2
+2,1
 lidars,1
 that,2
 presumes,1
@@ -98,6 +99,7 @@ technology,1
 no,1
 when,1
 range,3
+1,1
 These,1
 pair,2
 which,1

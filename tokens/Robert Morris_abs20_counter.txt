@@ -9,7 +9,6 @@ occultation,1
 technique,1
 to,4
 into,1
-GV,1
 around,1
 rules,1
 reflected,1
@@ -26,6 +25,8 @@ constraints,1
 injecting,1
 are,1
 measurement,1
+G6V,1
+86,1
 out,1
 confirm,1
 measurements,1
@@ -88,7 +89,9 @@ dozen,1
 confirmed,2
 Doppler,1
 beaming,1
-mimic,1
+depth,1
+41,2
+1,1
 star,1
 Third,1
 models,1
@@ -100,7 +103,7 @@ ellipsoidal,1
 light,5
 curve,3
 orbit,1
-depth,1
+mimic,1
 mass,1
 simulated,1
 velocity,1

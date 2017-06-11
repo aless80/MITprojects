@@ -22,6 +22,7 @@ methodology,1
 does,1
 models,2
 which,1
+6,1
 performance,1
 corpus,2
 translate,1
@@ -47,6 +48,7 @@ task,1
 natural,2
 language,2
 neural,2
+19,1
 of,5
 work,1
 explore,1

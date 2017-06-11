@@ -27,6 +27,7 @@ provide,1
 latter,1
 model,1
 by,1
+1,2
 to,2
 other,2
 which,1

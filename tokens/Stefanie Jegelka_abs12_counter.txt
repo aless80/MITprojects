@@ -2,6 +2,7 @@ results,1
 converge,1
 quadrature,3
 computation,2
+machine,2
 We,3
 inverse,1
 knowledge,1
@@ -78,7 +79,7 @@ To,1
 at,1
 in,2
 built,1
-machine,2
+1,2
 which,2
 algorithms,2
 several,2

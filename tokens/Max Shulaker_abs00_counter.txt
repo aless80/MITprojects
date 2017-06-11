@@ -5,7 +5,7 @@ paper,1
 CNFETs,1
 speed,2
 impact,2
-cell,1
+1,1
 We,1
 derive,1
 based,1
@@ -25,9 +25,9 @@ runs,1
 promising,1
 level,1
 systematically,1
+cell,1
 yield,2
 large,1
-x,1
 identifies,1
 transistors,1
 constraints,1
@@ -45,6 +45,7 @@ for,3
 space,1
 However,1
 increase,1
+100x,1
 we,1
 noise,3
 simultaneously,1
@@ -67,6 +68,7 @@ rely,1
 to,5
 quickly,1
 their,1
+2,1
 Carbon,1
 meeting,1
 building,1
@@ -98,6 +100,7 @@ hoc,1
 efficient,1
 delay,1
 field,1
+5,1
 digital,1
 techniques,1
 CNT,6

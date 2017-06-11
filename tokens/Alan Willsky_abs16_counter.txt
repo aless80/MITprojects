@@ -8,6 +8,7 @@ decay,4
 graph,3
 to,2
 finally,1
+4,1
 samples,3
 has,1
 local,1

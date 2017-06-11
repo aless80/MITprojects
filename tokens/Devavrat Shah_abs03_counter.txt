@@ -1,6 +1,7 @@
 and,2
 appropriately,1
 filtering,3
+better,1
 regret,1
 defined,1
 is,3
@@ -30,7 +31,7 @@ there,1
 recommendation,2
 chooses,1
 by,1
-better,1
+1,1
 to,8
 much,1
 various,1

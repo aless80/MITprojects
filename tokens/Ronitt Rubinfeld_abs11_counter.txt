@@ -9,7 +9,8 @@ has,3
 local,8
 achieve,1
 then,1
-D,4
+D,3
+2D,1
 reconstructors,1
 reconstruction,2
 having,3
@@ -37,7 +38,7 @@ extend,1
 This,1
 use,1
 strong,1
-by,1
+properties,4
 most,1
 of,8
 k,3
@@ -51,7 +52,7 @@ one,1
 exploit,1
 given,2
 Brakerski,1
-properties,4
+by,1
 low,1
 way,1
 correction,1
@@ -76,6 +77,7 @@ in,2
 close,4
 if,1
 acts,1
+1,1
 instance,1
 which,3
 parameter,2

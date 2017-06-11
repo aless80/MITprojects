@@ -10,6 +10,7 @@ before,1
 write,2
 We,2
 amplification,2
+5x,2
 implementation,1
 writes,4
 flash,4
@@ -18,7 +19,7 @@ to,11
 only,2
 offers,1
 candidates,1
-systems,1
+4,1
 has,1
 real,1
 updated,1
@@ -38,14 +39,14 @@ large,2
 these,1
 erasures,3
 small,1
-x,3
+become,1
 caches,3
 because,1
 art,1
 significantly,1
 weight,1
 median,1
-likely,1
+10x,1
 design,2
 are,3
 even,1
@@ -65,7 +66,6 @@ This,2
 maintains,1
 objects,4
 key,4
-become,1
 on,4
 getting,1
 of,7
@@ -82,6 +82,8 @@ chunks,2
 sized,1
 cloud,1
 use,1
+0,1
+2,1
 memory,2
 more,2
 medium,2
@@ -95,6 +97,7 @@ novel,1
 impractical,1
 default,1
 rate,1
+likely,1
 value,4
 drops,1
 and,7
@@ -102,6 +105,7 @@ predict,1
 is,2
 describe,1
 it,3
+systems,1
 as,1
 in,3
 need,1

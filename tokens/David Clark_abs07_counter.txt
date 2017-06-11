@@ -23,7 +23,9 @@ no,1
 important,1
 nebula,2
 presents,1
+3,1
 other,1
+5,1
 observations,2
 consistent,2
 assuming,1
@@ -38,10 +40,11 @@ we,1
 radial,1
 that,4
 very,1
-H,1
+thermodynamic,1
 discontinuity,1
 derived,1
 emission,3
+H91,1
 electron,1
 optical,2
 significant,1
@@ -53,10 +56,11 @@ with,2
 distribution,1
 present,2
 a,2
+10,1
+recombination,1
 continuum,3
 this,3
-recombination,1
-thermodynamic,1
+3242,1
 lines,2
 Balmer,1
 determined,1

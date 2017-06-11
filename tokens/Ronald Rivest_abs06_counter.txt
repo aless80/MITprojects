@@ -4,7 +4,6 @@ secure,1
 Democracy,1
 is,1
 Internet,1
-EE,2
 evidence,1
 pamphlet,1
 officials,1
@@ -15,7 +14,7 @@ based,1
 Foundation,1
 end,2
 for,1
-Fund,1
+E2E,2
 Assessment,1
 s,1
 verifiability,1
@@ -47,4 +46,5 @@ Feasibility,1
 audience,1
 VIV,1
 Vote,1
+Fund,1
 the,2

@@ -25,6 +25,7 @@ replication,1
 every,2
 mathcal,7
 not,1
+2,10
 execution,2
 several,1
 follows,1
@@ -117,10 +118,11 @@ in,3
 as,2
 if,2
 information,2
+write,2
 no,1
 make,1
 storage,9
-write,2
+1,3
 client,1
 take,1
 finite,1

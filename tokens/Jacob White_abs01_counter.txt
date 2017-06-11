@@ -30,7 +30,7 @@ cool,2
 leads,1
 identified,1
 large,1
-these,1
+2146,4
 kpc,2
 constraints,1
 morphologies,1
@@ -40,7 +40,7 @@ expect,1
 images,2
 close,1
 lead,1
-matter,5
+Cluster,1
 colours,1
 centroid,3
 between,1
@@ -58,6 +58,7 @@ appears,1
 stage,1
 on,4
 of,11
+30,1
 trajectories,1
 first,1
 strongly,1
@@ -74,6 +75,7 @@ leading,1
 two,2
 their,1
 collided,1
+2,1
 that,3
 regard,1
 Chandra,1
@@ -83,7 +85,7 @@ than,1
 present,1
 Telescope,1
 this,1
-Cluster,1
+matter,5
 lensed,1
 distribution,1
 Galaxy,1
@@ -100,6 +102,7 @@ have,1
 in,6
 constrained,1
 ray,4
+these,1
 rather,1
 also,1
 Brightest,1

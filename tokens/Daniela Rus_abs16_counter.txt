@@ -26,6 +26,7 @@ pebble,1
 pebbles,3
 provided,1
 for,3
+3,1
 does,1
 induced,1
 we,1
@@ -49,6 +50,7 @@ rotations,1
 one,1
 establish,1
 from,2
+2,1
 speaking,1
 complete,1
 that,2

@@ -2,6 +2,7 @@ show,1
 being,1
 relation,1
 human,1
+machine,1
 We,1
 difference,1
 depend,1
@@ -99,11 +100,12 @@ in,3
 if,1
 compared,1
 Food,1
-machine,1
+1,1
 how,6
 best,1
 which,1
 propose,1
+9,1
 used,1
 our,3
 depict,1

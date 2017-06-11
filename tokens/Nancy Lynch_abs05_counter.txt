@@ -93,10 +93,11 @@ memory,1
 triggered,1
 offer,1
 under,1
-N,4
 broadcast,1
 R,1
 demand,1
+N1,3
+N2,1
 RADON,3
 with,2
 present,1

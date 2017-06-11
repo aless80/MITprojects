@@ -24,6 +24,7 @@ our,1
 for,2
 we,2
 terms,1
+pm1,2
 monotone,1
 O,2
 bitset,2
@@ -46,7 +47,7 @@ such,1
 total,1
 log,4
 prove,1
-pm,3
+pm,1
 function,2
 that,2
 else,1
@@ -71,6 +72,7 @@ any,1
 functions,2
 holds,1
 sqrt,4
+1,4
 also,1
 which,3
 mnote,1

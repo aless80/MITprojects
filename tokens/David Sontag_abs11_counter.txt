@@ -34,7 +34,7 @@ method,1
 architecture,1
 multivariate,1
 we,1
-K,1
+298K,1
 on,1
 many,1
 annual,1
@@ -43,6 +43,7 @@ temporal,3
 via,1
 convolution,1
 predictive,1
+171,1
 from,3
 takes,1
 measured,1
@@ -56,9 +57,11 @@ convolutional,1
 that,1
 train,1
 predictable,1
+8,1
 than,1
 multi,1
 novel,1
+18,1
 differentiable,1
 values,1
 of,3

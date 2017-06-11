@@ -10,7 +10,7 @@ we,1
 curves,2
 global,1
 shape,1
-are,1
+1D,1
 have,1
 in,1
 images,1
@@ -25,7 +25,6 @@ based,1
 variety,1
 image,1
 since,1
-complexity,1
 by,1
 to,3
 provides,1
@@ -37,7 +36,7 @@ a,6
 optimizing,1
 focuses,1
 controlled,1
-D,1
+theory,1
 that,1
 This,1
 propose,1
@@ -68,7 +67,7 @@ differential,1
 curve,4
 derivatives,1
 method,1
-theory,1
+complexity,1
 resulting,2
 clean,1
 fields,3
@@ -78,3 +77,4 @@ the,4
 shaped,1
 automatic,1
 complementary,1
+are,1

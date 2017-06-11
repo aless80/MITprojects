@@ -22,7 +22,7 @@ matched,1
 loss,1
 thermal,1
 large,3
-magnitude,1
+vector,1
 small,1
 smaller,1
 undergoes,1
@@ -31,7 +31,7 @@ bf,1
 wire,2
 electromagnetic,1
 increase,1
-vector,1
+magnitude,1
 conditions,1
 be,3
 C,1
@@ -46,6 +46,7 @@ hollow,1
 Eur,1
 Phys,1
 temperature,1
+107,1
 much,1
 expected,1
 scheme,1
@@ -75,9 +76,11 @@ claimed,1
 orders,1
 LC,1
 nonetheless,1
+46,1
 field,2
 potential,1
 which,2
+mass,4
 Coulomb,1
 produce,1
 The,2
@@ -85,6 +88,6 @@ a,10
 center,1
 metal,1
 It,1
-mass,4
+2006,1
 the,7
 nearly,1

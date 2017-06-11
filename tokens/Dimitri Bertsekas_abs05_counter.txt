@@ -26,12 +26,13 @@ for,2
 variety,1
 gradient,1
 sum,2
+optimization,1
 distributed,1
 by,1
-machine,1
+1,1
 to,1
 randomization,1
-optimization,1
+machine,1
 which,2
 new,1
 consisting,1

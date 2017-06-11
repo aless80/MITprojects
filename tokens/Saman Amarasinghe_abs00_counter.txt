@@ -38,6 +38,7 @@ implemented,1
 best,1
 out,1
 scale,1
+combined,1
 for,2
 However,1
 disk,1
@@ -81,7 +82,7 @@ low,1
 memory,2
 show,1
 CSR,1
-combined,1
+4,2
 optimizing,1
 that,3
 gap,1
@@ -99,6 +100,7 @@ instruction,1
 up,2
 accesses,1
 frameworks,3
+2,1
 can,1
 of,6
 accessed,1

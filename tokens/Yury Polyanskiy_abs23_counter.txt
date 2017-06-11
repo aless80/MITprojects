@@ -64,6 +64,7 @@ additive,1
 combinatorics,1
 Bernoulli,1
 contains,1
+2,6
 function,2
 that,3
 operators,1
@@ -94,6 +95,7 @@ evidently,1
 binary,1
 functions,1
 latter,1
+1,2
 application,1
 A,3
 independent,1

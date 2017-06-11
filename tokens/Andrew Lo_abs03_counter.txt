@@ -56,6 +56,7 @@ from,2
 arms,1
 strategy,2
 their,1
+2,1
 observations,1
 memory,4
 was,1
@@ -79,6 +80,7 @@ no,1
 efficient,1
 suggest,1
 make,2
+1,2
 optimal,1
 effect,1
 such,1

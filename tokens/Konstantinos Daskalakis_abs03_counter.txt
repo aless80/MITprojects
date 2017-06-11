@@ -19,6 +19,7 @@ unique,1
 polariton,1
 entire,1
 incoherent,1
+50,1
 large,1
 instabilities,1
 disorder,1
@@ -77,6 +78,7 @@ condensation,1
 varying,1
 cases,1
 with,2
+10,1
 this,2
 work,1
 appearance,1
@@ -96,6 +98,7 @@ in,2
 gradients,1
 influenced,1
 feature,1
+1,1
 unity,1
 materials,1
 stemming,1

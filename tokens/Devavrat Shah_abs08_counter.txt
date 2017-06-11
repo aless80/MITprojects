@@ -47,6 +47,7 @@ given,1
 from,4
 log,1
 been,1
+2,1
 low,1
 assumes,1
 function,1

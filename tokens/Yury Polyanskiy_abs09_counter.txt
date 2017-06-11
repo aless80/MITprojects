@@ -6,7 +6,7 @@ convolution,2
 adding,1
 le,1
 density,1
-to,8
+0,1
 only,1
 under,1
 has,1
@@ -75,7 +75,7 @@ simplified,1
 total,1
 tools,1
 from,1
-lemma,1
+to,8
 support,1
 question,1
 quadratic,1
@@ -111,6 +111,7 @@ if,2
 information,4
 mutual,1
 end,1
+lemma,1
 F,2
 s,1
 which,1

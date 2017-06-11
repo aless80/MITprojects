@@ -1,3 +1,4 @@
+0,1
 reductions,1
 over,1
 results,1
@@ -16,8 +17,8 @@ instances,2
 arbitrary,1
 found,1
 reduced,2
-constraints,1
-node,4
+2k,2
+A,1
 weighted,5
 weight,1
 hard,1
@@ -41,7 +42,7 @@ strong,1
 by,1
 on,1
 of,5
-k,12
+k,10
 o,2
 definition,2
 SUM,3
@@ -78,9 +79,12 @@ an,1
 in,4
 any,1
 same,1
+41,1
+1,5
 other,1
 which,1
-A,1
+constraints,1
+node,4
 problems,4
 edges,1
 The,1

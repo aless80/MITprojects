@@ -13,7 +13,7 @@ layers,1
 whose,1
 We,7
 field,1
-to,4
+0,3
 only,1
 Rigid,1
 Not,1
@@ -83,11 +83,11 @@ least,1
 size,1
 log,3
 would,2
-prove,2
+to,4
 transform,1
 been,1
 Circuit,1
-quadratic,1
+2,10
 low,1
 Hadamard,3
 was,1
@@ -121,6 +121,7 @@ in,1
 any,1
 Product,1
 make,1
+1,4
 how,1
 maintain,1
 which,4
@@ -139,11 +140,13 @@ probabilistic,2
 class,1
 sub,1
 a,7
+prove,2
 lower,4
 surprising,1
 explicit,2
 complexity,2
 Boolean,2
 Threshold,1
+quadratic,1
 the,7
 notion,1

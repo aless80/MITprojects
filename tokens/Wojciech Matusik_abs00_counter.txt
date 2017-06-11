@@ -18,19 +18,19 @@ Here,1
 signals,1
 to,3
 input,1
-has,1
-D,1
+x5,1
 combination,1
 propose,1
 remedy,1
 fastest,1
 they,1
+2M,1
 dataset,1
 exploiting,1
 specific,1
 these,1
 fully,2
-x,4
+x12,1
 higher,1
 view,2
 art,3
@@ -39,6 +39,7 @@ second,1
 are,1
 images,1
 our,3
+3D,1
 large,1
 network,2
 for,4
@@ -50,10 +51,10 @@ ren,2
 reconstruction,2
 between,1
 denoted,1
+x24,1
 approach,2
 we,2
 processing,3
-M,1
 VGG,1
 however,1
 approaches,1
@@ -71,6 +72,7 @@ one,2
 rendering,1
 trained,1
 resolutions,1
+has,1
 use,2
 stereoscopic,2
 consumption,2
@@ -89,6 +91,7 @@ both,3
 but,1
 subjective,1
 train,1
+x2,1
 producing,1
 present,2
 Latest,1
@@ -107,6 +110,7 @@ as,3
 different,1
 compared,1
 that,1
+5,1
 forces,1
 spatial,2
 objective,1

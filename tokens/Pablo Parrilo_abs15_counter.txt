@@ -20,7 +20,7 @@ sizes,1
 yields,1
 sparse,1
 small,1
-monomials,1
+2n,1
 smaller,1
 Since,1
 are,1
@@ -37,7 +37,7 @@ we,5
 linear,3
 standard,1
 S,1
-between,1
+monomials,1
 logarithmic,2
 on,1
 essentially,1
@@ -69,7 +69,8 @@ prove,1
 positive,2
 construct,1
 by,1
-gives,1
+2,4
+4,1
 relies,1
 families,1
 that,7
@@ -86,9 +87,10 @@ semidefinite,2
 exponential,1
 this,2
 as,1
-n,6
+n,5
 can,3
 Our,1
+gives,1
 example,1
 at,1
 and,2
@@ -104,6 +106,7 @@ in,5
 any,2
 if,1
 formulations,1
+1,1
 lifts,6
 role,1
 which,2
@@ -113,6 +116,7 @@ polytopes,1
 extended,1
 important,1
 uses,1
+between,1
 gap,1
 a,6
 e,2

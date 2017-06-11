@@ -20,6 +20,7 @@ non,1
 Nevertheless,1
 possible,2
 not,2
+2,1
 one,1
 structural,2
 necessary,1

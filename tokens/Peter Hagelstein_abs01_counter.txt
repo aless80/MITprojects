@@ -55,12 +55,13 @@ kinematic,3
 covariant,2
 transform,1
 been,1
+2,8
 frame,2
 define,1
 form,2
 that,2
 composite,1
-an,1
+general,1
 with,1
 potential,1
 j,3
@@ -74,7 +75,7 @@ mechanics,1
 associated,1
 relativistic,1
 is,3
-general,1
+an,1
 as,1
 have,1
 in,4

@@ -1,3 +1,4 @@
+1080,1
 simple,1
 into,1
 hard,1
@@ -9,6 +10,7 @@ We,1
 polygon,1
 prove,1
 orthogonal,1
+1,2
 to,2
 factor,1
 NP,1

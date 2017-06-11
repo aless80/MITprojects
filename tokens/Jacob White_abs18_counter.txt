@@ -19,11 +19,13 @@ for,1
 also,3
 show,2
 binom,2
+3,1
 been,1
 find,1
 lattice,1
 type,1
 approach,1
+4,1
 use,1
 has,2
 numerous,1
@@ -40,13 +42,13 @@ object,1
 to,2
 free,2
 applications,1
-introduce,1
+a,2
 basis,1
 group,2
 The,1
 model,1
 partitions,1
-a,2
+2,2
 algebras,1
 algebra,2
 this,1
@@ -60,5 +62,6 @@ discrete,3
 fundamental,2
 crossing,1
 the,13
+introduce,1
 homotopy,1
 view,1

@@ -23,6 +23,7 @@ each,1
 For,2
 series,2
 convex,1
+pm1,1
 matrix,2
 for,2
 sparsity,1
@@ -52,7 +53,7 @@ positive,1
 their,1
 zeros,1
 Furthermore,1
-pm,1
+gives,1
 graphical,1
 corresponding,2
 complete,1
@@ -65,9 +66,7 @@ this,2
 equation,1
 maximum,1
 problem,1
-gives,1
 and,2
-succeq,4
 associated,1
 have,1
 is,2
@@ -78,6 +77,8 @@ in,5
 if,1
 rays,1
 also,1
+5,1
+succeq0,4
 normal,1
 models,1
 problems,1

@@ -87,6 +87,7 @@ have,1
 in,2
 Airy,2
 self,1
+1,1
 book,2
 They,1
 mixtures,1

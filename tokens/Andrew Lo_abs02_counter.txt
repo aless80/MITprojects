@@ -7,7 +7,7 @@ We,3
 overwhelming,1
 temporal,1
 capabilities,1
-to,4
+0,1
 them,1
 greater,1
 thereby,1
@@ -46,6 +46,7 @@ determine,1
 market,1
 given,1
 from,2
+to,4
 Turing,1
 two,1
 construct,1
@@ -77,6 +78,7 @@ no,1
 suggest,1
 feature,1
 subjects,3
+5,1
 online,1
 test,1
 widespread,1

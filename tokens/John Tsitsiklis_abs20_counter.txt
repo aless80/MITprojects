@@ -74,6 +74,7 @@ in,1
 provide,1
 holds,1
 Krause,1
+1,1
 other,1
 finite,1
 continuous,1

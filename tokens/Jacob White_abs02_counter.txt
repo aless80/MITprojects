@@ -5,6 +5,7 @@ discovered,1
 distant,1
 using,3
 consists,1
+200,1
 galaxy,1
 previous,1
 component,1
@@ -12,9 +13,12 @@ fronts,1
 fit,1
 merger,3
 sky,1
+3,3
 passage,1
 to,3
 detected,1
+4,1
+14,1
 clusters,1
 cool,1
 Hubble,1
@@ -27,6 +31,7 @@ gravitating,1
 presented,1
 shock,1
 shapes,1
+2146,8
 yields,1
 each,1
 where,2
@@ -70,8 +75,10 @@ ACS,1
 lensing,3
 total,1
 given,1
+0,3
 caught,1
 system,2
+2,1
 was,1
 more,1
 centred,4
@@ -81,6 +88,8 @@ apparent,1
 Chandra,1
 highest,1
 with,6
+10,2
+15,1
 Telescope,1
 showed,1
 gravitational,1
@@ -102,8 +111,11 @@ cluster,1
 distorted,1
 seen,1
 concentration,1
+232,1
 ray,4
+1,3
 also,1
+5,1
 Brightest,1
 parameter,1
 A,6

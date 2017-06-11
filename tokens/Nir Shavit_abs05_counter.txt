@@ -6,9 +6,11 @@ integer,1
 networks,2
 multiples,1
 previous,1
+25,1
 volumetric,1
 slow,1
 cache,1
+state,1
 Here,1
 improvement,1
 to,6
@@ -32,7 +34,7 @@ special,1
 for,1
 CPU,4
 access,1
-state,1
+3,1
 approach,1
 be,1
 we,4
@@ -58,6 +60,7 @@ utilization,1
 due,1
 been,1
 optimize,1
+2,1
 low,1
 memory,2
 convolutional,2
@@ -84,6 +87,7 @@ have,2
 in,2
 need,1
 compared,1
+5,1
 performance,1
 Treating,1
 transforming,1

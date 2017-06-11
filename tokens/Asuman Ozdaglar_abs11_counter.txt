@@ -6,6 +6,7 @@ random,3
 results,1
 paper,1
 tilde,2
+Lyapunov,1
 We,3
 based,1
 monitor,1
@@ -14,6 +15,7 @@ ln,3
 less,1
 guaranteed,1
 to,4
+4,1
 guarantees,1
 return,1
 greater,1
@@ -68,10 +70,12 @@ iterations,1
 proportional,1
 estimate,2
 additive,1
+0,1
 addition,1
 positive,1
 locally,1
 The,1
+2,3
 criteria,3
 expected,1
 pi,3
@@ -107,7 +111,7 @@ min,1
 provide,1
 recurrent,1
 utilize,1
-Lyapunov,1
+1,6
 mix,4
 which,2
 performance,1

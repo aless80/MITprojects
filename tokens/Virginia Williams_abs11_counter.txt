@@ -12,7 +12,7 @@ We,3
 le,1
 graph,4
 improvement,1
-to,3
+0,1
 preserved,1
 ours,1
 main,1
@@ -42,6 +42,7 @@ satisfying,1
 both,1
 for,5
 sparsity,2
+3,6
 various,1
 above,1
 new,1
@@ -80,7 +81,10 @@ given,1
 additive,1
 For,1
 would,1
+to,3
 construct,1
+2,4
+4,1
 subgraph,1
 on,2
 These,1
@@ -116,6 +120,7 @@ graphs,1
 make,2
 that,3
 when,2
+1,1
 application,1
 nontrivial,1
 concerns,1

@@ -9,7 +9,7 @@ dimensionality,1
 ratio,1
 ell,2
 also,1
-to,6
+0,2
 spread,1
 theorem,1
 not,1
@@ -42,8 +42,10 @@ bound,2
 size,3
 given,1
 log,12
+to,6
 due,1
 reduction,1
+2,4
 bits,3
 metric,2
 that,3
@@ -66,6 +68,7 @@ any,1
 Phi,5
 provide,1
 recovers,1
+1,5
 tight,1
 which,1
 optimal,2

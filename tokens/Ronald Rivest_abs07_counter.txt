@@ -21,7 +21,9 @@ choice,1
 P,3
 effects,1
 not,1
+2,2
 sizes,1
+50,1
 preference,1
 large,1
 item,2
@@ -34,7 +36,7 @@ smaller,2
 often,1
 some,2
 observed,1
-likely,5
+second,2
 are,7
 even,1
 Thurstone,1
@@ -69,6 +71,7 @@ There,1
 one,2
 ties,1
 from,2
+0,1
 there,1
 three,1
 But,1
@@ -88,7 +91,7 @@ diffuse,1
 this,3
 variances,1
 j,7
-second,2
+likely,5
 n,3
 below,1
 cancers,1
@@ -118,6 +121,7 @@ trials,1
 when,1
 ne,3
 same,1
+1,2
 localities,1
 subjects,1
 which,1

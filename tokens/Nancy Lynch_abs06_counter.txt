@@ -3,6 +3,8 @@ increasingly,1
 text,3
 particular,1
 atomic,2
+during,1
+1,1
 We,1
 based,1
 writes,1
@@ -22,11 +24,12 @@ propose,1
 pays,1
 Maximum,1
 replication,1
-during,1
+2,1
 maintaining,1
 err,3
 server,3
 large,1
+2e,2
 where,2
 requirement,1
 schemes,1
@@ -136,7 +139,7 @@ on,1
 recent,1
 a,6
 lower,1
-e,3
+e,1
 algorithm,3
 traditional,1
 costs,1

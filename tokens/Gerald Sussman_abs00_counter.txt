@@ -3,6 +3,7 @@ distances,1
 extracting,1
 cosmological,1
 foundation,1
+information,2
 relativistic,1
 lay,1
 approaching,1
@@ -24,6 +25,7 @@ three,1
 per,1
 than,1
 to,4
+3,1
 complex,1
 black,1
 will,1
@@ -37,7 +39,7 @@ accuracy,1
 be,4
 begin,1
 star,1
-information,2
+10,1
 may,1
 Gravitational,1
 wave,1

@@ -43,6 +43,7 @@ examining,1
 number,1
 randomized,2
 polynomial,2
+0,1
 computing,1
 moderately,1
 only,1
@@ -72,6 +73,7 @@ in,5
 Instead,1
 LCAs,2
 generally,1
+1,1
 dependent,1
 parameter,1
 independent,1

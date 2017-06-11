@@ -48,6 +48,7 @@ temporary,1
 choices,1
 for,5
 LDS,3
+3,1
 Reed,1
 provides,1
 between,1
@@ -81,6 +82,7 @@ Motivated,1
 prove,1
 interact,1
 two,4
+2,4
 low,1
 way,1
 Data,1
@@ -116,6 +118,7 @@ as,1
 asynchronous,1
 at,1
 in,6
+1,3
 interacts,1
 any,1
 latency,1

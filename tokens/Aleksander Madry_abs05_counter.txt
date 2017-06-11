@@ -1,4 +1,5 @@
 all,1
+0,1
 Restricted,1
 both,1
 focus,1
@@ -8,6 +9,7 @@ We,1
 graph,1
 better,1
 to,6
+4,2
 main,1
 which,3
 matches,1
@@ -16,6 +18,7 @@ results,1
 integrality,3
 every,1
 item,2
+828,1
 each,1
 upper,1
 set,1
@@ -25,6 +28,7 @@ our,2
 best,2
 Budgeted,2
 for,3
+3,2
 be,2
 we,3
 sold,1
@@ -47,6 +51,8 @@ Allocation,2
 from,1
 prove,2
 strictly,1
+2,4
+6,1
 collected,1
 direction,1
 selling,1
@@ -86,6 +92,7 @@ provide,1
 MBA,1
 same,2
 also,1
+5,1
 LP,3
 frac,3
 separate,1

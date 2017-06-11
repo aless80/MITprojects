@@ -52,8 +52,8 @@ Sch,1
 many,1
 correctness,1
 o,1
-s,2
 survey,1
+1970s,1
 discusses,1
 or,1
 first,1
@@ -66,6 +66,7 @@ solve,1
 highly,1
 randomized,1
 Finally,1
+1990s,1
 from,1
 much,1
 NP,2

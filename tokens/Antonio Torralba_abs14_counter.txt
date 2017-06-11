@@ -17,7 +17,6 @@ dataset,1
 categories,1
 covering,1
 stuff,2
-ADEK,2
 vision,1
 some,1
 segmentation,2
@@ -53,6 +52,7 @@ improvements,1
 trained,1
 there,1
 two,1
+ADE20K,2
 few,1
 analyze,1
 annotations,2

@@ -3,7 +3,6 @@ particularly,1
 text,1
 accurate,1
 years,1
-wordvec,1
 interpretation,1
 We,3
 knowledge,1
@@ -47,6 +46,7 @@ improves,1
 domains,2
 features,3
 supply,1
+60,1
 chronic,1
 trained,1
 apply,1
@@ -87,6 +87,7 @@ onset,1
 causing,1
 build,1
 accuracy,1
+word2vec,1
 description,1
 models,3
 important,1

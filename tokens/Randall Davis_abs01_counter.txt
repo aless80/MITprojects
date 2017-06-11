@@ -31,10 +31,10 @@ overwrite,1
 describing,1
 for,1
 clock,2
+24K,1
 contributes,1
-screen,1
 impact,1
-K,1
+screen,1
 impairments,1
 Drawing,1
 on,2
@@ -60,6 +60,7 @@ their,2
 clinical,1
 analyze,1
 final,1
+a,5
 that,4
 tool,1
 spectrum,1
@@ -95,7 +96,8 @@ applicability,1
 used,1
 strokes,1
 Fields,1
-a,5
+000,1
+2,1
 ambiguous,1
 e,1
 representation,1

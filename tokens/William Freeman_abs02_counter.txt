@@ -8,7 +8,7 @@ generator,2
 to,3
 has,1
 achieve,1
-D,11
+provides,1
 wide,1
 advances,1
 implicitly,1
@@ -25,6 +25,7 @@ namely,1
 are,1
 our,3
 recognition,2
+3D,11
 space,3
 establishes,1
 learned,2
@@ -32,7 +33,6 @@ method,1
 we,1
 leveraging,1
 volumetric,1
-provides,1
 explore,1
 objects,5
 by,1

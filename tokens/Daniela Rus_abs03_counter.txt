@@ -4,6 +4,8 @@ supervised,1
 human,1
 assembled,1
 before,1
+24,1
+20,1
 monitor,1
 capabilities,1
 to,8

@@ -13,6 +13,7 @@ phylogenetics,1
 to,5
 under,1
 By,1
+maximum,3
 explained,1
 showing,1
 scaling,1
@@ -69,6 +70,7 @@ positive,1
 two,1
 least,1
 by,2
+2,1
 observations,1
 analyze,1
 theoretical,1
@@ -102,13 +104,12 @@ distributions,3
 descent,1
 provide,1
 discussion,1
-maximum,3
+MTP2,4
 also,2
 forest,3
 which,1
 calculating,1
 MLE,2
-MTP,4
 In,1
 M,1
 edges,1

@@ -11,6 +11,7 @@ GHz,1
 to,6
 attractive,1
 samples,1
+8,1
 achieve,2
 them,1
 greater,1
@@ -20,6 +21,7 @@ THz,1
 transmission,1
 signal,3
 dB,2
+50,1
 mode,1
 output,1
 are,1
@@ -41,6 +43,7 @@ terahertz,2
 operating,1
 ratios,2
 making,1
+100,1
 on,1
 package,1
 of,5
@@ -50,15 +53,18 @@ greatly,1
 suitable,1
 first,1
 Even,1
+60,1
 Finally,1
 Here,1
+250,1
 use,1
 temperature,1
 two,1
+2,1
 option,1
 that,2
 centered,1
-spectrum,1
+it,1
 with,2
 than,1
 multi,2
@@ -74,7 +80,7 @@ proof,1
 and,3
 expanding,1
 is,1
-it,1
+spectrum,1
 an,1
 high,1
 quantum,4

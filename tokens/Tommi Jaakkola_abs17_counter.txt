@@ -52,6 +52,7 @@ from,2
 log,2
 least,1
 centrality,1
+2,3
 low,1
 analyze,1
 is,3

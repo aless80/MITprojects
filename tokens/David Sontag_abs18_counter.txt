@@ -12,9 +12,9 @@ efficient,1
 main,1
 then,1
 intractable,1
-D,1
 wide,1
 very,1
+2D,1
 grid,1
 decomposes,1
 For,1

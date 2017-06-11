@@ -2,6 +2,7 @@ agreed,1
 spaces,1
 find,1
 physiological,2
+3,1
 intensive,2
 to,7
 differently,1
@@ -31,6 +32,7 @@ for,2
 space,1
 decision,1
 state,2
+7,1
 new,1
 learned,1
 approach,1
@@ -59,12 +61,14 @@ hospital,1
 there,1
 universally,1
 clinical,1
+6,1
 improve,1
 treatment,7
 that,1
 continuous,2
 hold,1
 observed,1
+13,1
 algorithm,1
 this,1
 work,1

@@ -101,6 +101,7 @@ this,1
 up,1
 while,2
 can,1
+32,1
 LMA,4
 property,1
 are,1

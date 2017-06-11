@@ -14,7 +14,7 @@ L,1
 inequality,1
 strengthened,1
 ary,1
-noise,1
+Sobolev,1
 radius,1
 special,1
 spectral,1
@@ -28,7 +28,7 @@ between,1
 wner,1
 be,1
 we,1
-Sobolev,1
+noise,1
 terms,3
 theory,1
 originated,1
@@ -51,6 +51,7 @@ given,1
 additive,1
 chi,1
 question,1
+2,1
 basic,1
 Furthermore,1
 more,1

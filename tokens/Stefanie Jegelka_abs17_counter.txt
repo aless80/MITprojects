@@ -19,14 +19,16 @@ match,1
 On,1
 good,1
 allelize,1
-D,2
+gains,1
 straightforward,1
 very,1
 obtain,1
+2D,1
 they,3
 now,1
 convexity,1
 easily,1
+strengths,1
 d,1
 solves,1
 sizes,1
@@ -47,7 +49,7 @@ geometrically,1
 are,1
 convex,6
 our,1
-techniques,1
+3D,1
 conceptually,1
 benefit,1
 combinatorial,5
@@ -119,7 +121,6 @@ in,3
 submodularity,1
 any,1
 viewed,1
-gains,1
 par,1
 thereby,1
 min,1
@@ -129,7 +130,7 @@ when,1
 subroutines,1
 other,1
 which,2
-strengths,1
+techniques,1
 With,1
 difficult,1
 A,1

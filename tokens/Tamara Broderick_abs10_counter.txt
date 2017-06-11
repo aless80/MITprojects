@@ -23,10 +23,13 @@ p,1
 mistakes,1
 found,1
 titlea,1
+190,1
 are,2
+1928,1
 close,1
 encouraged,1
 for,2
+3,1
 version,2
 reader,1
 Zanichelli,1
@@ -46,6 +49,7 @@ detailed,1
 letters,1
 appeared,1
 one,1
+179,1
 pp,1
 from,1
 Most,1
@@ -59,6 +63,7 @@ corrected,1
 consult,1
 translation,3
 with,1
+10,1
 made,1
 this,3
 originally,1

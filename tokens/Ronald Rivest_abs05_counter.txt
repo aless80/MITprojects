@@ -27,6 +27,7 @@ winner,1
 two,1
 presents,1
 method,2
+2,1
 candidates,1
 ballots,1
 until,1

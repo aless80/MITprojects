@@ -21,6 +21,7 @@ polariton,2
 THz,1
 incoherent,1
 sideband,1
+higher,1
 we,2
 intensity,1
 are,2
@@ -83,7 +84,7 @@ strikingly,1
 also,1
 other,1
 events,1
-higher,1
+2500,1
 optically,1
 peaks,1
 excitation,2

@@ -8,6 +8,7 @@ if,1
 We,1
 graph,1
 least,1
+2,1
 has,1
 that,1
 given,1

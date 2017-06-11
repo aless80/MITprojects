@@ -12,7 +12,8 @@ based,1
 parameters,2
 consistently,1
 energies,1
-to,4
+0,2
+langle111,2
 alter,1
 shear,1
 Both,1
@@ -32,11 +33,13 @@ principles,1
 emph,1
 approximation,1
 ductile,1
+110,3
 measure,1
 Rice,1
 Nickel,1
 initio,1
 various,1
+lattice,1
 between,1
 method,1
 body,1
@@ -45,7 +48,6 @@ G,1
 respectively,1
 Mn,5
 orbitals,1
-langle,2
 x,3
 properties,2
 First,1
@@ -70,7 +72,7 @@ decrease,1
 doping,1
 from,1
 elastic,1
-lattice,1
+to,4
 system,1
 by,1
 their,1
@@ -109,6 +111,7 @@ slip,1
 in,3
 physical,1
 strength,1
+1,2
 tin,1
 potential,1
 several,1

@@ -5,6 +5,7 @@ tilde,3
 rectangles,1
 find,1
 We,2
+tight,1
 improvement,1
 to,3
 factor,2
@@ -36,6 +37,7 @@ sub,2
 for,1
 space,7
 Demaine,1
+3,1
 between,2
 geometric,1
 be,1
@@ -69,11 +71,11 @@ classic,1
 approximate,1
 least,1
 parallel,1
+2,3
 is,4
 that,10
 exactly,1
 R,1
-DIMV,1
 delta,5
 with,2
 must,2
@@ -101,7 +103,8 @@ any,2
 triangles,1
 regime,1
 when,1
-tight,1
+1,5
+DIMV14,1
 setting,1
 modification,1
 optimal,1

@@ -8,9 +8,10 @@ to,4
 input,2
 real,1
 non,1
-D,1
+analogy,1
 propose,2
 possible,2
+2D,1
 game,1
 level,1
 shapes,1
@@ -37,7 +38,6 @@ many,1
 study,1
 motion,2
 wold,1
-analogy,1
 makes,1
 or,1
 involves,1

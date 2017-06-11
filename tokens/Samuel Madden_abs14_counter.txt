@@ -1,6 +1,7 @@
 code,2
 produces,1
 when,1
+7x,1
 known,1
 stored,2
 using,1
@@ -22,7 +23,6 @@ server,4
 paper,1
 each,1
 small,1
-x,2
 loads,1
 round,1
 often,1
@@ -30,6 +30,7 @@ C,1
 challenges,1
 profiles,1
 our,1
+3x,1
 network,1
 for,1
 comparable,1
@@ -94,6 +95,7 @@ transactional,1
 Database,1
 able,1
 amount,1
+1,1
 application,4
 other,1
 which,1

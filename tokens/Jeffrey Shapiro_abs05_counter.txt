@@ -9,11 +9,15 @@ DCMs,1
 range,1
 We,1
 DCM,2
+20,1
+much,1
 technique,1
 Spectrally,1
 to,2
 only,1
+4,1
 under,1
+8,1
 customized,1
 downconversion,1
 biphotons,3
@@ -50,6 +54,7 @@ fiber,2
 equivalent,1
 processing,1
 commercially,1
+100,1
 standard,1
 by,1
 periodically,1
@@ -67,9 +72,10 @@ temperature,1
 two,1
 custom,1
 dispersion,3
-much,1
+2,1
 heralded,1
 that,1
+99,1
 optical,1
 highest,1
 with,5

@@ -23,12 +23,13 @@ both,1
 for,2
 space,1
 tasks,1
-Cars,1
+measured,1
 outstanding,1
 However,1
 to,1
 state,1
 stemming,1
+2011,1
 which,1
 online,1
 show,1
@@ -38,6 +39,7 @@ local,1
 is,1
 demonstrated,1
 function,1
+Cars196,1
 optimizing,1
 evaluation,1
 embedding,2
@@ -49,7 +51,7 @@ prediction,1
 framework,1
 approaches,1
 datasets,1
-CUB,1
+CUB200,1
 Our,1
 from,2
 with,2
@@ -61,7 +63,6 @@ training,1
 novel,1
 these,1
 of,3
-measured,1
 structured,1
 products,1
 unaware,1

@@ -14,6 +14,7 @@ under,1
 real,1
 thereby,1
 GP,2
+D2FAS,3
 scalable,2
 fusion,1
 traffic,3
@@ -65,7 +66,7 @@ theoretically,1
 approximate,1
 observations,1
 analyze,1
-DFAS,3
+theoretical,1
 more,1
 hotspots,1
 urban,2
@@ -75,7 +76,7 @@ sophisticated,1
 environmental,1
 with,1
 than,1
-theoretical,1
+achieving,2
 while,1
 can,2
 many,1
@@ -92,7 +93,6 @@ in,1
 guarantee,2
 provide,1
 also,1
-achieving,2
 performance,3
 applications,1
 important,1

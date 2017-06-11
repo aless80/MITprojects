@@ -3,6 +3,7 @@ probe,1
 assigned,1
 BP,3
 Raman,3
+1,1
 We,1
 group,1
 cm,1
@@ -23,7 +24,6 @@ frequency,2
 are,3
 our,1
 HF,2
-both,1
 nano,1
 optoelectronics,1
 thickness,1
@@ -32,6 +32,7 @@ contrast,1
 shows,1
 layers,1
 theory,2
+100,1
 by,1
 on,1
 of,1
@@ -49,14 +50,14 @@ crystalline,1
 use,1
 behavior,1
 temperature,1
-few,2
-two,1
 their,1
+two,1
+few,2
 much,2
 low,1
 Furthermore,1
 more,1
-that,1
+both,1
 known,1
 be,1
 coupling,1
@@ -77,6 +78,7 @@ have,1
 in,2
 LF,2
 anharmonicity,1
+that,1
 for,3
 polarization,1
 which,1

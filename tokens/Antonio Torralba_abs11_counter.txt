@@ -4,6 +4,7 @@ semantic,2
 learning,1
 classification,2
 list,1
+on,1
 describe,1
 scene,4
 environments,1
@@ -56,7 +57,7 @@ data,1
 categories,1
 baseline,1
 a,2
-on,1
+10,1
 multi,1
 intractable,1
 impressive,1

@@ -20,16 +20,18 @@ axis,1
 information,1
 We,2
 strength,1
+20,1
 trapping,1
 generate,1
 cavity,5
-measured,1
+160,1
 Yb,1
 hybrid,1
 system,1
 by,1
 access,1
 to,5
+scale,1
 periodic,3
 strong,2
 between,2
@@ -49,6 +51,7 @@ control,1
 optical,3
 allowing,1
 Each,1
+measured,1
 The,3
 mode,1
 with,2
@@ -56,7 +59,7 @@ potential,3
 present,1
 coupling,3
 a,5
-scale,1
+10,1
 and,1
 novel,1
 microfabricated,1
@@ -75,6 +78,7 @@ allow,1
 contain,1
 demonstrate,1
 the,7
+lesssim,1
 where,1
 could,1
-lesssim,1
+50,1

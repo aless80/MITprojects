@@ -29,7 +29,7 @@ subquadratic,1
 MAX,1
 circuits,3
 sparse,1
-each,1
+2c,1
 MAJ,2
 where,2
 Functions,1
@@ -39,7 +39,9 @@ techniques,1
 even,1
 for,10
 space,2
+lead,1
 circ,6
+3,2
 above,1
 new,3
 red,4
@@ -47,11 +49,12 @@ we,4
 linear,1
 degree,3
 Circuits,1
+each,1
 O,3
 Bounds,1
 Hamming,2
 on,2
-c,5
+c,4
 of,5
 neighbor,2
 or,4
@@ -64,9 +67,12 @@ randomized,3
 polynomial,2
 size,1
 log,4
+0,3
 top,1
 three,1
+2,6
 low,2
+6,1
 Furthest,2
 that,1
 These,1
@@ -77,7 +83,6 @@ LTF,5
 delta,1
 representing,1
 than,1
-faster,2
 fan,1
 Nearest,2
 algorithm,2
@@ -106,8 +111,10 @@ constructions,2
 variety,1
 With,1
 sqrt,1
+1,6
 also,3
 other,1
+5,1
 which,1
 gate,1
 Omega,1
@@ -124,7 +131,7 @@ Neighbors,2
 furthest,2
 lower,2
 implies,1
-lead,1
+faster,2
 bullet,3
 bottom,1
 m,1

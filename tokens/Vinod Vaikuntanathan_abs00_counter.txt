@@ -1,9 +1,10 @@
 show,1
 over,1
+woodruff13,1
+woodruff12,1
 paper,1
 computation,1
 scarce,1
-tight,2
 distributed,1
 to,1
 input,1
@@ -18,6 +19,7 @@ are,2
 for,4
 multiparty,2
 extensively,1
+phillips12,1
 we,2
 communicate,1
 however,1
@@ -71,12 +73,11 @@ in,6
 information,2
 functions,1
 complexity,3
-phillips,1
+tight,2
 several,1
 Omega,2
 used,1
 models,1
-woodruff,2
 allocation,1
 model,6
 recent,1

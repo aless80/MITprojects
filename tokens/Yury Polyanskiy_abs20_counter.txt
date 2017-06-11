@@ -5,6 +5,7 @@ distortion,2
 paper,1
 blocklengths,2
 speed,1
+shorter,1
 We,1
 inverse,1
 source,2
@@ -59,6 +60,7 @@ compression,3
 to,3
 properties,1
 dispersion,1
+2,3
 Variable,1
 pi,1
 function,1
@@ -82,7 +84,7 @@ minimum,2
 in,1
 length,4
 sqrt,1
-shorter,1
+1,4
 which,1
 mathsf,3
 A,1

@@ -1,5 +1,6 @@
 distances,1
 all,1
+0,1
 show,1
 indeed,1
 both,1
@@ -20,6 +21,7 @@ around,1
 matches,1
 truly,1
 possibly,1
+2,6
 every,1
 new,1
 world,1
@@ -48,6 +50,7 @@ out,1
 even,2
 sub,1
 spanners,4
+3,1
 above,2
 between,1
 progress,1
@@ -130,6 +133,7 @@ paths,1
 generalizes,1
 provide,1
 make,1
+1,2
 faults,1
 setting,1
 build,1

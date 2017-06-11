@@ -25,11 +25,12 @@ discrete,2
 graph,2
 give,1
 when,1
+complex,2
 construct,1
 arrangement,1
 cell,2
 to,3
-complex,2
+2,1
 Independence,1
 parabolic,1
 finite,1

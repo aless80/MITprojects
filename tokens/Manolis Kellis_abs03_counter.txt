@@ -12,10 +12,10 @@ Theory,1
 had,1
 should,1
 to,2
-th,1
 has,1
 broaden,1
 risk,1
+10,1
 report,1
 insisting,1
 Where,1
@@ -38,6 +38,7 @@ theory,5
 This,1
 continuing,1
 directions,2
+20,1
 on,2
 last,1
 of,5
@@ -50,6 +51,7 @@ composed,1
 detailed,1
 powerful,1
 intellectual,1
+60,1
 telecommunications,1
 genomics,1
 from,1
@@ -57,6 +59,7 @@ two,1
 sort,1
 that,3
 These,1
+70th,1
 authors,1
 promote,1
 true,1

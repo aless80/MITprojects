@@ -15,6 +15,7 @@ not,1
 level,1
 fully,1
 Newton,1
+50,1
 large,1
 whether,1
 submodular,1
@@ -84,5 +85,6 @@ windows,1
 average,1
 cover,1
 supervision,1
+2007,1
 In,1
 the,4

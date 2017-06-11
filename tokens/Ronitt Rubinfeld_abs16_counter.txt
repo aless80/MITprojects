@@ -4,7 +4,9 @@ We,2
 rapidly,1
 ell,1
 to,3
+4,2
 samples,2
+8,1
 has,1
 whether,2
 mixing,1
@@ -22,6 +24,7 @@ sublinear,2
 close,1
 statistically,1
 for,2
+3,6
 between,1
 be,1
 we,1
@@ -41,6 +44,7 @@ from,2
 log,1
 two,1
 specifically,1
+2,4
 more,1
 epsilon,5
 distribution,1
@@ -53,6 +57,7 @@ wish,1
 distinguishes,1
 n,7
 can,1
+32,1
 Our,1
 problem,3
 result,1
@@ -68,6 +73,7 @@ distributions,4
 compared,1
 no,1
 when,1
+1,3
 which,1
 test,1
 several,1

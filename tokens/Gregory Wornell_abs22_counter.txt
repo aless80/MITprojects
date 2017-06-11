@@ -57,7 +57,7 @@ wireless,2
 optimality,1
 high,1
 this,2
-n,4
+n,3
 can,2
 problem,1
 and,3
@@ -79,9 +79,10 @@ channel,1
 problems,1
 hand,1
 The,2
+the,10
 exponent,1
 a,3
 without,1
 caching,3
-the,10
+n2,1
 order,1

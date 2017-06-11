@@ -32,6 +32,7 @@ nanometer,1
 scale,1
 impurity,1
 opening,1
+4,1
 semiconductor,1
 state,1
 various,1

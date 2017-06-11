@@ -11,10 +11,12 @@ laser,1
 dielectric,1
 loss,2
 processes,1
+422,2
 reflectivities,1
 oxygen,2
 chamber,1
 filling,1
+370,1
 methods,1
 For,1
 supporting,1
@@ -46,6 +48,7 @@ temperature,1
 cavities,1
 initial,1
 their,1
+2,6
 more,1
 that,1
 centered,1
@@ -55,6 +58,7 @@ optical,3
 with,3
 than,1
 present,1
+10,1
 made,2
 atmospheric,1
 these,1
@@ -75,6 +79,8 @@ occur,1
 Ta,3
 nm,4
 mechanism,1
+1,1
+5,3
 if,2
 SiO,3
 sufficient,1

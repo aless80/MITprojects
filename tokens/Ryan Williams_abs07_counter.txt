@@ -53,10 +53,13 @@ solve,1
 polynomial,3
 apply,1
 illustrate,1
+1987,2
 given,1
 from,2
 log,7
+0,1
 give,1
+2,4
 low,1
 combined,1
 function,2
@@ -94,6 +97,7 @@ any,2
 rightarrow,1
 ideas,1
 sqrt,1
+1,4
 how,1
 other,1
 pair,1

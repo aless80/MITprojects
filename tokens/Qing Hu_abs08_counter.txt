@@ -6,6 +6,7 @@ We,1
 matrices,2
 to,3
 treatment,1
+8,1
 transformation,2
 very,1
 vacuum,1
@@ -50,6 +51,7 @@ change,1
 g,1
 of,1
 restoration,1
+present,1
 suitable,1
 or,1
 vacua,4
@@ -58,13 +60,17 @@ numerically,1
 Pfaffian,2
 Therefore,1
 HFB,7
+0,2
 due,1
 tiny,1
+2,2
 emptiness,1
 calculations,2
 that,3
 V,2
-present,1
+those,1
+10,2
+16,1
 this,3
 reliable,1
 say,1
@@ -72,7 +78,6 @@ values,1
 can,2
 evaluating,2
 v,3
-those,1
 nonsingular,1
 problem,2
 performed,1
@@ -85,6 +90,7 @@ have,1
 in,4
 beyond,1
 convenient,1
+1,1
 field,1
 setting,1
 which,1

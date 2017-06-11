@@ -6,8 +6,10 @@ perfect,1
 derive,1
 ratio,1
 situations,1
+state,1
 to,4
-input,1
+4,1
+2014,1
 then,1
 non,1
 Pearson,1
@@ -31,7 +33,7 @@ out,1
 established,1
 for,2
 expressed,1
-state,1
+3,1
 Verd,1
 between,1
 new,1
@@ -55,9 +57,11 @@ additive,1
 due,1
 dispersion,2
 Polyanskiy,1
+2,1
 AWGN,1
 considerably,1
 converse,1
+input,1
 known,1
 with,2
 exponential,1
@@ -79,6 +83,7 @@ fading,1
 information,1
 functions,1
 orthogonality,1
+1,1
 which,1
 tightest,1
 composition,1

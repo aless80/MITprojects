@@ -27,7 +27,7 @@ entire,1
 necessary,1
 identifying,1
 brightness,1
-x,1
+found,1
 Our,1
 development,1
 constitute,1
@@ -43,11 +43,11 @@ for,2
 currently,1
 However,1
 semiconductor,1
+3,1
 integrated,2
 emitters,7
 be,1
 we,1
-found,1
 promising,1
 inclusions,1
 boron,1
@@ -73,6 +73,7 @@ visible,1
 defects,1
 such,1
 thick,1
+500x10,1
 platform,1
 there,1
 class,1

@@ -54,6 +54,7 @@ from,1
 basis,1
 initial,1
 system,2
+2,1
 scheme,1
 type,2
 survives,1

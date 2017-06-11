@@ -17,6 +17,7 @@ using,1
 multiplexing,1
 wavelenght,1
 sorting,1
+55,1
 transmission,1
 benefit,1
 mode,2
@@ -35,6 +36,7 @@ current,1
 OGBA,2
 state,1
 efficiencies,1
+7,1
 architecture,1
 be,1
 free,1
@@ -63,6 +65,7 @@ theoretical,1
 that,2
 overlapping,1
 center,1
+10,1
 this,1
 mu,1
 near,2
@@ -76,6 +79,7 @@ close,1
 regime,1
 orbital,1
 QKD,1
+1,2
 field,2
 build,1
 spatial,3

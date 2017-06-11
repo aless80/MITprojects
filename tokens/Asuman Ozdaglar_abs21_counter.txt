@@ -55,6 +55,7 @@ study,2
 experience,1
 nonnegative,1
 s,2
+88,1
 social,3
 explicit,2
 characterization,2

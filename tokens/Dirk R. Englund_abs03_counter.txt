@@ -43,6 +43,7 @@ conditions,1
 we,1
 triplet,1
 demonstrate,2
+20,1
 sensors,1
 on,1
 electrometer,1
@@ -65,6 +66,7 @@ Implications,1
 V,1
 with,1
 applied,1
+10,1
 this,1
 fluctuations,1
 and,1
@@ -76,6 +78,7 @@ degenerate,1
 in,1
 s,3
 sqrt,1
+1,1
 shifts,1
 parameter,1
 ensemble,3

@@ -14,6 +14,7 @@ We,2
 based,1
 knowledge,1
 density,1
+state,1
 to,7
 explicitly,1
 samples,1
@@ -22,6 +23,8 @@ intercellular,2
 has,1
 clefts,1
 them,1
+7,2
+F1,1
 rules,1
 electron,2
 fastest,1
@@ -52,7 +55,7 @@ for,2
 However,1
 CPU,1
 cell,2
-state,1
+3,1
 score,1
 identification,1
 then,1
@@ -64,8 +67,9 @@ demonstrated,1
 EM,1
 we,2
 little,1
-hours,1
-S,1
+20,1
+245,1
+step,1
 demonstrate,1
 modeling,1
 along,1
@@ -76,7 +80,7 @@ pipeline,1
 toward,1
 of,9
 study,1
-step,1
+hours,1
 prior,1
 throughput,1
 studies,1
@@ -85,6 +89,7 @@ co,1
 somatosensory,1
 simple,1
 requiring,1
+S1,1
 dataset,1
 dimensional,1
 vesicles,1
@@ -134,16 +139,18 @@ as,1
 neurons,2
 have,1
 in,3
+100,1
 Instead,1
 distributions,1
 compared,1
 goal,1
 mouse,1
-F,1
 individuate,1
 field,1
+5,1
 take,1
 largest,1
+9,1
 cleft,1
 segmenting,2
 These,1

@@ -22,9 +22,10 @@ isolate,1
 Effect,1
 Evil,1
 to,1
-other,1
-Portal,2
 build,1
+2,2
+Portal,2
+4,1
 Fallout,1
 Half,1
 NP,2
@@ -59,4 +60,5 @@ Halo,1
 many,1
 popular,1
 the,6
+other,1
 or,1

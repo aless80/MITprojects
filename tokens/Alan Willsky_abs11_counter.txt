@@ -29,7 +29,7 @@ when,1
 transparent,1
 sparsistency,3
 also,1
-edge,1
+2,1
 which,1
 required,1
 conditions,3
@@ -38,7 +38,7 @@ graphical,2
 conditional,1
 samples,2
 on,3
-vertex,1
+edge,1
 J,2
 covariances,1
 sufficient,1
@@ -63,6 +63,7 @@ algorithm,3
 this,1
 of,11
 min,2
+vertex,1
 Gaussian,1
 n,1
 graphs,1

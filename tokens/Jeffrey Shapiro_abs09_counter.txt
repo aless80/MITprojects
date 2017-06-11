@@ -18,6 +18,7 @@ quantum,3
 work,1
 monitors,1
 trusted,1
+24,1
 robust,1
 from,1
 generator,1

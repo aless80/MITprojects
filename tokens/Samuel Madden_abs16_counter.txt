@@ -26,6 +26,7 @@ Conviva,1
 achieve,1
 real,2
 TPC,1
+10,1
 H,1
 framework,1
 every,1
@@ -77,6 +78,7 @@ dimensional,1
 analyzing,1
 strategy,1
 open,1
+100,2
 logs,1
 from,4
 annotated,1
@@ -84,6 +86,7 @@ area,1
 data,5
 system,2
 parallel,1
+2,3
 selects,1
 engine,1
 that,6
@@ -96,6 +99,7 @@ present,1
 wide,1
 multi,2
 builds,2
+17,1
 cluster,1
 this,4
 require,1
@@ -126,6 +130,7 @@ hoc,1
 source,1
 make,1
 ideas,1
+1,1
 answer,1
 effectiveness,1
 accuracy,2

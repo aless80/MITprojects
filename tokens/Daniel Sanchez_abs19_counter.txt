@@ -16,11 +16,14 @@ rapidly,1
 candidate,2
 density,1
 interesting,1
+state,2
 topological,3
 to,8
 only,1
 candidates,2
+4,1
 Although,1
+8,1
 nodes,7
 has,2
 momentum,1
@@ -48,7 +51,7 @@ driving,1
 space,2
 tunabilities,1
 research,1
-state,2
+3,4
 critical,1
 provides,1
 between,1
@@ -87,6 +90,7 @@ twenty,1
 due,1
 by,2
 needed,1
+2,5
 fermions,1
 was,1
 more,1
@@ -100,6 +104,7 @@ observe,1
 known,1
 semimetals,3
 than,2
+10,1
 novel,2
 critically,1
 annihilate,1

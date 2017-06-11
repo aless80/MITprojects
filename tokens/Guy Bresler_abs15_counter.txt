@@ -11,6 +11,7 @@ depend,1
 decay,1
 graph,3
 to,4
+4,2
 samples,3
 under,1
 nodes,2
@@ -67,6 +68,7 @@ given,1
 from,2
 log,3
 been,1
+2,4
 observations,1
 interest,1
 analyze,1

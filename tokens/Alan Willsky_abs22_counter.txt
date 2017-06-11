@@ -9,7 +9,7 @@ decay,1
 graph,1
 distributed,1
 than,1
-to,4
+0,1
 samples,2
 nodes,1
 very,1
@@ -50,10 +50,12 @@ estimator,1
 explained,1
 number,1
 intuitively,1
+63,1
 learning,3
 The,2
 from,2
 asymptotic,1
+to,4
 unknown,1
 structured,2
 least,1

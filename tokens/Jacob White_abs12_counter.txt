@@ -45,7 +45,7 @@ both,1
 interaction,1
 of,9
 could,1
-distinct,1
+addition,1
 consequence,1
 or,1
 composed,1
@@ -56,9 +56,10 @@ computational,1
 from,1
 handled,1
 geometries,2
-addition,1
+distinct,1
 two,2
 by,1
+2,1
 efficiently,1
 that,2
 particular,1
@@ -84,6 +85,7 @@ currents,1
 efficient,1
 formulations,1
 detail,1
+1,1
 other,1
 electrical,1
 forces,1

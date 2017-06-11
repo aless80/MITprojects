@@ -15,7 +15,9 @@ sub,1
 for,1
 no,1
 been,1
+1,3
 to,1
+2,1
 largest,1
 has,2
 pn,1

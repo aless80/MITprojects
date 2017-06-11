@@ -48,6 +48,7 @@ are,5
 statistic,1
 close,2
 best,1
+85,1
 delivered,1
 for,5
 increase,1
@@ -135,6 +136,7 @@ radiation,1
 range,1
 how,1
 complex,1
+5,1
 which,2
 optimal,4
 used,2

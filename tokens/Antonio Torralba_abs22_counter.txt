@@ -5,7 +5,7 @@ show,1
 text,1
 existing,1
 four,1
-ended,1
+sources,1
 through,1
 human,1
 consists,1
@@ -14,13 +14,14 @@ We,4
 deceiving,1
 to,5
 annotators,1
+408,1
 evaluate,1
 possible,1
 introduce,1
 five,1
 unique,1
 subtitles,1
-sources,1
+ended,1
 did,1
 events,1
 further,1
@@ -70,6 +71,7 @@ occurred,1
 MovieQA,1
 with,4
 semantics,1
+14,1
 this,2
 work,1
 aims,1
@@ -96,5 +98,6 @@ such,1
 The,2
 data,2
 a,2
+944,1
 QA,1
 the,1

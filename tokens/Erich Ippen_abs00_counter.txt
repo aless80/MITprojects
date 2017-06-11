@@ -24,7 +24,7 @@ effects,1
 using,1
 THz,7
 large,2
-this,1
+these,1
 inhibits,1
 development,1
 domain,1
@@ -69,6 +69,7 @@ to,3
 two,1
 properties,1
 dispersion,1
+2,1
 calculations,1
 distortions,1
 optimizing,1
@@ -76,7 +77,7 @@ that,2
 transverse,2
 optical,10
 iii,1
-these,1
+this,1
 setup,1
 up,1
 profiles,1

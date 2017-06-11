@@ -14,6 +14,7 @@ to,4
 has,3
 norm,2
 non,1
+2,1
 Isometry,1
 necessary,1
 signal,1
@@ -80,6 +81,7 @@ any,1
 if,1
 recovery,2
 belong,1
+1,1
 tight,2
 other,1
 generalized,1

@@ -3,7 +3,7 @@ show,1
 surface,1
 platforms,1
 experiments,1
-WTe,1
+are,1
 in,3
 LaAlGe,2
 fermion,1
@@ -32,8 +32,8 @@ Previously,1
 of,4
 study,1
 materials,3
+WTe2,1
 experimental,1
 the,3
 physics,1
 semimetal,1
-are,1

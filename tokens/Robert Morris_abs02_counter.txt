@@ -3,7 +3,6 @@ hypergraph,1
 paper,1
 Dixon,1
 threshold,5
-integers,1
 perfect,1
 whose,1
 martingales,1
@@ -21,7 +20,9 @@ infty,1
 conjecture,1
 posed,1
 bound,1
+2,1
 correcting,1
+Consider,1
 prime,1
 regarding,1
 large,1
@@ -36,6 +37,7 @@ our,1
 event,1
 More,1
 conjectures,1
+both,1
 for,2
 factors,1
 factorisation,1
@@ -53,7 +55,7 @@ Our,2
 Motivated,1
 sieve,2
 by,2
-both,1
+integers,1
 of,12
 o,1
 s,1
@@ -72,7 +74,7 @@ combinatorics,1
 contains,1
 quadratic,1
 pi,1
-gives,1
+4,1
 dots,1
 that,3
 theorem,1
@@ -83,7 +85,7 @@ with,1
 logarithm,1
 also,1
 made,1
-Consider,1
+1994,1
 this,3
 up,1
 Croot,2
@@ -93,6 +95,7 @@ determining,1
 following,1
 making,1
 problem,1
+gives,1
 called,1
 proof,2
 and,8
@@ -105,6 +108,7 @@ in,6
 sharp,3
 different,1
 self,1
+1,2
 field,1
 algorithms,1
 techniques,1

@@ -32,6 +32,7 @@ queries,2
 small,2
 LIMIT,1
 where,2
+30x,1
 locate,1
 schemes,1
 often,1
@@ -120,7 +121,6 @@ may,1
 overall,1
 aggregates,1
 optimized,1
-x,1
 predicates,1
 data,1
 structure,1

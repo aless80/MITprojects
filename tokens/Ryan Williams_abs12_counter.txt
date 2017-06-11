@@ -1,4 +1,5 @@
 all,3
+0,2
 random,1
 results,1
 pseudorandom,1
@@ -7,7 +8,7 @@ existence,1
 yet,1
 tables,2
 We,2
-how,1
+majority,1
 NEXP,4
 should,1
 to,4
@@ -123,7 +124,7 @@ if,4
 functions,2
 no,2
 efficient,1
-majority,1
+how,1
 seeds,1
 arguments,1
 which,1

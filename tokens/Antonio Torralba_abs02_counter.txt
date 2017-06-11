@@ -15,6 +15,7 @@ at,1
 trained,1
 in,1
 our,1
+ADE20K,1
 open,2
 several,1
 We,2
@@ -33,7 +34,7 @@ new,1
 has,1
 evaluation,1
 image,1
-ADEK,1
+wide,1
 limitations,1
 we,1
 relations,1
@@ -51,7 +52,6 @@ joint,2
 explore,1
 objects,2
 connected,1
-wide,1
 validate,1
 parsing,1
 with,1

@@ -25,6 +25,7 @@ up,1
 rate,2
 growth,1
 result,1
+87,1
 scale,1
 for,1
 sites,1
@@ -41,6 +42,7 @@ by,2
 improve,1
 both,1
 of,10
+area,1
 step,1
 grain,1
 or,2
@@ -53,11 +55,12 @@ accounts,1
 Here,1
 quality,1
 uniformity,1
-area,1
+their,1
 multilayer,1
 two,2
 occupy,1
 cooling,2
+2,1
 Controlling,1
 films,4
 graphene,6
@@ -66,6 +69,7 @@ mostly,1
 on,1
 These,3
 with,1
+11,1
 atmospheric,1
 transferred,1
 graphite,1
@@ -80,7 +84,6 @@ surface,1
 an,1
 high,1
 as,3
-in,1
 CVD,3
 concentration,1
 film,4
@@ -89,15 +92,17 @@ Single,1
 chemical,1
 also,1
 other,1
+5,1
 towards,1
 multiple,1
+in2,1
 important,1
 coverage,1
 The,1
 fabrication,1
 expand,1
 a,1
-their,1
 As,1
+1,1
 the,13
 vapor,1

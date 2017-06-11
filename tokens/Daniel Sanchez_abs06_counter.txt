@@ -8,6 +8,7 @@ feature,1
 experiments,1
 substituting,1
 speed,1
+1,2
 We,5
 slow,1
 cache,1
@@ -86,6 +87,7 @@ corresponded,1
 cases,1
 with,1
 case,1
+10,2
 showed,1
 To,1
 this,1

@@ -74,6 +74,7 @@ stitches,1
 better,1
 given,1
 takes,1
+0,1
 two,1
 long,1
 growth,1
@@ -112,6 +113,7 @@ if,2
 no,1
 perform,1
 when,1
+1,1
 which,1
 performance,1
 divides,1

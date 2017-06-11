@@ -82,6 +82,7 @@ different,1
 efficient,1
 cumulative,2
 hybrid,1
+1,2
 that,1
 which,1
 algorithms,1

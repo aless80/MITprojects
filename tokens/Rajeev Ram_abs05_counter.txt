@@ -12,12 +12,13 @@ systems,2
 violations,2
 designs,1
 mainstream,1
-dependent,1
+rules,1
 auto,1
 not,1
 procedures,1
 advanced,1
 level,1
+50,1
 leverages,1
 large,2
 transistors,1
@@ -73,6 +74,7 @@ than,1
 present,2
 must,1
 sizing,1
+10,1
 intuitive,1
 these,1
 oxide,1
@@ -92,7 +94,7 @@ Manhattan,1
 native,1
 rather,1
 any,1
-rules,1
+dependent,1
 Boolean,1
 details,1
 which,1
@@ -101,6 +103,7 @@ principle,1
 designer,1
 electric,1
 automation,2
+000,2
 allowing,1
 such,1
 The,1

@@ -7,6 +7,7 @@ fabricated,1
 aspect,1
 impedance,3
 kinetic,1
+based,1
 compact,2
 We,2
 slow,2
@@ -19,12 +20,12 @@ results,2
 wave,3
 half,1
 transmission,4
+50,1
 this,1
 where,1
 upper,1
 disordered,1
 series,1
-up,1
 frequency,4
 are,1
 measure,1
@@ -36,7 +37,7 @@ waveguide,1
 coefficient,2
 This,1
 understanding,1
-based,1
+20,1
 imaginary,1
 inductive,1
 by,1
@@ -70,7 +71,7 @@ with,1
 sample,1
 novel,1
 these,1
-superconducting,3
+up,1
 devices,2
 lead,1
 niobium,1
@@ -85,6 +86,7 @@ ohm,1
 compare,1
 is,6
 in,4
+superconducting,3
 high,4
 characterize,1
 Fitting,1
@@ -97,10 +99,12 @@ length,2
 also,1
 coplanar,1
 complex,1
+5,1
 They,1
 development,1
 elements,1
 may,1
+000,1
 peak,1
 dissipation,1
 such,1

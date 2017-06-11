@@ -4,7 +4,7 @@ results,1
 We,2
 graph,4
 should,1
-to,2
+0,1
 only,1
 belongs,1
 inspecting,1
@@ -33,6 +33,7 @@ even,1
 G,8
 for,2
 decision,1
+3,1
 version,1
 Let,1
 above,1
@@ -58,8 +59,10 @@ one,2
 Motivated,1
 log,2
 would,1
+to,2
 construct,2
 few,1
+2,1
 basic,1
 analyze,1
 subgraph,5
@@ -90,6 +93,7 @@ different,1
 end,2
 when,1
 same,1
+1,8
 randomization,1
 which,1
 several,1

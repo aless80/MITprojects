@@ -39,7 +39,6 @@ against,1
 motion,1
 estimation,2
 relevant,2
-cm,1
 point,1
 DOF,1
 dataset,1
@@ -49,6 +48,7 @@ annotated,1
 initial,1
 fast,1
 scenarios,1
+6,1
 Recent,1
 convolutional,1
 that,1
@@ -78,6 +78,7 @@ capture,1
 angle,1
 highlighted,1
 complex,1
+5,1
 object,1
 robots,1
 generated,1
@@ -91,3 +92,4 @@ without,1
 time,2
 position,1
 the,1
+1cm,1

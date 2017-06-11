@@ -103,6 +103,8 @@ off,1
 with,4
 hardness,1
 directed,1
+10,1
+12,1
 determines,1
 this,5
 tree,1

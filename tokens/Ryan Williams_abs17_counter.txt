@@ -13,7 +13,7 @@ to,4
 theorem,2
 Path,1
 has,1
-Mod,1
+SAT,2
 them,1
 propose,1
 amenable,1
@@ -75,9 +75,9 @@ these,3
 bounds,4
 can,3
 problem,2
-SAT,2
 proof,1
 and,2
+Mod6,1
 certain,1
 is,1
 turned,1

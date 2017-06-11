@@ -24,6 +24,7 @@ arrays,3
 hydrodynamic,1
 characterized,1
 fish,1
+50,1
 cost,1
 are,2
 surfaces,1
@@ -68,10 +69,12 @@ needed,1
 flexible,1
 was,3
 sensitivity,1
+500,1
 Inspired,1
 line,1
 with,1
 than,1
+10,1
 this,1
 challenge,1
 near,1
@@ -85,6 +88,7 @@ curved,1
 calibration,1
 provide,1
 field,1
+5,1
 which,1
 performance,1
 foam,4

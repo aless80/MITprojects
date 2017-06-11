@@ -6,6 +6,7 @@ convergence,1
 through,1
 statistical,1
 Alternating,1
+machine,1
 We,3
 based,1
 highlights,1
@@ -81,7 +82,7 @@ functions,3
 when,1
 sqrt,1
 converges,1
-machine,1
+1,2
 also,1
 objective,1
 optimal,2

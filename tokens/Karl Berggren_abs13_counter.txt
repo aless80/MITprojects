@@ -1,5 +1,6 @@
 limited,1
 particularly,1
+0,1
 nanosecond,1
 photonic,2
 PICs,2
@@ -19,6 +20,7 @@ introduce,1
 timing,1
 using,1
 infrared,1
+50,1
 yield,2
 Superconducting,1
 SNSPDs,5
@@ -40,6 +42,7 @@ emerged,1
 integrated,2
 we,2
 efficiency,3
+100,1
 on,4
 central,1
 of,5
@@ -58,6 +61,7 @@ waveguides,1
 platform,1
 due,1
 been,3
+2,1
 low,2
 attractive,1
 that,1
@@ -68,6 +72,7 @@ nanowire,1
 technologies,1
 with,2
 reset,1
+10,1
 Ten,1
 circuits,1
 single,2

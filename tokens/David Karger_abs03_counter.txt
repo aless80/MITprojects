@@ -72,7 +72,7 @@ crowdsourcing,2
 their,2
 expected,1
 analyze,2
-milliseconds,1
+500,1
 enable,1
 precruitment,1
 that,4
@@ -91,6 +91,7 @@ work,1
 recruit,1
 experimental,1
 below,1
+milliseconds,1
 example,1
 proof,1
 and,4

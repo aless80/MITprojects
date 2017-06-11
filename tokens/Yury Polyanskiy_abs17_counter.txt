@@ -23,6 +23,7 @@ odd,2
 any,2
 best,1
 subject,1
+1986,1
 As,1
 given,1
 asymptotic,1
@@ -33,8 +34,8 @@ technique,1
 due,1
 Method,1
 to,3
-linear,1
-Ramsey,1
+3,1
+2,1
 rates,1
 it,1
 was,1
@@ -62,6 +63,7 @@ Consider,1
 slope,1
 constraint,1
 of,9
+linear,1
 cover,1
 rate,3
 Ashikhmin,1
@@ -70,5 +72,6 @@ below,1
 improves,1
 Barg,1
 multiplicity,1
+Ramsey,1
 problem,1
 programming,1

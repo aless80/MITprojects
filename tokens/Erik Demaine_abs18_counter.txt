@@ -28,6 +28,7 @@ two,1
 properties,1
 to,1
 fitting,1
+inflection,1
 ruling,1
 no,1
 additional,1
@@ -45,7 +46,7 @@ Curve,1
 use,1
 folded,1
 lens,1
-inflection,1
+made,1
 vinyl,1
 such,1
 The,1
@@ -56,7 +57,7 @@ be,2
 he,1
 a,5
 both,1
-made,1
+1992,1
 folding,2
 third,1
 this,1

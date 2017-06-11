@@ -10,6 +10,7 @@ interesting,1
 RAM,4
 improvement,2
 to,2
+4,1
 has,1
 into,1
 real,1
@@ -17,6 +18,7 @@ conjecture,2
 sums,1
 seemingly,1
 every,1
+51,1
 derandomizing,1
 popular,1
 subset,1
@@ -27,6 +29,7 @@ are,2
 Conjecture,1
 for,5
 space,8
+3,6
 be,1
 equivalent,1
 O,7
@@ -47,7 +50,7 @@ illustrate,1
 asks,1
 least,1
 reduction,1
-quadratic,1
+2,6
 low,1
 memory,1
 that,4
@@ -80,6 +83,7 @@ self,1
 holds,1
 when,1
 sqrt,3
+1,2
 which,1
 reals,2
 A,1
@@ -95,6 +99,7 @@ algorithm,3
 well,1
 complexity,3
 In,1
+quadratic,1
 model,2
 requires,2
 fact,1

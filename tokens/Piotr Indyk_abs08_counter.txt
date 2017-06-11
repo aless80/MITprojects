@@ -6,7 +6,7 @@ trade,1
 known,1
 We,2
 ell,1
-to,5
+0,2
 factor,1
 By,1
 norm,5
@@ -53,6 +53,7 @@ enables,1
 of,10
 study,1
 vectors,1
+space,1
 times,1
 initiate,1
 admit,1
@@ -66,9 +67,11 @@ open,1
 STOC,1
 clustering,2
 given,2
+to,5
 there,1
 question,1
 least,1
+2,1
 doubling,2
 metric,1
 more,1
@@ -104,6 +107,7 @@ any,1
 recovery,1
 efficient,2
 latter,1
+1,2
 answer,1
 optimal,1
 parameter,1
@@ -119,7 +123,7 @@ a,4
 lower,1
 implies,1
 framework,1
-space,1
+05,1
 m,3
 generic,1
 complexity,1

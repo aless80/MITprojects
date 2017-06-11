@@ -19,7 +19,7 @@ small,1
 eigenvalues,1
 Remarkably,1
 constraints,1
-we,2
+simeq,1
 Wishart,1
 are,2
 convex,2
@@ -31,7 +31,7 @@ for,5
 hill,1
 conditions,1
 method,1
-simeq,1
+we,2
 theory,1
 were,1
 likelihood,2
@@ -48,12 +48,14 @@ primarily,1
 asymptotic,2
 behaves,1
 indicate,1
+2,1
 scheme,1
 that,2
 sufficient,1
 covariance,3
 with,1
 case,1
+14,1
 this,2
 maximum,2
 n,3
@@ -71,6 +73,7 @@ any,1
 if,1
 provide,1
 utilize,1
+1,1
 interested,1
 which,3
 parameter,1

@@ -1,6 +1,7 @@
 and,4
 the,2
 Group,1
+0,1
 Working,1
 our,1
 developed,1
@@ -28,6 +29,7 @@ system,2
 languages,1
 application,1
 complex,1
+2017,1
 many,1
 supports,1
 we,1
@@ -37,10 +39,11 @@ Intel,1
 oceanographic,1
 with,1
 Science,1
-v,1
+In,1
 describe,1
 BigDAWG,5
 containerization,1
+v1,1
 applications,1
 metagenomics,1
 demonstrate,1
@@ -67,4 +70,3 @@ efforts,1
 workloads,1
 Technology,1
 researchers,1
-In,1

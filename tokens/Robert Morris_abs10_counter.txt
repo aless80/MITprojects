@@ -1,6 +1,7 @@
 and,2
 Schramm,1
 square,1
+version,1
 probability,2
 almost,1
 is,1
@@ -20,9 +21,10 @@ prove,1
 sum,1
 percolation,2
 converges,1
+1,1
 to,1
 confirming,1
-version,1
+2,1
 influences,1
 new,1
 main,1
@@ -37,12 +39,13 @@ bound,1
 Voronoi,2
 corollary,1
 surely,1
+we,1
 The,1
 a,4
 on,1
 squares,1
 Stein,1
-we,1
+1999,1
 of,9
 large,1
 sensitive,1

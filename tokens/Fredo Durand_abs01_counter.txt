@@ -12,12 +12,14 @@ disorders,1
 nose,2
 to,8
 only,1
+4,1
 Using,1
 tests,1
 objective,1
 during,1
 Rating,1
 progression,2
+363,1
 leave,1
 common,1
 inter,1
@@ -36,6 +38,7 @@ provided,1
 scale,3
 clinicians,1
 for,1
+835,1
 comparable,1
 demonstrates,1
 checkups,1
@@ -74,6 +77,7 @@ learning,1
 assessed,1
 ataxia,4
 consuming,1
+0,3
 system,1
 clinical,1
 rater,1

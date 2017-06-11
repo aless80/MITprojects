@@ -4,15 +4,17 @@ paper,1
 perfect,1
 We,1
 graph,1
-source,2
+0,3
+4,1
 include,1
-variables,1
+2010,1
 them,1
 triangle,1
 satisfiability,1
 five,1
 Can,1
 formula,1
+source,2
 weight,1
 some,4
 we,1
@@ -23,6 +25,7 @@ theory,1
 matrix,1
 for,5
 combinatorial,1
+3,3
 progress,1
 Pairs,1
 linear,1
@@ -39,7 +42,7 @@ s,1
 diameter,1
 major,1
 there,2
-SUM,1
+variables,1
 poly,1
 one,2
 determine,1
@@ -49,6 +52,7 @@ given,1
 would,1
 prove,1
 contains,1
+2,3
 Shortest,1
 subgraph,1
 that,2
@@ -73,6 +77,8 @@ any,1
 as,1
 paths,1
 graphs,1
+1,1
+5,1
 several,1
 problems,4
 CNF,1
@@ -85,6 +91,7 @@ recent,1
 a,6
 All,1
 algorithm,2
+3SUM,1
 Is,4
 well,1
 vertices,1

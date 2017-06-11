@@ -4,6 +4,7 @@ both,1
 find,1
 ground,1
 outperforming,1
+1,2
 We,2
 based,1
 Callhome,1
@@ -11,6 +12,7 @@ repurposed,1
 languages,1
 to,4
 explicitly,1
+4,1
 Fisher,2
 has,1
 not,1
@@ -19,6 +21,7 @@ nor,1
 translates,1
 architecture,2
 truth,1
+8,1
 transcribe,1
 illustrating,1
 another,1

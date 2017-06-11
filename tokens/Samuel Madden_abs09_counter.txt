@@ -6,7 +6,7 @@ years,1
 stored,1
 including,1
 query,1
-GraphLab,1
+1,1
 We,1
 spite,1
 graph,8
@@ -34,6 +34,7 @@ evaluation,1
 be,1
 we,2
 centric,2
+GraphLab,1
 processing,1
 popular,2
 analyses,1

@@ -10,7 +10,9 @@ Here,1
 to,4
 potential,1
 stable,1
+challenges,1
 saturation,1
+7,1
 material,2
 scalable,1
 report,1
@@ -57,6 +59,7 @@ from,1
 temperature,2
 transfer,1
 rates,1
+6,1
 tunability,2
 Furthermore,1
 opens,1
@@ -72,7 +75,7 @@ technologies,1
 highest,1
 with,2
 count,1
-challenges,1
+10,1
 multi,1
 room,2
 inhomogeneous,1

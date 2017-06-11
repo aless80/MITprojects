@@ -17,6 +17,8 @@ group,3
 for,3
 arrangement,2
 to,4
+3,2
+2,1
 pure,1
 parabolic,2
 finite,2
@@ -38,12 +40,14 @@ an,2
 a,2
 reflection,2
 showed,1
+1996,1
 this,1
 of,9
 k,3
 studied,1
 well,1
 equal,2
+1971,1
 these,1
 s,2
 paper,1

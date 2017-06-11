@@ -43,7 +43,6 @@ def tokenize(path="./abstracts/",pathout="./tokens/"):
     from collections import Counter
     import nltk
     import os
-    import re
     import string
     #Create the output path
     pathout="./tokens/"
@@ -58,7 +57,6 @@ def tokenize(path="./abstracts/",pathout="./tokens/"):
         #Substitute punctuation, remove non-alpha chars
         replace_punctuation = string.maketrans(string.punctuation, ' '*len(string.punctuation))
         text = text.translate(replace_punctuation)
-        text = re.compile(r'[^a-zA-Z\s]').sub('', text)
         #Count tokens in text
         tokens = nltk.word_tokenize(text)
         counter=Counter(tokens)

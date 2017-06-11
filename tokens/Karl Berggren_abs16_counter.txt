@@ -16,11 +16,13 @@ propose,1
 resistance,1
 dark,1
 they,1
+2,2
 d,1
 corners,1
 reduces,1
 these,1
 turns,1
+180,1
 where,2
 right,1
 compensated,1

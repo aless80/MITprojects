@@ -9,7 +9,7 @@ including,1
 query,2
 find,1
 graph,2
-to,8
+0,1
 cdots,6
 factor,2
 has,1
@@ -80,6 +80,7 @@ given,3
 from,1
 log,3
 NN,2
+to,8
 two,1
 much,1
 analyze,1
@@ -117,6 +118,7 @@ in,5
 generalizes,1
 goal,2
 efficient,1
+1,7
 other,1
 optimal,1
 several,1

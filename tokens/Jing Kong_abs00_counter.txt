@@ -3,11 +3,11 @@ selection,1
 exclusive,1
 over,1
 infrared,1
-WS,1
 Floquet,1
 avenue,1
+observe,1
 Here,1
-to,6
+0,1
 only,2
 offers,1
 molecules,2
@@ -71,6 +71,7 @@ manipulate,1
 properties,1
 from,4
 additional,1
+to,6
 there,1
 system,1
 been,1
@@ -85,6 +86,7 @@ controlling,1
 virtue,1
 with,1
 observation,1
+10,1
 this,1
 mu,1
 matter,2
@@ -103,6 +105,7 @@ occur,1
 different,1
 dressed,1
 for,1
+1,3
 shifts,1
 other,1
 confine,1
@@ -118,7 +121,7 @@ rules,1
 light,4
 valleytronic,1
 solids,3
-observe,1
+WS2,1
 so,2
 the,16
 helicity,1
