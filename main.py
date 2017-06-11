@@ -9,3 +9,7 @@ with open('abs_dict.json') as abs_dict_file:    #import json from file
 import scrape
 scrape.main(abs_dict)
 scrape.tokenize()
+
+
+#TODO
+#remove symbols from tokens
