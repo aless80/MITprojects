@@ -1,0 +1,11 @@
+
+We consider the following k-sparse recovery problem: design an m x n matrix
+A, such that for any signal x, given Ax we can efficiently recover x'
+satisfying
+||x-x'||_1 <= C min_{k-sparse} x"} ||x-x"||_1.
+It is known that there exist matrices A with this property that have only O(k
+log (n/k)) rows.
+In this paper we show that this bound is tight. Our bound holds even for the
+more general /randomized/ version of the problem, where A is a random variable
+and the recovery algorithm is required to work for any fixed x with constant
+probability (over A).

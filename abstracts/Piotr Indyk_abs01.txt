@@ -1,0 +1,26 @@
+
+In the Sparse Linear Regression (SLR) problem, given a $d \times n$ matrix
+$M$ and a $d$-dimensional vector $q$, we want to compute a $k$-sparse vector
+$\tau$ such that the error $||M \tau-q||$ is minimized. In this paper, we
+present algorithms and conditional lower bounds for several variants of this
+problem. In particular, we consider (i) the Affine SLR where we add the
+constraint that $\sum_i \tau_i=1$ and (ii) the Convex SLR where we further add
+the constraint that $\tau \geq 0$. Furthermore, we consider (i) the batched
+(offline) setting, where the matrix $M$ and the vector $q$ are given as inputs
+in advance, and (ii) the query(online) setting, where an algorithm preprocesses
+the matrix $M$ to quickly answer such queries. All of the aforementioned
+variants have been well-studied and have many applications in statistics,
+machine learning and sparse recovery.
+We consider the approximate variants of these problems in the "low sparsity
+regime" where the value of the sparsity bound $k$ is low. In particular, we
+show that the online variant of all three problems can be solved with query
+time $\tilde O(n^{k-1})$. This provides non-trivial improvements over the naive
+algorithm that exhaustively searches all ${ n \choose k}$ subsets $B$. We also
+show that solving the offline variant of all three problems, would require an
+exponential dependence of the form $\tilde \Omega(n^{k/2}/e^{k})$, under a
+natural complexity-theoretic conjecture. Improving this lower bound for the
+case of $k=4$ would imply a nontrivial lower bound for the famous Hopcroft's
+problem. Moreover, solving the offline variant of affine SLR in $o(n^{k-1})$
+would imply an upper bound of $o(n^d)$ for the problem of testing whether a
+given set of $n$ points in a $d$-dimensional space is degenerate. However, this
+is conjectured to require $\Omega(n^d)$ time.

@@ -1,0 +1,24 @@
+
+Any quantum algorithm can be implemented by an adaptive sequence of single
+node measurements on an entangled cluster of qubits in a square lattice
+topology. Photons are a promising candidate for encoding qubits but assembling
+a photonic entangled cluster with linear optical elements relies on
+probabilistic operations. Given a supply of $n$-photon-entangled microclusters,
+using a linear optical circuit and photon detectors, one can assemble a random
+entangled state of photons that can be subsequently "renormalized" into a
+logical cluster for universal quantum computing. In this paper, we prove that
+there is a fundamental tradeoff between $n$ and the minimum success probability
+$\lambda_c^{(n)}$ that each two-photon linear-optical fusion operation must
+have, in order to guarantee that the resulting state can be renormalized:
+$\lambda_c^{(n)} \ge 1/(n-1)$. We present a new way of formulating this problem
+where $\lambda_c^{(n)}$ is the bond percolation threshold of a logical graph
+and provide explicit constructions to produce a percolated cluster using $n=3$
+photon microclusters (GHZ states) as the initial resource. We settle a
+heretofore open question by showing that a renormalizable cluster can be
+created with $3$-photon microclusters over a 2D graph without feedforward,
+which makes the scheme extremely attractive for an integrated-photonic
+realization. We also provide lattice constructions, which show that $0.5 \le
+\lambda_c^{(3)} \le 0.5898$, improving on a recent result of $\lambda_c^{(3)}
+\le 0.625$. Finally, we discuss how losses affect the bounds on the threshold,
+using loss models inspired by a recently-proposed method to produce photonic
+microclusters using quantum dot emitters.

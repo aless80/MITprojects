@@ -1,0 +1,18 @@
+
+Motivated by the current interest in ultra-reliable, low-latency,
+machine-type communication systems, we investigate the tradeoff between
+reliability, throughput, and latency in the transmission of information over
+multiple-antenna Rayleigh block-fading channels. Specifically, we obtain
+finite-blocklength, finite-SNR upper and lower bounds on the maximum coding
+rate achievable over such channels for a given constraint on the packet error
+probability. Numerical evidence suggests that our bounds delimit tightly the
+maximum coding rate already for short blocklengths (packets of about 100
+symbols). Furthermore, our bounds reveal the existence of a tradeoff between
+the rate gain obtainable by spreading each codeword over all available
+time-frequency-spatial degrees of freedom, and the rate loss caused by the need
+of estimating the fading coefficients over these degrees of freedom. In
+particular, our bounds allow us to determine the optimal number of transmit
+antennas and the optimal number of time-frequency diversity branches that
+maximize the rate. Finally, we show that infinite-blocklength performance
+metrics such as the ergodic capacity and the outage capacity yield inaccurate
+throughput estimates.

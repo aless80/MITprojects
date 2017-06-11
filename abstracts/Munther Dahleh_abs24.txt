@@ -1,0 +1,7 @@
+
+We extend a relaxation technique due to Bertsimas and Nino-Mora for the
+restless bandit problem to the case where arbitrary costs penalize switching
+between the bandits. We also construct a one-step lookahead policy using the
+solution of the relaxation. Computational experiments and a bound for
+approximate dynamic programming provide some empirical support for the
+heuristic.

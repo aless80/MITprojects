@@ -1,0 +1,13 @@
+
+This paper studies the basic question of whether a given channel $V$ can be
+dominated (in the precise sense of being more noisy) by a $q$-ary symmetric
+channel. The concept of "less noisy" relation between channels originated in
+network information theory (broadcast channels) and is defined in terms of
+mutual information or Kullback-Leibler divergence. We give equivalent
+characterizations in terms of $\chi^2$-divergence, L\"{o}wner (PSD) partial
+order, and spectral radius. Furthermore, we develop a simple criterion for
+domination by a symmetric channel in terms of the minimum entry of the
+stochastic matrix defining the channel $V$. The criterion is strengthened for
+the special case of additive noise channels. Finally, it is shown that
+domination by a symmetric channel implies (via comparison of Dirichlet forms) a
+logarithmic Sobolev inequality for the original channel.

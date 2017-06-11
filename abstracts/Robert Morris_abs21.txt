@@ -1,0 +1,21 @@
+
+The areas of Ramsey Theory and Random Graphs have been closely linked every
+since Erd\H{o}s' famous proof in 1947 that the 'diagonal' Ramsey numbers R(k)
+grow exponentially in k. In the early 1990s, the triangle-free process was
+introduced as a model which might potentially provide good lower bounds for the
+'off-diagonal' Ramsey numbers R(3,k). In this model, edges of K_n are
+introduced one-by-one at random and added to the graph if they do not create a
+triangle; the resulting final (random) graph is denoted G_{n,\triangle}. In
+2009, Bohman succeeded in following this process for a positive fraction of its
+duration, and thus obtained a second proof of Kim's celebrated result that
+R(3,k) = \Theta (k^2 / log k).In this paper we improve the results of both
+Bohman and Kim, and follow the triangle-free process all the way to the end. In
+particular, we shall prove that
+e(G_{n,\triangle}) = (1 / 2\sqrt{2} + o(1)) n^{3/2} \sqrt{log n},
+with high probability as n \to \infty. We also obtain several 'pseudo-random'
+properties of G_{n,\triangle}, and use them to bound its independence number,
+which gives as an immediate corollary
+R(3,k) \ge (1/4 - o(1)) k^2 / log k. This significantly improves Kim's lower
+bound, and is within a factor of 4 + o(1) of the best known upper bound, proved
+by Shearer over 25 years ago. Similar results have been proved independently by
+Bohman and Keevash.

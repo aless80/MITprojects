@@ -1,0 +1,19 @@
+
+Single photon emitters play a central role in many photonic quantum
+technologies. A promising class of single photon emitters consists of atomic
+color centers in wide-bandgap crystals, such as diamond silicon carbide and
+hexagonal boron nitride. However, it is currently not possible to grow these
+materials as sub-micron thick films on low-refractive index substrates, which
+is necessary for mature photonic integrated circuit technologies. Hence, there
+is great interest in identifying quantum emitters in technologically mature
+semiconductors that are compatible with suitable heteroepitaxies. Here, we
+demonstrate robust single photon emitters based on defects in gallium nitride
+(GaN), the most established and well understood semiconductor that can emit
+light over the entire visible spectrum. We show that the emitters have
+excellent photophysical properties including a brightness in excess of 500x10^3
+counts/s. We further show that the emitters can be found in a variety of GaN
+wafers, thus offering reliable and scalable platform for further technological
+development. We propose a theoretical model to explain the origin of these
+emitters based on cubic inclusions in hexagonal gallium nitride. Our results
+constitute a feasible path to scalable, integrated on-chip quantum technologies
+based on GaN.

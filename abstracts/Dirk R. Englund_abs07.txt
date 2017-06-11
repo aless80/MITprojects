@@ -1,0 +1,16 @@
+
+Two-dimensional van der Waals materials have emerged as promising platforms
+for solid-state quantum information processing devices with unusual potential
+for heterogeneous assembly. Recently, bright and photostable single photon
+emitters were reported from atomic defects in layered hexagonal boron nitride
+(hBN), but controlling inhomogeneous spectral distribution and reducing
+multi-photon emission presented open challenges. Here, we demonstrate that
+strain control allows spectral tunability of hBN single photon emitters over 6
+meV, and material processing sharply improves the single-photon purity. We
+report high single photon count rates exceeding 10^7 counts/sec at saturation,
+which is the highest single photon detection rate for room-temperature single
+photon emitters, to our knowledge. Furthermore, these emitters are stable to
+material transfer to other substrates. High-purity and photostable single
+photon emission at room temperature, together with spectral tunability and
+transferability, opens the door to scalable integration of high-quality quantum
+emitters in photonic quantum technologies.

@@ -1,0 +1,15 @@
+
+We present dynamic I/O automata (DIOA), a compositional model of dynamic
+systems. In DIOA, automata can be created and destroyed dynamically, as
+computation proceeds, and an automaton can dynamically change its signature,
+i.e., the set of actions in which it can participate.
+DIOA features operators for parallel composition, action hiding, action
+renaming, a notion of automaton creation, and a notion of behavioral subtyping
+by means of trace inclusion. DIOA can model mobility, using signature
+modification, and is hierarchical: a dynamically changing system of interacting
+automata is itself modeled as a single automaton.
+We also show that parallel composition, action hiding, action renaming, and
+(subject to some technical conditions) automaton creation are all monotonic
+with respect to trace inclusion: if one component is replaced by another whose
+traces are a subset of the former, then the set of traces of the system as a
+whole can only be reduced.

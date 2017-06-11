@@ -1,0 +1,23 @@
+
+The protection of privacy of individual-level information in genome-wide
+association study (GWAS) databases has been a major concern of researchers
+following the publication of "an attack" on GWAS data by Homer et al. (2008)
+Traditional statistical methods for confidentiality and privacy protection of
+statistical databases do not scale well to deal with GWAS data, especially in
+terms of guarantees regarding protection from linkage to external information.
+The more recent concept of differential privacy, introduced by the
+cryptographic community, is an approach that provides a rigorous definition of
+privacy with meaningful privacy guarantees in the presence of arbitrary
+external information, although the guarantees may come at a serious price in
+terms of data utility. Building on such notions, Uhler et al. (2013) proposed
+new methods to release aggregate GWAS data without compromising an individual's
+privacy. We extend the methods developed in Uhler et al. (2013) for releasing
+differentially-private $\chi^2$-statistics by allowing for arbitrary number of
+cases and controls, and for releasing differentially-private allelic test
+statistics. We also provide a new interpretation by assuming the controls' data
+are known, which is a realistic assumption because some GWAS use publicly
+available data as controls. We assess the performance of the proposed methods
+through a risk-utility analysis on a real data set consisting of DNA samples
+collected by the Wellcome Trust Case Control Consortium and compare the methods
+with the differentially-private release mechanism proposed by Johnson and
+Shmatikov (2013).

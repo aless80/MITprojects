@@ -1,0 +1,15 @@
+
+The multiway-cut problem is, given a weighted graph and k >= 2 terminal
+nodes, to find a minimum-weight set of edges whose removal separates all the
+terminals. The problem is NP-hard, and even NP-hard to approximate within
+1+delta for some small delta > 0.
+Calinescu, Karloff, and Rabani (1998) gave an algorithm with performance
+guarantee 3/2-1/k, based on a geometric relaxation of the problem. In this
+paper, we give improved randomized rounding schemes for their relaxation,
+yielding a 12/11-approximation algorithm for k=3 and a 1.3438-approximation
+algorithm in general.
+Our approach hinges on the observation that the problem of designing a
+randomized rounding scheme for a geometric relaxation is itself a linear
+programming problem. The paper explores computational solutions to this
+problem, and gives a proof that for a general class of geometric relaxations,
+there are always randomized rounding schemes that match the integrality gap.

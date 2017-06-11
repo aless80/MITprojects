@@ -1,0 +1,4 @@
+
+We relate the strategy sets that a player ends up with after refining his own
+strategies according to two very different models of rationality: namely,
+utility maximization and regret minimization.

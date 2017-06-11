@@ -1,0 +1,22 @@
+
+Detection jitter quantifies variance introduced by the detector in the
+determination of photon arrival time. It is a crucial performance parameter for
+systems using superconducting nanowire single photon detectors (SNSPDs). In
+this work, we have demonstrated that the detection timing jitter is limited in
+part by the spatial variation of photon detection events along the length of
+the wire. This distribution causes the generated electrical pulses to arrive at
+the readout at varied times. We define this jitter source as geometric jitter
+since it is related to the length and area of the SNSPD. To characterize the
+geometric jitter, we have constructed a novel differential cryogenic readout
+with less than 7 ps of electronic jitter that can amplify the pulses generated
+from the two ends of an SNSPD. By differencing the measured arrival times of
+the two electrical pulses, we were able to partially cancel out the difference
+of the propagation times and thus reduce the uncertainty of the photon arrival
+time. Our experimental data indicates that the variation of the differential
+propagation time was a few ps for a 3 {\mu}m x 3 {\mu}m device while it
+increased up to 50 ps for a 20 {\mu}m x 20 {\mu}m device. In a 20 {\mu}m x 20
+{\mu}m large SNSPD, we achieved a 20% reduction in the overall detection timing
+jitter for detecting telecom-wavelength photons by using the differential
+cryogenic readout. The geometric jitter hypothesis was further confirmed by
+studying jitter in devices that consisted of long wires with 1-{\mu}m-long
+narrowed regions used for sensing photons.

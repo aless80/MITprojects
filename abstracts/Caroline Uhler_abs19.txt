@@ -1,0 +1,16 @@
+
+Many algorithms for inferring causality rely heavily on the faithfulness
+assumption. The main justification for imposing this assumption is that the set
+of unfaithful distributions has Lebesgue measure zero, since it can be seen as
+a collection of hypersurfaces in a hypercube. However, due to sampling error
+the faithfulness condition alone is not sufficient for statistical estimation,
+and strong-faithfulness has been proposed and assumed to achieve uniform or
+high-dimensional consistency. In contrast to the plain faithfulness assumption,
+the set of distributions that is not strong-faithful has nonzero Lebesgue
+measure and in fact, can be surprisingly large as we show in this paper. We
+study the strong-faithfulness condition from a geometric and combinatorial
+point of view and give upper and lower bounds on the Lebesgue measure of
+strong-faithful distributions for various classes of directed acyclic graphs.
+Our results imply fundamental limitations for the PC-algorithm and potentially
+also for other algorithms based on partial correlation testing in the Gaussian
+case.

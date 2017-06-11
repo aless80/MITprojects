@@ -1,0 +1,19 @@
+
+A comprehensive model for the photon number fluctuations and the current
+noise in quantum cascade lasers is presented. It is shown that the photon
+intensity noise in quantum cascade lasers exhibits little amplitude squeezing
+even when noise in the drive current is suppressed below the shot noise value.
+This is in contrast to interband semiconductor diode lasers in which the laser
+intensity noise can be squeezed well below the shot noise limit by high
+impedance suppression of fluctuations in the drive current. The theoretical
+model presented in this paper self-consistently accounts for the suppression of
+current noise in electron transport in multiple quantum well structures due to
+various electronic correlations. The nature of these electronic correlations is
+discussed. Mechanisms responsible for the reduced photon number squeezing in
+intersubband lasers are elucidated. Scaling of the laser intensity noise and
+the current noise with the number of cascaded gain stages is also described.
+Direct current modulation response of quantum cascade lasers is also studied,
+and it is shown that contrary to the predictions in the literature of terahertz
+modulation bandwidth for these lasers, bandwidth of almost all quantum cascade
+lasers that have been reported in the literature is limited by the inverse
+photon lifetime inside the laser cavity to tens of gigahertz.

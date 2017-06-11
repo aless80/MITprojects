@@ -1,0 +1,11 @@
+
+We study the optimal scaling of the expected total queue size in an $n\times
+n$ input-queued switch, as a function of the number of ports $n$ and the load
+factor $\rho$, which has been conjectured to be $\Theta (n/(1-\rho))$. In a
+recent work, the validity of this conjecture has been established for the
+regime where $1-\rho = O(1/n^2)$. In this paper, we make further progress in
+the direction of this conjecture. We provide a new class of scheduling policies
+under which the expected total queue size scales as
+$O(n^{1.5}(1-\rho)^{-1}\log(1/(1-\rho)))$ when $1-\rho = O(1/n)$. This is an
+improvement over the state of the art; for example, for $\rho = 1 - 1/n$ the
+best known bound was $O(n^3)$, while ours is $O(n^{2.5}\log n)$.

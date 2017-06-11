@@ -1,0 +1,12 @@
+
+We present a centralized algorithmic framework for solving multi-robot path
+planning problems in general, two-dimensional, continuous environments while
+minimizing globally the task completion time. The framework obtains high levels
+of effectiveness through the composition of an optimal discretization of the
+continuous environment and the subsequent fast, near-optimal resolution of the
+resulting discrete planning problem. This principled approach achieves orders
+of magnitudes better performance with respect to both speed and the supported
+robot density. For a wide variety of environments, our method is shown to
+compute globally near-optimal solutions for fifty robots in seconds with robots
+packed close to each other. In the extreme, the method can consistently solve
+problems with hundreds of robots that occupy over 30% of the free space.

@@ -1,0 +1,14 @@
+
+The paper proposes a control-theoretic framework for verification of
+numerical software systems, and puts forward software verification as an
+important application of control and systems theory. The idea is to transfer
+Lyapunov functions and the associated computational techniques from control
+systems analysis and convex optimization to verification of various software
+safety and performance specifications. These include but are not limited to
+absence of overflow, absence of division-by-zero, termination in finite time,
+presence of dead-code, and certain user-specified assertions. Central to this
+framework are Lyapunov invariants. These are properly constructed functions of
+the program variables, and satisfy certain properties-resembling those of
+Lyapunov functions-along the execution trace. The search for the invariants can
+be formulated as a convex optimization problem. If the associated optimization
+problem is feasible, the result is a certificate for the specification.

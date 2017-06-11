@@ -1,0 +1,10 @@
+
+This paper addresses the problem of creating simplifiers for logic formulas
+based on conditional term rewriting. In particular, the paper focuses on a
+program synthesis application where formula simplifications have been shown to
+have a significant impact. We show that by combining machine learning
+techniques with constraint-based synthesis, it is possible to synthesize a
+formula simplifier fully automatically from a corpus of representative
+problems, making it possible to create formula simplifiers tailored to specific
+problem domains. We demonstrate the benefits of our approach for synthesis
+benchmarks from the SyGuS competition and automated grading.

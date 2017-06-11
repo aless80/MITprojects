@@ -1,0 +1,10 @@
+
+This paper explores the two-user Gaussian interference channel through the
+lens of a natural deterministic channel model. The main result is that the
+deterministic channel uniformly approximates the Gaussian channel, the capacity
+regions differing by a universal constant. The problem of finding the capacity
+of the Gaussian channel to within a constant error is therefore reduced to that
+of finding the capacity of the far simpler deterministic channel. Thus, the
+paper provides an alternative derivation of the recent constant gap capacity
+characterization of Etkin, Tse, and Wang. Additionally, the deterministic model
+gives significant insight towards the Gaussian channel.

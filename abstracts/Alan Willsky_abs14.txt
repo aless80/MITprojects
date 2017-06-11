@@ -1,0 +1,19 @@
+
+The structural properties of graphs are usually characterized in terms of
+invariants, which are functions of graphs that do not depend on the labeling of
+the nodes. In this paper we study convex graph invariants, which are graph
+invariants that are convex functions of the adjacency matrix of a graph. Some
+examples include functions of a graph such as the maximum degree, the MAXCUT
+value (and its semidefinite relaxation), and spectral invariants such as the
+sum of the $k$ largest eigenvalues. Such functions can be used to construct
+convex sets that impose various structural constraints on graphs, and thus
+provide a unified framework for solving a number of interesting graph problems
+via convex optimization. We give a representation of all convex graph
+invariants in terms of certain elementary invariants, and describe methods to
+compute or approximate convex graph invariants tractably. We also compare
+convex and non-convex invariants, and discuss connections to robust
+optimization. Finally we use convex graph invariants to provide efficient
+convex programming solutions to graph problems such as the deconvolution of the
+composition of two graphs into the individual components, hypothesis testing
+between graph families, and the generation of graphs with certain desired
+structural properties.

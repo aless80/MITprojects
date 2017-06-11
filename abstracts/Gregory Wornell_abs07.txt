@@ -1,0 +1,19 @@
+
+Users expect fast and fluid response from today's cloud infrastructure.
+Large-scale computing frameworks such as MapReduce divide jobs into many
+parallel tasks and execute them on different machines to enable faster
+processing. But the tasks on the slowest machines (straggling tasks) become the
+bottleneck in the completion of the job. One way to combat the variability in
+machine response time, is to add replicas of straggling tasks and wait for one
+copy to finish.
+In this paper we analyze how task replication strategies can be used to
+reduce latency, and their impact on the cost of computing resources. We use
+extreme value theory to show that the tail of the execution time distribution
+is the key factor in characterizing the trade-off between latency and computing
+cost. From this trade-off we can determine which task replication strategies
+reduce latency, without a large increase in computing cost. We also propose a
+heuristic algorithm to search for the best replication strategies when it is
+difficult to fit a simple distribution to model the empirical behavior of task
+execution time, and use the proposed analysis techniques. Evaluation of the
+heuristic policies on Google Trace data shows a significant latency reduction
+compared to the replication strategy used in MapReduce.

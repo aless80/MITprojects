@@ -1,0 +1,20 @@
+
+Coherent light-matter interaction can be used to manipulate the energy levels
+of atoms, molecules and solids. When light with frequency {\omega} is detuned
+away from a resonance {\omega}o, repulsion between the photon-dressed (Floquet)
+states can lead to a shift of energy resonance. The dominant effect is the
+optical Stark shift (1/({\omega}0-{\omega})), but there is an additional
+contribution from the so-called Bloch-Siegert shift (1/({\omega}o+{\omega})).
+Although it is common in atoms and molecules, the observation of Bloch-Siegert
+shift in solids has so far been limited only to artificial atoms since the
+shifts were small (<1 {\mu}eV) and inseparable from the optical Stark shift.
+Here we observe an exceptionally large Bloch-Siegert shift (~10 meV) in
+monolayer WS2 under infrared optical driving by virtue of the strong
+light-matter interaction in this system. Moreover, we can disentangle the
+Bloch-Siegert shift entirely from the optical Stark shift, because the two
+effects are found to obey opposite selection rules at different valleys. By
+controlling the light helicity, we can confine the Bloch-Siegert shift to occur
+only at one valley, and the optical Stark shift at the other valley. Such a
+valley-exclusive Bloch-Siegert shift allows for enhanced control over the
+valleytronic properties in two-dimensional materials, and offers a new avenue
+to explore quantum optics in solids.

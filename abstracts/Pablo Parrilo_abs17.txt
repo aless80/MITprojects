@@ -1,0 +1,9 @@
+
+Let M be a p-by-q matrix with nonnegative entries. The positive semidefinite
+rank (psd rank) of M is the smallest integer k for which there exist positive
+semidefinite matrices $A_i, B_j$ of size $k \times k$ such that $M_{ij} =
+\text{trace}(A_i B_j)$. The psd rank has many appealing geometric
+interpretations, including semidefinite representations of polyhedra and
+information-theoretic applications. In this paper we develop and survey the
+main mathematical properties of psd rank, including its geometry, relationships
+with other rank notions, and computational and algorithmic aspects.

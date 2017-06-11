@@ -1,0 +1,10 @@
+
+We introduce a general framework for treating channels with memory and
+feedback. First, we generalize Massey's concept of directed information and use
+it to characterize the feedback capacity of general channels. Second, we
+present coding results for Markov channels. This requires determining
+appropriate sufficient statistics at the encoder and decoder. Third, a dynamic
+programming framework for computing the capacity of Markov channels is
+presented. Fourth, it is shown that the average cost optimality equation (ACOE)
+can be viewed as an implicit single-letter characterization of the capacity.
+Fifth, scenarios with simple sufficient statistics are described.

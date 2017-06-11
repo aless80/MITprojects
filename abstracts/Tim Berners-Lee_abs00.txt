@@ -1,0 +1,18 @@
+
+The Semantic Web drives towards the use of the Web for interacting with
+logically interconnected data. Through knowledge models such as Resource
+Description Framework (RDF), the Semantic Web provides a unifying
+representation of richly structured data. Adding logic to the Web implies the
+use of rules to make inferences, choose courses of action, and answer
+questions. This logic must be powerful enough to describe complex properties of
+objects but not so powerful that agents can be tricked by being asked to
+consider a paradox. The Web has several characteristics that can lead to
+problems when existing logics are used, in particular, the inconsistencies that
+inevitably arise due to the openness of the Web, where anyone can assert
+anything. N3Logic is a logic that allows rules to be expressed in a Web
+environment. It extends RDF with syntax for nested graphs and quantified
+variables and with predicates for implication and accessing resources on the
+Web, and functions including cryptographic, string, math. The main goal of
+N3Logic is to be a minimal extension to the RDF data model such that the same
+language can be used for logic and data. In this paper, we describe N3Logic and
+illustrate through examples why it is an appropriate logic for the Web.

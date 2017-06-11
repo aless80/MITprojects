@@ -1,0 +1,10 @@
+
+Knowledge flow analysis offers a simple and flexible way to find flaws in
+security protocols. A protocol is described by a collection of rules
+constraining the propagation of knowledge amongst principals. Because this
+characterization corresponds closely to informal descriptions of protocols, it
+allows a succinct and natural formalization; because it abstracts away message
+ordering, and handles communications between principals and applications of
+cryptographic primitives uniformly, it is readily represented in a standard
+logic. A generic framework in the Alloy modelling language is presented, and
+instantiated for two standard protocols, and a new key management scheme.

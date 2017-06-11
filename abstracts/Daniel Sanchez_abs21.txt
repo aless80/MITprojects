@@ -1,0 +1,12 @@
+
+Graphene and topological insulators (TI) possess two-dimensional Dirac
+fermions with distinct physical properties. Integrating these two Dirac
+materials in a single device creates interesting opportunities for exploring
+new physics of interacting massless Dirac fermions. Here we report on a
+practical route to experimental fabrication of graphene-Sb2Te3 heterostructure.
+The graphene-TI heterostructures are prepared by using a dry transfer of
+chemical-vapor-deposition grown graphene film. ARPES measurements confirm the
+coexistence of topological surface states of Sb2Te3 and Dirac {\pi} bands of
+graphene, and identify the twist angle in the graphene-TI heterostructure. The
+results suggest a potential tunable electronic platform in which two different
+Dirac low-energy states dominate the transport behavior.

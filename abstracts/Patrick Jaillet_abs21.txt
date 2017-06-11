@@ -1,0 +1,17 @@
+
+Rollout algorithms have demonstrated excellent performance on a variety of
+dynamic and discrete optimization problems. Interpreted as an approximate
+dynamic programming algorithm, a rollout algorithm estimates the value-to-go at
+each decision stage by simulating future events while following a greedy
+policy, referred to as the base policy. While in many cases rollout algorithms
+are guaranteed to perform as well as their base policies, there have been few
+theoretical results showing additional improvement in performance. In this
+paper we perform a probabilistic analysis of the subset sum problem and
+knapsack problem, giving theoretical evidence that rollout algorithms perform
+strictly better than their base policies. Using a stochastic model from the
+existing literature, we analyze two rollout methods that we refer to as the
+consecutive rollout and exhaustive rollout, both of which employ a simple
+greedy base policy. For the subset sum problem, we prove that after only a
+single iteration of the rollout algorithm, both methods yield at least a 30%
+reduction in the expected gap between the solution value and capacity, relative
+to the base policy. Analogous results are shown for the knapsack problem.

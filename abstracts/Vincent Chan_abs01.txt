@@ -1,0 +1,17 @@
+
+We study the spindown of isolated neutron stars from initially rapid rotation
+rates, driven by two factors: (i) gravitational wave emission due to r-modes
+and (ii) magnetic braking. In the context of isolated neutron stars, we present
+the first study including self-consistently the magnetic damping of r-modes in
+the spin evolution. We track the spin evolution employing the RNS code, which
+accounts for the rotating structure of neutron stars for various equations of
+state. We find that, despite the strong damping due to the magnetic field,
+r-modes alter the braking rate from pure magnetic braking for B<10^{13}G. For
+realistic values of the saturation amplitude, the r-mode can also decrease the
+time to reach the threshold central density for quark deconfinement. Within a
+phenomenological model, we assess the gravitational waveform that would result
+from r-mode driven spindown of a magnetized neutron star. To contrast with the
+persistent signal during the spindown phase, we also present a preliminary
+estimate of the transient gravitational wave signal from an explosive
+quark-hadron phase transition, which can be a signal for the deconfinement of
+quarks inside neutron stars.

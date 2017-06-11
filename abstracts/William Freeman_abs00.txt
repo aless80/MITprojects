@@ -1,0 +1,22 @@
+
+Using observations from the first two years of the MOSFIRE Deep Evolution
+Field (MOSDEF) survey, we study 13 AGN-driven outflows detected from a sample
+of 67 X-ray, IR and/or optically selected AGN at $z \sim 2$. The AGN in the
+sample have bolometric luminosities spanning $10^{44}-10^{46} \mathrm{erg
+s^{-1}}$, including both quasars and more common, moderate-luminosity AGN. We
+detect signatures of blueshifted, ionized gas outflows in the \hbeta , [OIII],
+\halpha and/or [NII] emission lines of 19\% of the AGN, while only 1.8\% of the
+MOSDEF galaxies have similar outflows detected. The outflow velocities range
+from 300 to 1000 km s$^{-1}$. Eight of the 13 detected outflows are spatially
+extended on similar scales as the host galaxies, with spatial extents of 2.5 to
+11.0 kpc along the MOSFIRE slits. Outflows are detected uniformly across the
+galaxy star-forming main sequence, showing little trend with the stellar mass
+or SFR of the host galaxy. Line ratio diagnostics in the BPT diagram indicate
+that the outflowing gas is photoionized by the AGN. We do not find evidence for
+positive AGN feedback, either in our relatively small MOSDEF sample or in a
+much larger sample from SDSS. Analysis of the mass and energy outflow rates in
+the MOSDEF AGN indicates that stellar feedback is likely insufficient to drive
+these outflows at $z \sim 2$ and that they are very likely to be AGN-driven.
+The outflows have mass-loading factors of $\sim 1-5$, suggesting that they help
+regulate star formation in their host galaxies, though they may not be
+sufficient to fully quench it.

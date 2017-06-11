@@ -1,0 +1,17 @@
+
+We propose a novel non-linear extension to the Orienteering Problem (OP),
+called the Correlated Orienteering Problem (COP). We use COP to model the
+planning of informative tours for the persistent monitoring of a spatiotemporal
+field with time-invariant spatial correlations, in which the tours are
+constrained to have limited length. Our focus in this paper is QCOP a quadratic
+COP formulation that only looks at correlations between neighboring nodes in a
+node network. The main feature of QCOP is a quadratic utility function
+capturing the said spatial correlation. QCOP may be solved using mixed integer
+quadratic programming (MIQP), with the resulting anytime algorithm capable of
+planning multiple disjoint tours that maximize the quadratic utility. In
+particular, our algorithm can quickly plan a near-optimal tour over a network
+with up to $150$ nodes. Besides performing extensive simulation studies to
+verify the algorithm's correctness and characterize its performance, we also
+successfully applied it to two realistic persistent monitoring tasks: (i)
+estimation over a synthetic spatiotemporal field, and (ii) estimating the
+temperature distribution in the state of Massachusetts.

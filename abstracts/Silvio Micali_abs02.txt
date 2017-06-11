@@ -1,0 +1,8 @@
+
+We analyze the Vickrey mechanism for auctions of multiple identical goods
+when the players have both Knightian uncertainty over their own valuations and
+incomplete preferences. In this model, the Vickrey mechanism is no longer
+dominant-strategy, and we prove that all dominant-strategy mechanisms are
+inadequate. However, we also prove that, in undominated strategies, the social
+welfare produced by the Vickrey mechanism in the worst case is not only very
+good, but also essentially optimal.

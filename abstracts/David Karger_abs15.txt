@@ -1,0 +1,3 @@
+
+The classic all-terminal network reliability problem posits a graph, each of
+whose edges fails independently with some given probability.

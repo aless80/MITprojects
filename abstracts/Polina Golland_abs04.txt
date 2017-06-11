@@ -1,0 +1,18 @@
+
+Manifold learning has been successfully applied to a variety of medical
+imaging problems. Its use in real-time applications requires fast projection
+onto the low-dimensional space. To this end, out-of-sample extensions are
+applied by constructing an interpolation function that maps from the input
+space to the low-dimensional manifold. Commonly used approaches such as the
+Nystr\"{o}m extension and kernel ridge regression require using all training
+points. We propose an interpolation function that only depends on a small
+subset of the input training data. Consequently, in the testing phase each new
+point only needs to be compared against a small number of input training data
+in order to project the point onto the low-dimensional space. We interpret our
+method as an out-of-sample extension that approximates kernel ridge regression.
+Our method involves solving a simple convex optimization problem and has the
+attractive property of guaranteeing an upper bound on the approximation error,
+which is crucial for medical applications. Tuning this error bound controls the
+sparsity of the resulting interpolation function. We illustrate our method in
+two clinical applications that require fast mapping of input images onto a
+low-dimensional space.

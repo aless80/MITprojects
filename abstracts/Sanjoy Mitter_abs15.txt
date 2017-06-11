@@ -1,0 +1,20 @@
+
+Our understanding of information in systems has been based on the foundation
+of memoryless processes. Extensions to stable Markov and auto-regressive
+processes are classical. Berger proved a source coding theorem for the
+marginally unstable Wiener process, but the infinite-horizon exponentially
+unstable case has been open since Gray's 1970 paper. There were also no
+theorems showing what is needed to communicate such processes across noisy
+channels.
+In this work, we give a fixed-rate source-coding theorem for the
+infinite-horizon problem of coding an exponentially unstable Markov process.
+The encoding naturally results in two distinct bitstreams that have
+qualitatively different QoS requirements for communicating over a noisy medium.
+The first stream captures the information that is accumulating within the
+nonstationary process and requires sufficient anytime reliability from the
+channel used to communicate the process. The second stream captures the
+historical information that dissipates within the process and is essentially
+classical. This historical information can also be identified with a natural
+stable counterpart to the unstable process. A converse demonstrating the
+fundamentally layered nature of unstable sources is given by means of
+information-embedding ideas.

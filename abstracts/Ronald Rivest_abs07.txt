@@ -1,0 +1,25 @@
+
+Schools with the highest average student performance are often the smallest
+schools; localities with the highest rates of some cancers are frequently small
+and the effects observed in clinical trials are likely to be largest for the
+smallest numbers of subjects. Informal explanations of this "small-schools
+phenomenon" point to the fact that the sample means of smaller samples have
+higher variances. But this cannot be a complete explanation: If we draw two
+samples from a diffuse distribution that is symmetric about some point, then
+the chance that the smaller sample has larger mean is 50\%. A particular
+consequence of results proved below is that if one draws three or more samples
+of different sizes from the same normal distribution, then the sample mean of
+the smallest sample is most likely to be highest, the sample mean of the second
+smallest sample is second most likely to be highest, and so on; this is true
+even though for any pair of samples, each one of the pair is equally likely to
+have the larger sample mean.
+Our conclusions are relevant to certain stochastic choice models including
+the following generalization of Thurstone's Law of Comparative Judgment. There
+are $n$ items. Item $i$ is preferred to item $j$ if $Z_i < Z_j$, where $Z$ is a
+random $n$-vector of preference scores. Suppose $\mathbb{P}\{Z_i = Z_j\} = 0$
+for $i \ne j$, so there are no ties. Item $k$ is the favorite if $Z_k <
+\min_{i\ne k} Z_i$. Let $p_i$ denote the chance that item $i$ is the favorite.
+We characterize a large class of distributions for $Z$ for which $p_1 > p_2 >
+\cdots > p_n$. Our results are most surprising when $\mathbb{P}\{Z_i < Z_j\} =
+\mathbb{P}\{Z_i > Z_j\} = \frac{1}{2}$ for $i \ne j$, so neither of any two
+items is likely to be preferred over the other in a pairwise comparison.

@@ -1,0 +1,26 @@
+
+Suppose we observe samples of a subset of a collection of random variables.
+No additional information is provided about the number of latent variables, nor
+of the relationship between the latent and observed variables. Is it possible
+to discover the number of latent components, and to learn a statistical model
+over the entire collection of variables? We address this question in the
+setting in which the latent and observed variables are jointly Gaussian, with
+the conditional statistics of the observed variables conditioned on the latent
+variables being specified by a graphical model. As a first step we give natural
+conditions under which such latent-variable Gaussian graphical models are
+identifiable given marginal statistics of only the observed variables.
+Essentially these conditions require that the conditional graphical model among
+the observed variables is sparse, while the effect of the latent variables is
+"spread out" over most of the observed variables. Next we propose a tractable
+convex program based on regularized maximum-likelihood for model selection in
+this latent-variable setting; the regularizer uses both the $\ell_1$ norm and
+the nuclear norm. Our modeling framework can be viewed as a combination of
+dimensionality reduction (to identify latent variables) and graphical modeling
+(to capture remaining statistical structure not attributable to the latent
+variables), and it consistently estimates both the number of latent components
+and the conditional graphical model structure among the observed variables.
+These results are applicable in the high-dimensional setting in which the
+number of latent/observed variables grows with the number of samples of the
+observed variables. The geometric properties of the algebraic varieties of
+sparse matrices and of low-rank matrices play an important role in our
+analysis.

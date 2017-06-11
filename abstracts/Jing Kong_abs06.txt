@@ -1,0 +1,9 @@
+
+Diverse parallel stitched two-dimensional heterostructures are synthesized,
+including metal-semiconductor (graphene-MoS2), semiconductor-semiconductor
+(WS2-MoS2), and insulator-semiconductor (hBN-MoS2), directly through selective
+sowing of aromatic molecules as the seeds in chemical vapor deposition (CVD)
+method. Our methodology enables the large-scale fabrication of lateral
+heterostructures with arbitrary patterns, and clean and precisely aligned
+interfaces, which offers tremendous potential for its application in integrated
+circuits.

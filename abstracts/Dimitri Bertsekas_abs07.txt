@@ -1,0 +1,6 @@
+
+In this paper, we consider discrete-time infinite horizon problems of optimal
+control to a terminal set of states. These are the problems that are often
+taken as the starting point for adaptive dynamic programming. Under very
+general assumptions, we establish the uniqueness of solution of Bellman's
+equation, and we provide convergence results for value and policy iteration.

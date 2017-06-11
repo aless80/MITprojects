@@ -1,0 +1,11 @@
+
+We report a giant spin Hall effect (SHE) in {\beta}-W thin films. Using spin
+torque induced ferromagnetic resonance with a {\beta}-W/CoFeB bilayer
+microstrip we determine the spin Hall angle to be |\theta|=0.30\pm0.02, large
+enough for an in-plane current to efficiently reverse the orientation of an
+in-plane magnetized CoFeB free layer of a nanoscale magnetic tunnel junction
+adjacent to a thin {\beta}-W layer. From switching data obtained with such
+3-terminal devices we independently determine |\theta|=0.33\pm0.06. We also
+report variation of the spin Hall switching efficiency with W layers of
+different resistivities and hence of variable ({\alpha} and {\beta}) phase
+composition.

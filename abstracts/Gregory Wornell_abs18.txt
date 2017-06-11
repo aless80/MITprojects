@@ -1,0 +1,18 @@
+
+We study the capacity of secret-key agreement over a wiretap channel with
+state parameters. The transmitter communicates to the legitimate receiver and
+the eavesdropper over a discrete memoryless wiretap channel with a memoryless
+state sequence. The transmitter and the legitimate receiver generate a shared
+secret key, that remains secret from the eavesdropper. No public discussion
+channel is available. The state sequence is known noncausally to the
+transmitter. We derive lower and upper bounds on the secret-key capacity. The
+lower bound involves constructing a common state reconstruction sequence at the
+legitimate terminals and binning the set of reconstruction sequences to obtain
+the secret-key. For the special case of Gaussian channels with additive
+interference (secret-keys from dirty paper channel) our bounds differ by 0.5
+bit/symbol and coincide in the high signal-to-noise-ratio and high
+interference-to-noise-ratio regimes. For the case when the legitimate receiver
+is also revealed the state sequence, we establish that our lower bound achieves
+the the secret-key capacity. In addition, for this special case, we also
+propose another scheme that attains the capacity and requires only causal side
+information at the transmitter and the receiver.

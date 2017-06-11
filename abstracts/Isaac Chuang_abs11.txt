@@ -1,0 +1,15 @@
+
+We study the vacuum-induced degradation of high-finesse optical cavities with
+mirror coatings composed of SiO$_2$-Ta$_{2}$O$_{5}$ dielectric stacks, and
+present methods to protect these coatings and to recover their initial quality
+factor. For separate coatings with reflectivities centered at 370 nm and 422
+nm, a vacuum-induced continuous increase in optical loss occurs if the
+surface-layer coating is made of Ta$_{2}$O$_{5}$, while it does not occur if it
+is made of SiO$_2$. The incurred optical loss can be reversed by filling the
+vacuum chamber with oxygen at atmospheric pressure, and the recovery rate can
+be strongly accelerated by continuous laser illumination at 422 nm. Both the
+degradation and the recovery processes depend strongly on temperature. We find
+that a 1 nm-thick layer of SiO$_2$ passivating the Ta$_{2}$O$_{5}$ surface
+layer is sufficient to reduce the degradation rate by more than a factor of 10,
+strongly supporting surface oxygen depletion as the primary degradation
+mechanism.

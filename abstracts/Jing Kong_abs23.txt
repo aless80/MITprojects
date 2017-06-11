@@ -1,0 +1,9 @@
+
+We study the electrical transport properties of well-contacted ballistic
+single-walled carbon nanotubes in a three-terminal configuration at low
+temperatures. We observe signatures of strong electron-electron interactions:
+the conductance exhibits bias-voltage-dependent amplitudes of quantum
+interference oscillation, and both the current noise and Fano factor manifest
+bias-voltage-dependent power-law scalings. We analyze our data within the
+Tomonaga-Luttinger liquid model using the non-equilibrium Keldysh formalism and
+find qualitative and quantitative agreement between experiment and theory.

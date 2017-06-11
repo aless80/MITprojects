@@ -1,0 +1,16 @@
+
+Two-dimensional molecular aggregate (2DMA), a thin sheet of strongly
+interacting dipole molecules self-assembled at close distance on an ordered
+lattice, is a fascinating fluorescent material. It is distinctively different
+from the single or colloidal dye molecules or quantum dots in most previous
+research. In this paper, we verify for the first time that when a 2DMA is
+placed at a nanometric distance from a metallic substrate, the strong and
+coherent interaction between the dipoles inside the 2DMA dominates its
+fluorescent decay at picosecond timescale. Our streak-camera lifetime
+measurement and interacting lattice-dipole calculation reveal that the
+metal-mediated dipole-dipole interaction shortens the fluorescent lifetime to
+about one half and increases the energy dissipation rate by ten times than
+expected from the noninteracting single-dipole picture. Our finding can enrich
+our understanding of nanoscale energy transfer in molecular excitonic systems
+and may designate a new direction for developing fast and efficient
+optoelectronic devices.

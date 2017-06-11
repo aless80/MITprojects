@@ -1,0 +1,13 @@
+
+In Programming by Example, a system attempts to infer a program from input
+and output examples, generally by searching for a composition of certain base
+functions. Performing a naive brute force search is infeasible for even mildly
+involved tasks. We note that the examples themselves often present clues as to
+which functions to compose, and how to rank the resulting programs. In text
+processing, which is our domain of interest, clues arise from simple textual
+features: for example, if parts of the input and output strings are
+permutations of one another, this suggests that sorting may be useful. We
+describe a system that learns the reliability of such clues, allowing for
+faster search and a principled ranking over programs. Experiments on a
+prototype of this system show that this learning scheme facilitates efficient
+inference on a range of text processing tasks.

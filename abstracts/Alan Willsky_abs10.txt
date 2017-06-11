@@ -1,0 +1,11 @@
+
+We consider the problem of high-dimensional Ising (graphical) model
+selection. We propose a simple algorithm for structure estimation based on the
+thresholding of the empirical conditional variation distances. We introduce a
+novel criterion for tractable graph families, where this method is efficient,
+based on the presence of sparse local separators between node pairs in the
+underlying graph. For such graphs, the proposed algorithm has a sample
+complexity of $n=\Omega(J_{\min}^{-2}\log p)$, where $p$ is the number of
+variables, and $J_{\min}$ is the minimum (absolute) edge potential in the
+model. We also establish nonasymptotic necessary and sufficient conditions for
+structure estimation.

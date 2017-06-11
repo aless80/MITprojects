@@ -1,0 +1,25 @@
+
+One of the astounding consequences of quantum mechanics is that it allows the
+detection of a target using an incident probe, with only a low probability of
+interaction of the probe and the target. This 'quantum weirdness' could be
+applied in the field of electron microscopy to generate images of
+beam-sensitive specimens with substantially reduced damage to the specimen. A
+reduction of beam-induced damage to specimens is especially of great importance
+if it can enable imaging of biological specimens with atomic resolution.
+Following a recent suggestion that interaction-free measurements are possible
+with electrons, we now analyze the difficulties of actually building an atomic
+resolution interaction-free electron microscope, or "quantum electron
+microscope". A quantum electron microscope would require a number of unique
+components not found in conventional transmission electron microscopes. These
+components include a coherent electron-beam splitter or two-state-coupler, and
+a resonator structure to allow each electron to interrogate the specimen
+multiple times, thus supporting high success probabilities for interaction-free
+detection of the specimen. Different system designs are presented here, which
+are based on four different choices of two-state-couplers: a thin crystal, a
+grating mirror, a standing light wave and an electro-dynamical pseudopotential.
+Challenges for the detailed electron optical design are identified as future
+directions for development. While it is concluded that it should be possible to
+build an atomic resolution quantum electron microscope, we have also identified
+a number of hurdles to the development of such a microscope and further
+theoretical investigations that will be required to enable a complete
+interpretation of the images produced by such a microscope.

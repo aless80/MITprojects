@@ -1,0 +1,24 @@
+
+We consider an infinite collection of agents who make decisions,
+sequentially, about an unknown underlying binary state of the world. Each
+agent, prior to making a decision, receives an independent private signal whose
+distribution depends on the state of the world. Moreover, each agent also
+observes the decisions of its last K immediate predecessors. We study
+conditions under which the agent decisions converge to the correct value of the
+underlying state. We focus on the case where the private signals have bounded
+information content and investigate whether learning is possible, that is,
+whether there exist decision rules for the different agents that result in the
+convergence of their sequence of individual decisions to the correct state of
+the world. We first consider learning in the almost sure sense and show that it
+is impossible, for any value of K. We then explore the possibility of
+convergence in probability of the decisions to the correct state. Here, a
+distinction arises: if K equals 1, learning in probability is impossible under
+any decision rule, while for K greater or equal to 2, we design a decision rule
+that achieves it. We finally consider a new model, involving forward looking
+strategic agents, each of which maximizes the discounted sum (over all agents)
+of the probabilities of a correct decision. (The case, studied in previous
+literature, of myopic agents who maximize the probability of their own decision
+being correct is an extreme special case.) We show that for any value of K, for
+any equilibrium of the associated Bayesian game, and under the assumption that
+each private signal has bounded information content, learning in probability
+fails to obtain.

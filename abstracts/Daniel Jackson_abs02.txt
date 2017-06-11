@@ -1,0 +1,7 @@
+
+We classify invariant curves for birational surface maps that are expanding
+on cohomology. When the expansion is exponential, the arithmetic genus of an
+invariant curve is at most one. This implies severe constraints on both the
+type and number of irreducible components of the curve. In the case of an
+invariant curve with genus equal to one, we show that there is an associated
+invariant meromorphic two form.

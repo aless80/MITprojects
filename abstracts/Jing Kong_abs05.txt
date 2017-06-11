@@ -1,0 +1,21 @@
+
+Ultrafast electron thermalization - the process leading to Auger
+recombination, carrier multiplication via impact ionization and hot carrier
+luminescence - occurs when optically excited electrons in a material undergo
+rapid electron-electron scattering to redistribute excess energy and reach
+electronic thermal equilibrium. Due to extremely short time and length scales,
+the measurement and manipulation of electron thermalization in nanoscale
+devices remains challenging even with the most advanced ultrafast laser
+techniques. Here, we overcome this challenge by leveraging the atomic thinness
+of two-dimensional van der Waals (vdW) materials in order to introduce a highly
+tunable electron transfer pathway that directly competes with electron
+thermalization. We realize this scheme in a graphene-boron nitride-graphene
+(G-BN-G) vdW heterostructure, through which optically excited carriers are
+transported from one graphene layer to the other. By applying an interlayer
+bias voltage or varying the excitation photon energy, interlayer carrier
+transport can be controlled to occur faster or slower than the intralayer
+scattering events, thus effectively tuning the electron thermalization pathways
+in graphene. Our findings, which demonstrate a novel means to probe and
+directly modulate electron energy transport in nanoscale materials, represent
+an important step toward designing and implementing novel optoelectronic and
+energy-harvesting devices with tailored microscopic properties.

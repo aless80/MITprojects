@@ -1,0 +1,9 @@
+
+We report on wide-field optically detected magnetic resonance imaging of
+nitrogen-vacancy centers (NVs) in type IIa polycrystalline diamond. These
+studies reveal a heterogeneous crystalline environment that produces a varied
+density of NV centers, including preferential orientation within some
+individual crystal grains, but preserves long spin coherence times. Using the
+native NVs as nanoscale sensors, we introduce a 3-dimensional strain imaging
+technique with high sensitivity ( $< 10^{-5}$ Hz$^{-1/2}$) and
+diffraction-limited resolution across a wide field of view.

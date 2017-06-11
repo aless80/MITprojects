@@ -1,0 +1,19 @@
+
+We present a simple adaptation of the Lempel Ziv 78' (LZ78) compression
+scheme ({\em IEEE Transactions on Information Theory, 1978}) that supports
+efficient random access to the input string. Namely, given query access to the
+compressed string, it is possible to efficiently recover any symbol of the
+input string. The compression algorithm is given as input a parameter $\eps
+>0$, and with very high probability increases the length of the compressed
+string by at most a factor of $(1+\eps)$. The access time is $O(\log n +
+1/\eps^2)$ in expectation, and $O(\log n/\eps^2)$ with high probability. The
+scheme relies on sparse transitive-closure spanners. Any (consecutive)
+substring of the input string can be retrieved at an additional additive cost
+in the running time of the length of the substring. We also formally establish
+the necessity of modifying LZ78 so as to allow efficient random access.
+Specifically, we construct a family of strings for which $\Omega(n/\log n)$
+queries to the LZ78-compressed string are required in order to recover a single
+symbol in the input string. The main benefit of the proposed scheme is that it
+preserves the online nature and simplicity of LZ78, and that for {\em every}
+input string, the length of the compressed string is only a small factor larger
+than that obtained by running LZ78.

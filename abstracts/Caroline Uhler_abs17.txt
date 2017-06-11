@@ -1,0 +1,22 @@
+
+We consider the problem of learning a Bayesian network or directed acyclic
+graph (DAG) model from observational data. A number of constraint-based,
+score-based and hybrid algorithms have been developed for this purpose. For
+constraint-based methods, statistical consistency guarantees typically rely on
+the faithfulness assumption, which has been show to be restrictive especially
+for graphs with cycles in the skeleton. However, there is only limited work on
+consistency guarantees for score-based and hybrid algorithms and it has been
+unclear whether consistency guarantees can be proven under weaker conditions
+than the faithfulness assumption.
+In this paper, we propose the sparsest permutation (SP) algorithm. This
+algorithm is based on finding the causal ordering of the variables that yields
+the sparsest DAG. We prove that this new score-based method is consistent under
+strictly weaker conditions than the faithfulness assumption. We also
+demonstrate through simulations on small DAGs that the SP algorithm compares
+favorably to the constraint-based PC and SGS algorithms as well as the
+score-based Greedy Equivalence Search and hybrid Max-Min Hill-Climbing method.
+In the Gaussian setting, we prove that our algorithm boils down to finding the
+permutation of the variables with sparsest Cholesky decomposition for the
+inverse covariance matrix. Using this connection, we show that in the oracle
+setting, where the true covariance matrix is known, the SP algorithm is in fact
+equivalent to $\ell_0$-penalized maximum likelihood estimation.

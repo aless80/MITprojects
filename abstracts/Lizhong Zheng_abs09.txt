@@ -1,0 +1,19 @@
+
+The maximum rate at which classical information can be reliably transmitted
+per use of a quantum channel strictly increases in general with $N$, the number
+of channel outputs that are detected jointly by the quantum joint-detection
+receiver (JDR). This phenomenon is known as superadditivity of the maximum
+achievable information rate over a quantum channel. We study this phenomenon
+for a pure-state classical-quantum (cq) channel and provide a lower bound on
+$C_N/N$, the maximum information rate when the JDR is restricted to making
+joint measurements over no more than $N$ quantum channel outputs, while
+allowing arbitrary classical error correction. We also show the appearance of a
+superadditivity phenomenon---of mathematical resemblance to the aforesaid
+problem---in the channel capacity of a classical discrete memoryless channel
+(DMC) when a concatenated coding scheme is employed, and the inner decoder is
+forced to make hard decisions on $N$-length inner codewords. Using this
+correspondence, we develop a unifying framework for the above two notions of
+superadditivity, and show that for our lower bound to $C_N/N$ to be equal to a
+given fraction of the asymptotic capacity $C$ of the respective channel, $N$
+must be proportional to $V/C^2$, where $V$ is the respective channel dispersion
+quantity.

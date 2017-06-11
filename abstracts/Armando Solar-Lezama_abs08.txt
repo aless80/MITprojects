@@ -1,0 +1,17 @@
+
+Recent work has proposed a promising approach to improving scalability of
+program synthesis by allowing the user to supply a syntactic template that
+constrains the space of potential programs. Unfortunately, creating templates
+often requires nontrivial effort from the user, which impedes the usability of
+the synthesizer. We present a solution to this problem in the context of
+recursive transformations on algebraic data-types. Our approach relies on
+polymorphic synthesis constructs: a small but powerful extension to the
+language of syntactic templates, which makes it possible to define a program
+space in a concise and highly reusable manner, while at the same time retains
+the scalability benefits of conventional templates. This approach enables
+end-users to reuse predefined templates from a library for a wide variety of
+problems with little effort. The paper also describes a novel optimization that
+further improves the performance and scalability of the system. We evaluated
+the approach on a set of benchmarks that most notably includes desugaring
+functions for lambda calculus, which force the synthesizer to discover Church
+encodings for pairs and boolean operations.

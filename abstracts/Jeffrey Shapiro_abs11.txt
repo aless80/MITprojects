@@ -1,0 +1,15 @@
+
+Time-energy high-dimensional quantum key distribution (HD-QKD) leverages the
+high-dimensional nature of time-energy entangled biphotons and the loss
+tolerance of single-photon detection to achieve long-distance key distribution
+with high photon information efficiency. To date, the general-attack security
+of HD-QKD has only been proven in the asymptotic regime, while HD-QKD's
+finite-key security has only been established for a limited set of attacks.
+Here we fill this gap by providing a rigorous HD-QKD security proof for general
+attacks in the finite-key regime. Our proof relies on a novel entropic
+uncertainty relation that we derive for time and conjugate-time measurements
+using dispersive optics, and our analysis includes an efficient decoy-state
+protocol in its parameter estimation. We present numerically-evaluated
+secret-key rates illustrating the feasibility of secure and composable HD-QKD
+over metropolitan-area distances when the system is subjected to the most
+powerful eavesdropping attack.

@@ -1,0 +1,15 @@
+
+Unlike traditional file transfer where only total delay matters, streaming
+applications impose delay constraints on each packet and require them to be in
+order. To achieve fast in-order packet decoding, we have to compromise on the
+throughput. We study this trade-off between throughput and smoothness in packet
+decoding. We first consider a point-to-point streaming and analyze how the
+trade-off is affected by the frequency of block-wise feedback, whereby the
+source receives full channel state feedback at periodic intervals. We show that
+frequent feedback can drastically improve the throughput-smoothness trade-off.
+Then we consider the problem of multicasting a packet stream to two users. For
+both point-to-point and multicast streaming, we propose a spectrum of coding
+schemes that span different throughput-smoothness tradeoffs. One can choose an
+appropriate coding scheme from these, depending upon the delay-sensitivity and
+bandwidth limitations of the application. This work introduces a novel style of
+analysis using renewal processes and Markov chains to analyze coding schemes.

@@ -1,0 +1,14 @@
+
+We study the problem of estimating the Earth Mover's Distance (EMD) between
+probability distributions when given access only to samples. We give closeness
+testers and additive-error estimators over domains in $[0, \Delta]^d$, with
+sample complexities independent of domain size - permitting the testability
+even of continuous distributions over infinite domains. Instead, our algorithms
+depend on other parameters, such as the diameter of the domain space, which may
+be significantly smaller. We also prove lower bounds showing the dependencies
+on these parameters to be essentially optimal. Additionally, we consider
+whether natural classes of distributions exist for which there are algorithms
+with better dependence on the dimension, and show that for highly clusterable
+data, this is indeed the case. Lastly, we consider a variant of the EMD,
+defined over tree metrics instead of the usual L1 metric, and give optimal
+algorithms.

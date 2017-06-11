@@ -1,0 +1,21 @@
+
+A central question in optimization is to maximize (or minimize) a linear
+function over a given polytope P. To solve such a problem in practice one needs
+a concise description of the polytope P. In this paper we are interested in
+representations of P using the positive semidefinite cone: a positive
+semidefinite lift (psd lift) of a polytope P is a representation of P as the
+projection of an affine slice of the positive semidefinite cone
+$\mathbf{S}^d_+$. Such a representation allows linear optimization problems
+over P to be written as semidefinite programs of size d. Such representations
+can be beneficial in practice when d is much smaller than the number of facets
+of the polytope P. In this paper we are concerned with so-called equivariant
+psd lifts (also known as symmetric psd lifts) which respect the symmetries of
+the polytope P. We present a representation-theoretic framework to study
+equivariant psd lifts of a certain class of symmetric polytopes known as
+orbitopes. Our main result is a structure theorem where we show that any
+equivariant psd lift of size d of an orbitope is of sum-of-squares type where
+the functions in the sum-of-squares decomposition come from an invariant
+subspace of dimension smaller than d^3. We use this framework to study two
+well-known families of polytopes, namely the parity polytope and the cut
+polytope, and we prove exponential lower bounds for equivariant psd lifts of
+these polytopes.

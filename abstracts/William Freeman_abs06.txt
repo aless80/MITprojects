@@ -1,0 +1,22 @@
+
+We present results from the MOSFIRE Deep Evolution Field (MOSDEF) survey on
+the identification, selection biases, and host galaxy properties of 55 X-ray,
+IR and optically-selected active galactic nuclei (AGN) at $1.4 < z < 3.8$. We
+obtain rest-frame optical spectra of galaxies and AGN and use the BPT diagram
+to identify optical AGN. We examine the uniqueness and overlap of the AGN
+identified at different wavelengths. There is a strong bias against identifying
+AGN at any wavelength in low mass galaxies, and an additional bias against
+identifying IR AGN in the most massive galaxies. AGN hosts span a wide range of
+star formation rate (SFR), similar to inactive galaxies once stellar mass
+selection effects are accounted for. However, we find (at $\sim 2-3\sigma$
+significance) that IR AGN are in less dusty galaxies with relatively higher SFR
+and optical AGN in dusty galaxies with relatively lower SFR. X-ray AGN
+selection does not display a bias with host galaxy SFR. These results are
+consistent with those from larger studies at lower redshifts. Within
+star-forming galaxies, once selection biases are accounted for, we find AGN in
+galaxies with similar physical properties as inactive galaxies, with no
+evidence for AGN activity in particular types of galaxies. This is consistent
+with AGN being fueled stochastically in any star-forming host galaxy. We do not
+detect a significant correlation between SFR and AGN luminosity for individual
+AGN hosts, which may indicate the timescale difference between the growth of
+galaxies and their supermassive black holes.

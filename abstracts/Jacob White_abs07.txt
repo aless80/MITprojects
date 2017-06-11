@@ -1,0 +1,21 @@
+
+We describe a fluctuating volume--current formulation of electromagnetic
+fluctuations that extends our recent work on heat exchange and Casimir
+interactions between arbitrarily shaped homogeneous bodies [Phys. Rev. B. 88,
+054305] to situations involving incandescence and luminescence problems,
+including thermal radiation, heat transfer, Casimir forces, spontaneous
+emission, fluorescence, and Raman scattering, in inhomogeneous media. Unlike
+previous scattering formulations based on field and/or surface unknowns, our
+work exploits powerful techniques from the volume--integral equation (VIE)
+method, in which electromagnetic scattering is described in terms of
+volumetric, current unknowns throughout the bodies. The resulting trace
+formulas (boxed equations) involve products of well-studied VIE matrices and
+describe power and momentum transfer between objects with spatially varying
+material properties and fluctuation characteristics. We demonstrate that thanks
+to the low-rank properties of the associatedmatrices, these formulas are
+susceptible to fast-trace computations based on iterative methods, making
+practical calculations tractable. We apply our techniques to study thermal
+radiation, heat transfer, and fluorescence in complicated geometries, checking
+our method against established techniques best suited for homogeneous bodies as
+well as applying it to obtain predictions of radiation from complex bodies with
+spatially varying permittivities and/or temperature profiles.

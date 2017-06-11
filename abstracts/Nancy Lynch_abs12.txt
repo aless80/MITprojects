@@ -1,0 +1,16 @@
+
+The FLP result shows that crash-tolerant consensus is impossible to solve in
+asynchronous systems, and several solutions have been proposed for
+crash-tolerant consensus under alternative (stronger) models. One popular
+approach is to augment the asynchronous system with appropriate failure
+detectors, which provide (potentially unreliable) information about process
+crashes in the system, to circumvent the FLP impossibility.
+In this paper, we demonstrate the exact mechanism by which (sufficiently
+powerful) asynchronous failure detectors enable solving crash-tolerant
+consensus. Our approach, which borrows arguments from the FLP impossibility
+proof and the famous result from CHT, which shows that $\Omega$ is a weakest
+failure detector to solve consensus, also yields a natural proof to $\Omega$ as
+a weakest asynchronous failure detector to solve consensus. The use of I/O
+automata theory in our approach enables us to model execution in a more
+detailed fashion than CHT and also addresses the latent assumptions and
+assertions in the original result in CHT.

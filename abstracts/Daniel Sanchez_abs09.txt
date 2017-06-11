@@ -1,0 +1,21 @@
+
+Topological metals and semimetals (TMs) have recently drawn significant
+interest. These materials give rise to condensed matter realizations of many
+important concepts in high-energy physics, leading to wide-ranging protected
+properties in transport and spectroscopic experiments. The most studied TMs,
+i.e., Weyl and Dirac semimetals, feature quasiparticles that are direct
+analogues of the textbook elementary particles. Moreover, the TMs known so far
+can be characterized based on the dimensionality of the band crossing. While
+Weyl and Dirac semimetals feature zero-dimensional points, the band crossing of
+nodal-line semimetals forms a one-dimensional closed loop. In this paper, we
+identify a TM which breaks the above paradigms. Firstly, the TM features
+triply-degenerate band crossing in a symmorphic lattice, hence realizing
+emergent fermionic quasiparticles not present in quantum field theory.
+Secondly, the band crossing is neither 0D nor 1D. Instead, it consists of two
+isolated triply-degenerate nodes interconnected by multi-segments of lines with
+two-fold degeneracy. We present materials candidates. We further show that
+triplydegenerate band crossings in symmorphic crystals give rise to a Landau
+level spectrum distinct from the known TMs, suggesting novel magneto-transport
+responses. Our results open the door for realizing new topological phenomena
+and fermions including transport anomalies and spectroscopic responses in
+metallic crystals with nontrivial topology beyond the Weyl/Dirac paradigm.

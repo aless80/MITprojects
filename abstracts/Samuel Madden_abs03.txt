@@ -1,0 +1,19 @@
+
+Exploratory data analysis often involves repeatedly browsing small samples of
+records that satisfy certain ad-hoc predicates, to form and test hypotheses,
+identify correlations, or make inferences. Unfortunately, existing database
+systems are not optimized for queries with a LIMIT clause---operating instead
+in an all-or-nothing manner. While workload aware caching, indexing, or
+precomputation schemes may appear promising remedies, they do not apply in an
+exploratory setting where the queries are ad-hoc and unpredictable. In this
+paper, we propose a fast sampling engine, called NeedleTail, aimed at letting
+analysts browse a small sample of the query results on large datasets as
+quickly as possible, independent of the overall size of the result set.
+NeedleTail introduces density maps, a lightweight in-memory indexing structure,
+and a set of efficient algorithms (with desirable theoretical guarantees) to
+quickly locate promising blocks, trading off locality and density. In settings
+where the samples are used to compute aggregates, we extend techniques from the
+statistics literature---in particular, from survey sampling---to mitigate the
+bias from using our sampling algorithms. Our experimental results demonstrate
+that NeedleTail returns results an order of magnitude faster while occupying up
+to 30x less memory than existing sampling techniques.

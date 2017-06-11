@@ -1,0 +1,24 @@
+
+Compressed sensing allows perfect recovery of sparse signals (or signals
+sparse in some basis) using only a small number of random measurements.
+Existing results in compressed sensing literature have focused on
+characterizing the achievable performance by bounding the number of samples
+required for a given level of signal sparsity. However, using these bounds to
+minimize the number of samples requires a-priori knowledge of the sparsity of
+the unknown signal, or the decay structure for near-sparse signals.
+Furthermore, there are some popular recovery methods for which no such bounds
+are known.
+In this paper, we investigate an alternative scenario where observations are
+available in sequence. For any recovery method, this means that there is now a
+sequence of candidate reconstructions. We propose a method to estimate the
+reconstruction error directly from the samples themselves, for every candidate
+in this sequence. This estimate is universal in the sense that it is based only
+on the measurement ensemble, and not on the recovery method or any assumed
+level of sparsity of the unknown signal. With these estimates, one can now stop
+observations as soon as there is reasonable certainty of either exact or
+sufficiently accurate reconstruction. They also provide a way to obtain
+"run-time" guarantees for recovery methods that otherwise lack a-priori
+performance bounds.
+We investigate both continuous (e.g. Gaussian) and discrete (e.g. Bernoulli)
+random measurement ensembles, both for exactly sparse and general near-sparse
+signals, and with both noisy and noiseless measurements.

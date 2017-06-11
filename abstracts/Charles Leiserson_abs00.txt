@@ -1,0 +1,6 @@
+
+It is our view that the state of the art in constructing a large collection
+of graph algorithms in terms of linear algebraic operations is mature enough to
+support the emergence of a standard set of primitive building blocks. This
+paper is a position paper defining the problem and announcing our intention to
+launch an open effort to define this standard.

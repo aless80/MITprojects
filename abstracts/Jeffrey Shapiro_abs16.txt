@@ -1,0 +1,20 @@
+
+The channel loss incurred in long-distance transmission places a significant
+burden on quantum key distribution (QKD) systems: they must defeat a passive
+eavesdropper who detects all the light lost in the quantum channel and does so
+without disturbing the light that reaches the intended destination. The current
+QKD implementation with the highest long-distance secret-key rate meets this
+challenge by transmitting no more than one photon per bit [Opt. Express 21,
+24550-24565 (2013)]. As a result, it cannot achieve the Gbps secret-key rate
+needed for one-time pad encryption of large data files unless an impractically
+large amount of multiplexing is employed. We introduce floodlight QKD (FL-QKD),
+which floods the quantum channel with a high number of photons per bit
+distributed over a much greater number of optical modes. FL-QKD offers security
+against the optimum frequency-domain collective attack by transmitting less
+than one photon per mode and using photon-coincidence channel monitoring, and
+it is completely immune to passive eavesdropping. More importantly, FL-QKD is
+capable of a 2 Gbps secret-key rate over a 50 km fiber link, without any
+multiplexing, using available equipment, i.e., no new technology need be
+developed. FL-QKD achieves this extraordinary secret-key rate by virtue of its
+unprecedented secret-key efficiency, in bits per channel use, which exceeds
+those of state-of-the-art systems by two orders of magnitude.

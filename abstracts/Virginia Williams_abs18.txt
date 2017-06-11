@@ -1,0 +1,16 @@
+
+The replacement paths problem for directed graphs is to find for given nodes
+s and t and every edge e on the shortest path between them, the shortest path
+between s and t which avoids e. For unweighted directed graphs on n vertices,
+the best known algorithm runtime was \tilde{O}(n^{2.5}) by Roditty and Zwick.
+For graphs with integer weights in {-M,...,M}, Weimann and Yuster recently
+showed that one can use fast matrix multiplication and solve the problem in
+O(Mn^{2.584}) time, a runtime which would be O(Mn^{2.33}) if the exponent
+\omega of matrix multiplication is 2.
+We improve both of these algorithms. Our new algorithm also relies on fast
+matrix multiplication and runs in O(M n^{\omega} polylog(n)) time if \omega>2
+and O(n^{2+\eps}) for any \eps>0 if \omega=2. Our result shows that, at least
+for small integer weights, the replacement paths problem in directed graphs may
+be easier than the related all pairs shortest paths problem in directed graphs,
+as the current best runtime for the latter is \Omega(n^{2.5}) time even if
+\omega=2.

@@ -1,0 +1,23 @@
+
+A ubiquitous building block of signaling pathways is a cycle of covalent
+modification (e.g., phosphorylation and dephosphorylation in MAPK cascades).
+Our paper explores the kind of information processing and filtering that can be
+accomplished by this simple biochemical circuit.
+Signaling cycles are particularly known for exhibiting a highly sigmoidal
+(ultrasensitive) input-output characteristic in a certain steady-state regime.
+Here we systematically study the cycle's steady-state behavior and its response
+to time-varying stimuli. We demonstrate that the cycle can actually operate in
+four different regimes, each with its specific input-output characteristics.
+These results are obtained using the total quasi-steady-state approximation,
+which is more generally valid than the typically used Michaelis-Menten
+approximation for enzymatic reactions. We invoke experimental data that
+suggests the possibility of signaling cycles operating in one of the new
+regimes.
+We then consider the cycle's dynamic behavior, which has so far been
+relatively neglected. We demonstrate that the intrinsic architecture of the
+cycles makes them act - in all four regimes - as tunable low-pass filters,
+filtering out high-frequency fluctuations or noise in signals and environmental
+cues. Moreover, the cutoff frequency can be adjusted by the cell. Numerical
+simulations show that our analytical results hold well even for noise of large
+amplitude. We suggest that noise filtering and tunability make signaling cycles
+versatile components of more elaborate cell signaling pathways.

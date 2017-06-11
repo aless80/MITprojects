@@ -1,0 +1,14 @@
+
+We study survival among two competing types in two settings: a planar growth
+model related to two-neighbour bootstrap percolation, and a system of urns with
+graph-based interactions. In the urn scheme, each vertex of a graph $G$ has an
+associated urn containing some number of either blue or red balls (but not
+both). At each time step, a ball is chosen uniformly at random from all those
+currently present in the system, a ball of the same colour is added to each
+neighbouring urn, and balls in the same urn but of different colours annihilate
+on a one-for-one basis. We show that, for every connected graph $G$ and every
+initial configuration, only one colour survives almost surely. As a corollary,
+we deduce that in the two-type growth model on $\mathbb{Z}^2$, one of the
+colours only infects a finite number of sites with probability one. We also
+discuss generalisations to higher dimensions and multi-type processes, and list
+a number of open problems and conjectures.

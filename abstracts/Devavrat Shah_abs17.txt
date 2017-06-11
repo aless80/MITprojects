@@ -1,0 +1,17 @@
+
+This paper presents an analysis of spinal codes, a class of rateless codes
+proposed recently. We prove that spinal codes achieve Shannon capacity for the
+binary symmetric channel (BSC) and the additive white Gaussian noise (AWGN)
+channel with an efficient polynomial-time encoder and decoder. They are the
+first rateless codes with proofs of these properties for BSC and AWGN. The key
+idea in the spinal code is the sequential application of a hash function over
+the message bits. The sequential structure of the code turns out to be crucial
+for efficient decoding. Moreover, counter to the wisdom of having an expander
+structure in good codes, we show that the spinal code, despite its sequential
+structure, achieves capacity. The pseudo-randomness provided by a hash function
+suffices for this purpose. Our proof introduces a variant of Gallager's result
+characterizing the error exponent of random codes for any memoryless channel.
+We present a novel application of these error-exponent results within the
+framework of an efficient sequential code. The application of a hash function
+over the message bits provides a methodical and effective way to de-randomize
+Shannon's random codebook construction.

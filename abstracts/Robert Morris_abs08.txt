@@ -1,0 +1,14 @@
+
+\We present the sixth catalog of Kepler candidate planets based on nearly 4
+years of high precision photometry. This catalog builds on the legacy of
+previous catalogs released by the Kepler project and includes 1493 new Kepler
+Objects of Interest (KOIs) of which 554 are planet candidates, and 131 of these
+candidates have best fit radii <1.5 R_earth. This brings the total number of
+KOIs and planet candidates to 7305 and 4173 respectively. We suspect that many
+of these new candidates at the low signal-to-noise limit may be false alarms
+created by instrumental noise, and discuss our efforts to identify such
+objects. We re-evaluate all previously published KOIs with orbital periods of
+>50 days to provide a consistently vetted sample that can be used to improve
+planet occurrence rate calculations. We discuss the performance of our planet
+detection algorithms, and the consistency of our vetting products. The full
+catalog is publicly available at the NASA Exoplanet Archive.

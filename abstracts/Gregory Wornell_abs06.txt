@@ -1,0 +1,12 @@
+
+This paper considers the problem of communication over a discrete memoryless
+channel (DMC) or an additive white Gaussian noise (AWGN) channel subject to the
+constraint that the probability that an adversary who observes the channel
+outputs can detect the communication is low. Specifically, the relative entropy
+between the output distributions when a codeword is transmitted and when no
+input is provided to the channel must be sufficiently small. For a DMC whose
+output distribution induced by the "off" input symbol is not a mixture of the
+output distributions induced by other input symbols, it is shown that the
+maximum amount of information that can be transmitted under this criterion
+scales like the square root of the blocklength. The same is true for the AWGN
+channel. Exact expressions for the scaling constant are also derived.

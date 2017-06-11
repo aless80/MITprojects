@@ -1,0 +1,11 @@
+
+The associahedron is an object that has been well studied and has numerous
+applications, particularly in the theory of operads, the study of non-crossing
+partitions, lattice theory and more recently in the study of cluster algebras.
+We approach the associahedron from the point of view of discrete homotopy
+theory. We study the abelianization of the discrete fundamental group, and show
+that it is free abelian of rank $\binom{n+2}{4}$. We also find a combinatorial
+description for a basis of this rank. We also introduce the exchange module of
+the type $A_n$ cluster algebra, used to model the relations in the cluster
+algebra. We use the discrete fundamental group to the study of exchange module,
+and show that it is also free abelian of rank $\binom{n+2}{3}$.

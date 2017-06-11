@@ -1,0 +1,16 @@
+
+We study the Maximum Budgeted Allocation problem, i.e., the problem of
+selling a set of $m$ indivisible goods to $n$ players, each with a separate
+budget, such that we maximize the collected revenue. Since the natural
+assignment LP is known to have an integrality gap of $\frac{3}{4}$, which
+matches the best known approximation algorithms, our main focus is to improve
+our understanding of the stronger configuration LP relaxation. In this
+direction, we prove that the integrality gap of the configuration LP is
+strictly better than $\frac{3}{4}$, and provide corresponding polynomial time
+roundings, in the following restrictions of the problem: (i) the Restricted
+Budgeted Allocation problem, in which all the players have the same budget and
+every item has the same value for any player it can be sold to, and (ii) the
+graph MBA problem, in which an item can be assigned to at most 2 players.
+Finally, we improve the best known upper bound on the integrality gap for the
+general case from $\frac{5}{6}$ to $2\sqrt{2}-2\approx 0.828$ and also prove
+hardness of approximation results for both cases.

@@ -1,0 +1,11 @@
+
+Imaging technologies such as dynamic viewpoint generation are engineered for
+incoherent radiation using the traditional light field, and for coherent
+radiation using electromagnetic field theory. We present a model of coherent
+image formation that strikes a balance between the utility of the light field
+and the comprehensive predictive power of Maxwell's equations. We synthesize
+research in optics and signal processing to formulate, capture, and form images
+from quasi light fields, which extend the light field from incoherent to
+coherent radiation. Our coherent cameras generalize the classic beamforming
+algorithm in sensor array processing, and invite further research on
+alternative notions of image formation.

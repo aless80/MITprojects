@@ -1,0 +1,12 @@
+
+This paper describes the construction of a cryostat and an optical system
+with a free-space coupling efficiency of 56.5% +/- 3.4% to a superconducting
+nanowire single-photon detector (SNSPD) for infrared quantum communication and
+spectrum analysis. A 1K pot decreases the base temperature to T = 1.7 K from
+the 2.9 K reached by the cold head cooled by a pulse-tube cryocooler. The
+minimum spot size coupled to the detector chip was 6.6 +/- 0.11 {\mu}m starting
+from a fiber source at wavelength, {\lambda} = 1.55 {\mu}m. We demonstrated
+efficient photon counting on a detector with an 8 x 7.3 {\mu}m^2 area. We
+measured a dark count rate of 95 +/- 3.35 kcps and a system detection
+efficiency of 1.64% +/- 0.13%. We explain the key steps that are required to
+further improve the coupling efficiency.

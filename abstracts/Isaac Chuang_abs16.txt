@@ -1,0 +1,12 @@
+
+Massive Open Online Courses are an exciting new avenue for instruction and
+research, yet they are full of unknowns. In the Spring of 2013, MITx released
+its first introductory physics MOOC through the edX platform, generating a
+total enrollment of 43,000 students from around the world. We describe the
+population of participants in terms of their age, gender, level of education,
+and country of origin, highlighting both the diversity of 8.02x enrollees as
+well as gender gap and retention. Using three midterm exams and the final as
+waypoints, we highlight performance by different demographic subpopulations and
+their retention rates. Our work is generally aimed at making a bridge between
+available MOOC data and topics associated with the Physics Education Research
+community.

@@ -1,0 +1,17 @@
+
+Discovering Dirac fermions with novel properties has become an important
+front in condensed matter and materials sciences. Here, we report the
+observation of unusual Dirac fermion states in a strongly-correlated electron
+setting, which are uniquely distinct from those of graphene and conventional
+topological insulators. In strongly-correlated cerium monopnictides, we find
+two sets of highly anisotropic Dirac fermions that interpenetrate each other
+with negligible hybridization, and show a peculiar four-fold degeneracy where
+their Dirac nodes overlap. Despite the lack of protection by crystalline or
+time-reversal symmetries, this four-fold degeneracy is robust across magnetic
+phase transitions. Comparison of these experimental findings with our
+theoretical calculations suggests that the observed surface Dirac fermions
+arise from bulk band inversions at an odd number of high-symmetry points, which
+is analogous to the band topology which describes a
+$\mathbb{Z}_{2}$-topological phase. Our findings open up an unprecedented and
+long-sought-for platform for exploring novel Dirac fermion physics in a
+strongly-correlated semimetal.

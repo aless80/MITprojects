@@ -1,0 +1,15 @@
+
+We study theoretical runtime guarantees for a class of optimization problems
+that occur in a wide variety of inference problems. these problems are
+motivated by the lasso framework and have applications in machine learning and
+computer vision.
+Our work shows a close connection between these problems and core questions
+in algorithmic graph theory. While this connection demonstrates the
+difficulties of obtaining runtime guarantees, it also suggests an approach of
+using techniques originally developed for graph algorithms.
+We then show that most of these problems can be formulated as a grouped least
+squares problem, and give efficient algorithms for this formulation. Our
+algorithms rely on routines for solving quadratic minimization problems, which
+in turn are equivalent to solving linear systems. Finally we present some
+experimental results on applying our approximation algorithm to image
+processing problems.

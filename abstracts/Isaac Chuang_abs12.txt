@@ -1,0 +1,11 @@
+
+Scaling-up from prototype systems to dense arrays of ions on chip, or vast
+networks of ions connected by photonic channels, will require developing
+entirely new technologies that combine miniaturized ion trapping systems with
+devices to capture, transmit and detect light, while refining how ions are
+confined and controlled. Building a cohesive ion system from such diverse parts
+involves many challenges, including navigating materials incompatibilities and
+undesired coupling between elements. Here, we review our recent efforts to
+create scalable ion systems incorporating unconventional materials such as
+graphene and indium tin oxide, integrating devices like optical fibers and
+mirrors, and exploring alternative ion loading and trapping techniques.

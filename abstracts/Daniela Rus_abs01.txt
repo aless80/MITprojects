@@ -1,0 +1,17 @@
+
+Expensive specialized systems have hampered development of telerobotic
+systems for manufacturing systems. In this paper we demonstrate a telerobotic
+system which can reduce the cost of such system by leveraging commercial
+virtual reality(VR) technology and integrating it with existing robotics
+control software. The system runs on a commercial gaming engine using off the
+shelf VR hardware. This system can be deployed on multiple network
+architectures from a wired local network to a wireless network connection over
+the Internet. The system is based on the homunculus model of mind wherein we
+embed the user in a virtual reality control room. The control room allows for
+multiple sensor display, dynamic mapping between the user and robot, does not
+require the production of duals for the robot, or its environment. The control
+room is mapped to a space inside the robot to provide a sense of co-location
+within the robot. We compared our system with state of the art automation
+algorithms for assembly tasks, showing a 100% success rate for our system
+compared with a 66% success rate for automated systems. We demonstrate that our
+system can be used for pick and place, assembly, and manufacturing tasks.

@@ -1,0 +1,17 @@
+
+It has recently been proposed that electronic band structures in crystals
+give rise to a previously overlooked type of Weyl fermion, which violates
+Lorentz invariance and, consequently, is forbidden in particle physics. It was
+further predicted that Mo$_x$W$_{1-x}$Te$_2$ may realize such a Type II Weyl
+fermion. One crucial challenge is that the Weyl points in Mo$_x$W$_{1-x}$Te$_2$
+are predicted to lie above the Fermi level. Here, by studying a simple model
+for a Type II Weyl cone, we clarify the importance of accessing the unoccupied
+band structure to demonstrate that Mo$_x$W$_{1-x}$Te$_2$ is a Weyl semimetal.
+Then, we use pump-probe angle-resolved photoemission spectroscopy (pump-probe
+ARPES) to directly observe the unoccupied band structure of
+Mo$_x$W$_{1-x}$Te$_2$. For the first time, we directly access states $> 0.2$ eV
+above the Fermi level. By comparing our results with $\textit{ab initio}$
+calculations, we conclude that we directly observe the surface state containing
+the topological Fermi arc. Our work opens the way to studying the unoccupied
+band structure as well as the time-domain relaxation dynamics of
+Mo$_x$W$_{1-x}$Te$_2$ and related transition metal dichalcogenides.

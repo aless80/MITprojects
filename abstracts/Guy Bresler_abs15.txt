@@ -1,0 +1,23 @@
+
+Markov random fields are used to model high dimensional distributions in a
+number of applied areas. Much recent interest has been devoted to the
+reconstruction of the dependency structure from independent samples from the
+Markov random fields. We analyze a simple algorithm for reconstructing the
+underlying graph defining a Markov random field on $n$ nodes and maximum degree
+$d$ given observations. We show that under mild non-degeneracy conditions it
+reconstructs the generating graph with high probability using $\Theta(d
+\epsilon^{-2}\delta^{-4} \log n)$ samples where $\epsilon,\delta$ depend on the
+local interactions. For most local interaction $\eps,\delta$ are of order
+$\exp(-O(d))$.
+Our results are optimal as a function of $n$ up to a multiplicative constant
+depending on $d$ and the strength of the local interactions. Our results seem
+to be the first results for general models that guarantee that {\em the}
+generating model is reconstructed. Furthermore, we provide explicit $O(n^{d+2}
+\epsilon^{-2}\delta^{-4} \log n)$ running time bound. In cases where the
+measure on the graph has correlation decay, the running time is $O(n^2 \log n)$
+for all fixed $d$. We also discuss the effect of observing noisy samples and
+show that as long as the noise level is low, our algorithm is effective. On the
+other hand, we construct an example where large noise implies
+non-identifiability even for generic noise and interactions. Finally, we
+briefly show that in some simple cases, models with hidden nodes can also be
+recovered.

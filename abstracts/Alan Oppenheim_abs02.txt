@@ -1,0 +1,14 @@
+
+This paper presents a general framework for generating greedy algorithms for
+solving convex constraint satisfaction problems for sparse solutions by mapping
+the satisfaction problem into one of graph traversal on a rooted tree of
+unknown topology. For every pre-walk of the tree an initial set of generally
+dense feasible solutions is processed in such a way that the sparsity of each
+solution increases with each generation unveiled. The specific computation
+performed at any particular child node is shown to correspond to an embedding
+of a polytope into the polytope received from that nodes parent. Several issues
+related to pre-walk order selection, computational complexity and tractability,
+and the use of heuristic and/or side information is discussed. An example of a
+single-path, depth-first algorithm on a tree with randomized vertex reduction
+and a run-time path selection algorithm is presented in the context of sparse
+lowpass filter design.

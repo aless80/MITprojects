@@ -1,0 +1,12 @@
+
+We consider the problem of finding an optimal history-dependent routing
+strategy on a directed graph weighted by stochastic arc costs when the
+objective is to minimize the risk of spending more than a prescribed budget. To
+help mitigate the impact of the lack of information on the arc cost probability
+distributions, we introduce a robust counterpart where the distributions are
+only known through confidence intervals on some statistics such as the mean,
+the mean absolute deviation, and any quantile. Leveraging recent results in
+distributionally robust optimization, we develop a general-purpose algorithm to
+compute an approximate optimal strategy. To illustrate the benefits of the
+robust approach, we run numerical experiments with field data from the
+Singapore road network.

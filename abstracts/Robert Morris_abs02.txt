@@ -1,0 +1,19 @@
+
+Consider a random sequence of $N$ integers, each chosen uniformly and
+independently from the set $\{1,\dots,x\}$. Motivated by applications to
+factorisation algorithms such as Dixon's algorithm, the quadratic sieve, and
+the number field sieve, Pomerance in 1994 posed the following problem: how
+large should $N$ be so that, with high probability, this sequence contains a
+subsequence, the product of whose elements is a perfect square? Pomerance
+determined asymptotically the logarithm of the threshold for this event, and
+conjectured that it in fact exhibits a sharp threshold in $N$. More recently,
+Croot, Granville, Pemantle and Tetali determined the threshold up to a factor
+of $4/\pi + o(1)$ as $x \to \infty$, and made a conjecture regarding the
+location of the sharp threshold.
+In this paper we prove both of these conjectures, by determining the sharp
+threshold for making squares. Our proof combines techniques from combinatorics,
+probability and analytic number theory; in particular, we use the so-called
+method of self-correcting martingales in order to control the size of the
+2-core of the random hypergraph that encodes the prime factors of our random
+numbers. Our method also gives a new (and completely different) proof of the
+upper bound in the main theorem of Croot, Granville, Pemantle and Tetali.

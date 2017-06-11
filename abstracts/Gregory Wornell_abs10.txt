@@ -1,0 +1,11 @@
+
+An increasing number of streaming applications need packets to be strictly
+in-order at the receiver. This paper provides a framework for analyzing
+in-order packet delivery in such applications. We consider the problem of
+multicasting an ordered stream of packets to two users over independent erasure
+channels with instantaneous feedback to the source. Depending upon the channel
+erasures, a packet which is in-order for one user, may be redundant for the
+other. Thus there is an inter-dependence between throughput and the smoothness
+of in-order packet delivery to the two users. We use a Markov chain model of
+packet decoding to analyze these throughput-smoothness trade-offs of the users,
+and propose coding schemes that can span different points on each trade-off.

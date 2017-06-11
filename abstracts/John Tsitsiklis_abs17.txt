@@ -1,0 +1,12 @@
+
+We propose a model for deterministic distributed function computation by a
+network of identical and anonymous nodes. In this model, each node has bounded
+computation and storage capabilities that do not grow with the network size.
+Furthermore, each node only knows its neighbors, not the entire graph. Our goal
+is to characterize the class of functions that can be computed within this
+model. In our main result, we provide a necessary condition for computability
+which we show to be nearly sufficient, in the sense that every function that
+satisfies this condition can at least be approximated. The problem of computing
+suitably rounded averages in a distributed manner plays a central role in our
+development; we provide an algorithm that solves it in time that grows
+quadratically with the size of the network.

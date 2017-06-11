@@ -1,0 +1,5 @@
+
+We prove that the classic 1994 Taito video game, known as Puzzle Bobble or
+Bust-a-Move, is NP-complete. Our proof applies to the perfect-information
+version where the bubble sequence is known in advance, and it uses just three
+bubble colors.

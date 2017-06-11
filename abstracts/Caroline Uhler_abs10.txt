@@ -1,0 +1,14 @@
+
+The Ising model is one of the simplest and most famous models of interacting
+systems. It was originally proposed to model ferromagnetic interactions in
+statistical physics and is now widely used to model spatial processes in many
+areas such as ecology, sociology, and genetics, usually without testing its
+goodness of fit. Here, we propose various test statistics and an exact
+goodness-of-fit test for the finite-lattice Ising model. The theory of Markov
+bases has been developed in algebraic statistics for exact goodness-of-fit
+testing using a Monte Carlo approach. However, finding a Markov basis is often
+computationally intractable. Thus, we develop a Monte Carlo method for exact
+goodness-of-fit testing for the Ising model which avoids computing a Markov
+basis and also leads to a better connectivity of the Markov chain and hence to
+a faster convergence. We show how this method can be applied to analyze the
+spatial organization of receptors on the cell membrane.

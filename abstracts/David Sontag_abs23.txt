@@ -1,0 +1,16 @@
+
+Dual decomposition provides a tractable framework for designing algorithms
+for finding the most probable (MAP) configuration in graphical models. However,
+for many real-world inference problems, the typical decomposition has a large
+integrality gap, due to frustrated cycles. One way to tighten the relaxation is
+to introduce additional constraints that explicitly enforce cycle consistency.
+Earlier work showed that cluster-pursuit algorithms, which iteratively
+introduce cycle and other higherorder consistency constraints, allows one to
+exactly solve many hard inference problems. However, these algorithms
+explicitly enumerate a candidate set of clusters, limiting them to triplets or
+other short cycles. We solve the search problem for cycle constraints, giving a
+nearly linear time algorithm for finding the most frustrated cycle of arbitrary
+length. We show how to use this search algorithm together with the dual
+decomposition framework and clusterpursuit. The new algorithm exactly solves
+MAP inference problems arising from relational classification and stereo
+vision.

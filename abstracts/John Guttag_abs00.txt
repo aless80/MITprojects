@@ -1,0 +1,20 @@
+
+For many movement disorders, such as Parkinson's and ataxia, disease
+progression is usually assessed visually by a clinician according to a
+numerical rating scale, or using questionnaires. These tests are subjective,
+time-consuming, and must be administered by a professional. We present an
+automated method for quantifying the severity of motion impairment in patients
+with ataxia, using only video recordings. We focus on videos of the
+finger-to-nose test, a common movement task used to assess ataxia progression
+during the course of routine clinical checkups.
+Our method uses pose estimation and optical flow techniques to track the
+motion of the patient's hand in a video recording. We extract features that
+describe qualities of the motion such as speed and variation in performance.
+Using labels provided by an expert clinician, we build a supervised learning
+model that predicts severity according to the Brief Ataxia Rating Scale (BARS).
+Our model achieves a mean absolute error of 0.363 on a 0-4 scale and a
+prediction-label correlation of 0.835 in a leave-one-patient-out experiment.
+The accuracy of our system is comparable to the reported inter-rater
+correlation among clinicians assessing the finger-to-nose exam using a similar
+ataxia rating scale. This work demonstrates the feasibility of using videos to
+produce more objective and clinically useful measures of motor impairment.

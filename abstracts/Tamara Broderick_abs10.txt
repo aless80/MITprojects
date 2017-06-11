@@ -1,0 +1,13 @@
+
+This article is a translation of Bruno de Finetti's paper "Funzione
+Caratteristica di un fenomeno aleatorio" which appeared in Atti del Congresso
+Internazionale dei Matematici, Bologna 3-10 Settembre 1928, Tomo VI, pp.
+179-190, originally published by Nicola Zanichelli Editore S.p.A. The
+translation was made as close as possible to the original in form and style,
+except for apparent mistakes found in the original document, which were
+corrected and are mentioned as footnotes. Most of these were resolved by
+comparing against a longer version of this work by de Finetti, published
+shortly after this one under the same titlea. The interested reader is highly
+encouraged to consult this other version for a more detailed treatment of the
+topics covered here. Footnotes regarding the translation are labeled with
+letters to distinguish them from de Finetti's original footnotes.

@@ -1,0 +1,25 @@
+
+We consider models in which two sets of matched two-level systems are coupled
+to a common oscillator in the case where the oscillator energy is small
+relative to the two-level transition energies. Since the two sets of two-level
+systems are coupled indirectly through the oscillator, excitation transfer from
+one set of two-level systems to the other is possible. In addition, the
+excitation energy from the two-level systems may be exchanged with the
+oscillator coherently, even though the oscillator energy may be orders of
+magnitude smaller than the two-level system transition energy. In the lossless
+case, we demonstrate these effects numerically, and also use an approximate
+diagonalization to show that these effects are expected from the model
+Hamiltonian.
+We augment the model to include loss effects, and show that loss enhances the
+excitation transfer effect by breaking the severe cancelation between different
+paths that occurs in the lossless case. We describe a simple approximate model
+wavefunction appropriate when the loss increases rapidly with energy. Within
+this model approximation, we present numerical and analytical results for
+excitation transfer and energy transfer rates, showing that they are greatly
+increased.
+Our study of these models is motivated in part by claims of excess heat
+production in electrochemical experiments in heavy water. We examine the
+question of whether the rates associated with this kind of model are
+sufficiently large to be relevant to the experimental claims. We find that
+consistency is possible given recent experimental results showing strong
+screening effects in low energy deuteron-deuteron fusion experiments in metals.

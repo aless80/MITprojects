@@ -1,0 +1,15 @@
+
+We present high precision photometry of Kepler-41, a giant planet in a 1.86
+day orbit around a G6V star that was recently confirmed through radial velocity
+measurements. We have developed a new method to confirm giant planets solely
+from the photometric light curve, and we apply this method herein to Kepler-41
+to establish the validity of this technique. We generate a full phase
+photometric model by including the primary and secondary transits, ellipsoidal
+variations, Doppler beaming and reflected/emitted light from the planet. Third
+light contamination scenarios that can mimic a planetary transit signal are
+simulated by injecting a full range of dilution values into the model, and we
+re-fit each diluted light curve model to the light curve. The resulting
+constraints on the maximum occultation depth and stellar density combined with
+stellar evolution models rules out stellar blends and provides a measurement of
+the planet's mass, size, and temperature. We expect about two dozen Kepler
+giant planets can be confirmed via this method.

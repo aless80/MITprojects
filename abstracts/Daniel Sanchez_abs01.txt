@@ -1,0 +1,18 @@
+
+Topological phases of matter exhibit phase transitions between distinct
+topological classes. These phase transitions are exotic in that they do not
+fall within the traditional Ginzburg-Landau paradigm but are instead associated
+with changes in bulk topological invariants and associated topological surface
+states. In the case of a Weyl semimetal this phase transition is particularly
+unusual because it involves the creation of bulk chiral charges and the
+nucleation of topological Fermi arcs. Here we image a topological phase
+transition to a Weyl semimetal in Mo$_x$W$_{1-x}$Te$_2$ with changing
+composition $x$. Using pump-probe ultrafast angle-resolved photoemission
+spectroscopy (pump-probe ARPES), we directly observe the nucleation of a
+topological Fermi arc at $x_c \sim 7\%$, showing the critical point of a
+topological Weyl phase transition. For Mo dopings $x < x_c$, we observe no
+Fermi arc, while for $x > x_c$, the Fermi arc gradually extends as the bulk
+Weyl points separate. Our results demonstrate for the first time the creation
+of magnetic monopoles in momentum space. Our work opens the way to manipulating
+chiral charge and topological Fermi arcs in Weyl semimetals for transport
+experiments and device applications.

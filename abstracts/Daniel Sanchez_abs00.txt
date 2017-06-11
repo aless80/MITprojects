@@ -1,0 +1,20 @@
+
+Engineered lattices in condensed matter physics, such as cold atom optical
+lattices or photonic crystals, can have fundamentally different properties from
+naturally-occurring electronic crystals. Here, we report a novel type of
+artificial quantum matter lattice. Our lattice is a multilayer heterostructure
+built from alternating thin films of topological and trivial insulators. Each
+interface within the heterostructure hosts a set of topologically-protected
+interface states, and by making the layers sufficiently thin, we demonstrate
+for the first time a hybridization of interface states across layers. In this
+way, our heterostructure forms an emergent atomic chain, where the interfaces
+act as lattice sites and the interface states act as atomic orbitals, as seen
+from our measurements by angle-resolved photoemission spectroscopy (ARPES). By
+changing the composition of the heterostructure, we can directly control
+hopping between lattice sites. We realize a topological and a trivial phase in
+our superlattice band structure. We argue that the superlattice may be
+characterized in a significant way by a one-dimensional topological invariant,
+closely related to the invariant of the Su-Schrieffer-Heeger model. Our
+topological insulator heterostructure demonstrates a novel experimental
+platform where we can engineer band structures by directly controlling how
+electrons hop between lattice sites.

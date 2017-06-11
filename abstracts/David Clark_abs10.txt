@@ -1,0 +1,16 @@
+
+Shock and release temperatures in Mo were calculated, taking account of
+heating from plastic flow predicted using the Steinberg-Guinan model. Plastic
+flow was calculated self-consistently with the shock jump conditions: this is
+necessary for a rigorous estimate of the locus of shock states accessible. The
+temperatures obtained were significantly higher than predicted assuming ideal
+hydrodynamic loading. The temperatures were compared with surface emission
+spectrometry measurements for Mo shocked to around 60GPa and then released into
+vacuum or into a LiF window. Shock loading was induced by the impact of a
+planar projectile, accelerated by high explosive or in a gas gun. Surface
+velocimetry showed an elastic wave at the start of release from the shocked
+state; the amplitude of the elastic wave matched the prediction to around 10%,
+indicating that the predicted flow stress in the shocked state was reasonable.
+The measured temperatures were consistent with the simulations, indicating that
+the fraction of plastic work converted to heat was in the range 70-100% for
+these loading conditions.

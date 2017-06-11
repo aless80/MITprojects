@@ -1,0 +1,15 @@
+
+We present a distributed proximal-gradient method for optimizing the average
+of convex functions, each of which is the private local objective of an agent
+in a network with time-varying topology. The local objectives have distinct
+differentiable components, but they share a common nondifferentiable component,
+which has a favorable structure suitable for effective computation of the
+proximal operator. In our method, each agent iteratively updates its estimate
+of the global minimum by optimizing its local objective function, and
+exchanging estimates with others via communication in the network. Using
+Nesterov-type acceleration techniques and multiple communication steps per
+iteration, we show that this method converges at the rate 1/k (where k is the
+number of communication rounds between the agents), which is faster than the
+convergence rate of the existing distributed methods for solving this problem.
+The superior convergence rate of our method is also verified by numerical
+experiments.

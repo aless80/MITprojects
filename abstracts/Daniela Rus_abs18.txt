@@ -1,0 +1,14 @@
+
+In this paper we present a method for automatically planning optimal paths
+for a group of robots that satisfy a common high level mission specification.
+Each robot's motion in the environment is modeled as a weighted transition
+system. The mission is given as a Linear Temporal Logic formula. In addition,
+an optimizing proposition must repeatedly be satisfied. The goal is to minimize
+the maximum time between satisfying instances of the optimizing proposition.
+Our method is guaranteed to compute an optimal set of robot paths. We utilize a
+timed automaton representation in order to capture the relative position of the
+robots in the environment. We then obtain a bisimulation of this timed
+automaton as a finite transition system that captures the joint behavior of the
+robots and apply our earlier algorithm for the single robot case to optimize
+the group motion. We present a simulation of a persistent monitoring task in a
+road network environment.

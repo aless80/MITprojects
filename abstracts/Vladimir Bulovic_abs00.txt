@@ -1,0 +1,23 @@
+
+Unique optical properties of colloidal semiconductor quantum dots (QDs),
+arising from quantum mechanical confinement of charge within these structures,
+present a versatile testbed for the study of how high electric fields affect
+the electronic structure of nanostructured solids. Earlier studies of quasi-DC
+electric field modulation of QD properties have been limited by the
+electrostatic breakdown processes under the high externally applied electric
+fields, which have restricted the range of modulation of QD properties. In
+contrast, in the present work we drive CdSe:CdS core:shell QD films with
+high-field THz-frequency electromagnetic pulses whose duration is only a few
+picoseconds. Surprisingly, in response to the THz excitation we observe QD
+luminescence even in the absence of an external charge source. Our experiments
+show that QD luminescence is associated with a remarkably high and rapid
+modulation of the QD band-gap, which is changing by more than 0.5 eV
+(corresponding to 25% of the unperturbed bandgap energy) within the picosecond
+timeframe of THz field profile. We show that these colossal energy shifts can
+be consistently explained by the quantum confined Stark effect. Our work
+demonstrates a route to extreme modulation of material properties without
+configurational changes in material sets or geometries. Additionally, we expect
+that this platform can be adapted to a novel compact THz detection scheme where
+conversion of THz fields (with meV-scale photon energies) to the
+visible/near-IR band (with eV-scale photon energies) can be achieved at room
+temperature with high bandwidth and sensitivity.

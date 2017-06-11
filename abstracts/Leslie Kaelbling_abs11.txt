@@ -1,0 +1,14 @@
+
+We describe a method for time-critical decision making involving sequential
+tasks and stochastic processes. The method employs several iterative refinement
+routines for solving different aspects of the decision making problem. This
+paper concentrates on the meta-level control problem of deliberation
+scheduling, allocating computational resources to these routines. We provide
+different models corresponding to optimization problems that capture the
+different circumstances and computational strategies for decision making under
+time constraints. We consider precursor models in which all decision making is
+performed prior to execution and recurrent models in which decision making is
+performed in parallel with execution, accounting for the states observed during
+execution and anticipating future states. We describe algorithms for precursor
+and recurrent models and provide the results of our empirical investigations to
+date.

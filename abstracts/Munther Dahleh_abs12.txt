@@ -1,0 +1,23 @@
+
+The primary concerns of this paper are twofold: to understand the economic
+value of storage in the presence of ramp constraints and exogenous electricity
+prices, and to understand the implications of the associated optimal storage
+management policy on qualitative and quantitative characteristics of storage
+response to real-time prices. We present an analytic characterization of the
+optimal policy, along with the associated finite-horizon time-averaged value of
+storage. We also derive an analytical upperbound on the infinite-horizon
+time-averaged value of storage. This bound is valid for any achievable
+realization of prices when the support of the distribution is fixed, and
+highlights the dependence of the value of storage on ramp constraints and
+storage capacity. While the value of storage is a non-decreasing function of
+price volatility, due to the finite ramp rate, the value of storage saturates
+quickly as the capacity increases, regardless of volatility. To study the
+implications of the optimal policy, we first present computational experiments
+that suggest that optimal utilization of storage can, in expectation, induce a
+considerable amount of price elasticity near the average price, but little or
+no elasticity far from it. We then present a computational framework for
+understanding the behavior of storage as a function of price and the amount of
+stored energy, and for characterization of the buy/sell phase transition region
+in the price-state plane. Finally, we study the impact of market-based
+operation of storage on the required reserves, and show that the reserves may
+need to be expanded to accommodate market-based storage.

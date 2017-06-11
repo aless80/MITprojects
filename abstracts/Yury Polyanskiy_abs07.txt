@@ -1,0 +1,13 @@
+
+We develop a new class of log-Sobolev inequalities (LSIs) that provide a
+non-linear comparison between the entropy and the Dirichlet form. For the
+hypercube, these LSIs imply a new version of the hypercontractivity for
+functions of small support. As a consequence, we derive a sharp form of the
+uncertainty principle for the hypercube: a function whose energy is
+concentrated on a set of small size, and whose Fourier energy is concentrated
+on a small Hamming ball must be zero. The tradeoff we derive is asymptotically
+optimal. We observe that for the Euclidean space, an analogous (asymptotically
+optimal) tradeoff follows from the sharp form of Young's inequality due to
+Beckner. As an application, we show how uncertainty principle implies a new
+estimate of the metric properties of linear maps
+$\mathbb{F}_2^k\to\mathbb{F}_2^n$.

@@ -1,0 +1,15 @@
+
+Overlap between Hartree-Fock-Bogoliubov(HFB) vacua is very important in the
+beyond mean-field calculations. However, in the HFB transformation, the $U,V$
+matrices are sometimes singular due to the exact emptiness ($v_i=0$) or full
+occupation ($u_i=0$) of some single-particle orbits. This singularity may cause
+some problem in evaluating the overlap between HFB vacua through Pfaffian. We
+found that this problem can be well avoided by setting those zero occupation
+numbers to some tiny values (e.g., $u_i,v_i=10^{-8}$). This treatment does not
+change the HFB vacuum state because $u_i^2,v_i^2=10^{-16}$ are numerically zero
+relative to 1. Therefore, for arbitrary HFB transformation, we say that the
+$U,V$ matrices can always be nonsingular. From this standpoint, we present a
+new convenient Pfaffian formula for the overlap between arbitrary HFB vacua,
+which is especially suitable for symmetry restoration. Testing calculations
+have been performed for this new formula. It turns out that our method is
+reliable and accurate in evaluating the overlap between arbitrary HFB vacua.

@@ -1,0 +1,17 @@
+
+We study the optimal pricing policy of a strategic monopolist selling durable
+goods in a dynamic pricing game with multiple rounds. Customers are
+forward-looking and experience a (positive) network externality, i.e., each
+customer's utility depends not only on her valuation of the item and the
+offered price, but also the weighted sum of the number of other customers who
+have purchased the item. The monopolist announces and commits to a price
+sequence and strategic buyers decide on when (if ever) to buy the good in a
+perfect Bayesian equilibrium. We fully characterize the optimal pricing policy
+and show that it is linearly increasing in time, where the slope of the price
+path is described by a single network measure: sum of the entries of the
+inverse of network externality matrix, termed network effects. Our result shows
+that increasing the number of rounds and network effects increases both revenue
+and social welfare. We also study the effect of price discrimination and
+establish that in the earlier rounds the price offered to more central buyers
+is lower. This is to encourage them to buy earlier which in turn increases the
+externality of other buyers and incentivize them to buy in subsequent rounds.

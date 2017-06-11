@@ -1,0 +1,11 @@
+
+We study coloring problems, which are induced subposets P of a Boolean
+lattice, paired with an order ideal I from the poset of intervals, ordered by
+inclusion. We study a quasisymmetric function associated to coloring problems,
+called the chromatic quasisymmetric function, generalizing Stanley's chromatic
+symmetric function of a graph. We show that the chromatic quasisymmetric
+function is an Ehrhart quasisymmetric function, and that a transformation of
+the chromatic quasisymmetric function gives a Hilbert polynomial. Finally, we
+introduce combinatorial Hopf monoids in pointed set species, and show that
+coloring problems form the terminal object in the category of combinatorial
+Hopf monoids.

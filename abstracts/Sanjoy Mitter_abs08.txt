@@ -1,0 +1,23 @@
+
+This is a three part paper.
+Optimality of source-channel separation for communication with a fidelity
+criterion when the channel is compound as defined by Csiszar and Korner in
+their book and general as defined by Verdu and Han, is proved in Part I. It is
+assumed that random codes are permitted. The word "universal" in the title of
+this paper refers to the fact that the channel model is compound. The proof
+uses a layered black-box or a layered input-output view-point. In particular,
+only the end-to-end description of the channel as being capable of
+communicating a source to within a certain distortion level is used when
+proving separation. This implies that the channel model does not play any role
+for separation to hold as long as there is a source model. Further implications
+of the layered black-box view-point are discussed.
+Optimality of source-medium separation for multi-user communication with
+fidelity criteria over a general, compound medium in the unicast setting is
+proved in Part II, thus generalizing Part I to the unicast, multi-user setting.
+Part III gets to an understanding of the question, "Why is a channel which is
+capable of communicating a source to within a certain distortion level, also
+capable of communicating bits at any rate less than the infimum of the rates
+needed to code the source to within the distortion level": this lies at the
+heart of why optimality of separation for communication with a fidelity
+criterion holds. The perspective taken to get to this understanding is a
+randomized covering-packing perspective, and the proof is operational.

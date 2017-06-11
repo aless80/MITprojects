@@ -1,0 +1,19 @@
+
+It is well known that unconditionally secure bit commitment is impossible
+even in the quantum world. In this paper a weak variant of quantum bit
+commitment, introduced independently by Aharonov et al. [STOC, 2000] and Hardy
+and Kent [Phys. Rev. Lett. 92 (2004)] is investigated. In this variant, the
+parties require some nonzero probability of detecting a cheating, i.e. if Bob,
+who commits a bit b to Alice, changes his mind during the revealing phase then
+Alice detects the cheating with a positive probability (we call this property
+binding); and if Alice gains information about the committed bit before the
+revealing phase then Bob discovers this with positive probability (sealing). In
+our paper we give quantum bit commitment scheme that is simultaneously binding
+and sealing and we show that if a cheating gives epsilon advantage to a
+malicious Alice then Bob can detect the cheating with a probability
+Omega(epsilon^2). If Bob cheats then Alice's probability of detecting the
+cheating is greater than some fixed constant lambda>0. This improves the
+probabilities of cheating detections shown by Hardy and Kent and the scheme by
+Aharonov et al. who presented a protocol that is either binding or sealing, but
+not simultaneously both. To construct a cheat sensitive quantum bit commitment
+scheme we use a protocol for a weak quantum one-out-of-two oblivious transfer.

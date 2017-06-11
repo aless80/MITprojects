@@ -1,0 +1,19 @@
+
+We carry out a delay stability analysis (i.e., determine conditions under
+which expected steady-state delays at a queue are finite) for a simple 3-queue
+system operated under the Max-Weight scheduling policy, for the case where one
+of the queues is fed by heavy-tailed traffic (i.e, when the number of arrivals
+at each time slot has infinite second moment). This particular system
+exemplifies an intricate phenomenon whereby heavy-tailed traffic at one queue
+may or may not result in the delay instability of another queue, depending on
+the arrival rates.
+While the ordinary stability region (in the sense of convergence to a
+steady-state distribution) is straightforward to determine, the determination
+of the delay stability region is more involved: (i) we use "fluid-type" sample
+path arguments, combined with renewal theory, to prove delay instability
+outside a certain region; (ii) we use a piecewise linear Lyapunov function to
+prove delay stability in the interior of that same region; (iii) as an
+intermediate step in establishing delay stability, we show that the expected
+workload of a stable M/GI/1 queue scales with time as
+$\mathcal{O}(t^{1/(1+\gamma)})$, assuming that service times have a finite
+$1+\gamma$ moment, where $\gamma \in (0,1)$.

@@ -1,0 +1,15 @@
+
+Graph analytics is becoming increasingly popular, with a deluge of new
+systems for graph analytics having been proposed in the past few years. These
+systems often start from the assumption that a new storage or query processing
+system is needed, in spite of graph data being often collected and stored in a
+relational database in the first place. In this paper, we study Vertica
+relational database as a platform for graph analytics. We show that
+vertex-centric graph analysis can be translated to SQL queries, typically
+involving table scans and joins, and that modern column-oriented databases are
+very well suited to running such queries. Specifically, we present an
+experimental evaluation of the Vertica relational database system on a variety
+of graph analytics, including iterative analysis, a combination of graph and
+relational analyses, and more complex 1- hop neighborhood graph analytics,
+showing that it is competitive to two popular vertex-centric graph analytics
+systems, namely Giraph and GraphLab.

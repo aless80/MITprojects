@@ -1,0 +1,9 @@
+
+We developed an electro thermal model of NbN superconducting nanowire
+avalanche photodetectors (SNAPs) on sapphire substrates. SNAPs are single
+photon detectors consisting of the parallel connection of N superconducting
+nanowires. We extrapolated the physical constants of the model from
+experimental data and we simulated the time evolution of the device resistance,
+temperature and current by solving two coupled electrical and thermal
+differential equations describing the nanowires. The predictions of the model
+were in good quantitative agreement with the experimental results.

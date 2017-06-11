@@ -1,0 +1,14 @@
+
+The recent discovery of the first Weyl semimetal in TaAs provides the first
+observation of a Weyl fermion in nature and demonstrates a novel type of
+anomalous surface state, the Fermi arc. Like topological insulators, the bulk
+topological invariants of a Weyl semimetal are uniquely fixed by the surface
+states of a bulk sample. Here, we present a set of distinct conditions,
+accessible by angle-resolved photoemission spectroscopy (ARPES), each of which
+demonstrates topological Fermi arcs in a surface state band structure, with
+minimal reliance on calculation. We apply these results to TaAs and NbP. For
+the first time, we rigorously demonstrate a non-zero Chern number in TaAs by
+counting chiral edge modes on a closed loop. We further show that it is
+unreasonable to directly observe Fermi arcs in NbP by ARPES within available
+experimental resolution and spectral linewidth. Our results are general and
+apply to any new material to demonstrate a Weyl semimetal.

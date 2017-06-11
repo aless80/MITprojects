@@ -1,0 +1,12 @@
+
+We implement dynamical decoupling techniques to mitigate noise and enhance
+the lifetime of an entangled state that is formed in a superconducting flux
+qubit coupled to a microscopic two-level system. By rapidly changing the
+qubit's transition frequency relative to the two-level system, we realize a
+refocusing pulse that reduces dephasing due to fluctuations in the transition
+frequencies, thereby improving the coherence time of the entangled state. The
+coupling coherence is further enhanced when applying multiple refocusing
+pulses, in agreement with our $1/f$ noise model. The results are applicable to
+any two-qubit system with transverse coupling, and they highlight the potential
+of decoupling techniques for improving two-qubit gate fidelities, an essential
+prerequisite for implementing fault-tolerant quantum computing.

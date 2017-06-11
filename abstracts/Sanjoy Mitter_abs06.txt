@@ -1,0 +1,14 @@
+
+In this theoretical study, we determine the maximum amount of work
+extractable in finite time by a demon performing continuous measurements on a
+quadratic Hamiltonian system subjected to thermal fluctuations, in terms of the
+information extracted from the system. This is in contrast to many recent
+studies that focus on demons' maximizing the extracted work over received
+information, and operate close to equilibrium. The maximum work demon is found
+to apply a high-gain continuous feedback using a Kalman-Bucy estimate of the
+system state. A simple and concrete electrical implementation of the feedback
+protocol is proposed, which allows for analytic expressions of the flows of
+energy and entropy inside the demon. This let us show that any implementation
+of the demon must necessarily include an external power source, which we prove
+both from classical thermodynamics arguments and from a version of Landauer's
+memory erasure argument extended to non-equilibrium linear systems.

@@ -1,0 +1,12 @@
+
+A person's weight status can have profound implications on their life,
+ranging from mental health, to longevity, to financial income. At the societal
+level, "fat shaming" and other forms of "sizeism" are a growing concern, while
+increasing obesity rates are linked to ever raising healthcare costs. For these
+reasons, researchers from a variety of backgrounds are interested in studying
+obesity from all angles. To obtain data, traditionally, a person would have to
+accurately self-report their body-mass index (BMI) or would have to see a
+doctor to have it measured. In this paper, we show how computer vision can be
+used to infer a person's BMI from social media images. We hope that our tool,
+which we release, helps to advance the study of social aspects related to body
+weight.

@@ -1,0 +1,15 @@
+
+Noisy PN learning is the problem of binary classification when training
+examples may be mislabeled (flipped) uniformly with noise rate rho1 for
+positive examples and rho0 for negative examples. We propose Rank Pruning (RP)
+to solve noisy PN learning and the open problem of estimating the noise rates.
+Unlike prior solutions, RP is efficient and general, requiring O(T) for any
+unrestricted choice of probabilistic classifier with T fitting time. We prove
+RP achieves consistent noise estimation and equivalent empirical risk as
+learning with uncorrupted labels in ideal conditions, and derive closed-form
+solutions when conditions are non-ideal. RP achieves state-of-the-art noise
+rate estimation and F1, error, and AUC-PR on the MNIST and CIFAR datasets,
+regardless of noise rates. To highlight, RP with a CNN classifier can predict
+if a MNIST digit is a "1" or "not 1" with only 0.25% error, and 0.46% error
+across all digits, even when 50% of positive examples are mislabeled and 50% of
+observed positive labels are mislabeled negative examples.

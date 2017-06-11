@@ -1,0 +1,17 @@
+
+In this paper, we propose a new lower approximation scheme for POMDP with
+discounted and average cost criterion. The approximating functions are
+determined by their values at a finite number of belief points, and can be
+computed efficiently using value iteration algorithms for finite-state MDP.
+While for discounted problems several lower approximation schemes have been
+proposed earlier, ours seems the first of its kind for average cost problems.
+We focus primarily on the average cost case, and we show that the corresponding
+approximation can be computed efficiently using multi-chain algorithms for
+finite-state MDP. We give a preliminary analysis showing that regardless of the
+existence of the optimal average cost J in the POMDP, the approximation
+obtained is a lower bound of the liminf optimal average cost function, and can
+also be used to calculate an upper bound on the limsup optimal average cost
+function, as well as bounds on the cost of executing the stationary policy
+associated with the approximation. Weshow the convergence of the cost
+approximation, when the optimal average cost is constant and the optimal
+differential cost is continuous.

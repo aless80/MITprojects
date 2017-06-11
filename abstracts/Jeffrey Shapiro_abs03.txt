@@ -1,0 +1,17 @@
+
+Quantum illumination (QI) provides entanglement-based target detection---in
+an entanglement-breaking environment---whose performance is significantly
+better than that of optimum classical-illumination target detection. QI's
+performance advantage was established in a Bayesian setting with the target
+presumed equally likely to be absent or present and error probability employed
+as the performance metric. Radar theory, however, eschews that Bayesian
+approach, preferring the Neyman-Pearson performance criterion to avoid the
+difficulties of accurately assigning prior probabilities to target absence and
+presence and appropriate costs to false-alarm and miss errors. We have recently
+reported an architecture---based on sum-frequency generation (SFG) and
+feedforward (FF) processing---for minimum error-probability QI target detection
+with arbitrary prior probabilities for target absence and presence. In this
+paper, we use our results for FF-SFG reception to determine the receiver
+operating characteristic---detection probability versus false-alarm
+probability---for optimum QI target detection under the Neyman-Pearson
+criterion.

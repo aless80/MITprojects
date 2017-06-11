@@ -1,0 +1,21 @@
+
+In this paper, we are concerned with the resilience of locally routed network
+flows with finite link capacities. In this setting, an external inflow is
+injected to the so-called origin nodes. The total inflow arriving at each node
+is routed locally such that none of the outgoing links are overloaded unless
+the node receives an inflow greater than its total outgoing capacity. A link
+irreversibly fails if it is overloaded or if there is no operational link in
+its immediate downstream to carry its flow. For such systems, resilience is
+defined as the minimum amount of reduction in the link capacities that would
+result in the failure of all the outgoing links of an origin node. We show that
+such networks do not necessarily become more resilient as additional capacity
+is built in the network. Moreover, when the external inflow does not exceed the
+network capacity, selective reductions of capacity at certain links can
+actually help averting the cascading failures, without requiring any change in
+the local routing policies. This is an attractive feature as it is often easier
+in practice to reduce the available capacity of some critical links than to add
+physical capacity or to alter routing policies, e.g., when such policies are
+determined by social behavior, as in the case of road traffic networks. The
+results can thus be used for real-time monitoring of distance-to-failure in
+such networks and devising a feasible course of actions to avert systemic
+failures.

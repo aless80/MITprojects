@@ -1,0 +1,15 @@
+
+The capacity of a graph is defined as the rate of exponential growth of
+independent sets in the strong powers of the graph. In the strong power an edge
+connects two sequences if at each position their letters are equal or adjacent.
+We consider a variation of the problem where edges in the power graphs are
+removed between sequences which differ in more than a fraction $\delta$ of
+coordinates. The proposed generalization can be interpreted as the problem of
+determining the highest rate of zero undetected-error communication over a link
+with adversarial noise, where only a fraction $\delta$ of symbols can be
+perturbed and only some substitutions are allowed.
+We derive lower bounds on achievable rates by combining graph homomorphisms
+with a graph-theoretic generalization of the Gilbert-Varshamov bound. We then
+give an upper bound, based on Delsarte's linear programming approach, which
+combines Lov\'asz' theta function with the construction used by McEliece et al.
+for bounding the minimum distance of codes in Hamming spaces.

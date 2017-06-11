@@ -1,0 +1,20 @@
+
+We study a convex resource allocation problem in which lower and upper bounds
+are imposed on partial sums of allocations. This model is linked to a large
+range of applications, including production planning, speed optimization,
+stratified sampling, support vector machines, portfolio management, and
+telecommunications. We propose an efficient gradient-free divide-and-conquer
+algorithm, which uses monotonicity arguments to generate valid bounds from the
+recursive calls, and eliminate linking constraints based on the information
+from sub-problems. This algorithm does not need strict convexity or
+differentiability. It produces an $\epsilon$-approximate solution for the
+continuous version of the problem in $\mathcal{O}(n \log m \log \frac{n
+B}{\epsilon})$ operations and an integer solution in $\mathcal{O}(n \log m \log
+B)$, where $n$ is the number of decision variables, $m$ is the number of
+constraints, and $B$ is the resource bound. A complexity of $\mathcal{O}(n \log
+m)$ is also achieved for the linear and quadratic cases. These are the best
+complexities known to date for this important problem class. Our experimental
+analyses confirm the practical performance of the method, which produces
+optimal solutions for problems with up to 1,000,000 variables in a few seconds.
+Promising applications to the support vector ordinal regression problem are
+also investigated.

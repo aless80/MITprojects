@@ -1,0 +1,27 @@
+
+We consider and formulate a class of distributed multi-depot routing
+problems, where servers are to visit a set of requests, with the aim of
+minimizing the total distance travelled by all servers. These problems fall
+into two categories: distributed offline routing problems where all the
+requests that need to be visited are known from the start; distributed online
+routing problems where the requests come to be known incrementally. A critical
+and novel feature of our formulations is that communications are not allowed
+among the servers, hence posing an interesting and challenging question: what
+performance can be achieved in comparison to the best possible solution
+obtained from an omniscience planner with perfect communication capabilities?
+The worst-case (over all possible request-set instances) performance metrics
+are given by the approximation ratio (offline case) and the competitive ratio
+(online case).
+Our first result indicates that the online and offline problems are
+effectively equivalent: for the same request-set instance, the approximation
+ratio and the competitive ratio differ by at most an additive factor of 2,
+irrespective of the release dates in the online case. Therefore, we can
+restrict our attention to the offline problem. For the offline problem, we show
+that the approximation ratio given by the Voronoi partition is m (the number of
+servers). For two classes of depot configurations, when the depots form a line
+and when the ratios between the distances of pairs of depots are upper bounded
+by a sublinear function f(m) (i.e., f(m) = o(m)), we give partition schemes
+with sublinear approximation ratios O(log m) and {\Theta}(f(m)) respectively.
+We also discuss several interesting open problems in our formulations: in
+particular, how our initial results (on the two deliberately chosen classes of
+depots) shape our conjecture on the open problems.

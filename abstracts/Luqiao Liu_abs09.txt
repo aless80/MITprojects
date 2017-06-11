@@ -1,0 +1,15 @@
+
+The spin Hall effect (SHE) generates spin currents within nonmagnetic
+materials. Previously, studies of the SHE have been motivated primarily to
+understand its fundamental origin and magnitude. Here we demonstrate, using
+measurement and modeling, that in a Pt/Co bilayer with perpendicular magnetic
+anisotropy the SHE can produce a spin transfer torque that is strong enough to
+efficiently rotate and reversibly switch the Co magnetization, thereby
+providing a new strategy both to understand the SHE and to manipulate magnets.
+We suggest that the SHE torque can have a similarly strong influence on
+current-driven magnetic domain wall motion in Pt/ferromagnet multilayers. We
+estimate that in optimized devices the SHE torque can switch magnetic moments
+using currents comparable to those in magnetic tunnel junctions operated by
+conventional spin-torque switching, meaning that the SHE can enable magnetic
+memory and logic devices with similar performance but simpler architecture than
+the current state of the art.

@@ -1,0 +1,24 @@
+
+In Bayesian analysis, the posterior follows from the data and a choice of a
+prior and a likelihood. One hopes that the posterior is robust to reasonable
+variation in the choice of prior and likelihood, since this choice is made by
+the modeler and is necessarily somewhat subjective. Despite the fundamental
+importance of the problem and a considerable body of literature, the tools of
+robust Bayes are not commonly used in practice. This is in large part due to
+the difficulty of calculating robustness measures from MCMC draws. Although
+methods for computing robustness measures from MCMC draws exist, they lack
+generality and often require additional coding or computation.
+In contrast to MCMC, variational Bayes (VB) techniques are readily amenable
+to robustness analysis. The derivative of a posterior expectation with respect
+to a prior or data perturbation is a measure of local robustness to the prior
+or likelihood. Because VB casts posterior inference as an optimization problem,
+its methodology is built on the ability to calculate derivatives of posterior
+quantities with respect to model parameters, even in very complex models. In
+the present work, we develop local prior robustness measures for mean-field
+variational Bayes(MFVB), a VB technique which imposes a particular
+factorization assumption on the variational posterior approximation. We start
+by outlining existing local prior measures of robustness. Next, we use these
+results to derive closed-form measures of the sensitivity of mean-field
+variational posterior approximation to prior specification. We demonstrate our
+method on a meta-analysis of randomized controlled interventions in access to
+microcredit in developing countries.

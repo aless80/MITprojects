@@ -1,0 +1,14 @@
+
+We present analytical and numerical studies of pinned superconducting states
+of open-ended Josephson ladder arrays, neglecting inductances but taking edge
+effects into account. Treating the edge effects perturbatively, we find
+analytical approximations for three of these superconducting states -- the
+no-vortex, fully-frustrated and single-vortex states -- as functions of the dc
+bias current $I$ and the frustration $f$. Bifurcation theory is used to derive
+formulas for the depinning currents and critical frustrations at which the
+superconducting states disappear or lose dynamical stability as $I$ and $f$ are
+varied. These results are combined to yield a zero-temperature stability
+diagram of the system with respect to $I$ and $f$. To highlight the effects of
+the edges, we compare this dynamical stability diagram to the thermodynamic
+phase diagram for the infinite system where edges have been neglected. We
+briefly indicate how to extend our methods to include self-inductances.

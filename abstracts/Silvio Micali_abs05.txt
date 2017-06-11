@@ -1,0 +1,10 @@
+
+We consider auctions in which the players have very limited knowledge about
+their own valuations. Specifically, the only information that a Knightian
+player $i$ has about the profile of true valuations, $\theta^*$, consists of a
+set of distributions, from one of which $\theta_i^*$ has been drawn.
+We analyze the social-welfare performance of the VCG mechanism, for
+unrestricted combinatorial auctions, when Knightian players that either (a)
+choose a regret-minimizing strategy, or (b) resort to regret minimization only
+to refine further their own sets of undominated strategies, if needed. We prove
+that this performance is very good.

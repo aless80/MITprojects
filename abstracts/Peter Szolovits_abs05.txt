@@ -1,0 +1,8 @@
+
+We use autoencoders to create low-dimensional embeddings of underlying
+patient phenotypes that we hypothesize are a governing factor in determining
+how different patients will react to different interventions. We compare the
+performance of autoencoders that take fixed length sequences of concatenated
+timesteps as input with a recurrent sequence-to-sequence autoencoder. We
+evaluate our methods on around 35,500 patients from the latest MIMIC III
+dataset from Beth Israel Deaconess Hospital.

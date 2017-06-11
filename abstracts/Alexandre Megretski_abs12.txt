@@ -1,0 +1,13 @@
+
+The paper deals with the task of optimal design of Analog to Digital
+Converters (ADCs). A general ADC is modeled as a causal discrete-time dynamical
+system with outputs taking values in a finite set, and its performance is
+defined as the worst-case average intensity of the filtered input matching
+error. The design task can be viewed as that of optimal quantized decision
+making in a system, with the objective being to optimize the performance
+measure. An algorithm is proposed for designing optimal ADCs and certifying
+their optimality. The algorithm is based on exploiting a special structure in
+the underlying dynamic program, which makes it possible to find the optimal
+value function, and hence the optimal quantization law exactly and
+analytically. Moreover, the designed ADC is shown to have the classical
+Delta-Sigma Modulator (DSM) structure with optimal quantization step spacing.

@@ -1,0 +1,8 @@
+
+We describe an algorithm for distinguishing hyperbolic components in the
+parameter space of quadratic rational maps with a periodic critical point. We
+then illustrate computer images of the hyperbolic components of the parameter
+spaces V1 - V4, which were produced using our algorithm. We also resolve the
+singularities of the projective closure of V5 by blowups, giving an alternative
+proof that as an algebraic curve, the geometric genus of V5 is 1. This explains
+why we are unable to produce an image for V5.

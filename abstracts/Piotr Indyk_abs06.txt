@@ -1,0 +1,23 @@
+
+We consider the classic Set Cover problem in the data stream model. For $n$
+elements and $m$ sets ($m\geq n$) we give a $O(1/\delta)$-pass algorithm with a
+strongly sub-linear $\tilde{O}(mn^{\delta})$ space and logarithmic
+approximation factor. This yields a significant improvement over the earlier
+algorithm of Demaine et al. [DIMV14] that uses exponentially larger number of
+passes. We complement this result by showing that the tradeoff between the
+number of passes and space exhibited by our algorithm is tight, at least when
+the approximation factor is equal to $1$. Specifically, we show that any
+algorithm that computes set cover exactly using $({1 \over 2\delta}-1)$ passes
+must use $\tilde{\Omega}(mn^{\delta})$ space in the regime of $m=O(n)$.
+Furthermore, we consider the problem in the geometric setting where the
+elements are points in $\mathbb{R}^2$ and sets are either discs, axis-parallel
+rectangles, or fat triangles in the plane, and show that our algorithm (with a
+slight modification) uses the optimal $\tilde{O}(n)$ space to find a
+logarithmic approximation in $O(1/\delta)$ passes.
+Finally, we show that any randomized one-pass algorithm that distinguishes
+between covers of size 2 and 3 must use a linear (i.e., $\Omega(mn)$) amount of
+space. This is the first result showing that a randomized, approximate
+algorithm cannot achieve a space bound that is sublinear in the input size.
+This indicates that using multiple passes might be necessary in order to
+achieve sub-linear space bounds for this problem while guaranteeing small
+approximation factors.

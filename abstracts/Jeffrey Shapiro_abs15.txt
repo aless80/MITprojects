@@ -1,0 +1,9 @@
+
+We determine the ultimate classical information capacity of a linear
+time-invariant bosonic channel with additive phase-insensitive Gaussian noise.
+This channel can model fiber-optic communication at power levels below the
+threshold for significant nonlinear effects. We provide a general
+continuous-time result that gives the ultimate capacity for such a channel
+operating in the quasimonochromatic regime under an average power constraint.
+This ultimate capacity is compared with corresponding results for heterodyne
+and homodyne detection over the same channel.

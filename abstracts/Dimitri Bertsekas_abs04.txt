@@ -1,0 +1,27 @@
+
+We consider minimization of the sum of a large number of convex functions,
+and we propose an incremental aggregated version of the proximal algorithm,
+which bears similarity to the incremental aggregated gradient and subgradient
+methods that have received a lot of recent attention. Under cost function
+differentiability and strong convexity assumptions, we show linear convergence
+for a sufficiently small constant stepsize. This result also applies to
+distributed asynchronous variants of the method, involving bounded
+interprocessor communication delays.
+We then consider dual versions of incremental proximal algorithms, which are
+incremental augmented Lagrangian methods for separable equality-constrained
+optimization problems. Contrary to the standard augmented Lagrangian method,
+these methods admit decomposition in the minimization of the augmented
+Lagrangian, and update the multipliers far more frequently. Our incremental
+aggregated augmented Lagrangian methods bear similarity to several known
+decomposition algorithms, including the alternating direction method of
+multipliers (ADMM) and more recent variations. We compare these methods in
+terms of their properties, and highlight their potential advantages and
+limitations.
+We also address the solution of separable inequality-constrained optimization
+problems through the use of nonquadratic augmented Lagrangiias such as the
+exponential, and we dually consider a corresponding incremental aggregated
+version of the proximal algorithm that uses nonquadratic regularization, such
+as an entropy function. We finally propose a closely related linearly
+convergent method for minimization of large differentiable sums subject to an
+orthant constraint, which may be viewed as an incremental aggregated version of
+the mirror descent method.

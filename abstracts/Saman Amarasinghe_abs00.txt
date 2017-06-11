@@ -1,0 +1,19 @@
+
+Modern hardware systems are heavily underutilized when running large-scale
+graph applications. While many in-memory graph frameworks have made substantial
+progress in optimizing these applications, we show that it is still possible to
+achieve up to 4 $\times$ speedups over the fastest frameworks by greatly
+improving cache utilization. Previous systems have applied out-of-core
+processing techniques from the memory/disk boundary to the cache/DRAM boundary.
+However, we find that blindly applying such techniques is ineffective because
+of the much smaller performance gap between DRAM and cache. We present two
+techniques that take advantage of the cache with minimal or no instruction
+overhead. The first, frequency based clustering, groups together frequently
+accessed vertices to improve the utilization of each cache line with no runtime
+overhead. The second, CSR segmenting, partitions the graph to restrict all
+random accesses to the cache, makes all DRAM access sequential, and merges
+partition results using a very low overhead cache-aware merge. Both techniques
+can be easily implemented on top of optimized graph frameworks. Our techniques
+combined give speedups of up to 4 $\times$ for PageRank, Label Propagation and
+Collaborative Filtering, and 2 $\times$ for Betweenness Centrality over the
+best published results

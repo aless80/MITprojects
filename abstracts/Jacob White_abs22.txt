@@ -1,0 +1,12 @@
+
+In this paper, we study $k$-parabolic arrangements, a generalization of
+$k$-equal arrangements for finite real reflection groups. When $k=2$, these
+arrangements correspond to the well-studied Coxeter arrangements. Brieskorn
+(1971) showed that the fundamental group of the complement, over $\mathbb{C}$,
+of the type $W$ Coxeter arrangement is isomorphic to the pure Artin group of
+type $W$. Khovanov (1996) gave an algebraic description for the fundamental
+group of the complement, over $\mathbb{R}$, of the 3-equal arrangement. We
+generalize Khovanov's result to obtain an algebraic description of the
+fundamental groups of the complements of 3-parabolic arrangements for arbitrary
+finite reflection groups. Our description is a real analogue to Brieskorn's
+description.

@@ -1,0 +1,12 @@
+
+In the first part of the paper, we present an (1+\mu)-approximation algorithm
+to the minimum-spanning tree of points in a planar arrangement of lines, where
+the metric is the number of crossings between the spanning tree and the lines.
+The expected running time is O((n/\mu^5) alpha^3(n) log^5 n), where \mu > 0 is
+a prescribed constant.
+In the second part of our paper, we show how to embed such a crossing metric,
+into high-dimensions, so that the distances are preserved. As a result, we can
+deploy a large collection of subquadratic approximations algorithms \cite
+im-anntr-98,giv-rahdg-99 for problems involving points with the crossing metric
+as a distance function. Applications include matching, clustering,
+nearest-neighbor, and furthest-neighbor.

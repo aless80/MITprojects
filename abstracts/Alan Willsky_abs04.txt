@@ -1,0 +1,4 @@
+
+Rejoinder to "Latent variable graphical model selection via convex
+optimization" by Venkat Chandrasekaran, Pablo A. Parrilo and Alan S. Willsky
+[arXiv:1008.1290].

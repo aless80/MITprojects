@@ -1,0 +1,7 @@
+
+How can complexity theory and algorithms benefit from practical advances in
+computing? We give a short overview of some prior work using practical
+computing to attack problems in computational complexity and algorithms,
+informally describe how linear program solvers may be used to help prove new
+lower bounds for satisfiability, and suggest a research program for developing
+new understanding in circuit complexity.

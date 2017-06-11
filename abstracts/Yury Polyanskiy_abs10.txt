@@ -1,0 +1,23 @@
+
+The data-processing inequality, that is, $I(U;Y) \le I(U;X)$ for a Markov
+chain $U \to X \to Y$, has been the method of choice for proving impossibility
+(converse) results in information theory and many other disciplines. Various
+channel-dependent improvements (called strong data-processing inequalities, or
+SDPIs) of this inequality have been proposed both classically and more
+recently. In this note we first survey known results relating various notions
+of contraction for a single channel. Then we consider the basic extension:
+given SDPI for each constituent channel in a Bayesian network, how to produce
+an end-to-end SDPI?
+Our approach is based on the (extract of the) Evans-Schulman method, which is
+demonstrated for three different kinds of SDPIs, namely, the usual
+Ahslwede-G\'acs type contraction coefficients (mutual information), Dobrushin's
+contraction coefficients (total variation), and finally the $F_I$-curve (the
+best possible non-linear SDPI for a given channel). Resulting bounds on the
+contraction coefficients are interpreted as probability of site percolation. As
+an example, we demonstrate how to obtain SDPI for an $n$-letter memoryless
+channel with feedback given an SDPI for $n=1$.
+Finally, we discuss a simple observation on the equivalence of a linear SDPI
+and comparison to an erasure channel (in the sense of "less noisy" order). This
+leads to a simple proof of a curious inequality of Samorodnitsky (2015), and
+sheds light on how information spreads in the subsets of inputs of a memoryless
+channel.

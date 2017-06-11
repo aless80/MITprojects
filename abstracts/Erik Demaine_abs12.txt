@@ -1,0 +1,11 @@
+
+Modeling folding surfaces with nonzero thickness is of practical interest for
+mechanical engineering. There are many existing approaches that account for
+material thickness in folding applications. We propose a new systematic and
+broadly applicable algorithm to transform certain flat-foldable crease patterns
+into new crease patterns with similar folded structure but with a
+facet-separated folded state. We provide conditions on input crease patterns
+for the algorithm to produce a thickened crease pattern avoiding local self
+intersection, and provide bounds for the maximum thickness that the algorithm
+can produce for a given input. We demonstrate these results in parameterized
+numerical simulations and physical models.

@@ -1,0 +1,19 @@
+
+Fast surface integral equation (SIE) solvers seem to be ideal approaches for
+simulating 3-D nanophotonic devices, as these devices generate fields both in
+an interior channel and in the infinite exterior domain. However, many devices
+of interest, such as optical couplers, have channels that can not be terminated
+without generating reflections. Generating absorbers for these channels is a
+new problem for SIE methods, as the methods were initially developed for
+problems with finite surfaces. In this paper we show that the obvious approach
+for eliminating reflections, making the channel mildly conductive outside the
+domain of interest, is inaccurate. We describe a new method, in which the
+absorber has a gradually increasing surface conductivity; such an absorber can
+be easily incorporated in fast integral equation solvers. Numerical experiments
+from a surface-conductivity modified FFT-accelerated PMCHW-based solver are
+correlated with analytic results, demonstrating that this new method is orders
+of magnitude more effective than a volume absorber, and that the smoothness of
+the surface conductivity function determines the performance of the absorber.
+In particular, we show that the magnitude of the transition reflection is
+proportional to 1/L^(2d+2), where L is the absorber length and d is the order
+of the differentiability of the surface conductivity function.

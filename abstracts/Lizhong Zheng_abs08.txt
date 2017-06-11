@@ -1,0 +1,9 @@
+
+A new approach toward the noncoherent communications over the time varying
+fading channels is presented. In this approach, the relationship between the
+input signal space and the output signal space of a correlatively changing
+fading channel is shown to be a nonlinear mapping between manifolds of
+different dimensions. Studying this mapping, it is shown that using nonlinear
+decoding algorithms for single input-multiple output (SIMO) and multiple input
+multiple output (MIMO) systems, extra numbers of degrees of freedom (DOF) are
+available. We call them the nonlinear degrees of freedom.

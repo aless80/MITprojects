@@ -1,0 +1,26 @@
+
+Motivation: Modeling biological signaling networks using ordinary
+differential equations (ODEs) has proven to be a powerful technique for
+generating insight into cellular dynamics, but it typically requires estimating
+rate parameters based on experimentally observed concentrations. New
+measurement methods can measure concentrations for all molecular species in a
+pathway, which creates a new opportunity to decompose the optimization of rate
+parameters. Results: In contrast with conventional methods that minimize the
+disagreement between simulated and observed concentrations, the BPPE method
+fits a spline curve through the observed concentration points, and then matches
+the derivatives of the spline-curve to the production and consumption of each
+species. Whereas traditional methods follow the ODEs exactly and then attempt
+to match the data, BPPE follows the data exactly and then attempts to match the
+ODEs. The new objective function is an extreme decomposition of the problem
+because each factor in the function is enforcing the equality of one ODE at one
+timeslice. A "loopy belief propagation" algorithm solves this factorized
+approximation of the parameter estimation problem providing systematic coverage
+of the search space and unique asymptotic behavior; the run time is polynomial
+in the number of molecules and timepoints, but exponential in the degree of the
+biochemical network. The implementation is a global-local hybrid optimization,
+and we compare with the performance of local, global, and hybrid methods. BPPE
+is demonstrated for a novel model of Akt activation dynamics including
+redox-mediated inactivation of PTEN. Availability: Software and supplementary
+information are available at this http URL .
+Contact: LisaTK@nus.edu.sg . Keywords: probabilistic graphical models,
+physico-chemical modeling, systems biology, signal transduction.

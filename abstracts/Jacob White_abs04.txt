@@ -1,0 +1,14 @@
+
+We consider the solution of linear saddle-point problems, using the
+alternating direction method-of-multipliers (ADMM) as a preconditioner for the
+generalized minimum residual method (GMRES). We show, using theoretical bounds
+and empirical results, that ADMM is made remarkably insensitive to the
+parameter choice with Krylov subspace acceleration. We prove that ADMM-GMRES
+can consistently converge, irrespective of the exact parameter choice, to an
+$\epsilon$-accurate solution of a $\kappa$-conditioned problem in
+$O(\kappa^{2/3}\log\epsilon^{-1})$ iterations. The accelerated method is
+applied to randomly generated problems, as well as the Newton direction
+computation for the interior-point solution of semidefinite programs in the
+SDPLIB test suite. The empirical results confirm this parameter insensitivity,
+and suggest a slightly improved iteration bound of
+$O(\sqrt{\kappa}\log\epsilon^{-1})$.

@@ -1,0 +1,11 @@
+
+We combine quasiparticle interference simulation (theory) and atomic
+resolution scanning tunneling spectro-microscopy (experiment) to visualize the
+interference patterns on a type-II Weyl semimetal Mo$_{x}$W$_{1-x}$Te$_2$ for
+the first time. Our simulation based on first-principles band topology
+theoretically reveals the surface electron scattering behavior. We identify the
+topological Fermi arc states and reveal the scattering properties of the
+surface states in Mo$_{0.66}$W$_{0.34}$Te$_2$. In addition, our result reveals
+an experimental signature of the topology via the interconnectivity of bulk and
+surface states, which is essential for understanding the unusual nature of this
+material.

@@ -1,0 +1,20 @@
+
+Given a Hermitian operator $\hat{H}=\langle G|\hat{U}|G\rangle$ that is the
+projection of an oracle $\hat{U}$ by state $|G\rangle$ created with oracle
+$\hat{G}$, the problem of Hamiltonian simulation is approximating the time
+evolution operator $e^{-i\hat{H}t}$ at time $t$ with error $\epsilon$. We show
+that this can be done with query complexity
+$\mathcal{O}\big(t+\frac{\log{(1/\epsilon)}}{\log\log{(1/\epsilon)}}\big)$ to
+$\hat{G},\hat{U}$ that is optimal, not just in asymptotic limits, but for all
+values $t,\epsilon$. Furthermore, only $2$ additional ancilla qubits are
+required in total, together with $\mathcal{O}(1)$ additional single and
+two-qubit gates per query. Our approach to Hamiltonian simulation subsumes
+important prior art considering Hamiltonians which are $d$-sparse or a linear
+combination of unitaries, leading to significant improvements in space
+complexity, as well as a quadratic speed-up for precision simulations. It also
+motivates useful new instances, such as where $\langle G|\hat{U}|G\rangle$ is a
+density matrix. A key technical result is `qubitization' which uses
+controlled-$\hat{U}$ and controlled-$\hat{G}$ to embed $\hat{H}$ in an
+invariant $\text{SU}(2)$ subspace. A large class of operator functions of
+$\hat{H}$ can then be computed with optimal query complexity, of which
+$e^{-i\hat{H}t}$ is a special case.

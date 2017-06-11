@@ -1,0 +1,13 @@
+
+Dynamical error suppression techniques are commonly used to improve coherence
+in quantum systems. They reduce dephasing errors by applying control pulses
+designed to reverse erroneous coherent evolution driven by environmental noise.
+However, such methods cannot correct for irreversible processes such as energy
+relaxation. In this work, we investigate a complementary, stochastic approach
+to reducing errors: instead of deterministically reversing the unwanted qubit
+evolution, we use control pulses to shape the noise environment dynamically. In
+the context of superconducting qubits, we implement a pumping sequence to
+reduce the number of unpaired electrons (quasiparticles) in close proximity to
+the device. We report a 70% reduction in the quasiparticle density, resulting
+in a threefold enhancement in qubit relaxation times, and a comparable
+reduction in coherence variability.

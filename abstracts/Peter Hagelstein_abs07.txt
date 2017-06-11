@@ -1,0 +1,8 @@
+
+Recently there has been theoretical and experimental interest in
+Bloch-Siegert shifts in an intense photon field. A perturbative treatment
+becomes difficult in this multiphoton regime. We present a unitary transform
+and rotated model, which allows us to get accurate results away from the level
+anticrossings. A simple variational energy estimate leads to a new expression
+for the dressed two-level system energy which is accurate, and useful over a
+wide range of the dimensionless coupling constant.

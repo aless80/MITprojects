@@ -1,0 +1,20 @@
+
+It is an oft-cited fact that no quantum code can support a set of
+fault-tolerant logical gates that is both universal and transversal. This no-go
+theorem is generally responsible for the interest in alternative universality
+constructions including magic state distillation. Widely overlooked, however,
+is the possibility of non-transversal, yet still fault-tolerant, gates that
+work directly on small quantum codes. Here we demonstrate precisely the
+existence of such gates. In particular, we show how the limits of
+non-transversality can be overcome by performing rounds of intermediate
+error-correction to create logical gates on stabilizer codes that use no
+ancillas other than those required for syndrome measurement. Moreover, the
+logical gates we construct, the most prominent examples being Toffoli and
+controlled-controlled-Z, often complete universal gate sets on their codes. We
+detail such universal constructions for the smallest quantum codes, the 5-qubit
+and 7-qubit codes, and then proceed to generalize the approach. One remarkable
+result of this generalization is that any nondegenerate stabilizer code with a
+complete set of fault-tolerant single-qubit Clifford gates has a universal set
+of fault-tolerant gates. Another is the interaction of logical qubits across
+different stabilizer codes, which, for instance, implies a broadly applicable
+method of code switching.

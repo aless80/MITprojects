@@ -1,0 +1,6 @@
+
+This paper asks what classes of input signals are sufficient in order to
+completely identify the input/output behavior of generic bilinear systems. The
+main results are that step inputs are not sufficient, nor are single pulses,
+but the family of all pulses (of a fixed amplitude but varying widths) do
+suffice for identification.

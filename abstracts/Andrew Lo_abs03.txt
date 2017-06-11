@@ -1,0 +1,13 @@
+
+We propose to study market efficiency from a computational viewpoint.
+Borrowing from theoretical computer science, we define a market to be
+\emph{efficient with respect to resources $S$} (e.g., time, memory) if no
+strategy using resources $S$ can make a profit. As a first step, we consider
+memory-$m$ strategies whose action at time $t$ depends only on the $m$ previous
+observations at times $t-m,...,t-1$. We introduce and study a simple model of
+market evolution, where strategies impact the market by their decision to buy
+or sell. We show that the effect of optimal strategies using memory $m$ can
+lead to "market conditions" that were not present initially, such as (1) market
+bubbles and (2) the possibility for a strategy using memory $m' > m$ to make a
+bigger profit than was initially possible. We suggest ours as a framework to
+rationalize the technological arms race of quantitative trading firms.

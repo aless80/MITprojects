@@ -1,0 +1,11 @@
+
+A photon-number-resolving detector based on a four-element superconducting
+nanowire single photon detector is demonstrated to have sub-30-ps resolution in
+measuring the arrival time of individual photons. This detector can be used to
+characterize the photon statistics of non-pulsed light sources and to mitigate
+dead-time effects in high-speed photon counting applications. Furthermore, a
+25% system detection efficiency at 1550 nm was demonstrated, making the
+detector useful for both low-flux source characterization and high-speed
+photon-counting and quantum communication applications. The design, fabrication
+and testing of this detector are described, and a comparison between the
+measured and theoretical performance is presented.

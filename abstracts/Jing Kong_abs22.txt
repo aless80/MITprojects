@@ -1,0 +1,15 @@
+
+We report graphene films composed mostly of one or two layers of graphene
+grown by controlled carbon precipitation on the surface of polycrystalline Ni
+thin films during atmospheric chemical vapor deposition(CVD). Controlling both
+the methane concentration during CVD and the substrate cooling rate during
+graphene growth can significantly improve the thickness uniformity. As a
+result, one- or two- layer graphene regions occupy up to 87% of the film area.
+Single layer coverage accounts for 5-11% of the overall film. These regions
+expand across multiple grain boundaries of the underlying polycrystalline Ni
+film. The number density of sites with multilayer graphene/graphite (>2 layers)
+is reduced as the cooling rate decreases. These films can also be transferred
+to other substrates and their sizes are only limited by the sizes of the Ni
+film and the CVD chamber. Here, we demonstrate the formation of films as large
+as 1 in2. These findings represent an important step towards the fabrication of
+large-scale high-quality graphene samples.

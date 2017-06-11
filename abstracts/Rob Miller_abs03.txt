@@ -1,0 +1,14 @@
+
+Planning is a natural domain of application for frameworks of reasoning about
+actions and change. In this paper we study how one such framework, the Language
+E, can form the basis for planning under (possibly) incomplete information. We
+define two types of plans: weak and safe plans, and propose a planner, called
+the E-Planner, which is often able to extend an initial weak plan into a safe
+plan even though the (explicit) information available is incomplete, e.g. for
+cases where the initial state is not completely known. The E-Planner is based
+upon a reformulation of the Language E in argumentation terms and a natural
+proof theory resulting from the reformulation. It uses an extension of this
+proof theory by means of abduction for the generation of plans and adopts
+argumentation-based techniques for extending weak plans into safe plans. We
+provide representative examples illustrating the behaviour of the E-Planner, in
+particular for cases where the status of fluents is incompletely known.

@@ -1,0 +1,17 @@
+
+E-RES is a system that implements the Language E, a logic for reasoning about
+narratives of action occurrences and observations. E's semantics is
+model-theoretic, but this implementation is based on a sound and complete
+reformulation of E in terms of argumentation, and uses general computational
+techniques of argumentation frameworks. The system derives sceptical
+non-monotonic consequences of a given reformulated theory which exactly
+correspond to consequences entailed by E's model-theory. The computation relies
+on a complimentary ability of the system to derive credulous non-monotonic
+consequences together with a set of supporting assumptions which is sufficient
+for the (credulous) conclusion to hold. E-RES allows theories to contain
+general action laws, statements about action occurrences, observations and
+statements of ramifications (or universal laws). It is able to derive
+consequences both forward and backward in time. This paper gives a short
+overview of the theoretical basis of E-RES and illustrates its use on a variety
+of examples. Currently, E-RES is being extended so that the system can be used
+for planning.

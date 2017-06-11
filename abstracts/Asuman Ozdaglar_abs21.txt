@@ -1,0 +1,27 @@
+
+We study the optimal pricing strategies of a monopolist selling a divisible
+good (service) to consumers that are embedded in a social network. A key
+feature of our model is that consumers experience a (positive) local network
+effect. In particular, each consumer's usage level depends directly on the
+usage of her neighbors in the social network structure. Thus, the monopolist's
+optimal pricing strategy may involve offering discounts to certain agents, who
+have a central position in the underlying network.
+First, we consider a setting where the monopolist can offer individualized
+prices and derive an explicit characterization of the optimal price for each
+consumer as a function of her network position. In particular, we show that it
+is optimal for the monopolist to charge each agent a price that is proportional
+to her Bonacich centrality in the social network. In the second part of the
+paper, we discuss the optimal strategy of a monopolist that can only choose a
+single uniform price for the good and derive an algorithm polynomial in the
+number of agents to compute such a price. Thirdly, we assume that the
+monopolist can offer the good in two prices, full and discounted, and study the
+problem of determining which set of consumers should be given the discount. We
+show that the problem is NP-hard, however we provide an explicit
+characterization of the set of agents that should be offered the discounted
+price. Next, we describe an approximation algorithm for finding the optimal set
+of agents. We show that if the profit is nonnegative under any feasible price
+allocation, the algorithm guarantees at least 88% of the optimal profit.
+Finally, we highlight the value of network information by comparing the profits
+of a monopolist that does not take into account the network effects when
+choosing her pricing policy to those of a monopolist that uses this information
+optimally.

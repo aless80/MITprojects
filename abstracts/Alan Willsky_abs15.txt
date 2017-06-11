@@ -1,0 +1,26 @@
+
+In applications throughout science and engineering one is often faced with
+the challenge of solving an ill-posed inverse problem, where the number of
+available measurements is smaller than the dimension of the model to be
+estimated. However in many practical situations of interest, models are
+constrained structurally so that they only have a few degrees of freedom
+relative to their ambient dimension. This paper provides a general framework to
+convert notions of simplicity into convex penalty functions, resulting in
+convex optimization solutions to linear, underdetermined inverse problems. The
+class of simple models considered are those formed as the sum of a few atoms
+from some (possibly infinite) elementary atomic set; examples include
+well-studied cases such as sparse vectors and low-rank matrices, as well as
+several others including sums of a few permutations matrices, low-rank tensors,
+orthogonal matrices, and atomic measures. The convex programming formulation is
+based on minimizing the norm induced by the convex hull of the atomic set; this
+norm is referred to as the atomic norm. The facial structure of the atomic norm
+ball carries a number of favorable properties that are useful for recovering
+simple models, and an analysis of the underlying convex geometry provides sharp
+estimates of the number of generic measurements required for exact and robust
+recovery of models from partial information. These estimates are based on
+computing the Gaussian widths of tangent cones to the atomic norm ball. When
+the atomic set has algebraic structure the resulting optimization problems can
+be solved or approximated via semidefinite programming. The quality of these
+approximations affects the number of measurements required for recovery. Thus
+this work extends the catalog of simple models that can be recovered from
+limited linear information via tractable convex programming.

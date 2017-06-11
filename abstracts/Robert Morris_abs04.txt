@@ -1,0 +1,8 @@
+
+The class of critical bootstrap percolation models in two dimensions was
+recently introduced by Bollob\'as, Smith and Uzzell, and the critical threshold
+for percolation was determined up to a constant factor for all such models by
+the authors of this paper. Here we develop and refine the techniques introduced
+in that paper in order to determine a sharp threshold for the Duarte model.
+This resolves a question of Mountford from 1995, and is the first result of its
+type for a model with drift.

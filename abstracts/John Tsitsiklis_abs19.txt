@@ -1,0 +1,9 @@
+
+We derive lower bounds on the convergence speed of a widely used class of
+distributed averaging algorithms. In particular, we prove that any distributed
+averaging algorithm whose state consists of a single real number and whose
+(possibly nonlinear) update function satisfies a natural smoothness condition
+has a worst case running time of at least on the order of $n^2$ on a network of
+$n$ nodes. Our results suggest that increased memory or expansion of the state
+space is crucial for improving the running times of distributed averaging
+algorithms.

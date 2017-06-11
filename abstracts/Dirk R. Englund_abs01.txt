@@ -1,0 +1,20 @@
+
+We propose an on-chip scalable cluster-state quantum computing (QC)
+architecture comprising a two-dimensional array of atomic qubits and detectors,
+networked by photonic switches and waveguides. A major barrier to scaling up
+such systems lies in efficiently entangling neighboring atomic memories by
+conversion of the qubits to photons and establishing entanglement via Bell
+measurements in the optical domain, all within the coherence time. Our
+architecture leverages percolation theory to significantly reduce the time
+required to create a universal-QC-capable cluster of atomic memories, compared
+with recently-studied architectures that rely on repeat-until-success
+entanglement connections. This reduction puts our architecture in an
+operational regime where demonstrated collection, coupling and detection
+efficiencies would be sufficient for scalable QC with experimentally
+demonstrated coherence times. Furthermore, our approach dispenses the need for
+time consuming feed-forward, high-cooperativity interfaces and ancilla single
+photons, and can also tolerate a high rate of site imperfections. We also
+propose a variant of the architecture which allows for long-range connections
+and makes our architecture even more resilient to low site yields. We analyze
+our architecture for nitrogen-vacancy (NV) centers in diamond, but emphasize
+that the approach applies to any atomic or atom-like system.

@@ -1,0 +1,10 @@
+
+An information theoretic framework for unequal error protection is developed
+in terms of the exponential error bounds. The fundamental difference between
+the bit-wise and message-wise unequal error protection (UEP) is demonstrated,
+for fixed length block codes on DMCs without feedback. Effect of feedback is
+investigated via variable length block codes. It is shown that, feedback
+results in a significant improvement in both bit-wise and message-wise UEP
+(except the single message case for missed detection). The distinction between
+false-alarm and missed-detection formalizations for message-wise UEP is also
+considered. All results presented are at rates close to capacity.

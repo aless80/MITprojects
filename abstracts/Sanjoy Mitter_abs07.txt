@@ -1,0 +1,23 @@
+
+The hypothesis that high dimensional data tend to lie in the vicinity of a
+low dimensional manifold is the basis of manifold learning. The goal of this
+paper is to develop an algorithm (with accompanying complexity guarantees) for
+fitting a manifold to an unknown probability distribution supported in a
+separable Hilbert space, only using i.i.d samples from that distribution. More
+precisely, our setting is the following. Suppose that data are drawn
+independently at random from a probability distribution $P$ supported on the
+unit ball of a separable Hilbert space $H$. Let $G(d, V, \tau)$ be the set of
+submanifolds of the unit ball of $H$ whose volume is at most $V$ and reach
+(which is the supremum of all $r$ such that any point at a distance less than
+$r$ has a unique nearest point on the manifold) is at least $\tau$. Let $L(M,
+P)$ denote mean-squared distance of a random point from the probability
+distribution $P$ to $M$.
+We obtain an algorithm that tests the manifold hypothesis in the following
+sense.
+The algorithm takes i.i.d random samples from $P$ as input, and determines
+which of the following two is true (at least one must be):
+(a) There exists $M \in G(d, CV, \frac{\tau}{C})$ such that $L(M, P) \leq C
+\epsilon.$
+(b) There exists no $M \in G(d, V/C, C\tau)$ such that $L(M, P) \leq
+\frac{\epsilon}{C}.$
+The answer is correct with probability at least $1-\delta$.

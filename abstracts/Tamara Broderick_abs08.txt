@@ -1,0 +1,20 @@
+
+Completely random measures (CRMs) and their normalizations are a rich source
+of Bayesian nonparametric priors. Examples include the beta, gamma, and
+Dirichlet processes. In this paper we detail two major classes of sequential
+CRM representations---series representations and superposition
+representations---within which we organize both novel and existing sequential
+representations that can be used for simulation and posterior inference. These
+two classes and their constituent representations subsume existing ones that
+have previously been developed in an ad hoc manner for specific processes.
+Since a complete infinite-dimensional CRM cannot be used explicitly for
+computation, sequential representations are often truncated for tractability.
+We provide truncation error analyses for each type of sequential
+representation, as well as their normalized versions, thereby generalizing and
+improving upon existing truncation error bounds in the literature. We analyze
+the computational complexity of the sequential representations, which in
+conjunction with our error bounds allows us to directly compare representations
+and discuss their relative efficiency. We include numerous applications of our
+theoretical results to commonly-used (normalized) CRMs, demonstrating that our
+results enable a straightforward representation and analysis of CRMs that has
+not previously been available in a Bayesian nonparametric context.

@@ -1,0 +1,17 @@
+
+High resolution displays are increasingly popular, requiring most of the
+existing video content to be adapted to higher resolution. State-of-the-art
+super-resolution algorithms mainly address the visual quality of the output
+instead of real-time throughput. This paper introduces FAST, a framework to
+accelerate any image based super-resolution algorithm running on compressed
+videos. FAST leverages the similarity between adjacent frames in a video. Given
+the output of a super-resolution algorithm on one frame, the technique
+adaptively transfers it to the adjacent frames and skips running the
+super-resolution algorithm. The transferring process has negligible computation
+cost because the required information, including motion vectors, block size,
+and prediction residual, are embedded in the compressed video for free. In this
+work, we show that FAST accelerates state-of-the-art super-resolution
+algorithms by up to an order of magnitude with acceptable quality loss of up to
+0.2 dB. Thus, we believe that the FAST framework is an important step towards
+enabling real-time super-resolution algorithms that upsample streamed videos
+for large displays.

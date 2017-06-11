@@ -1,0 +1,8 @@
+
+We study maximum likelihood estimation in Gaussian graphical models from a
+geometric point of view. An algebraic elimination criterion allows us to find
+exact lower bounds on the number of observations needed to ensure that the
+maximum likelihood estimator (MLE) exists with probability one. This is applied
+to bipartite graphs, grids and colored graphs. We also study the ML degree, and
+we present the first instance of a graph for which the MLE exists with
+probability one, even when the number of observations equals the treewidth.

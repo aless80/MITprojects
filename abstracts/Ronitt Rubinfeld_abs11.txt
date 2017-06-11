@@ -1,0 +1,23 @@
+
+A local property reconstructor for a graph property is an algorithm which,
+given oracle access to the adjacency list of a graph that is "close" to having
+the property, provides oracle access to the adjacency matrix of a "correction"
+of the graph, i.e. a graph which has the property and is close to the given
+graph. For this model, we achieve local property reconstructors for the
+properties of connectivity and $k$-connectivity in undirected graphs, and the
+property of strong connectivity in directed graphs. Along the way, we present a
+method of transforming a local reconstructor (which acts as a "adjacency matrix
+oracle" for the corrected graph) into an "adjacency list oracle". This allows
+us to recursively use our local reconstructor for $(k-1)$-connectivity to
+obtain a local reconstructor for $k$-connectivity.
+We also extend this notion of local property reconstruction to parametrized
+graph properties (for instance, having diameter at most $D$ for some parameter
+$D$) and require that the corrected graph has the property with parameter close
+to the original. We obtain a local reconstructor for the low diameter property,
+where if the original graph is close to having diameter $D$, then the corrected
+graph has diameter roughly 2D.
+We also exploit a connection between local property reconstruction and
+property testing, observed by Brakerski, to obtain new tolerant property
+testers for all of the aforementioned properties. Except for the one for
+connectivity, these are the first tolerant property testers for these
+properties.

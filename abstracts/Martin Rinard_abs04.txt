@@ -1,0 +1,8 @@
+
+Administrative role-based access control (ARBAC) is the first comprehensive
+administrative model proposed for role-based access control (RBAC). ARBAC has
+several features for designing highly expressive policies, but current work has
+not highlighted the utility of these expressive policies. In this report, we
+present a case study of designing an ARBAC policy for a bank comprising 18
+branches. Using this case study we provide an assessment about the features of
+ARBAC that are likely to be used in realistic policies.

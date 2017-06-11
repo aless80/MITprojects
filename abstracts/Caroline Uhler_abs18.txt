@@ -1,0 +1,10 @@
+
+An asymptotic theory is developed for computing volumes of regions in the
+parameter space of a directed Gaussian graphical model that are obtained by
+bounding partial correlations. We study these volumes using the method of real
+log canonical thresholds from algebraic geometry. Our analysis involves the
+computation of the singular loci of correlation hypersurfaces. Statistical
+applications include the strong-faithfulness assumption for the PC-algorithm,
+and the quantification of confounder bias in causal inference. A detailed
+analysis is presented for trees, bow-ties, tripartite graphs, and complete
+graphs.

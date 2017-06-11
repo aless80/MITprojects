@@ -1,0 +1,18 @@
+
+We consider the problem of speaker diarization, the problem of segmenting an
+audio recording of a meeting into temporal segments corresponding to individual
+speakers. The problem is rendered particularly difficult by the fact that we
+are not allowed to assume knowledge of the number of people participating in
+the meeting. To address this problem, we take a Bayesian nonparametric approach
+to speaker diarization that builds on the hierarchical Dirichlet process hidden
+Markov model (HDP-HMM) of Teh et al. [J. Amer. Statist. Assoc. 101 (2006)
+1566--1581]. Although the basic HDP-HMM tends to over-segment the audio
+data---creating redundant states and rapidly switching among them---we describe
+an augmented HDP-HMM that provides effective control over the switching rate.
+We also show that this augmentation makes it possible to treat emission
+distributions nonparametrically. To scale the resulting architecture to
+realistic diarization problems, we develop a sampling algorithm that employs a
+truncated approximation of the Dirichlet process to jointly resample the full
+state sequence, greatly improving mixing rates. Working with a benchmark NIST
+data set, we show that our Bayesian nonparametric architecture yields
+state-of-the-art speaker diarization results.

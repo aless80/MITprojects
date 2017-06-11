@@ -1,0 +1,26 @@
+
+A recent and active line of work achieves tight lower bounds for fundamental
+problems under the Strong Exponential Time Hypothesis (SETH). A celebrated
+result of Backurs and Indyk (STOC'15) proves that the Edit Distance of two
+sequences of length n cannot be computed in strongly subquadratic time under
+SETH. The result was extended by follow-up works to simpler looking problems
+like finding the Longest Common Subsequence (LCS).
+SETH is a very strong assumption, asserting that even linear size CNF
+formulas cannot be analyzed for satisfiability with an exponential speedup over
+exhaustive search. We consider much safer assumptions, e.g. that such a speedup
+is impossible for SAT on much more expressive representations, like NC
+circuits. Intuitively, this seems much more plausible: NC circuits can
+implement complex cryptographic primitives, while CNFs cannot even
+approximately compute an XOR of bits.
+Our main result is a surprising reduction from SAT on Branching Programs to
+fundamental problems in P like Edit Distance, LCS, and many others. Truly
+subquadratic algorithms for these problems therefore have consequences that we
+consider to be far more remarkable than merely faster CNF SAT algorithms. For
+example, SAT on arbitrary o(n)-depth bounded fan-in circuits (and therefore
+also NC-Circuit-SAT) can be solved in (2-eps)^n time.
+A very interesting feature of our work is that we can prove major
+consequences even from mildly subquadratic algorithms for Edit Distance or LCS.
+For example, we show that if we can shave an arbitrarily large polylog factor
+from n^2 for Edit Distance then NEXP does not have non-uniform NC^1 circuits. A
+more fine-grained examination shows that even shaving a $\log^c{n}$ factor, for
+a specific constant $c \approx 10^3$, already implies new circuit lower bounds.

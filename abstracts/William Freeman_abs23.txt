@@ -1,0 +1,20 @@
+
+We present results from the MOSFIRE Deep Evolution Field (MOSDEF) survey on
+rest-frame optical AGN identification and completeness at z~2.3. With our
+sample of 50 galaxies and 10 X-ray and IR-selected AGN with measured H-beta,
+[OIII], H-alpha, and [NII] emission lines, we investigate the location of AGN
+in the BPT, MEx (mass-excitation), and CEx (color-excitation) diagrams. We find
+that the BPT diagram works well to identify AGN at z~2.3 and that the z~0
+AGN/star-forming galaxy classifications do not need to shift substantially at
+z~2.3 to robustly separate these populations. However, the MEx diagram fails to
+identify all of the AGN identified in the BPT diagram, and the CEx diagram is
+substantially contaminated at high redshift. We further show that AGN samples
+selected using the BPT diagram have selection biases in terms of both host
+stellar mass and stellar population, in that AGN in low mass and/or high
+specific star formation rate galaxies are difficult to identify using the BPT
+diagram. These selection biases become increasingly severe at high redshift,
+such that optically-selected AGN samples at high redshift will necessarily be
+incomplete. We also find that the gas in the narrow-line region appears to be
+more enriched than gas in the host galaxy for at least some MOSDEF AGN.
+However, AGN at z~2 are generally less enriched than local AGN with the same
+host stellar mass.

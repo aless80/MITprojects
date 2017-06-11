@@ -1,0 +1,8 @@
+
+We consider the minimum-weight feedback vertex set problem in tournaments:
+given a tournament with non-negative vertex weights, remove a minimum-weight
+set of vertices that intersects all cycles. This problem is $\mathsf{NP}$-hard
+to solve exactly, and Unique Games-hard to approximate by a factor better than
+2. We present the first $7/3$ approximation algorithm for this problem,
+improving on the previously best known ratio $5/2$ given by Cai et al. [FOCS
+1998, SICOMP 2001].

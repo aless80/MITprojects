@@ -1,0 +1,14 @@
+
+We raise the question of approximating the compressibility of a string with
+respect to a fixed compression scheme, in sublinear time. We study this
+question in detail for two popular lossless compression schemes: run-length
+encoding (RLE) and Lempel-Ziv (LZ), and present sublinear algorithms for
+approximating compressibility with respect to both schemes. We also give
+several lower bounds that show that our algorithms for both schemes cannot be
+improved significantly.
+Our investigation of LZ yields results whose interest goes beyond the initial
+questions we set out to study. In particular, we prove combinatorial structural
+lemmas that relate the compressibility of a string with respect to Lempel-Ziv
+to the number of distinct short substrings contained in it. In addition, we
+show that approximating the compressibility with respect to LZ is related to
+approximating the support size of a distribution.

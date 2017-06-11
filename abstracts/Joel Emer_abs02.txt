@@ -1,0 +1,20 @@
+
+Machine learning plays a critical role in extracting meaningful information
+out of the zetabytes of sensor data collected every day. For some applications,
+the goal is to analyze and understand the data to identify trends (e.g.,
+surveillance, portable/wearable electronics); in other applications, the goal
+is to take immediate action based the data (e.g., robotics/drones, self-driving
+cars, smart Internet of Things). For many of these applications, local embedded
+processing near the sensor is preferred over the cloud due to privacy or
+latency concerns, or limitations in the communication bandwidth. However, at
+the sensor there are often stringent constraints on energy consumption and cost
+in addition to throughput and accuracy requirements. Furthermore, flexibility
+is often required such that the processing can be adapted for different
+applications or environments (e.g., update the weights and model in the
+classifier). In many applications, machine learning often involves transforming
+the input data into a higher dimensional space, which, along with programmable
+weights, increases data movement and consequently energy consumption. In this
+paper, we will discuss how these challenges can be addressed at various levels
+of hardware design ranging from architecture, hardware-friendly algorithms,
+mixed-signal circuits, and advanced technologies (including memories and
+sensors).

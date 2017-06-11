@@ -1,0 +1,17 @@
+
+The concept of a fiber aided wireless network architecture (FAWNA) is
+introduced in [Ray et al., Allerton Conference 2005], which allows high-speed
+mobile connectivity by leveraging the speed of optical networks. In this paper,
+we consider a single-input, multiple-output (SIMO) FAWNA, which consists of a
+SIMO wireless channel and an optical fiber channel, connected through
+wireless-optical interfaces. We propose a scheme where the received wireless
+signal at each interface is quantized and sent over the fiber. Though our
+architecture is similar to that of the classical CEO problem, our problem is
+different from it. We show that the capacity of our scheme approaches the
+capacity of the architecture, exponentially with fiber capacity. We also show
+that for a given fiber capacity, there is an optimal operating wireless
+bandwidth and an optimal number of wireless-optical interfaces. The
+wireless-optical interfaces of our scheme have low complexity and do not
+require knowledge of the transmitter code book. They are also extendable to
+FAWNAs with large number of transmitters and interfaces and, offer adaptability
+to variable rates, changing channel conditions and node positions.

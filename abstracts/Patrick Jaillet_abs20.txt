@@ -1,0 +1,5 @@
+
+We present bounds of quadratic form for the logarithm of the Gaussian
+Q-function. We also show an analytical method for deriving log-quadratic
+approximations of the Q-function and give an approximation with absolute error
+less than $10^{-3}$.

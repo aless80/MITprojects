@@ -1,0 +1,25 @@
+
+In recent years it has become popular to study dynamic problems in a
+sensitivity setting: Instead of allowing for an arbitrary sequence of updates,
+the sensitivity model only allows to apply batch updates of small size to the
+original input data. The sensitivity model is particularly appealing since
+recent strong conditional lower bounds ruled out fast algorithms for many
+dynamic problems, such as shortest paths, reachability, or subgraph
+connectivity.
+In this paper we prove conditional lower bounds for sensitivity problems. For
+example, we show that under the Boolean Matrix Multiplication (BMM) conjecture
+combinatorial algorithms cannot compute the (4/3 - {\epsilon})-approximate
+diameter of an undirected unweighted dense graph with truly subcubic
+preprocessing time and truly subquadratic update/query time. This result is
+surprising since in the static setting it is not clear whether a reduction from
+BMM to diameter is possible. We further show under the BMM conjecture that many
+problems, such as reachability or approximate shortest paths, cannot be solved
+faster than by recomputation from scratch even after only one or two edge
+insertions. We give more lower bounds under the Strong Exponential Time
+Hypothesis and the All Pairs Shortest Paths Conjecture. Many of our lower
+bounds also hold for static oracle data structures where no sensitivity is
+required. Finally, we give the first algorithm for the (1 +
+{\epsilon})-approximate radius, diameter, and eccentricity problems in directed
+or undirected unweighted graphs in case of single edges failures. The algorithm
+has a truly subcubic running time for graphs with a truly subquadratic number
+of edges; it is tight w.r.t. the conditional lower bounds we obtain.

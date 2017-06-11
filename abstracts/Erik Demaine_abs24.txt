@@ -1,0 +1,25 @@
+
+This research aims to identify strong structural features of real-world
+complex networks, sufficient to enable a host of graph algorithms that are much
+more efficient than what is possible for general graphs (and currently used for
+network analysis). Specifically, we study the property of bounded expansion.
+This is the strongest formalization of the well-observed notion of "sparsity"
+that might possibly apply to real-world networks and allow many previously
+intractable problems to become tractable. On the theoretical side, we analyze
+many previously proposed models for random networks and characterize which ones
+have bounded expansion. We show that, w.h.p., (1) graphs sampled with either
+the Molloy-Reed configuration model (including a variation of the model which
+achieves high clustering) or the Chung-Lu model with a prescribed sparse degree
+sequence (including heavy-tailed degree distributions); (2) perturbed
+bounded-degree graphs; (3) stochastic block models with small probabilities;
+result in graphs of bounded expansion. We also prove that the Kleinberg model
+and the Barabasi-Albert model, in typical setups, contain large
+one-subdivisions of cliques and thus do not result in graphs of bounded
+expansion. On the practical side, we give experimental evidence that many
+complex networks have bounded expansion, by measuring the closely related "low
+treedepth coloring number" on a corpus of real-world data. On the algorithmic
+side, we show how tools provided by the bounded expansion framework can be used
+to efficiently solve the following common network analysis problems: for a
+fixed graph H, we obtain the fastest-known algorithm for counting the number of
+induced H-subgraphs and the number of H-homomorphisms; and we design linear
+algorithms for computing several centrality measures.

@@ -1,0 +1,16 @@
+
+DNA sequencing is the basic workhorse of modern day biology and medicine.
+Shotgun sequencing is the dominant technique used: many randomly located short
+fragments called reads are extracted from the DNA sequence, and these reads are
+assembled to reconstruct the original sequence. A basic question is: given a
+sequencing technology and the statistics of the DNA sequence, what is the
+minimum number of reads required for reliable reconstruction? This number
+provides a fundamental limit to the performance of {\em any} assembly
+algorithm. For a simple statistical model of the DNA sequence and the read
+process, we show that the answer admits a critical phenomena in the asymptotic
+limit of long DNA sequences: if the read length is below a threshold,
+reconstruction is impossible no matter how many reads are observed, and if the
+read length is above the threshold, having enough reads to cover the DNA
+sequence is sufficient to reconstruct. The threshold is computed in terms of
+the Renyi entropy rate of the DNA sequence. We also study the impact of noise
+in the read process on the performance.

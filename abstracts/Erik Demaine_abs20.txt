@@ -1,0 +1,7 @@
+
+Given a sheet of paper and a prescribed folding of its boundary, is there a
+way to fold the paper's interior without stretching so that the boundary lines
+up with the prescribed boundary folding? For polygonal boundaries
+nonexpansively folded at finitely many points, we prove that a consistent
+isometric mapping of the polygon interior always exists and is computable in
+polynomial time.

@@ -1,0 +1,25 @@
+
+The radius and diameter are fundamental graph parameters. They are defined as
+the minimum and maximum of the eccentricities in a graph, respectively, where
+the eccentricity of a vertex is the largest distance from the vertex to another
+node. In directed graphs, there are several versions of these problems. For
+instance, one may choose to define the eccentricity of a node in terms of the
+largest distance into the node, out of the node, the sum of the two directions
+(i.e. roundtrip) and so on. All versions of diameter and radius can be solved
+via solving all-pairs shortest paths (APSP), followed by a fast postprocessing
+step. Solving APSP, however, on $n$-node graphs requires $\Omega(n^2)$ time
+even in sparse graphs, as one needs to output $n^2$ distances.
+Motivated by known and new negative results on the impossibility of computing
+these measures exactly in general graphs in truly subquadratic time, under
+plausible assumptions, we search for \emph{approximation} and \emph{fixed
+parameter subquadratic} algorithms, and for reasons why they do not exist.
+Our results include: - Truly subquadratic approximation algorithms for most
+of the versions of Diameter and Radius with \emph{optimal} approximation
+guarantees (given truly subquadratic time), under plausible assumptions. In
+particular, there is a $2$-approximation algorithm for directed Radius with
+one-way distances that runs in $\tilde{O}(m\sqrt{n})$ time, while a
+$(2-\delta)$-approximation algorithm in $O(n^{2-\epsilon})$ time is unlikely. -
+On graphs with treewidth $k$, we can solve the problems in
+$2^{O(k\log{k})}n^{1+o(1)}$ time. We show that these algorithms are near
+optimal since even a $(3/2-\delta)$-approximation algorithm that runs in time
+$2^{o(k)}n^{2-\epsilon}$ would refute the plausible assumptions.

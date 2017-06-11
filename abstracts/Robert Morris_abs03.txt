@@ -1,0 +1,22 @@
+
+We present results of the final Kepler Data Processing Pipeline search for
+transiting planet signals in the full 17-quarter primary mission data set. The
+search includes a total of 198,709 stellar targets, of which 112,046 were
+observed in all 17 quarters and 86,663 in fewer than 17 quarters. We report on
+17,230 targets for which at least one transit signature is identified that
+meets the specified detection criteria: periodicity, minimum of three observed
+transit events, detection statistic (i.e., signal-to-noise ratio) in excess of
+the search threshold, and passing grade on three statistical transit
+consistency tests. Light curves for which a transit signal is identified are
+iteratively searched for additional signatures after a limb-darkened transiting
+planet model is fitted to the data and transit events are removed. The search
+for additional planets adds 16,802 transit signals for a total of 34,032; this
+far exceeds the number of transit signatures identified in prior pipeline runs.
+There was a strategic emphasis on completeness over reliability for the final
+Kepler transit search. A comparison of the transit signals against a set of
+3402 well-established, high-quality Kepler Objects of Interest yields a
+recovery rate of 99.8%. The high recovery rate must be weighed against a large
+number of false-alarm detections. We examine characteristics of the planet
+population implied by the transiting planet model fits with an emphasis on
+detections that would represent small planets orbiting in the habitable zone of
+their host stars.

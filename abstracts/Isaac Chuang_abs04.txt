@@ -1,0 +1,20 @@
+
+The physics of quantum mechanics is the inspiration for, and underlies,
+quantum computation. As such, one expects physical intuition to be highly
+influential in the understanding and design of many quantum algorithms,
+particularly simulation of physical systems. Surprisingly, this has been
+challenging, with current Hamiltonian simulation algorithms remaining abstract
+and often the result of sophisticated but unintuitive constructions. We contend
+that physical intuition can lead to optimal simulation methods by showing that
+a focus on simple single-qubit rotations elegantly furnishes an optimal
+algorithm for Hamiltonian simulation, a universal problem that encapsulates all
+the power of quantum computation. Specifically, we show that the query
+complexity of implementing time evolution by a $d$-sparse Hamiltonian $\hat{H}$
+for time-interval $t$ with error $\epsilon$ is
+$\mathcal{O}(td\|\hat{H}\|_{\text{max}}+\frac{\log{(1/\epsilon)}}{\log{\log{(1/\epsilon)}}})$,
+which matches lower bounds in all parameters. This connection is made through
+general three-step "quantum signal processing" methodology, comprised of (1)
+transducing eigenvalues of $\hat{H}$ into a single ancilla qubit, (2)
+transforming these eigenvalues through an optimal-length sequence of
+single-qubit rotations, and (3) projecting this ancilla with near unity success
+probability.

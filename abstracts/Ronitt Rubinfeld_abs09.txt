@@ -1,0 +1,20 @@
+
+We initiate the study of the problem of designing sublinear-time ({\em
+local\/}) algorithms that, given an edge $(u,v)$ in a connected graph
+$G=(V,E)$, decide whether $(u,v)$ belongs to a sparse spanning graph $G' =
+(V,E')$ of $G$. Namely, $G'$ should be connected and $|E'|$ should be upper
+bounded by $(1+\epsilon)|V|$ for a given parameter $\epsilon > 0$. To this end
+the algorithms may query the incidence relation of the graph $G$, and we seek
+algorithms whose query complexity and running time (per given edge $(u,v)$) is
+as small as possible. Such an algorithm may be randomized but (for a fixed
+choice of its random coins) its decision on different edges in the graph should
+be consistent with the same spanning graph $G'$ and independent of the order of
+queries.
+We first show that for general (bounded-degree) graphs, the query complexity
+of any such algorithm must be $\Omega(\sqrt{|V|})$. This lower bound holds for
+graphs that have high expansion. We then turn to design and analyze algorithms
+both for graphs with high expansion (obtaining a result that roughly matches
+the lower bound) and for graphs that are (strongly) non-expanding (obtaining
+results in which the complexity does not depend on $|V|$). The complexity of
+the problem for graphs that do not fall into these two categories is left as an
+open question.

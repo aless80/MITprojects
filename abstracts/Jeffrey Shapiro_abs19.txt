@@ -1,0 +1,21 @@
+
+Light detection and ranging systems reconstruct scene depth from
+time-of-flight measurements. For low light-level depth imaging applications,
+such as remote sensing and robot vision, these systems use single-photon
+detectors that resolve individual photon arrivals. Even so, they must detect a
+large number of photons to mitigate Poisson shot noise and reject anomalous
+photon detections from background light. We introduce a novel framework for
+accurate depth imaging using a small number of detected photons in the presence
+of an unknown amount of background light that may vary spatially. It employs a
+Poisson observation model for the photon detections plus a union-of-subspaces
+constraint on the discrete-time flux from the scene at any single pixel.
+Together, they enable a greedy signal-pursuit algorithm to rapidly and
+simultaneously converge on accurate estimates of scene depth and background
+flux, without any assumptions on spatial correlations of the depth or
+background flux. Using experimental single-photon data, we demonstrate that our
+proposed framework recovers depth features with 1.7 cm absolute error, using 15
+photons per image pixel and an illumination pulse with 6.7-cm scaled
+root-mean-square length. We also show that our framework outperforms the
+conventional pixelwise log-matched filtering, which is a
+computationally-efficient approximation to the maximum-likelihood solution, by
+a factor of 6.1 in absolute depth error.

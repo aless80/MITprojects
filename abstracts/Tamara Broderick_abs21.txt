@@ -1,0 +1,17 @@
+
+One of the focal points of the modern literature on Bayesian nonparametrics
+has been the problem of clustering, or partitioning, where each data point is
+modeled as being associated with one and only one of some collection of groups
+called clusters or partition blocks. Underlying these Bayesian nonparametric
+models are a set of interrelated stochastic processes, most notably the
+Dirichlet process and the Chinese restaurant process. In this paper we provide
+a formal development of an analogous problem, called feature modeling, for
+associating data points with arbitrary nonnegative integer numbers of groups,
+now called features or topics. We review the existing combinatorial stochastic
+process representations for the clustering problem and develop analogous
+representations for the feature modeling problem. These representations include
+the beta process and the Indian buffet process as well as new representations
+that provide insight into the connections between these processes. We thereby
+bring the same level of completeness to the treatment of Bayesian nonparametric
+feature modeling that has previously been achieved for Bayesian nonparametric
+clustering.

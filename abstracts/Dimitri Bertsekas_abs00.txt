@@ -1,0 +1,16 @@
+
+In this paper we consider large linear fixed point problems and solution with
+proximal algorithms. We show that, under certain assumptions, there is a close
+connection between proximal iterations, which are prominent in numerical
+analysis and optimization, and multistep methods of the temporal difference
+type such as TD(lambda), LSTD(lambda), and LSPE(lambda), which are central in
+simulation-based approximate dynamic programming. As an application of this
+connection, we show that we may accelerate the standard proximal algorithm by
+extrapolation towards the multistep iteration, which generically has a faster
+convergence rate. We also use the connection with multistep methods to
+integrate into the proximal algorithmic context several new ideas that have
+emerged in the approximate dynamic programming context. In particular, we
+consider algorithms that project each proximal iterate onto the subspace
+spanned by a small number of basis functions, using low-dimensional
+calculations and simulation, and we discuss various algorithmic options from
+approximate dynamic programming.

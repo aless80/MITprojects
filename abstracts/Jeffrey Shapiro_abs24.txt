@@ -1,0 +1,15 @@
+
+Quantum illumination is a quantum-optical sensing technique in which an
+entangled source is exploited to improve the detection of a low-reflectivity
+object that is immersed in a bright thermal background. Here we describe and
+analyze a system for applying this technique at microwave frequencies, a more
+appropriate spectral region for target detection than the optical, due to the
+naturally-occurring bright thermal background in the microwave regime. We use
+an electro-optomechanical converter to entangle microwave signal and optical
+idler fields, with the former being sent to probe the target region and the
+latter being retained at the source. The microwave radiation collected from the
+target region is then phase conjugated and upconverted into an optical field
+that is combined with the retained idler in a joint-detection quantum
+measurement. The error probability of this microwave quantum-illumination
+system, or quantum radar, is shown to be superior to that of any classical
+microwave radar of equal transmitted energy.

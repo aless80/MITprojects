@@ -1,0 +1,14 @@
+
+Due to their exceptional mechanical and optical properties, dielectric
+silicon nitride (SiN) micromembrane resonators have become the centerpiece of
+many optomechanical experiments. Efficient capacitive coupling of the membrane
+to an electrical system would facilitate exciting hybrid optoelectromechanical
+devices. However, capacitive coupling of such dielectric membranes is rather
+weak. Here we add a single layer of graphene on SiN micromembranes and compare
+electromechanical coupling and mechanical properties to bare dielectric
+membranes and to membranes metallized with an aluminium layer. The
+electrostatic coupling of graphene coated membranes is found to be equal to a
+perfectly conductive membrane. Our results show that a single layer of graphene
+substantially enhances the electromechanical capacitive coupling without
+significantly adding mass, decreasing the superior mechanical quality factor or
+affecting the optical properties of SiN micromembrane resonators.

@@ -1,0 +1,26 @@
+
+Network alignment refers to the problem of finding a bijective mapping across
+vertices of two graphs to maximize the number of overlapping edges and/or to
+minimize the number of mismatched interactions across networks. This problem is
+often cast as an expensive quadratic assignment problem (QAP). Although
+spectral methods have received significant attention in different network
+science problems such as network clustering, the use of spectral techniques in
+the network alignment problem has been limited partially owing to the lack of
+principled connections between spectral methods and relaxations of the network
+alignment optimization. In this paper, we propose a network alignment framework
+that uses an orthogonal relaxation of the underlying QAP in a maximum weight
+bipartite matching optimization. Our method takes into account the ellipsoidal
+level sets of the quadratic objective function by exploiting eigenvalues and
+eigenvectors of (transformations of) adjacency graphs. Our framework not only
+can be employed to provide a theoretical justification for existing heuristic
+spectral network alignment methods, but it also leads to a new scalable network
+alignment algorithm which outperforms existing ones over various synthetic and
+real networks. Moreover, we generalize the objective function of the network
+alignment problem to consider both matched and mismatched interactions in a
+standard QAP formulation. This can be critical in applications where networks
+have low similarity and therefore we expect more mismatches than matches. We
+assess the effectiveness of our proposed method theoretically for certain
+classes of networks, through simulations over various synthetic network models,
+and in two real-data applications; in comparative analysis of gene regulatory
+networks across human, fly and worm, and in user de-anonymization over twitter
+follower subgraphs.

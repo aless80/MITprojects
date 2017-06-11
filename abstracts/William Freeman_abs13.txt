@@ -1,0 +1,23 @@
+
+We present the first direct comparison between Balmer line and panchromatic
+SED-based SFRs for z~2 galaxies. For this comparison we used 17 star-forming
+galaxies selected from the MOSFIRE Deep Evolution Field (MOSDEF) survey, with
+$3\sigma$ detections for H$\alpha$ and at least two IR bands (Spitzer/MIPS
+24$\mu$m and Herschel/PACS 100 and 160$\mu$m, and in some cases Herschel/SPIRE
+250, 350, and 500$\mu$m). The galaxies have total IR (8-1000$\mu$m)
+luminosities of $\sim10^{11.4}-10^{12.4}\,\textrm{L}_\odot$ and star-formation
+rates (SFRs) of $\sim30-250\,\textrm{M}_\odot\,\mathrm{yr^{-1}}$. We fit the
+UV-to-far-IR SEDs with flexible stellar population synthesis (FSPS) models -
+which include both stellar and dust emission - and compare the inferred SFRs
+with the SFR(H$\alpha$,H$\beta$) values corrected for dust attenuation using
+Balmer decrements. The two SFRs agree with a scatter of 0.17 dex. Our results
+imply that the Balmer decrement accurately predicts the obscuration of the
+nebular lines and can be used to robustly calculate SFRs for star-forming
+galaxies at z~2 with SFRs up to $\sim200\,\textrm{M}_\odot\,\mathrm{yr^{-1}}$.
+We also use our data to assess SFR indicators based on modeling the
+UV-to-mid-IR SEDs or by adding SFR(UV) and SFR(IR), for which the latter is
+based on the mid-IR only or on the full IR SED. All these SFRs show a poorer
+agreement with SFR(H$\alpha$,H$\beta$) and in some cases large systematic
+biases are observed. Finally, we show that the SFR and dust attenuation derived
+from the UV-to-near-IR SED alone are unbiased when assuming a delayed
+exponentially declining star-formation history.

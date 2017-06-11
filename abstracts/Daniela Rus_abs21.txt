@@ -1,0 +1,17 @@
+
+We present controllers that enable mobile robots to persistently monitor or
+sweep a changing environment. The changing environment is modeled as a field
+which grows in locations that are not within range of a robot, and decreases in
+locations that are within range of a robot. We assume that the robots travel on
+given closed paths. The speed of each robot along its path is controlled to
+prevent the field from growing unbounded at any location. We consider the space
+of speed controllers that can be parametrized by a finite set of basis
+functions. For a single robot, we develop a linear program that is guaranteed
+to compute a speed controller in this space to keep the field bounded, if such
+a controller exists. Another linear program is then derived whose solution is
+the speed controller that minimizes the maximum field value over the
+environment. We extend our linear program formulation to develop a multi-robot
+controller that keeps the field bounded. The multi-robot controller has the
+unique feature that it does not require communication among the robots.
+Simulation studies demonstrate the robustness of the controllers to modeling
+errors, and to stochasticity in the environment.

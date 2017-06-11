@@ -10,7 +10,7 @@ def main(abs_dict):
     if not os.path.exists(scraped_path):
         os.makedirs(scraped_path)       #mkdir if does not exist
     for prof, abs_list in abs_dict.items():
-        if os.path.exists("./scraped/"+prof+"_abs00.txt"):
+        if os.path.exists("./abstracts/"+prof+"_abs00.txt"):
             continue
         print("Processing %i abstracts for %s" % (len(abs_list), prof))
         for i,url in enumerate(abs_list):
@@ -38,32 +38,30 @@ def main(abs_dict):
             except:
                 print("   could not store in %s !" % filename)
 
-#        cnt=tokenize(all_abstracts)
-#    return cnt
-
-#if __name__ == '__main__':
-#    main()
-
-
-def tokenize(path="./scraped/"):
+def tokenize(path="./abstracts/",pathout="./tokens/"):
     """tokenize text from all files in path.
     return a counter of the tokens
-    cnt=tokenize(path="./scraped/")
+    cnt=tokenize(path="./abstracts/")
     """
     from collections import Counter
     import nltk
+    import os
+    pathout="./tokens/"
+    if not os.path.exists(pathout):
+        os.makedirs(pathout)       #mkdir if does not exist
     filelist=os.listdir(path)
     for filename in filelist:
-        f = open(filename, 'r')
+        f = open(path+filename, 'r')
         text = f.read()
         f.close()
         tokens = nltk.word_tokenize(text)
         counter=Counter(tokens)
-        filename = filename.replace(".txt","")
-        filename_counter = filename + "_counter.txt"
-        #f = open(filename_counter, 'r')
-        #text = f.write()
-        #f.close()
+        filename_counter = filename.replace(".txt","") + "_counter.txt"
+        
+        f = open(pathout+filename_counter, 'w')
+        for el in counter.items():
+            f.write('\n'+el[0]+'\t'+str(el[1]))
+        f.close()
 
     
 

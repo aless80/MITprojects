@@ -1,0 +1,6 @@
+
+A microring depletion modulator is demonstrated with T-shaped lateral p-n
+junctions used to realize efficient modulation while maximizing the RC limited
+bandwidth. The device having a 3 dB bandwidth of 13 GHz has been fabricated in
+a standard 45 nm microelectronics CMOS process. The cavity has a linewidth of
+17 GHz and an average wavelength-shift of 9 pm/V in reverse-bias conditions.

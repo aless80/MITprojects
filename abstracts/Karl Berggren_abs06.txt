@@ -1,0 +1,19 @@
+
+We study the microwave impedance of extremely high aspect ratio (length/width
+~ 5,000) superconducting niobium nitride nanowires. The nanowires are
+fabricated in a compact meander geometry that is in series with the center
+conductor of a 50 ohm coplanar waveguide transmission line. The transmission
+coefficient of the sample is measured up to 20 GHz. At high frequency, a peak
+in the transmission coefficient is seen. Numerical simulations show that this
+is a half-wave resonance along the length of the nanowire, where the nanowire
+acts as a high impedance, slow wave transmission line. This resonance sets the
+upper frequency limit for these nanowires as inductive elements. Fitting
+simulations to the measured resonance enables a precise determination of the
+nanowire's complex sheet impedance at the resonance frequency. The real part is
+a measure of dissipation, while the imaginary part is dominated by kinetic
+inductance. We characterize the dependence of the sheet resistance and sheet
+inductance on both temperature and current and compare the results to recent
+theoretical predictions for disordered superconductors. These results can aid
+in the understanding of high frequency devices based on superconducting
+nanowires. They may also lead to the development of novel superconducting
+devices such as ultra-compact resonators and slow-wave structures.

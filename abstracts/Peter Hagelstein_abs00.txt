@@ -1,0 +1,18 @@
+
+Motivated by many observations of anomalies in condensed matter systems, we
+consider a new fundamental Hamiltonian in which condensed matter and nuclear
+systems are described initially on the same footing. Since it may be possible
+that the lattice will respond to the mass change associated with a excited
+nuclear state, we adopt a relativistic description throughout based on a
+many-particle Dirac formalism. This approach has not been used in the past,
+perhaps due to the difficulty in separating the center of mass and relative
+degrees of freedom of the nuclear system, or perhaps due to an absence of
+applications for such a model. In response to some recent ideas about how to
+think about the center of mass and relative separation, we obtained from the
+Dirac model a new fundamental Hamiltonian in which the lattice couples to
+different states within the composite nuclei within the lattice. In this
+description the different nuclear states have different mass energies and
+kinetic energies, as we had expected. In addition there appear new terms which
+provide for nuclear excitation as a result of coupling to the composite
+momentum. This new effect comes about because of changes in the composite
+nuclear state as a result of the dynamical Lorentz boost in the lattice.

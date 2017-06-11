@@ -1,0 +1,21 @@
+
+We present an $\tilde{O}\left(m^{\frac{10}{7}}U^{\frac{1}{7}}\right)$-time
+algorithm for the maximum $s$-$t$ flow problem and the minimum $s$-$t$ cut
+problem in directed graphs with $m$ arcs and largest integer capacity $U$. This
+matches the running time of the
+$\tilde{O}\left((mU)^{\frac{10}{7}}\right)$-time algorithm of M\k{a}dry (FOCS
+2013) in the unit-capacity case, and improves over it, as well as over the
+$\tilde{O}\left(m \sqrt{n} \log U\right)$-time algorithm of Lee and Sidford
+(FOCS 2014), whenever $U$ is moderately large and the graph is sufficiently
+sparse. By well-known reductions, this also gives similar running time
+improvements for the maximum-cardinality bipartite $b$-matching problem.
+One of the advantages of our algorithm is that it is significantly simpler
+than the ones presented in Madry (FOCS 2013) and Lee and Sidford (FOCS 2014).
+In particular, these algorithms employ a sophisticated interior-point method
+framework, while our algorithm is cast directly in the classic augmenting path
+setting that almost all the combinatorial maximum flow algorithms use. At a
+high level, the presented algorithm takes a primal dual approach in which each
+iteration uses electrical flows computations both to find an augmenting $s$-$t$
+flow in the current residual graph and to update the dual solution. We show
+that by maintain certain careful coupling of these primal and dual solutions we
+are always guaranteed to make significant progress.
