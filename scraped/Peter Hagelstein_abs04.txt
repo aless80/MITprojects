@@ -1,0 +1,12 @@
+
+The electron mass is known to be sensitive to local fluctuations in the
+electromagnetic field, and undergoes a small shift in a thermal field. It was
+claimed recently that a very large electron mass shift should be expected near
+the surface of a metal hydride [{\it Eur. Phys. J. C}, {\bf 46} 107 (2006)]. We
+examine the shift using a formulation based on the Coulomb gauge, which leads
+to a much smaller shift. The maximization of the electron mass shift under
+nonequilibrium conditions seems nonetheless to be an interesting problem. We
+consider a scheme in which a current in a hollow wire produces a large vector
+potential in the wire center. Fluctuations in an LC circuit with nearly matched
+loss and gain can produce large current fluctuations; and these can increase
+the electron mass shift by orders of magnitude over its room temperature value.

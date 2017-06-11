@@ -1,0 +1,17 @@
+
+We present two universal hinge patterns that enable a strip of material to
+fold into any connected surface made up of unit squares on the 3D cube
+grid--for example, the surface of any polycube. The folding is efficient: for
+target surfaces topologically equivalent to a sphere, the strip needs to have
+only twice the target surface area, and the folding stacks at most two layers
+of material anywhere. These geometric results offer a new way to build
+programmable matter that is substantially more efficient than what is possible
+with a square $N \times N$ sheet of material, which can fold into all polycubes
+only of surface area $O(N)$ and may stack $\Theta(N^2)$ layers at one point. We
+also show how our strip foldings can be executed by a rigid motion without
+collisions, which is not possible in general with 2D sheet folding.
+To achieve these results, we develop new approximation algorithms for milling
+the surface of a grid polyhedron, which simultaneously give a 2-approximation
+in tour length and an 8/3-approximation in the number of turns. Both length and
+turns consume area when folding a strip, so we build on past approximation
+algorithms for these two objectives from 2D milling.

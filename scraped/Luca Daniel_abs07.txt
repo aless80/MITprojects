@@ -1,0 +1,14 @@
+
+Due to significant manufacturing process variations, the performance of
+integrated circuits (ICs) has become increasingly uncertain. Such uncertainties
+must be carefully quantified with efficient stochastic circuit simulators. This
+paper discusses the recent advances of stochastic spectral circuit simulators
+based on generalized polynomial chaos (gPC). Such techniques can handle both
+Gaussian and non-Gaussian random parameters, showing remarkable speedup over
+Monte Carlo for circuits with a small or medium number of parameters. We focus
+on the recently developed stochastic testing and the application of
+conventional stochastic Galerkin and stochastic collocation schemes to
+nonlinear circuit problems. The uncertainty quantification algorithms for
+static, transient and periodic steady-state simulations are presented along
+with some practical simulation results. Some open problems in this field are
+discussed.

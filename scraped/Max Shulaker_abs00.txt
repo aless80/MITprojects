@@ -1,0 +1,19 @@
+
+Carbon nanotube field-effect transistors (CNFETs) are promising candidates
+for building energy-efficient digital systems at highly-scaled technology
+nodes. However, carbon nanotubes (CNTs) are inherently subject to variations
+that reduce circuit yield, increase susceptibility to noise, and severely
+degrade their anticipated energy and speed benefits. Joint exploration and
+optimization of CNT processing options and CNFET circuit design are required to
+overcome this outstanding challenge. Unfortunately, existing approaches for
+such exploration and optimization are computationally expensive, and mostly
+rely on trial-and-error-based ad hoc techniques. In this paper, we present a
+framework that quickly evaluates the impact of CNT variations on circuit delay
+and noise margin, and systematically explores the large space of CNT processing
+options to derive optimized CNT processing and CNFET circuit design guidelines.
+We demonstrate that our framework: 1) runs over 100x faster than existing
+approaches, and 2) accurately identifies the most important CNT processing
+parameters, together with CNFET circuit design parameters (e.g., for CNFET
+sizing and standard cell layouts), to minimize the impact of CNT variations on
+CNFET circuit speed with less than 5% energy cost, while simultaneously meeting
+circuit-level noise margin and yield constraints.

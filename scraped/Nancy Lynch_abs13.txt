@@ -1,0 +1,20 @@
+
+This paper considers the communication and storage costs of emulating atomic
+(linearizable) multi-writer multi-reader shared memory in distributed
+message-passing systems. The paper contains three main contributions: (1) We
+present a atomic shared-memory emulation algorithm that we call Coded Atomic
+Storage (CAS). This algorithm uses erasure coding methods. In a storage system
+with $N$ servers that is resilient to $f$ server failures, we show that the
+communication cost of CAS is $\frac{N}{N-2f}$. The storage cost of CAS is
+unbounded. (2) We present a modification of the CAS algorithm known as CAS with
+Garbage Collection (CASGC). The CASGC algorithm is parametrized by an integer
+$\delta$ and has a bounded storage cost. We show that in every execution where
+the number of write operations that are concurrent with a read operation is no
+bigger than $\delta$, the CASGC algorithm with parameter $\delta$ satisfies
+atomicity and liveness. We explicitly characterize the storage cost of CASGC,
+and show that it has the same communication cost as CAS. (3) We describe an
+algorithm known as the Communication Cost Optimal Atomic Storage (CCOAS)
+algorithm that achieves a smaller communication cost than CAS and CASGC. In
+particular, CCOAS incurs read and write communication costs of $\frac{N}{N-f}$
+measured in terms of number of object values. We also discuss drawbacks of
+CCOAS as compared with CAS and CASGC.

@@ -1,0 +1,4 @@
+
+We prove that it is NP-hard to dissect one simple orthogonal polygon into
+another using a given number of pieces, as is approximating the fewest pieces
+to within a factor of $1+1/1080-\varepsilon$.

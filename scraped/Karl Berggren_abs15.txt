@@ -1,0 +1,23 @@
+
+The optimal orientations are determined for polarized substrate side
+illumination of three superconducting nanowire single-photon detector (SNSPD)
+designs: (1) periodic niobium-nitride (NbN) stripes standing in air with
+dimensions according to conventional SNSPDs, (2) same NbN patterns below
+~quarter-wavelength hydrogensilsesquioxane-filled nano-cavity, (3) analogous
+NbN patterns in HSQ nano-cavity closed by a thin gold reflector. Numerical
+computation results have shown that the optical response and near-field
+distribution vary significantly with polar-angle, fi, and these variations are
+analogous across all azimuthal-angles, gamma, but are fundamentally different
+in various device designs. Larger absorptance is available due to p-polarized
+illumination of NbN patterns in P-structure configuration, while s-polarized
+illumination results in higher absorptance in S-structure arrangement. As a
+result of p-polarized illumination a global maximum appears on absorptance of
+bare NbN pattern at polar angle corresponding to NbN-related ATIR; integration
+with HSQ nano-cavity results in a global absorptance maximum at polar angle
+corresponding to TIR at sapphire-air interface; while the highest absorptance
+is observable at perpendicular incidence on P-structures aligned below gold
+reflector covered HSQ nano-cavity. S-polarized light illumination results in a
+global absorptance maximum at TIR on bare NbN patterns; the highest absorptance
+is available below HSQ nano-cavity at polar angle corresponding to ATIR
+phenomenon; while the benefit of gold reflector is large and polar angle
+independent absorptance.

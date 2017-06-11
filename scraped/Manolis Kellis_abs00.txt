@@ -1,0 +1,26 @@
+
+Several significant models have been developed that enable the study of
+diffusion of signals across biological, social and engineered networks. Within
+these established frameworks, the inverse problem of identifying the source of
+the propagated signal is challenging, owing to the numerous alternative
+possibilities for signal progression through the network. In real world
+networks, the challenge of determining sources is compounded as the true
+propagation dynamics are typically unknown, and when they have been directly
+measured, they rarely conform to the assumptions of any of the well-studied
+models. In this paper we introduce a method called Network Infusion (NI) that
+has been designed to circumvent these issues, making source inference practical
+for large, complex real world networks. The key idea is that to infer the
+source node in the network, full characterization of diffusion dynamics, in
+many cases, may not be necessary. This objective is achieved by creating a
+diffusion kernel that well-approximates standard diffusion models, but lends
+itself to inversion, by design, via likelihood maximization or error
+minimization. We apply NI for both single-source and multi-source diffusion,
+for both single-snapshot and multi-snapshot observations, and for both
+homogeneous and heterogeneous diffusion setups. We prove the mean-field
+optimality of NI for different scenarios, and demonstrate its effectiveness
+over several synthetic networks. Moreover, we apply NI to a real-data
+application, identifying news sources in the Digg social network, and
+demonstrate the effectiveness of NI compared to existing methods. Finally, we
+propose an integrative source inference framework that combines NI with a
+distance centrality-based method, which leads to a robust performance in cases
+where the underlying dynamics are unknown.

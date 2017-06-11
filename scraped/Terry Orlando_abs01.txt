@@ -1,0 +1,13 @@
+
+We assess independently the impact of high-temperature substrate annealing
+and metal deposition conditions on the coherence of transmon qubits in the
+standard 2D circuit-QED architecture. We restrict our study to devices made
+with aluminum interdigital capacitors on sapphire substrates. We record more
+than an order-of-magnitude improvement in the relaxation time of devices made
+with an annealed substrate, independent of whether a conventional evaporator or
+molecular beam epitaxy chamber was used to deposit the aluminum. We also infer
+similar levels of flux noise and photon shot noise through dephasing
+measurements on these devices. Our results indicate that substrate annealing
+plays a primary role in fabricating low-loss qubits, consistent with the
+hypothesis that substrate-air and substrate-metal interfaces are essential
+factors limiting the qubit lifetimes in superconducting circuits.

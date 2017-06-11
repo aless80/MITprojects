@@ -1,0 +1,16 @@
+
+This paper presents a tensor-recovery method to solve probabilistic power
+flow problems. Our approach generates a high-dimensional and sparse generalized
+polynomial-chaos expansion that provides useful statistical information. The
+result can also speed up other essential routines in power systems (e.g.,
+stochastic planning, operations and controls).
+Instead of simulating a power flow equation at all quadrature points, our
+approach only simulates an extremely small subset of samples. We suggest a
+model to exploit the underlying low-rank and sparse structure of
+high-dimensional simulation data arrays, making our technique applicable to
+power systems with many random parameters. We also present a numerical method
+to solve the resulting nonlinear optimization problem.
+Our algorithm is implemented in MATLAB and is verified by several benchmarks
+in MATPOWER $5.1$. Accurate results are obtained for power systems with up to
+$50$ independent random parameters, with a speedup factor up to $9\times
+10^{20}$.

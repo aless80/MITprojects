@@ -1,0 +1,25 @@
+
+We consider the fundamental algorithmic problem of finding a cycle of minimum
+weight in a weighted graph. In particular, we show that the minimum weight
+cycle problem in an undirected n-node graph with edge weights in {1,...,M} or
+in a directed n-node graph with edge weights in {-M,..., M} and no negative
+cycles can be efficiently reduced to finding a minimum weight triangle in an
+Theta(n)-node undirected graph with weights in {1,...,O(M)}. Roughly speaking,
+our reductions imply the following surprising phenomenon: a minimum cycle with
+an arbitrary number of weighted edges can be "encoded" using only three edges
+within roughly the same weight interval! This resolves a longstanding open
+problem posed by Itai and Rodeh [SIAM J. Computing 1978 and STOC'77].
+A direct consequence of our efficient reductions are O (Mn^{omega})-time
+algorithms using fast matrix multiplication (FMM) for finding a minimum weight
+cycle in both undirected graphs with integral weights from the interval [1,M]
+and directed graphs with integral weights from the interval [-M,M]. The latter
+seems to reveal a strong separation between the all pairs shortest paths (APSP)
+problem and the minimum weight cycle problem in directed graphs as the fastest
+known APSP algorithm has a running time of O(M^{0.681}n^{2.575}) by Zwick [J.
+ACM 2002].
+In contrast, when only combinatorial algorithms are allowed (that is, without
+FMM) the only known solution to minimum weight cycle is by computing APSP.
+Interestingly, any separation between the two problems in this case would be an
+amazing breakthrough as by a recent paper by Vassilevska W. and Williams
+[FOCS'10], any O(n^{3-eps})-time algorithm (eps>0) for minimum weight cycle
+immediately implies a O(n^{3-delta})-time algorithm (delta>0) for APSP.

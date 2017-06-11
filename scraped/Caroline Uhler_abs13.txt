@@ -1,0 +1,13 @@
+
+Gaussian graphical models have received considerable attention during the
+past four decades from the statistical and machine learning communities. In
+Bayesian treatments of this model, the G-Wishart distribution serves as the
+conjugate prior for inverse covariance matrices satisfying graphical
+constraints. While it is straightforward to posit the unnormalized densities,
+the normalizing constants of these distributions have been known only for
+graphs that are chordal, or decomposable. Up until now, it was unknown whether
+the normalizing constant for a general graph could be represented explicitly,
+and a considerable body of computational literature emerged that attempted to
+avoid this apparent intractability. We close this question by providing an
+explicit representation of the G-Wishart normalizing constant for general
+graphs.

@@ -1,0 +1,13 @@
+
+We consider continuous-time consensus seeking systems whose time-dependent
+interactions are cut-balanced, in the following sense: if a group of agents
+influences the remaining ones, the former group is also influenced by the
+remaining ones by at least a proportional amount. Models involving symmetric
+interconnections and models in which a weighted average of the agent values is
+conserved are special cases. We prove that such systems always converge. We
+give a sufficient condition on the evolving interaction topology for the limit
+values of two agents to be the same. Conversely, we show that if our condition
+is not satisfied, then these limits are generically different. These results
+allow treating systems where the agent interactions are a priori unknown, e.g.,
+random or determined endogenously by the agent values. We also derive
+corresponding results for discrete-time systems.

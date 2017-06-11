@@ -1,0 +1,17 @@
+
+We obtain new upper bounds on the additive distortion for graph emulators and
+spanners on relatively few edges. We introduce a new subroutine called "strip
+creation," and we combine this subroutine with several other ideas to obtain
+the following results:
+\item Every graph has a spanner on $O(n^{1+\epsilon})$ edges with
+$\tilde{O}(n^{1/2 - \epsilon/2})$ additive distortion, for arbitrary
+$\epsilon\in [0,1]$. \item Every graph has an emulator on $\tilde{O}(n^{1 +
+\epsilon})$ edges with $\tilde{O}(n^{1/3 - 2\epsilon/3})$ additive distortion
+whenever $\epsilon \in [0, \frac{1}{5}]$. \item Every graph has a spanner on
+$\tilde{O}(n^{1 + \epsilon})$ edges with $\tilde{O}(n^{2/3 - 5\epsilon/3})$
+additive distortion whenever $\epsilon \in [0, \frac{1}{4}]$.
+Our first spanner has the new best known asymptotic edge-error tradeoff for
+additive spanners whenever $\epsilon \in [0, \frac{1}{7}]$. Our second spanner
+has the new best tradeoff whenever $\epsilon \in [\frac{1}{7}, \frac{3}{17}]$.
+Our emulator has the new best asymptotic edge-error tradeoff whenever $\epsilon
+\in [0, \frac{1}{5}]$.

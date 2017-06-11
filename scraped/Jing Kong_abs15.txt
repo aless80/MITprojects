@@ -1,0 +1,6 @@
+
+2D nanoelectronics based on single-layer MoS2 offers great advantages for
+both conventional and ubiquitous applications. This paper discusses the
+large-scale CVD growth of single-layer MoS2 and fabrication of devices and
+circuits for the first time. Both digital and analog circuits are fabricated to
+demonstrate its capability for mixed-signal applications.

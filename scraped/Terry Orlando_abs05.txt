@@ -1,0 +1,9 @@
+
+We have investigated the driven dynamics of a superconducting flux qubit that
+is tunably coupled to a microwave resonator. We find that the qubit experiences
+an oscillating field mediated by off-resonant driving of the resonator, leading
+to strong modifications of the qubit Rabi frequency. This opens an additional
+noise channel, and we find that low-frequency noise in the coupling parameter
+causes a reduction of the coherence time during driven evolution. The noise can
+be mitigated with the rotary-echo pulse sequence, which, for driven systems, is
+analogous to the Hahn-echo sequence.

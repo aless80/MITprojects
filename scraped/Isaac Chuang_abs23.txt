@@ -1,0 +1,15 @@
+
+Electrical charging of metal surfaces due to photoelectric generation of
+carriers is of concern in trapped ion quantum computation systems, due to the
+high sensitivity of the ions' motional quantum states to deformation of the
+trapping potential. The charging induced by typical laser frequencies involved
+in doppler cooling and quantum control is studied here, with microfabricated
+surface electrode traps made of aluminum, copper, and gold, operated at 6 K
+with a single Sr$^+$ ion trapped 100 $\mu$m above the trap surface. The lasers
+used are at 370, 405, 460, and 674 nm, and the typical photon flux at the trap
+is 10$^{14}$ photons/cm$^2$/sec. Charging is detected by monitoring the ion's
+micromotion signal, which is related to the number of charges created on the
+trap. A wavelength and material dependence of the charging behavior is
+observed: lasers at lower wavelengths cause more charging, and aluminum
+exhibits more charging than copper or gold. We describe the charging dynamic
+based on a rate equation approach.

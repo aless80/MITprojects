@@ -1,0 +1,17 @@
+
+We report a direct measurement of the low-frequency noise spectrum in a
+superconducting flux qubit. Our method uses the noise sensitivity of a
+free-induction Ramsey interference experiment, comprising free evolution in the
+presence of noise for a fixed period of time followed by single-shot
+qubit-state measurement. Repeating this procedure enables Fourier-transform
+noise spectroscopy with access to frequencies up to the achievable repetition
+rate, a regime relevant to dephasing in ensemble-averaged time-domain
+measurements such as Ramsey interferometry. Rotating the qubit's quantization
+axis allows us to measure two types of noise: effective flux noise and
+effective critical-current or charge noise. For both noise sources, we observe
+that the very same 1/f-type power laws measured at considerably higher
+frequencies (0.2-20 MHz) are consistent with the noise in the 0.01-100-Hz range
+measured here. We find no evidence of temperature dependence of the noises over
+65-200 mK, and also no evidence of time-domain correlations between the two
+noises. These methods and results are pertinent to the dephasing of all
+superconducting qubits.

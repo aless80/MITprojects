@@ -1,0 +1,14 @@
+
+The disk around HD 141569 is one of a handful of systems whose weak infrared
+emission is consistent with a debris disk, but still has a significant
+reservoir of gas. Here we report spatially resolved mm observations of the
+CO(3-2) and CO(1-0) emission as seen with the SMA and CARMA. We find that the
+excitation temperature for CO is lower than expected from cospatial blackbody
+grains, similar to previous observations of analogous systems, and derive a gas
+mass that lies between that of gas-rich primordial disks and gas-poor debris
+disks. The data also indicate a large inner hole in the CO gas distribution and
+an outer radius that lies interior to the outer scattered light rings. This
+spatial distribution, with the dust rings just outside the gaseous disk, is
+consistent with the expected interactions between gas and dust in an optically
+thin disk. This indicates that gas can have a significant effect on the
+location of the dust within debris disks.

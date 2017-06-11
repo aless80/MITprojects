@@ -1,0 +1,15 @@
+
+We study a simple continuous-time multi-agent system related to Krause's
+model of opinion dynamics: each agent holds a real value, and this value is
+continuously attracted by every other value differing from it by less than 1,
+with an intensity proportional to the difference.
+We prove convergence to a set of clusters, with the agents in each cluster
+sharing a common value, and provide a lower bound on the distance between
+clusters at a stable equilibrium, under a suitable notion of multi-agent system
+stability.
+To better understand the behavior of the system for a large number of agents,
+we introduce a variant involving a continuum of agents. We prove, under some
+conditions, the existence of a solution to the system dynamics, convergence to
+clusters, and a non-trivial lower bound on the distance between clusters.
+Finally, we establish that the continuum model accurately represents the
+asymptotic behavior of a system with a finite but large number of agents.

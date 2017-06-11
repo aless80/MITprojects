@@ -1,0 +1,27 @@
+
+We consider the ANTS problem [Feinerman et al.] in which a group of agents
+collaboratively search for a target in a two-dimensional plane. Because this
+problem is inspired by the behavior of biological species, we argue that in
+addition to studying the {\em time complexity} of solutions it is also
+important to study the {\em selection complexity}, a measure of how likely a
+given algorithmic strategy is to arise in nature due to selective pressures. In
+more detail, we propose a new selection complexity metric $\chi$, defined for
+algorithm ${\cal A}$ such that $\chi({\cal A}) = b + \log \ell$, where $b$ is
+the number of memory bits used by each agent and $\ell$ bounds the fineness of
+available probabilities (agents use probabilities of at least $1/2^\ell$). In
+this paper, we study the trade-off between the standard performance metric of
+speed-up, which measures how the expected time to find the target improves with
+$n$, and our new selection metric.
+In particular, consider $n$ agents searching for a treasure located at
+(unknown) distance $D$ from the origin (where $n$ is sub-exponential in $D$).
+For this problem, we identify $\log \log D$ as a crucial threshold for our
+selection complexity metric. We first prove a new upper bound that achieves a
+near-optimal speed-up of $(D^2/n +D) \cdot 2^{O(\ell)}$ for $\chi({\cal A})
+\leq 3 \log \log D + O(1)$. In particular, for $\ell \in O(1)$, the speed-up is
+asymptotically optimal. By comparison, the existing results for this problem
+[Feinerman et al.] that achieve similar speed-up require $\chi({\cal A}) =
+\Omega(\log D)$. We then show that this threshold is tight by describing a
+lower bound showing that if $\chi({\cal A}) < \log \log D - \omega(1)$, then
+with high probability the target is not found within $D^{2-o(1)}$ moves per
+agent. Hence, there is a sizable gap to the straightforward $\Omega(D^2/n + D)$
+lower bound in this setting.

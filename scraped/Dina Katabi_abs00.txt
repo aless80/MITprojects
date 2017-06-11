@@ -1,0 +1,11 @@
+
+Many sensor applications are interested in computing a function over
+measurements (e.g., sum, average, max) as opposed to collecting all sensor
+data. Today, such data aggregation is done in a cluster-head. Sensor nodes
+transmit their values sequentially to a cluster-head node, which calculates the
+aggregation function and forwards it to the base station. In contrast, this
+paper explores the possibility of computing a desired function over the air. We
+devise a solution that enables sensors to transmit coherently over the wireless
+medium so that the cluster-head directly receives the value of the desired
+function. We present analysis and preliminary results that demonstrate that
+such a design yield a large improvement in network throughput.

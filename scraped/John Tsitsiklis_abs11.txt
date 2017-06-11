@@ -1,0 +1,20 @@
+
+We consider the problem of packet scheduling in single-hop queueing networks,
+and analyze the impact of heavy-tailed traffic on the performance of Max-Weight
+scheduling. As a performance metric we use the delay stability of traffic
+flows: a traffic flow is delay stable if its expected steady-state delay is
+finite, and delay unstable otherwise. First, we show that a heavy-tailed
+traffic flow is delay unstable under any scheduling policy. Then, we focus on
+the celebrated Max-Weight scheduling policy, and show that a light-tailed flow
+that conflicts with a heavy-tailed flow is also delay unstable. This is true
+irrespective of the rate or the tail distribution of the light-tailed flow, or
+other scheduling constraints in the network. Surprisingly, we show that a
+light-tailed flow can be delay unstable, even when it does not conflict with
+heavy-tailed traffic. Furthermore, delay stability in this case may depend on
+the rate of the light-tailed flow. Finally, we turn our attention to the class
+of Max-Weight-a scheduling policies; we show that if the a-parameters are
+chosen suitably, then the sum of the a-moments of the steady-state queue
+lengths is finite. We provide an explicit upper bound for the latter quantity,
+from which we derive results related to the delay stability of traffic flows,
+and the scaling of moments of steady-state queue lengths with traffic
+intensity.

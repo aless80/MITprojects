@@ -1,0 +1,7 @@
+
+We study the complexity of symmetric assembly puzzles: given a collection of
+simple polygons, can we translate, rotate, and possibly flip them so that their
+interior-disjoint union is line symmetric? On the negative side, we show that
+the problem is strongly NP-complete even if the pieces are all polyominos. On
+the positive side, we show that the problem can be solved in polynomial time if
+the number of pieces is a fixed constant.

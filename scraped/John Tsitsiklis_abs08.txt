@@ -1,0 +1,18 @@
+
+In an electric power system, demand fluctuations may result in significant
+ancillary cost to suppliers. Furthermore, in the near future, deep penetration
+of volatile renewable electricity generation is expected to exacerbate the
+variability of demand on conventional thermal generating units. We address this
+issue by explicitly modeling the ancillary cost associated with demand
+variability. We argue that a time-varying price equal to the suppliers'
+instantaneous marginal cost may not achieve social optimality, and that
+consumer demand fluctuations should be properly priced. We propose a dynamic
+pricing mechanism that explicitly encourages consumers to adapt their
+consumption so as to offset the variability of demand on conventional units.
+Through a dynamic game-theoretic formulation, we show that (under suitable
+convexity assumptions) the proposed pricing mechanism achieves social
+optimality asymptotically, as the number of consumers increases to infinity.
+Numerical results demonstrate that compared with marginal cost pricing, the
+proposed mechanism creates a stronger incentive for consumers to shift their
+peak load, and therefore has the potential to reduce the need for long-term
+investment in peaking plants.

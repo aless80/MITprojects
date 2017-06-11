@@ -1,0 +1,10 @@
+
+We consider a spin-boson model in which a spin 1 system is coupled to an
+oscillator. A unitary transformation is applied which allows a separation of
+terms responsible for the Bloch-Siegert shift, and terms responsible for the
+level splittings at anticrossings associated with Bloch-Siegert resonances.
+When the oscillator is highly excited, the system can maintain resonance for
+sequential multiphoton transitions. At lower levels of excitation, resonance
+cannot be maintained because energy exchange with the oscillator changes the
+level shift. An estimate for the critical excitation level of the oscillator is
+developed.

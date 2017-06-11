@@ -1,0 +1,15 @@
+
+Layered transition metal dichalcogenides display a wide range of attractive
+physical and chemical properties and are potentially important for various
+device applications. Here we report the electronic transport and device
+properties of monolayer molybdenum disulphide (MoS2) grown by chemical vapour
+deposition (CVD). We show that these devices have the potential to suppress
+short channel effects and have high critical breakdown electric field. However,
+our study reveals that the electronic properties of these devices are at
+present, severely limited by the presence of a significant amount of band tail
+trapping states. Through capacitance and ac conductance measurements, we
+systematically quantify the density-of-states and response time of these
+states. Due to the large amount of trapped charges, the measured effective
+mobility also leads to a large underestimation of the true band mobility and
+the potential of the material. Continual engineering efforts on improving the
+sample quality are needed for its potential applications.

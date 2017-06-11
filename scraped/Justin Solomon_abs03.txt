@@ -1,0 +1,14 @@
+
+Optimal transportation distances are valuable for comparing and analyzing
+probability distributions, but larger-scale computational techniques for the
+theoretically favorable quadratic case are limited to smooth domains or
+regularized approximations. Motivated by fluid flow-based transportation on
+$\mathbb{R}^n$, however, this paper introduces an alternative definition of
+optimal transportation between distributions over graph vertices. This new
+distance still satisfies the triangle inequality but has better scaling and a
+connection to continuous theories of transportation. It is constructed by
+adapting a Riemannian structure over probability distributions to the graph
+case, providing transportation distances as shortest-paths in probability
+space. After defining and analyzing theoretical properties of our new distance,
+we provide a time discretization as well as experiments verifying its
+effectiveness.

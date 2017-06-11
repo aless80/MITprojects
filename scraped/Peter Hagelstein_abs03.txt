@@ -1,0 +1,12 @@
+
+In previous work we studied the spin-boson model in the multiphoton regime,
+using a rotation that provides a separation between terms that contribute most
+of the level energies away from resonance, and terms responsible for the level
+splittings at the anticrossing. Here, we consider a generalization of the
+spin-boson model consisting of a three-level system coupled to an oscillator.
+We construct a similar rotation and apply it to the more complicated model. We
+find that the rotation provides a useful approximation to the energy levels in
+the multiphoton region of the new problem. We find that good results can be
+obtained for the level splittings at the anticrossings for resonances involving
+the lower two levels in regions away from accidental or low-order resonances of
+the upper two levels.

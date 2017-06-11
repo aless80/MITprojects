@@ -10,22 +10,25 @@ def main(abs_dict):
     if not os.path.exists(scraped_path):
         os.makedirs(scraped_path)       #mkdir if does not exist
     for prof, abs_list in abs_dict.items():
+        if os.path.exists("./scraped/"+prof+"_abs00.txt"):
+            continue
         print("Processing %i abstracts for %s" % (len(abs_list), prof))
-        all_abstracts=unicode()
         for i,url in enumerate(abs_list):
+            filename = "%s/%s_abs%02d.txt" % (scraped_path,prof,i)
+            #Do not scrape abstracts again!
+            if os.path.isfile(filename): continue
+            #arxiv is blocking me, so you can try a different mirror like this:
+            url=url.replace('https://arxiv.','http://es.arxiv.')
             try:
                 h=urllib2.urlopen(url);
             except:
-                print("URL cannot be opened: %s" % url)
+                print("  URL cannot be opened: %s" % url)
                 break
             html_text=h.read();
             soup=BeautifulSoup(html_text, "html.parser");
             abstract=soup.find("blockquote", class_="abstract").text
             abstract=abstract.replace("Abstract: ","")
             title=soup.find("h1", class_="title").text
-            filename = "%s/%s_abs%02d.txt" % (scraped_path,prof,i)
-            #Do not scrape files again!
-            if not os.path.isfile(filename): continue
             try:
                 f=open(filename,"w")
                 #f.write(title)
@@ -35,7 +38,6 @@ def main(abs_dict):
             except:
                 print("   could not store in %s !" % filename)
 
-            #all_abstracts=all_abstracts+abstract
 #        cnt=tokenize(all_abstracts)
 #    return cnt
 

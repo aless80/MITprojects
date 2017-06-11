@@ -1,0 +1,18 @@
+
+Stochastic spectral methods are efficient techniques for uncertainty
+quantification. Recently they have shown excellent performance in the
+statistical analysis of integrated circuits. In stochastic spectral methods,
+one needs to determine a set of orthonormal polynomials and a proper numerical
+quadrature rule. The former are used as the basis functions in a generalized
+polynomial chaos expansion. The latter is used to compute the integrals
+involved in stochastic spectral methods. Obtaining such information requires
+knowing the density function of the random input {\it a-priori}. However,
+individual system components are often described by surrogate models rather
+than density functions. In order to apply stochastic spectral methods in
+hierarchical uncertainty quantification, we first propose to construct
+physically consistent closed-form density functions by two monotone
+interpolation schemes. Then, by exploiting the special forms of the obtained
+density functions, we determine the generalized polynomial-chaos basis
+functions and the Gauss quadrature rules that are required by a stochastic
+spectral simulator. The effectiveness of our proposed algorithm is verified by
+both synthetic and practical circuit examples.

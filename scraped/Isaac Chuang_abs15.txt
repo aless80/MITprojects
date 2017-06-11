@@ -1,0 +1,15 @@
+
+Performing exact inference on Bayesian networks is known to be #P-hard.
+Typically approximate inference techniques are used instead to sample from the
+distribution on query variables given the values $e$ of evidence variables.
+Classically, a single unbiased sample is obtained from a Bayesian network on
+$n$ variables with at most $m$ parents per node in time
+$\mathcal{O}(nmP(e)^{-1})$, depending critically on $P(e)$, the probability the
+evidence might occur in the first place. By implementing a quantum version of
+rejection sampling, we obtain a square-root speedup, taking
+$\mathcal{O}(n2^mP(e)^{-\frac12})$ time per sample. We exploit the Bayesian
+network's graph structure to efficiently construct a quantum state, a q-sample,
+representing the intended classical distribution, and also to efficiently apply
+amplitude amplification, the source of our speedup. Thus, our speedup is
+notable as it is unrelativized -- we count primitive operations and require no
+blackbox oracle queries.

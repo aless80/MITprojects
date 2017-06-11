@@ -1,0 +1,8 @@
+
+We present experimental measurements of the electronic contribution to the
+Raman spectra of individual metallic single-walled carbon nanotubes (MSWNTs).
+Photoexcited carriers are inelastically scattered by a continuum of low-energy
+electron-hole pairs created across the graphenelike linear electronic subbands
+of the MSWNTs. The optical resonances in MSWNTs give rise to well-defined
+electronic Raman peaks. This resonant electronic Raman scattering is a unique
+feature of the electronic structure of these one-dimensional quasimetals.

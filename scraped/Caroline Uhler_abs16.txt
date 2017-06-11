@@ -1,0 +1,7 @@
+
+The classical sphere packing problem asks for the best (infinite) arrangement
+of non-overlapping unit balls which cover as much space as possible. We define
+a generalized version of the problem, where we allow each ball a limited amount
+of overlap with other balls. We study two natural choices of overlap measures
+and obtain the optimal lattice packings in a parameterized family of lattices
+which contains the FCC, BCC, and integer lattice.

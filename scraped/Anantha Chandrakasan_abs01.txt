@@ -1,0 +1,15 @@
+
+Wireless microsensor networks, which have been the topic of intensive
+research in recent years, are now emerging in industrial applications. An
+important milestone in this transition has been the release of the IEEE
+802.15.4 standard that specifies interoperable wireless physical and medium
+access control layers targeted to sensor node radios. In this paper, we
+evaluate the potential of an 802.15.4 radio for use in an ultra low power
+sensor node operating in a dense network. Starting from measurements carried
+out on the off-the-shelf radio, effective radio activation and link adaptation
+policies are derived. It is shown that, in a typical sensor network scenario,
+the average power per node can be reduced down to 211m mm mW. Next, the energy
+consumption breakdown between the different phases of a packet transmission is
+presented, indicating which part of the transceiver architecture can most
+effectively be optimized in order to further reduce the radio power, enabling
+self-powered wireless microsensor networks.

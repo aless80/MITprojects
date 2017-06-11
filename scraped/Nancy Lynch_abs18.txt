@@ -1,0 +1,9 @@
+
+A method of analyzing time bounds for randomized distributed algorithms is
+presented, in the context of a new and general framework for describing and
+reasoning about randomized algorithms. The method consists of proving auxiliary
+statements of the form U (t)->(p) U', which means that whenever the algorithm
+begins in a state in set U, with probability p, it will reach a state in set U'
+within time t. The power of the method is illustrated by its use in proving a
+constant upper bound on the expected time for some process to reach its
+critical region, in Lehmann and Rabin's Dining Philosophers algorithm.

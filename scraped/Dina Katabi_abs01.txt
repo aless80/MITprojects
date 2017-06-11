@@ -1,0 +1,21 @@
+
+Time-of-flight, i.e., the time incurred by a signal to travel from
+transmitter to receiver, is perhaps the most intuitive way to measure distances
+using wireless signals. It is used in major positioning systems such as GPS,
+RADAR, and SONAR. However, attempts at using time-of-flight for indoor
+localization have failed to deliver acceptable accuracy due to fundamental
+limitations in measuring time on Wi-Fi and other RF consumer technologies.
+While the research community has developed alternatives for RF-based indoor
+localization that do not require time-of-flight, those approaches have their
+own limitations that hamper their use in practice. In particular, many existing
+approaches need receivers with large antenna arrays while commercial Wi-Fi
+nodes have two or three antennas. Other systems require fingerprinting the
+environment to create signal maps. More fundamentally, none of these methods
+support indoor positioning between a pair of Wi-Fi devices
+without~third~party~support.
+In this paper, we present a set of algorithms that measure the time-of-flight
+to sub-nanosecond accuracy on commercial Wi-Fi cards. We implement these
+algorithms and demonstrate a system that achieves accurate device-to-device
+localization, i.e. enables a pair of Wi-Fi devices to locate each other without
+any support from the infrastructure, not even the location of the access
+points.

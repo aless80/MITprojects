@@ -1,0 +1,16 @@
+
+We demonstrate how to calculate posteriors for general CRM-based priors and
+likelihoods for Bayesian nonparametric models. We further show how to represent
+Bayesian nonparametric priors as a sequence of finite draws using a
+size-biasing approach---and how to represent full Bayesian nonparametric models
+via finite marginals. Motivated by conjugate priors based on exponential family
+representations of likelihoods, we introduce a notion of exponential families
+for CRMs, which we call exponential CRMs. This construction allows us to
+specify automatic Bayesian nonparametric conjugate priors for exponential CRM
+likelihoods. We demonstrate that our exponential CRMs allow particularly
+straightforward recipes for size-biased and marginal representations of
+Bayesian nonparametric models. Along the way, we prove that the gamma process
+is a conjugate prior for the Poisson likelihood process and the beta prime
+process is a conjugate prior for a process we call the odds Bernoulli process.
+We deliver a size-biased representation of the gamma process and a marginal
+representation of the gamma process coupled with a Poisson likelihood process.

@@ -1,0 +1,10 @@
+
+We consider auctions in which the players have very limited knowledge about
+their own valuations. Specifically, the only information that a Knightian
+player $i$ has about the profile of true valuations, $\theta^*$, consists of a
+set of distributions, from one of which $\theta_i^*$ has been drawn.
+The VCG mechanism guarantees very high social welfare both in single- and
+multi-good auctions, so long as Knightian players do not select strategies that
+are dominated. With such Knightian players, however, we prove that the VCG
+mechanism guarantees very poor social welfare in unrestricted combinatorial
+auctions.

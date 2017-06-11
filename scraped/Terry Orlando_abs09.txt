@@ -1,0 +1,11 @@
+
+We have implemented a resonant circuit that uses a SQUID as a flux-sensitive
+Josephson inductor for qubit readout. In contrast to the conventional switching
+current measurement that generates undesired quasi-particles when the SQUID
+switches to the voltage state, our approach keeps the readout SQUID biased
+along the supercurrent branch during the measurement. By incorporating the
+SQUID inductor in a high-Q resonant circuit, we can distinguish the two flux
+states of a niobium persistent-current (PC) qubit by observing a shift in the
+resonant frequency of both the magnitude and the phase spectra. The readout
+circuit was also characterized in the nonlinear regime to investigate its
+potential use as a nonlinear amplifier.

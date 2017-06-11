@@ -1,0 +1,5 @@
+
+We present an algorithm for generating Poisson-disc patterns taking O(N) time
+to generate $N$ points. The method is based on a grid of regions which can
+contain no more than one point in the final pattern, and uses an explicit model
+of point arrival times under a uniform Poisson process.

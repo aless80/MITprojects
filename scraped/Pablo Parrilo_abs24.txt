@@ -1,0 +1,28 @@
+
+We consider polynomial differential equations and make a number of
+contributions to the questions of (i) complexity of deciding stability, (ii)
+existence of polynomial Lyapunov functions, and (iii) existence of sum of
+squares (sos) Lyapunov functions.
+(i) We show that deciding local or global asymptotic stability of cubic
+vector fields is strongly NP-hard. Simple variations of our proof are shown to
+imply strong NP-hardness of several other decision problems: testing local
+attractivity of an equilibrium point, stability of an equilibrium point in the
+sense of Lyapunov, invariance of the unit ball, boundedness of trajectories,
+convergence of all trajectories in a ball to a given equilibrium point,
+existence of a quadratic Lyapunov function, local collision avoidance, and
+existence of a stabilizing control law.
+(ii) We present a simple, explicit example of a globally asymptotically
+stable quadratic vector field on the plane which does not admit a polynomial
+Lyapunov function (joint work with M. Krstic). For the subclass of homogeneous
+vector fields, we conjecture that asymptotic stability implies existence of a
+polynomial Lyapunov function, but show that the minimum degree of such a
+Lyapunov function can be arbitrarily large even for vector fields in fixed
+dimension and degree. For the same class of vector fields, we further establish
+that there is no monotonicity in the degree of polynomial Lyapunov functions.
+(iii) We show via an explicit counterexample that if the degree of the
+polynomial Lyapunov function is fixed, then sos programming may fail to find a
+valid Lyapunov function even though one exists. On the other hand, if the
+degree is allowed to increase, we prove that existence of a polynomial Lyapunov
+function for a planar or a homogeneous vector field implies existence of a
+polynomial Lyapunov function that is sos and that the negative of its
+derivative is also sos.

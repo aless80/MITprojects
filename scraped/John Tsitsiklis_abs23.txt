@@ -1,0 +1,11 @@
+
+We study a model of opinion dynamics introduced by Krause: each agent has an
+opinion represented by a real number, and updates its opinion by averaging all
+agent opinions that differ from its own by less than 1. We give a new proof of
+convergence into clusters of agents, with all agents in the same cluster
+holding the same opinion. We then introduce a particular notion of equilibrium
+stability and provide lower bounds on the inter-cluster distances at a stable
+equilibrium. To better understand the behavior of the system when the number of
+agents is large, we also introduce and study a variant involving a continuum of
+agents, obtaining partial convergence results and lower bounds on inter-cluster
+distances, under some mild assumptions.

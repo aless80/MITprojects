@@ -1,0 +1,25 @@
+
+Bayesian networks or directed graphical models are widely used to represent
+complex causal systems. From observational data alone, a Bayesian network can
+only be identified up to Markov equivalence and interventional experiments are
+required to distinguish between Markov equivalent Bayesian networks. It is
+therefore important to describe and understand the set of Markov equivalence
+classes (MECs) and their sizes. In this paper, we initiate the combinatorial
+enumeration of MECs on a fixed undirected graph, and thereby recast this
+important statistical problem into the language of combinatorial optimization.
+Combinatorially, two Bayesian networks are Markov equivalent if their
+underlying undirected graphs and their set of immoralities are the same. We
+show that the NP-complete Minimum Vertex Cover problem reduces to the
+computation of a Bayesian network with the maximum number of immoralities. The
+NP-hardness of this problem shows the complexity of enumerating MECs from the
+perspective of combinatorial optimization. We then solve this enumeration
+problem for classically studied families of graphs including paths, cycles, and
+some types of complete bipartite graphs, trees, and circulants. We also provide
+tight bounds on the number and size of MECs on a given tree. These bounds
+exactly parallel the well-known bounds for the independent set problem.
+Finally, a computer program was written to analyze the enumeration problem on
+all graphs with at most 10 nodes and all triangle-free graphs with at most $12$
+nodes. The results show a trade-off between degree and clustering coefficient
+with respect to the number of MECs and their sizes. In addition, this program
+established that the frequency vector consisting of the number of MECs of each
+size uniquely determines the undirected graph.

@@ -1,0 +1,9 @@
+
+This brief paper proposes an uncertainty quantification method for the
+periodic steady-state (PSS) analysis with both Gaussian and non-Gaussian
+variations. Our stochastic testing formulation for the PSS problem provides
+superior efficiency over both Monte Carlo methods and existing spectral
+methods. The numerical implementation of a stochastic shooting Newton solver is
+presented for both forced and autonomous circuits. Simulation results on some
+analog/RF circuits are reported to show the effectiveness of our proposed
+algorithms.

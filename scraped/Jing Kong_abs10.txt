@@ -1,0 +1,25 @@
+
+Recently emerging large-area single-layer MoS2 grown by chemical vapor
+deposition has triggered great interest due to its exciting potential for
+applications in advanced electronic and optoelectronic devices. Unlike gapless
+graphene, MoS2 has an intrinsic band gap in the visible which crosses over from
+an indirect to a direct gap when reduced to a single atomic layer. In this
+article, we report a comprehensive study of fundamental optical properties of
+MoS2 revealed by optical spectroscopy of Raman, photoluminescence, and vacuum
+ultraviolet spectroscopic ellipsometry. A band gap of 1.42 eV is determined by
+the absorption threshold of bulk MoS2 that shifts to 1.83 eV in monolayer MoS2.
+We extracted the high precision dielectric function up to 9.0 eV which leads to
+the identification of many unique interband transitions at high symmetry points
+in the MoS2 momentum space. The positions of the A and B excitons in single
+layers are found to shift upwards in energy compared with those of the bulk
+form and have smaller separation. A very strong optical critical point
+predicted to correspond to a quasi-particle gap is observed at 2.86 eV, which
+is attributed to optical transitions along the parallel bands between the M and
+gama points in the reduced Brillouin zone. The absence of the bulk MoS2
+spin-orbit interaction peak at ~ 3.0 eV in monolayer MoS2 is, as predicted, the
+consequence of the coalescence of nearby excitons. A higher energy optical
+transition at 3.98 eV, commonly occurred in bulk semiconductors, is associated
+with a combination of several critical points.These optical transitions herein
+reported enhance our understanding of monolayer MoS2 as well as of
+two-dimensional systems in general, and thus provide informative guidelines for
+MoS2 optical device designs and theoretical considerations.

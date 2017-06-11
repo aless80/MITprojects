@@ -1,0 +1,8 @@
+
+Bayesian hierarchical models are increasing popular in economics. When using
+hierarchical models, it is useful not only to calculate posterior expectations,
+but also to measure the robustness of these expectations to reasonable
+alternative prior choices. We use variational Bayes and linear response methods
+to provide fast, accurate posterior means and robustness measures with an
+application to measuring the effectiveness of microcredit in the developing
+world.

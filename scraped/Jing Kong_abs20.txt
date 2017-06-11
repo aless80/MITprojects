@@ -1,0 +1,8 @@
+
+We report strong THz-induced transparency in CVD-grown graphene where 92%-96%
+of the peak-field is transmitted compared to 74% at lower field strength.
+Time-resolved THz-pump/THz-probe studies reveal that the absorption recovers in
+2-3 ps. The induced transparency is believed to arise from nonlinear pumping of
+carriers in graphene which suppresses the mobility and consequently the
+conductivity in a spectral region where the light-matter interaction is
+particularly strong.

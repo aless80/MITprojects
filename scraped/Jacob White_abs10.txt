@@ -1,0 +1,14 @@
+
+In this paper we define and study a notion of discrete homology theory for
+metric spaces. Instead of working with simplicial homology, our chain complexes
+are given by Lipschitz maps from an $n$-dimensional cube to a fixed metric
+space. We prove that the resulting homology theory verifies a discrete analogue
+of the Eilenberg-Steenrod axioms, and prove a discrete analogue of the
+Mayer-Vietoris exact sequence. Moreover, this discrete homology theory is
+related to the discrete homotopy theory of a metric space through a discrete
+analogue of the Hurewicz theorem. We study the class of groups that can arise
+as discrete homology groups and, in this setting, we prove that the fundamental
+group of a smooth, connected, metrizable, compact manifold is isomorphic to the
+discrete fundamental group of a `fine enough' rectangulation of the manifold.
+Finally, we show that this discrete homology theory can be coarsened, leading
+to a new non-trivial coarse invariant of a metric space.

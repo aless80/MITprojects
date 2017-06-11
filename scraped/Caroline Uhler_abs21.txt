@@ -1,0 +1,9 @@
+
+The problem of packing ellipsoids of different sizes and shapes into an
+ellipsoidal container so as to minimize a measure of overlap between ellipsoids
+is considered. A bilevel optimization formulation is given, together with an
+algorithm for the general case and a simpler algorithm for the special case in
+which all ellipsoids are in fact spheres. Convergence results are proved and
+computational experience is described and illustrated. The motivating
+application - chromosome organization in the human cell nucleus - is discussed
+briefly, and some illustrative results are presented.

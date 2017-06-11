@@ -1,0 +1,18 @@
+
+Fabrication process variations are a major source of yield degradation in the
+nano-scale design of integrated circuits (IC), microelectromechanical systems
+(MEMS) and photonic circuits. Stochastic spectral methods are a promising
+technique to quantify the uncertainties caused by process variations. Despite
+their superior efficiency over Monte Carlo for many design cases, these
+algorithms suffer from the curse of dimensionality; i.e., their computational
+cost grows very fast as the number of random parameters increases. In order to
+solve this challenging problem, this paper presents a high-dimensional
+uncertainty quantification algorithm from a big-data perspective. Specifically,
+we show that the huge number of (e.g., $1.5 \times 10^{27}$) simulation samples
+in standard stochastic collocation can be reduced to a very small one (e.g.,
+$500$) by exploiting some hidden structures of a high-dimensional data array.
+This idea is formulated as a tensor recovery problem with sparse and low-rank
+constraints; and it is solved with an alternating minimization approach.
+Numerical results show that our approach can simulate efficiently some ICs, as
+well as MEMS and photonic problems with over 50 independent random parameters,
+whereas the traditional algorithm can only handle several random parameters.

@@ -1,0 +1,16 @@
+
+Optimal transportation provides a means of lifting distances between points
+on a geometric domain to distances between signals over the domain, expressed
+as probability distributions. On a graph, transportation problems can be used
+to express challenging tasks involving matching supply to demand with minimal
+shipment expense; in discrete language, these become minimum-cost network flow
+problems. Regularization typically is needed to ensure uniqueness for the
+linear ground distance case and to improve optimization convergence;
+state-of-the-art techniques employ entropic regularization on the
+transportation matrix. In this paper, we explore a quadratic alternative to
+entropic regularization for transport over a graph. We theoretically analyze
+the behavior of quadratically-regularized graph transport, characterizing how
+regularization affects the structure of flows in the regime of small but
+nonzero regularization. We further exploit elegant second-order structure in
+the dual of this problem to derive an easily-implemented Newton-type
+optimization algorithm.

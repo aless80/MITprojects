@@ -1,0 +1,22 @@
+
+As the number of observed Gamma-Ray Bursts (GRBs) continues to grow,
+follow-up resources need to be used more efficiently in order to maximize
+science output from limited telescope time. As such, it is becoming
+increasingly important to rapidly identify bursts of interest as soon as
+possible after the event, before the afterglows fade beyond detectability.
+Studying the most distant (highest redshift) events, for instance, remains a
+primary goal for many in the field. Here we present our Random forest Automated
+Triage Estimator for GRB redshifts (RATE GRB-z) for rapid identification of
+high-redshift candidates using early-time metrics from the three telescopes
+onboard Swift. While the basic RATE methodology is generalizable to a number of
+resource allocation problems, here we demonstrate its utility for
+telescope-constrained follow-up efforts with the primary goal to identify and
+study high-z GRBs. For each new GRB, RATE GRB-z provides a recommendation -
+based on the available telescope time - of whether the event warrants
+additional follow-up resources. We train RATE GRB-z using a set consisting of
+135 Swift bursts with known redshifts, only 18 of which are z > 4.
+Cross-validated performance metrics on this training data suggest that ~56% of
+high-z bursts can be captured from following up the top 20% of the ranked
+candidates, and ~84% of high-z bursts are identified after following up the top
+~40% of candidates. We further use the method to rank 200+ Swift bursts with
+unknown redshifts according to their likelihood of being high-z.

@@ -1,0 +1,15 @@
+
+Light carrying orbital angular momentum (OAM) has potential to impact a wide
+variety of applications ranging from optical communications to quantum
+information and optical forces for the excitation and manipulation of atoms,
+molecules, and micro-particles. The unique advantage of utilizing OAM in these
+applications relies, to a large extent, on the use of multiple different OAM
+states. Therefore, it is desirable to have a device that is able to gen- erate
+light with freely adjustable OAM states in an integrated form for large- scale
+integration. We propose and demonstrate a compact silicon photonic integrated
+circuit to generate a free-space optical beam with OAM state con- tinuously
+tuned from a single electrical input signal, realizing both integer and
+non-integer OAM states. The compactness and flexibility of the device and its
+compatibility with complementary metal-oxide-semiconductor (CMOS) pro- cessing
+hold promise for integration with other silicon photonic components for
+wide-ranging applications.

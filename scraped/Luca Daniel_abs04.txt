@@ -1,0 +1,19 @@
+
+Uncertainties have become a major concern in integrated circuit design. In
+order to avoid the huge number of repeated simulations in conventional Monte
+Carlo flows, this paper presents an intrusive spectral simulator for
+statistical circuit analysis. Our simulator employs the recently developed
+generalized polynomial chaos expansion to perform uncertainty quantification of
+nonlinear transistor circuits with both Gaussian and non-Gaussian random
+parameters. We modify the nonintrusive stochastic collocation (SC) method and
+develop an intrusive variant called stochastic testing (ST) method to
+accelerate the numerical simulation. Compared with the stochastic Galerkin (SG)
+method, the resulting coupled deterministic equations from our proposed ST
+method can be solved in a decoupled manner at each time point. At the same
+time, ST uses fewer samples and allows more flexible time step size controls
+than directly using a nonintrusive SC solver. These two properties make ST more
+efficient than SG and than existing SC methods, and more suitable for
+time-domain circuit simulation. Simulation results of several digital, analog
+and RF circuits are reported. Since our algorithm is based on generic
+mathematical models, the proposed ST algorithm can be applied to many other
+engineering problems.

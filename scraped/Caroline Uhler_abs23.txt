@@ -1,0 +1,16 @@
+
+Rapid research progress in genotyping techniques have allowed large
+genome-wide association studies. Existing methods often focus on determining
+associations between single loci and a specific phenotype. However, a
+particular phenotype is usually the result of complex relationships between
+multiple loci and the environment. In this paper, we describe a two-stage
+method for detecting epistasis by combining the traditionally used single-locus
+search with a search for multiway interactions. Our method is based on an
+extended version of Fisher's exact test. To perform this test, a Markov chain
+is constructed on the space of multidimensional contingency tables using the
+elements of a Markov basis as moves. We test our method on simulated data and
+compare it to a two-stage logistic regression method and to a fully Bayesian
+method, showing that we are able to detect the interacting loci when other
+methods fail to do so. Finally, we apply our method to a genome-wide data set
+consisting of 685 dogs and identify epistasis associated with canine hair
+length for four pairs of SNPs.

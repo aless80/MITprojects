@@ -1,0 +1,14 @@
+
+A computational scheme for solving 2D Laplace boundary-value problems using
+rational functions as the basis functions is described. The scheme belongs to
+the class of desingularized methods, for which the location of singularities
+and testing points is a major issue that is addressed by the proposed scheme,
+in the context of the 2D Laplace equation. Well-established rational-function
+fitting techniques are used to set the poles, while residues are determined by
+enforcing the boundary conditions in the least-squares sense at the nodes of
+rational Gauss-Chebyshev quadrature rules. Numerical results show that errors
+approaching the machine epsilon can be obtained for sharp and almost sharp
+corners, nearly-touching boundaries, and almost-singular boundary data. We show
+various examples of these cases in which the method yields compact solutions,
+requiring fewer basis functions than the Nystr\"{o}m method, for the same
+accuracy. A scheme for solving fairly large-scale problems is also presented.

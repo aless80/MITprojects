@@ -1,0 +1,19 @@
+
+Methods for patterning biomolecules on a substrate at the single molecule
+level have been studied as a route to sensors with single-molecular sensitivity
+or as a way to probe biological phenomena at the single-molecule level.
+However, the arrangement and orientation of single biomolecules on substrates
+has been less investigated. Here, we examined the arrangement and orientation
+of two rod-like coiled-coil proteins, cortexillin and tropomyosin, around
+patterned gold nanostructures. The high aspect ratio of the coiled coils made
+it possible to study their orientations and to pursue a strategy of protein
+orientation via two-point attachment. The proteins were anchored to the
+surfaces using thiol groups, and the number of cysteine residues in tropomyosin
+was varied to test how this variation affected the structure and arrangement of
+the surface-attached proteins. Molecular dynamics studies were used to
+interpret the observed positional distributions. Based on initial studies of
+protein attachment to gold post structures, two 31-nm-long tropomyosin
+molecules were aligned between the two sidewalls of a trench with a width of 68
+nm. Because the approach presented in this study uses one of twenty natural
+amino acids, this method provides a convenient way to pattern biomolecules on
+substrates using standard chemistry.

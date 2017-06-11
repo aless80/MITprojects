@@ -1,0 +1,13 @@
+
+The concepts of faithfulness and strong-faithfulness are important for
+statistical learning of graphical models. Graphs are not sufficient for
+describing the association structure of a discrete distribution. Hypergraphs
+representing hierarchical log-linear models are considered instead, and the
+concept of parametric (strong-) faithfulness with respect to a hypergraph is
+introduced. Strong-faithfulness ensures the existence of uniformly consistent
+parameter estimators and enables building uniformly consistent procedures for a
+hypergraph search. The strength of association in a discrete distribution can
+be quantified with various measures, leading to different concepts of
+strong-faithfulness. Lower and upper bounds for the proportions of
+distributions that do not satisfy strong-faithfulness are computed for
+different parameterizations and measures of association.

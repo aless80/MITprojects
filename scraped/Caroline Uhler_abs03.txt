@@ -1,0 +1,18 @@
+
+We analyze the problem of maximum likelihood estimation for Gaussian
+distributions that are multivariate totally positive of order two (MTP2). By
+exploiting connections to phylogenetics and single-linkage clustering, we give
+a simple proof that the maximum likelihood estimator (MLE) for such
+distributions exists based on at least 2 observations, irrespective of the
+underlying dimension. Slawski and Hein, who first proved this result, also
+provided empirical evidence showing that the MTP2 constraint serves as an
+implicit regularizer and leads to sparsity in the estimated inverse covariance
+matrix, determining what we name the ML graph. We show that the maximum weight
+spanning forest (MWSF) of the empirical correlation matrix is a spanning forest
+of the ML graph. In addition, we show that we can find an upper bound for the
+ML graph by adding edges to the MSWF corresponding to correlations in excess of
+those explained by the forest. This also gives new theoretical results in the
+study of inverse M-matrices. We provide globally convergent coordinate descent
+algorithms for calculating the MLE under the MTP2 constraint which are
+structurally similar to iterative proportional scaling. We conclude the paper
+with a discussion of signed MTP2 distributions.

@@ -1,0 +1,18 @@
+
+Interactions between two excitons can result in the formation of bound
+quasiparticles, known as biexcitons. Their properties are determined by the
+constituent excitons, with orbital and spin states resembling those of atoms.
+Monolayer transition metal dichalcogenides (TMDs) present a unique system where
+excitons acquire a new degree of freedom, the valley pseudospin, from which a
+novel intervalley biexciton can be created. These biexcitons comprise two
+excitons from different valleys, which are distinct from biexcitons in
+conventional semiconductors and have no direct analogue in atomic and molecular
+systems. However, their valley properties are not accessible to traditional
+transport and optical measurements. Here, we report the observation of
+intervalley biexcitons in the monolayer TMD MoS2 using ultrafast pump-probe
+spectroscopy. By applying broadband probe pulses with different helicities, we
+identify two species of intervalley biexcitons with large binding energies of
+60 meV and 40 meV. In addition, we also reveal effects beyond biexcitonic
+pairwise interactions in which the exciton energy redshifts at increasing
+exciton densities, indicating the presence of many-body interactions among
+them.

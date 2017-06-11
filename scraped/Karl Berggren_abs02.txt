@@ -1,0 +1,12 @@
+
+We report a self-aligned, monolithic electron interferometer, consisting of
+two 45 nm thick silicon layers separated by 20 $\mu$m. This interferometer was
+fabricated from a single crystal silicon cantilever on a transmission electron
+microscope grid by gallium focused ion-beam milling. Using this interferometer,
+we demonstrate beam path-separation, and obtain interference fringes in a
+Mach-Zehnder geometry, in an unmodified 200 kV transmission electron
+microscope. The fringes have a period of 0.32 nm, which corresponds to the
+$\left[\bar{1}\bar{1}1\right]$ lattice planes of silicon, and a maximum
+contrast of 15 %. This design can potentially be scaled to millimeter-scale,
+and used in electron holography. It can also be applied to perform fundamental
+physics experiments, such as interaction-free measurement with electrons.

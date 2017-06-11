@@ -1,0 +1,27 @@
+
+The nonnegative rank of a matrix A is the smallest integer r such that A can
+be written as the sum of r rank-one nonnegative matrices. The nonnegative rank
+has received a lot of attention recently due to its application in
+optimization, probability and communication complexity. In this paper we study
+a class of atomic rank functions defined on a convex cone which generalize
+several notions of "positive" ranks such as nonnegative rank or cp-rank (for
+completely positive matrices). The main contribution of the paper is a new
+method to obtain lower bounds for such ranks which improve on previously known
+bounds. Additionally the bounds we propose can be computed by semidefinite
+programming. The idea of the lower bound relies on an atomic norm approach
+where the atoms are self-scaled according to the vector (or matrix, in the case
+of nonnegative rank) of interest. This results in a lower bound that is
+invariant under scaling and that is at least as good as other existing
+norm-based bounds.
+We mainly focus our attention on the two important cases of nonnegative rank
+and cp-rank where our bounds satisfying interesting properties: For the
+nonnegative rank we show that our lower bound can be interpreted as a
+non-combinatorial version of the fractional rectangle cover number, while the
+sum-of-squares relaxation is closely related to the Lov\'asz theta number of
+the rectangle graph of the matrix. We also prove that the lower bound inherits
+many of the structural properties satisfied by the nonnegative rank such as
+invariance under diagonal scaling, subadditivity, etc. We also apply our method
+to obtain lower bounds on the cp-rank for completely positive matrices. In this
+case we prove that our lower bound is always greater than or equal the plain
+rank lower bound, and we show that it has interesting connections with
+combinatorial lower bounds based on edge-clique cover number.

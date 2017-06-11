@@ -1,0 +1,23 @@
+
+We examine the issue of separation and code design for networks that operate
+over finite fields. We demonstrate that source-channel (or source-network)
+separation holds for several canonical network examples like the noisy multiple
+access channel and the erasure degraded broadcast channel, when the whole
+network operates over a common finite field. This robustness of separation is
+predicated on the fact that noise and inputs are independent, and we examine
+the failure of separation when noise is dependent on inputs in multiple access
+channels.
+Our approach is based on the sufficiency of linear codes. Using a simple and
+unifying framework, we not only re-establish with economy the optimality of
+linear codes for single-transmitter, single-receiver channels and for
+Slepian-Wolf source coding, but also establish the optimality of linear codes
+for multiple access and for erasure degraded broadcast channels. The linearity
+allows us to obtain simple optimal code constructions and to study capacity
+regions of the noisy multiple access and the degraded broadcast channel. The
+linearity of both source and network coding blurs the delineation between
+source and network codes. While our results point to the fact that separation
+of source coding and channel coding is optimal in some canonical networks, we
+show that decomposing networks into canonical subnetworks may not be effective.
+Thus, we argue that it may be the lack of decomposability of a network into
+canonical network modules, rather than the lack of separation between source
+and channel coding, that presents major challenges for coding over networks.

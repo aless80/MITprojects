@@ -6,6 +6,7 @@ def main(stop = 10000):
 	import os
 	from bs4 import BeautifulSoup
 	import urllib2
+	import json
 	mirror='https://arxiv.org:443' #'http://es.arXiv.org:443' 	#
 	url_MITEECSfaculty = "https://www.eecs.mit.edu/people/faculty-advisors"
 	handle=urllib2.urlopen(url_MITEECSfaculty);
@@ -52,8 +53,7 @@ def main(stop = 10000):
 		print(str(i) + " " + name + " has " + str(len(spans)) + " abstract(s)")
 		abs_url_list=list()
 		for span in spans:
-			print('https://arxiv.org/'+span.a["href"])
-			abs_url='https://arxiv.org/'+span.a["href"].string
+			abs_url='https://arxiv.org/'+span.a["href"]
 			abs_url_list.append(abs_url)
 			#You can continue by looking in each abstract with e.g.:
 			#abs_text=urllib2.urlopen(search_str).read();
@@ -61,6 +61,9 @@ def main(stop = 10000):
 			#or maybe save abstracts to disk
 		#Here I just store the abstract url in a dictionary
 		abs_dict[name]=abs_url_list
+	#Store to file
+	with open('abs_dict.json', 'w') as outfile:  #store json to file
+    	json.dump(abs_dict, outfile)
 	return abs_dict
 
 

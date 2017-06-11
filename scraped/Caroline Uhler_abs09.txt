@@ -1,0 +1,9 @@
+
+Exponential varieties arise from exponential families in statistics. These
+real algebraic varieties have strong positivity and convexity properties,
+familiar from toric varieties and their moment maps. Among them are varieties
+of inverses of symmetric matrices satisfying linear constraints. This class
+includes Gaussian graphical models. We develop a general theory of exponential
+varieties. These are derived from hyperbolic polynomials and their integral
+representations. We compare the multidegrees and ML degrees of the gradient map
+for hyperbolic polynomials.

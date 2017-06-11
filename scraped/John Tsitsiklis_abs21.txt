@@ -1,0 +1,9 @@
+
+We propose a model for deterministic distributed function computation by a
+network of identical and anonymous nodes, with bounded computation and storage
+capabilities that do not scale with the network size. Our goal is to
+characterize the class of functions that can be computed within this model. In
+our main result, we exhibit a class of non-computable functions, and prove that
+every function outside this class can at least be approximated. The problem of
+computing averages in a distributed manner plays a central role in our
+development.

@@ -1,0 +1,14 @@
+
+Process variations are a major concern in today's chip design since they can
+significantly degrade chip performance. To predict such degradation, existing
+circuit and MEMS simulators rely on Monte Carlo algorithms, which are typically
+too slow. Therefore, novel fast stochastic simulators are highly desired. This
+paper first reviews our recently developed stochastic testing simulator that
+can achieve speedup factors of hundreds to thousands over Monte Carlo. Then, we
+develop a fast hierarchical stochastic spectral simulator to simulate a complex
+circuit or system consisting of several blocks. We further present a fast
+simulation approach based on anchored ANOVA (analysis of variance) for some
+design problems with many process variations. This approach can reduce the
+simulation cost and can identify which variation sources have strong impacts on
+the circuit's performance. The simulation results of some circuit and MEMS
+examples are reported to show the effectiveness of our simulator

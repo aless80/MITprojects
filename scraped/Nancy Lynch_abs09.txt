@@ -1,0 +1,17 @@
+
+This paper studies the theory of the additive wireless network model, in
+which the received signal is abstracted as an addition of the transmitted
+signals. Our central observation is that the crucial challenge for computing in
+this model is not high contention, as assumed previously, but rather
+guaranteeing a bounded amount of \emph{information} in each neighborhood per
+round, a property that we show is achievable using a new random coding
+technique.
+Technically, we provide efficient algorithms for fundamental distributed
+tasks in additive networks, such as solving various symmetry breaking problems,
+approximating network parameters, and solving an \emph{asymmetry revealing}
+problem such as computing a maximal input.
+The key method used is a novel random coding technique that allows a node to
+successfully decode the received information, as long as it does not contain
+too many distinct values. We then design our algorithms to produce a limited
+amount of information in each neighborhood in order to leverage our enriched
+toolbox for computing in additive networks.

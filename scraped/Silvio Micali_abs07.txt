@@ -1,0 +1,12 @@
+
+We study single-good auctions in a setting where each player knows his own
+valuation only within a constant multiplicative factor \delta{} in (0,1), and
+the mechanism designer knows \delta. The classical notions of implementation in
+dominant strategies and implementation in undominated strategies are naturally
+extended to this setting, but their power is vastly different.
+On the negative side, we prove that no dominant-strategy mechanism can
+guarantee social welfare that is significantly better than that achievable by
+assigning the good to a random player.
+On the positive side, we provide tight upper and lower bounds for the
+fraction of the maximum social welfare achievable in undominated strategies,
+whether deterministically or probabilistically.

@@ -1,0 +1,21 @@
+
+Given a set of numbers, the $k$-SUM problem asks for a subset of $k$ numbers
+that sums to zero. When the numbers are integers, the time and space complexity
+of $k$-SUM is generally studied in the word-RAM model; when the numbers are
+reals, the complexity is studied in the real-RAM model, and space is measured
+by the number of reals held in memory at any point.
+We present a time and space efficient deterministic self-reduction for the
+$k$-SUM problem which holds for both models, and has many interesting
+consequences. To illustrate:
+* $3$-SUM is in deterministic time $O(n^2 \lg\lg(n)/\lg(n))$ and space
+$O\left(\sqrt{\frac{n \lg(n)}{\lg\lg(n)}}\right)$. In general, any
+polylogarithmic-time improvement over quadratic time for $3$-SUM can be
+converted into an algorithm with an identical time improvement but low space
+complexity as well. * $3$-SUM is in deterministic time $O(n^2)$ and space
+$O(\sqrt n)$, derandomizing an algorithm of Wang.
+* A popular conjecture states that 3-SUM requires $n^{2-o(1)}$ time on the
+word-RAM. We show that the 3-SUM Conjecture is in fact equivalent to the
+(seemingly weaker) conjecture that every $O(n^{.51})$-space algorithm for
+$3$-SUM requires at least $n^{2-o(1)}$ time on the word-RAM.
+* For $k \ge 4$, $k$-SUM is in deterministic $O(n^{k - 2 + 2/k})$ time and
+$O(\sqrt{n})$ space.

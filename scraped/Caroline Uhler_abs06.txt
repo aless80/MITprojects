@@ -1,0 +1,13 @@
+
+A graphical model encodes conditional independence relations via the Markov
+properties. For an undirected graph these conditional independence relations
+can be represented by a simple polytope known as the graph associahedron, which
+can be constructed as a Minkowski sum of standard simplices. There is an
+analogous polytope for conditional independence relations coming from a regular
+Gaussian model, and it can be defined using multiinformation or relative
+entropy. For directed acyclic graphical models and also for mixed graphical
+models containing undirected, directed and bidirected edges, we give a
+construction of this polytope, up to equivalence of normal fans, as a Minkowski
+sum of matroid polytopes. Finally, we apply this geometric insight to construct
+a new ordering-based search algorithm for causal inference via directed acyclic
+graphical models.

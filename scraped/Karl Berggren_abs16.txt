@@ -1,0 +1,16 @@
+
+In this paper we calculate the critical currents in thin superconducting
+strips with sharp right-angle turns, 180-degree turnarounds, and more
+complicated geometries, where all the line widths are much smaller than the
+Pearl length $\Lambda = 2 \lambda^2/d$. We define the critical current as the
+current that reduces the Gibbs free-energy barrier to zero. We show that
+current crowding, which occurs whenever the current rounds a sharp turn, tends
+to reduce the critical current, but we also show that when the radius of
+curvature is less than the coherence length this effect is partially
+compensated by a radius-of-curvature effect. We propose several patterns with
+rounded corners to avoid critical-current reduction due to current crowding.
+These results are relevant to superconducting nanowire single-photon detectors,
+where they suggest a means of improving the bias conditions and reducing dark
+counts. These results also have relevance to normal-metal nanocircuits, as
+these patterns can reduce the electrical resistance, electromigration, and hot
+spots caused by nonuniform heating.

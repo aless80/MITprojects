@@ -1,0 +1,12 @@
+
+We consider the problem of decentralized detection in a network consisting of
+a large number of nodes arranged as a tree of bounded height, under the
+assumption of conditionally independent, identically distributed observations.
+We characterize the optimal error exponent under a Neyman-Pearson formulation.
+We show that the Type II error probability decays exponentially fast with the
+number of nodes, and the optimal error exponent is often the same as that
+corresponding to a parallel configuration. We provide sufficient, as well as
+necessary, conditions for this to happen. For those networks satisfying the
+sufficient conditions, we propose a simple strategy that nearly achieves the
+optimal error exponent, and in which all non-leaf nodes need only send 1-bit
+messages.

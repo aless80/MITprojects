@@ -1,0 +1,10 @@
+
+We fabricate superconducting ion traps with niobium and niobium nitride and
+trap single 88Sr ions at cryogenic temperatures. The superconducting transition
+is verified and characterized by measuring the resistance and critical current
+using a 4-wire measurement on the trap structure, and observing change in the
+rf reflection. The lowest observed heating rate is 2.1(3) quanta/sec at 800 kHz
+at 6 K and shows no significant change across the superconducting transition,
+suggesting that anomalous heating is primarily caused by noise sources on the
+surface. This demonstration of superconducting ion traps opens up possibilities
+for integrating trapped ions and molecular ions with superconducting devices.

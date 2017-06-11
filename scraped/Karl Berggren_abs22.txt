@@ -1,0 +1,18 @@
+
+We measured the optical absorptance of superconducting nanowire single photon
+detectors. We found that 200-nm-pitch, 50%-fill-factor devices had an average
+absorptance of 21% for normally-incident front-illumination of
+1.55-um-wavelength light polarized parallel to the nanowires, and only 10% for
+perpendicularly-polarized light. We also measured devices with lower
+fill-factors and narrower wires that were five times more sensitive to
+parallel-polarized photons than perpendicular-polarized photons. We developed a
+numerical model that predicts the absorptance of our structures. We also used
+our measurements, coupled with measurements of device detection efficiencies,
+to determine the probability of photon detection after an absorption event. We
+found that, remarkably, absorbed parallel-polarized photons were more likely to
+result in detection events than perpendicular-polarized photons, and we present
+a hypothesis that qualitatively explains this result. Finally, we also
+determined the enhancement of device detection efficiency and absorptance due
+to the inclusion of an integrated optical cavity over a range of wavelengths
+(700-1700 nm) on a number of devices, and found good agreement with our
+numerical model.

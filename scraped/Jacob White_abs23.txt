@@ -1,0 +1,8 @@
+
+We introduce an efficient technique for computing Casimir energies and forces
+between objects of arbitrarily complex 3D geometries. In contrast to other
+recently developed methods, our technique easily handles non-spheroidal,
+non-axisymmetric objects and objects with sharp corners. Using our new
+technique, we obtain the first predictions of Casimir interactions in a number
+of experimentally relevant geometries, including crossed cylinders and
+tetrahedral nanoparticles.

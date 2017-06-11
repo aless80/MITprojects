@@ -1,0 +1,16 @@
+
+Inspired by the Japanese game Pachinko, we study simple (perfectly
+"inelastic" collisions) dynamics of a unit ball falling amidst point obstacles
+(pins) in the plane. A classic example is that a checkerboard grid of pins
+produces the binomial distribution, but what probability distributions result
+from different pin placements? In the 50-50 model, where the pins form a subset
+of this grid, not all probability distributions are possible, but surprisingly
+the uniform distribution is possible for $\{1,2,4,8,16\}$ possible drop
+locations. Furthermore, every probability distribution can be approximated
+arbitrarily closely, and every dyadic probability distribution can be divided
+by a suitable power of $2$ and then constructed exactly (along with extra
+"junk" outputs). In a more general model, if a ball hits a pin off center, it
+falls left or right accordingly. Then we prove a universality result: any
+distribution of $n$ dyadic probabilities, each specified by $k$ bits, can be
+constructed using $O(n k^2)$ pins, which is close to the information-theoretic
+lower bound of $\Omega(n k)$.

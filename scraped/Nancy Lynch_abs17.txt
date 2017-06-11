@@ -1,0 +1,10 @@
+
+The local broadcast problem assumes that processes in a wireless network are
+provided messages, one by one, that must be delivered to their neighbors. In
+this paper, we prove tight bounds for this problem in two well-studied wireless
+network models: the classical model, in which links are reliable and collisions
+consistent, and the more recent dual graph model, which introduces unreliable
+edges. Our results prove that the Decay strategy, commonly used for local
+broadcast in the classical setting, is optimal. They also establish a
+separation between the two models, proving that the dual graph setting is
+strictly harder than the classical setting, with respect to this primitive.

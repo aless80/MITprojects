@@ -1,0 +1,26 @@
+
+Preservers and additive spanners are sparse (hence cheap to store) subgraphs
+that preserve the distances between given pairs of nodes exactly or with some
+small additive error, respectively. Since real-world networks are prone to
+failures, it makes sense to study fault-tolerant versions of the above
+structures. This turns out to be a surprisingly difficult task. For every small
+but arbitrary set of edge or vertex failures, the preservers and spanners need
+to contain {\em replacement paths} around the faulted set. In this paper we
+make substantial progress on fault tolerant preservers and additive spanners:
+(1) We present the first truly sub-quadratic size single-pair preservers in
+unweighted (possibly directed) graphs for \emph{any} fixed number $f$ of
+faults. Our result indeed generalizes to the single-source case, and can be
+used to build new fault-tolerant additive spanners (for all pairs).
+(2) The size of the above single-pair preservers is $O(n^{2-g(f)})$ for some
+positive function $g$, and grows to $O(n^2)$ for increasing $f$. We show that
+this is necessary even in undirected unweighted graphs, and even if you allow
+for a small additive error: If you aim at size $O(n^{2-\epsilon})$ for
+$\epsilon>0$, then the additive error has to be $\Omega(\eps f)$. This
+surprisingly matches known upper bounds in the literature.
+(3) For weighted graphs, we provide matching upper and lower bounds for the
+single pair case. Namely, the size of the preserver is $\Theta(n^2)$ for $f\geq
+2$ in both directed and undirected graphs, while for $f=1$ the size is
+$\Theta(n)$ in undirected graphs. For directed graphs, we have a superlinear
+upper bound and a matching lower bound.
+Most of our lower bounds extend to the distance oracle setting, where rather
+than a subgraph we ask for any compact data structure.

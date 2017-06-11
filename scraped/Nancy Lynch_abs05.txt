@@ -1,0 +1,23 @@
+
+Erasure codes offer an efficient way to decrease storage and communication
+costs while implementing atomic memory service in asynchronous distributed
+storage systems. In this paper, we provide erasure-code-based algorithms having
+the additional ability to perform background repair of crashed nodes. A repair
+operation of a node in the crashed state is triggered externally, and is
+carried out by the concerned node via message exchanges with other active nodes
+in the system. Upon completion of repair, the node re-enters active state, and
+resumes participation in ongoing and future read, write, and repair operations.
+To guarantee liveness and atomicity simultaneously, existing works assume
+either the presence of nodes with stable storage, or presence of nodes that
+never crash during the execution. We demand neither of these; instead we
+consider a natural, yet practical network stability condition $N1$ that only
+restricts the number of nodes in the crashed/repair state during broadcast of
+any message.
+We present an erasure-code based algorithm $RADON_C$ that is always live, and
+guarantees atomicity as long as condition $N1$ holds. In situations when the
+number of concurrent writes is limited, $RADON_C$ has significantly improved
+storage and communication cost over a replication-based algorithm $RADON_R$,
+which also works under $N1$. We further show how a slightly stronger network
+stability condition $N2$ can be used to construct algorithms that never violate
+atomicity. The guarantee of atomicity comes at the expense of having an
+additional phase during the read and write operations.

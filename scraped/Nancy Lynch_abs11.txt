@@ -1,0 +1,17 @@
+
+We introduce the study of the ant colony house-hunting problem from a
+distributed computing perspective. When an ant colony's nest becomes unsuitable
+due to size constraints or damage, the colony must relocate to a new nest. The
+task of identifying and evaluating the quality of potential new nests is
+distributed among all ants. The ants must additionally reach consensus on a
+final nest choice and the full colony must be transported to this single new
+nest. Our goal is to use tools and techniques from distributed computing theory
+in order to gain insight into the house-hunting process.
+We develop a formal model for the house-hunting problem inspired by the
+behavior of the Temnothorax genus of ants. We then show a \Omega(log n) lower
+bound on the time for all n ants to agree on one of k candidate nests. We also
+present two algorithms that solve the house-hunting problem in our model. The
+first algorithm solves the problem in optimal O(log n) time but exhibits some
+features not characteristic of natural ant behavior. The second algorithm runs
+in O(k log n) time and uses an extremely simple and natural rule for each ant
+to decide on the new nest.

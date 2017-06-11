@@ -1,0 +1,13 @@
+
+We introduce a new programming language for expressing reversibility,
+Energy-Efficient Language (Eel), geared toward algorithm design and
+implementation. Eel is the first language to take advantage of a partially
+reversible computation model, where programs can be composed of both reversible
+and irreversible operations. In this model, irreversible operations cost energy
+for every bit of information created or destroyed. To handle programs of
+varying degrees of reversibility, Eel supports a log stack to automatically
+trade energy costs for space costs, and introduces many powerful control logic
+operators including protected conditional, general conditional, protected
+loops, and general loops. In this paper, we present the design and compiler for
+the three language levels of Eel along with an interpreter to simulate and
+annotate incurred energy costs of a program.
