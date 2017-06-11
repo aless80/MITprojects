@@ -30,12 +30,12 @@ processing with the text you have instead.
 ---
 
 ## Run the script
-Clone the master branch and run it with e.g.:
+Clone the master branch and run it in a python shell as:
 
 ```python
 import gather
-abs_dict=gather.main()
 import scrape
+abs_dict=gather.main()
 scrape.main(abs_dict)
 scrape.tokenize()
 ```
