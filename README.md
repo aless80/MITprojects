@@ -4,8 +4,7 @@ WORK IN PROGRESS!
 
 Python implementation of a case study in Module 1 in MITProfessionalX course "Data Science: Data to insights". 
 
-The case study is: "Module 1 - Making sense of unstructured data  Case Study". Case study is about doing our own analysis on MIT EECS
-faculty data using stochastic variational inference on LDA. 
+The case study is: "Module 1 Case Study - Making sense of unstructured data". This case study is about doing our own analysis on MIT EECS faculty data using stochastic variational inference on LDA. 
 
 If you can access it, the description of the project is here:
 
@@ -19,13 +18,11 @@ Using BeautifulSoup (https://www.crummy.com/software/BeautifulSoup/), and by ana
 
 arxiv.org/find/(subject)/1/au:+(lastname)_(initial)/0/1/0/all/0/1
 
-You could therefore adapt the names you scraped, and query through all the relevant arXiv search
-pages.
+You could therefore adapt the names you scraped, and query through all the relevant arXiv search pages.
 
 Within the arXiv source code, look for < class span=list-identifier >, which will give the identifier for the papers listed in your query results. Similarly look for the tag for the “Abstract” within each paper and scrape the abstract for each paper you find.
 
-Note that you might want to scrape more information than you need and then do some local
-processing with the text you have instead.
+Note that you might want to scrape more information than you need and then do some local processing with the text you have instead.
 
 ---
 
