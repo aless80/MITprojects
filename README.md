@@ -2,7 +2,7 @@
 
 WORK IN PROGRESS! 
 
-Python implementation of a case study in Module 1 in MITProfessionalX course "Data Science: Data to insights". 
+Python implementation of a case study in Module 1 of the MITProfessionalX course "Data Science: Data to insights". 
 
 The case study is: "Module 1 Case Study - Making sense of unstructured data". This case study is about doing our own analysis on MIT EECS faculty data using stochastic variational inference on LDA. 
 
