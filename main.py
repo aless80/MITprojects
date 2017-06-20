@@ -1,5 +1,4 @@
-import os;  os.chdir("/home/amarin/Dropbox/Courses/MIT/1.2 LDA - Finding Themes in Project Description/MITprojects")
-import os;  os.chdir("/home/kinkyboy/Dropbox/Courses/MIT/1.2 LDA - Finding Themes in Project Description/MITprojects")
+import os;  os.chdir(os.getenv("HOME")+"/Dropbox/Courses/MIT/1.2 LDA - Finding Themes in Project Description/MITprojects")
 #import gather
 #abs_dict=gather.main(stop=2)
 import json
@@ -13,7 +12,7 @@ scrape.tokenize()
 
 #TODO
 #remove symbols from tokens
-
+#check wikirandom for regular expressions: saxon genitives should be removed: "an agent's" in 'Leslie Kaelbling_abs20.txt'
 
 #Notes
 #python onlinewikipedia.py 101; python printtopics.py dictnostops.txt lambda-100.dat
@@ -21,5 +20,17 @@ scrape.tokenize()
 #python printtopics.py dictnostops.txt lambda-10.dat
 #https://wellecks.wordpress.com/2014/10/26/ldaoverflow-with-online-lda/
 
-#str="ale @ is 0 2 (good) "
-#re.findall(r'[^a-zA-Z0-9\s]',str)
+#(wordids, wordcts) = onlineldavb.parse_doc_list(docset, olda._vocab)
+#printed output is in the return of do_e_step_docs  (gamma, sstats) = self.do_e_step_docs(docs)
+#batchsize=64, docset is ['token token','token token',.. 64], articlenames=[..'Eddie_Noack', 64]. documentstoanalyze=51562
+
+#python onlineMIT.py 101 
+#python printtopics.py dictnostops.txt lambda-100.dat
+import os;  os.chdir(os.getenv("HOME")+"/Dropbox/Courses/MIT/1.2 LDA - Finding Themes in Project Description/onlineldavb_101")
+dictnostops.txt lambda-100.dat
+
+Help on Case Study 1.2 - Finding Themes in Project Description
+Hello,
+Case study 1.2 - Finding Themes in Project Description: I did the scraping, I downloaded onlineldavb and modified the script so that it processes the abstracts of professors at MIT. 
+My version now seems to run but I am not sure it is correct and most of all i do not know how to priint the results.
+*) https://github.com/blei-lab/onlineldavb says that running 
