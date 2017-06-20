@@ -37,7 +37,7 @@ scrape.main(abs_dict)
 scrape.tokenize()
 ```
 
-This is an example of the printed output for gather.main(), which stores the faculty members and the links of their abstracts in arXiv in a python dictionary. I stored this dictionary in abs_dict.json in json format.
+This is an example of the printed output for gather.main(), which stores the faculty members and the links of their abstracts in arXiv in a python dictionary. 
 
 ```python
 import gather
@@ -67,6 +67,15 @@ abs_dict=gather.main()
 162 Lizhong Zheng has 19 abstract(s)
 
 163 Victor Zue has 0 abstract(s)
+
+```
+
+I stored this dictionary in json format in the file abs_dict.json, which you can load directly as
+
+```python
+import json
+with open('abs_dict.json') as abs_dict_file:    #import json from file
+    abs_dict = json.load(abs_dict_file)
 
 ```
 
