@@ -79,7 +79,7 @@ with open('abs_dict.json') as abs_dict_file:    #import json from file
 
 ```
 
-After that call `scrape.main(abs_dict)`, which creates an `abstracts` directory with each scraped abstracts. Finally, `scrape.tokenize()` reads the locally stored abstracts and creates the `tokens` folder containing the tokens and their count. The `abstracts` and `tokens` folder are inclouded in this repo. 
+After that `scrape.main(abs_dict)` is called, which creates an `abstracts` directory with each scraped abstracts. Finally, `scrape.tokenize()` reads the locally stored abstracts and creates the `tokens` folder containing the tokens and their count. The `abstracts` and `tokens` folder are inclouded in this repo. 
 
 
 ---
