@@ -1,7 +1,5 @@
 # MITprojects
 
-WORK IN PROGRESS! 
-
 Python implementation of a case study in Module 1 of the MITProfessionalX course "Data Science: Data to insights". 
 
 The case study is: "Module 1 Case Study - Making sense of unstructured data". This case study is about doing our own analysis on MIT EECS faculty data using stochastic variational inference on LDA. 
@@ -85,4 +83,4 @@ After that `scrape.main(abs_dict)` is called, which creates an `abstracts` direc
 ---
 
 ## Work in progress! TODO
-Apply LDA
+Topic Analysis using LDA can be found in the notebook: [https://github.com/aless80/MITprojects/blob/master/LDA.ipynb](LDA.ipynb)
