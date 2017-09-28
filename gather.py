@@ -63,7 +63,7 @@ def main(stop = 10000):
 		abs_dict[name]=abs_url_list
 	#Store to file
 	with open('abs_dict.json', 'w') as outfile:  #store json to file
-    	json.dump(abs_dict, outfile)
+		json.dump(abs_dict, outfile)
 	return abs_dict
 
 if __name__ == '__main__':

@@ -9,6 +9,14 @@ import scrape
 scrape.main(abs_dict)
 scrape.tokenize()
 
+#Now run lda. in onlineMIT I coded path to ../MITprojects/ etc
+#This creates some .txt files
+#os.chdir(os.getenv("HOME")+"/Dropbox/Courses/MIT/1.2 LDA - Finding Themes in Project Description/onlineldavb")
+cd "/home/kinkyboy/Dropbox/Courses/MIT/1.2 LDA - Finding Themes in Project Description/onlineldavb"
+python onlineMIT.py 101
+
+python printtopics.py dictnostops.txt lambda-100.dat  #NaN
+
 
 #TODO
 #remove symbols from tokens
@@ -16,7 +24,6 @@ scrape.tokenize()
 
 #Notes
 #python onlinewikipedia.py 101; python printtopics.py dictnostops.txt lambda-100.dat
-#python onlinewikipedia.py 2; python printtopics.py dictnostops.txt lambda-1.dat
 #python printtopics.py dictnostops.txt lambda-10.dat
 #https://wellecks.wordpress.com/2014/10/26/ldaoverflow-with-online-lda/
 
@@ -33,4 +40,7 @@ Help on Case Study 1.2 - Finding Themes in Project Description
 Hello,
 Case study 1.2 - Finding Themes in Project Description: I did the scraping, I downloaded onlineldavb and modified the script so that it processes the abstracts of professors at MIT. 
 My version now seems to run but I am not sure it is correct and most of all i do not know how to priint the results.
-*) https://github.com/blei-lab/onlineldavb says that running 
+*) https://github.com/blei-lab/onlineldavb says that running
+
+
+
