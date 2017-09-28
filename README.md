@@ -88,4 +88,4 @@ See the notebook: [LDA.ipynb](https://github.com/aless80/MITprojects/blob/master
 ---
 
 ## TODO
-More plots
+More plots in the notebook
