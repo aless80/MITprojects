@@ -82,8 +82,8 @@ After that `scrape.main(abs_dict)` is called, which creates an `abstracts` direc
 
 ---
 
-## Work in progress! 
-Topic Analysis using LDA can be found in the notebook: [https://github.com/aless80/MITprojects/blob/master/LDA.ipynb](LDA.ipynb)
+## Topic Analysis using LDA
+See the notebook: [https://github.com/aless80/MITprojects/blob/master/LDA.ipynb](LDA.ipynb)
 
 ---
 
