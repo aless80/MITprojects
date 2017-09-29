@@ -9,7 +9,7 @@
 /build/
 
 # ipython checkpoints
-/.ipynb_checkpoints/
+.ipynb_checkpoints
 
 /.idea/
 /__MACOSX/
